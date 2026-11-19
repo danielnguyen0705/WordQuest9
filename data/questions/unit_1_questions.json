@@ -1,0 +1,1042 @@
+[
+  {
+    "unit": 1,
+    "target_word": "artisan",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho từ: \"artisan\"",
+    "correct_answer": "thợ làm nghề thủ công, nghệ nhân",
+    "distractors": [
+      "nhân viên giao hàng",
+      "nhân viên dọn vệ sinh",
+      "kiến trúc sư đô thị"
+    ],
+    "explanation_vi": "\"Artisan\" (n) nghĩa là nghệ nhân, thợ làm nghề thủ công lành nghề trong các làng nghề truyền thống."
+  },
+  {
+    "unit": 1,
+    "target_word": "speciality",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho từ: \"speciality\"",
+    "correct_answer": "đặc sản",
+    "distractors": [
+      "cơ sở vật chất",
+      "hương thơm",
+      "vùng ngoại ô"
+    ],
+    "explanation_vi": "\"Speciality\" (n) nghĩa là đặc sản nổi tiếng của một vùng miền (ví dụ: cốm làng Vòng, bún chả Hà Nội)."
+  },
+  {
+    "unit": 1,
+    "target_word": "handicraft",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho từ: \"handicraft\"",
+    "correct_answer": "sản phẩm thủ công mỹ nghệ",
+    "distractors": [
+      "công trình công cộng",
+      "phương tiện giao thông",
+      "tài liệu lịch sử"
+    ],
+    "explanation_vi": "\"Handicraft\" (n) chỉ các sản phẩm thủ công mỹ nghệ được làm khéo léo bằng tay."
+  },
+  {
+    "unit": 1,
+    "target_word": "fragrance",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho từ: \"fragrance\"",
+    "correct_answer": "hương thơm",
+    "distractors": [
+      "chức năng",
+      "vật liệu gốm",
+      "vị trí địa lý"
+    ],
+    "explanation_vi": "\"Fragrance\" (n) nghĩa là mùi hương thơm dễ chịu, thường dùng tả hương cốm hoặc hoa lá."
+  },
+  {
+    "unit": 1,
+    "target_word": "suburb",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho từ: \"suburb\"",
+    "correct_answer": "vùng ngoại ô",
+    "distractors": [
+      "khu công nghiệp",
+      "trung tâm thương mại",
+      "phố cổ"
+    ],
+    "explanation_vi": "\"Suburb\" (n) nghĩa là vùng ngoại ô yên tĩnh nằm ngoài khu vực trung tâm thành phố."
+  },
+  {
+    "unit": 1,
+    "target_word": "preserve",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho động từ: \"preserve\"",
+    "correct_answer": "bảo tồn, gìn giữ",
+    "distractors": [
+      "phá hủy, tháo dỡ",
+      "sản xuất hàng loạt",
+      "xuất khẩu ra nước ngoài"
+    ],
+    "explanation_vi": "\"Preserve\" (v) có nghĩa là bảo tồn, gìn giữ các giá trị văn hóa hoặc làng nghề truyền thống."
+  },
+  {
+    "unit": 1,
+    "target_word": "cut down on",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm động từ: \"cut down on\"",
+    "correct_answer": "cắt giảm",
+    "distractors": [
+      "truyền lại cho đời sau",
+      "cạn kiệt, dùng hết",
+      "hòa thuận với"
+    ],
+    "explanation_vi": "\"Cut down on\" (phrasal verb) nghĩa là cắt giảm lượng sử dụng thứ gì đó (ví dụ: rác thải nhựa, điện năng)."
+  },
+  {
+    "unit": 1,
+    "target_word": "get on with",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm động từ: \"get on with\"",
+    "correct_answer": "có quan hệ tốt với, hòa thuận với",
+    "distractors": [
+      "đi tham quan xung quanh",
+      "cắt giảm chi phí",
+      "hết nguồn cung cấp"
+    ],
+    "explanation_vi": "\"Get on with\" = \"get along with\", nghĩa là có mối quan hệ tốt, hòa thuận với ai đó."
+  },
+  {
+    "unit": 1,
+    "target_word": "pass down",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm động từ: \"pass down\"",
+    "correct_answer": "truyền lại, để lại cho đời sau",
+    "distractors": [
+      "từ chối lời mời",
+      "đi dạo quanh làng",
+      "dọn sạch đường phố"
+    ],
+    "explanation_vi": "\"Pass down\" (tương đương \"hand down\") nghĩa là truyền lại bí quyết, nghề truyền thống cho thế hệ sau."
+  },
+  {
+    "unit": 1,
+    "target_word": "facilities",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho danh từ: \"facilities\"",
+    "correct_answer": "cơ sở vật chất, tiện nghi",
+    "distractors": [
+      "người phục vụ cộng đồng",
+      "đồ gốm truyền thống",
+      "đặc sản vùng miền"
+    ],
+    "explanation_vi": "\"Facilities\" (n, số nhiều) chỉ hệ thống cơ sở vật chất, trang thiết bị tiện nghi phục vụ cộng đồng."
+  },
+  {
+    "unit": 1,
+    "target_word": "craft village",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"làng nghề thủ công\"",
+    "correct_answer": "craft village",
+    "distractors": [
+      "community helper",
+      "delivery person",
+      "garbage collector"
+    ],
+    "explanation_vi": "\"Craft village\" là làng nghề thủ công (như làng gốm Bát Tràng, làng lụa Vạn Phúc)."
+  },
+  {
+    "unit": 1,
+    "target_word": "electrician",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"thợ điện\"",
+    "correct_answer": "electrician",
+    "distractors": [
+      "firefighter",
+      "police officer",
+      "artisan"
+    ],
+    "explanation_vi": "\"Electrician\" (n) là thợ điện - người lắp đặt và sửa chữa hệ thống điện."
+  },
+  {
+    "unit": 1,
+    "target_word": "firefighter",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"lính cứu hỏa\"",
+    "correct_answer": "firefighter",
+    "distractors": [
+      "police officer",
+      "electrician",
+      "delivery person"
+    ],
+    "explanation_vi": "\"Firefighter\" (n) nghĩa là lính cứu hỏa, người dập lửa và cứu nạn."
+  },
+  {
+    "unit": 1,
+    "target_word": "garbage collector",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"nhân viên thu gom rác\"",
+    "correct_answer": "garbage collector",
+    "distractors": [
+      "delivery person",
+      "community helper",
+      "police officer"
+    ],
+    "explanation_vi": "\"Garbage collector\" (n) là nhân viên thu gom rác, dọn vệ sinh môi trường."
+  },
+  {
+    "unit": 1,
+    "target_word": "pottery",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"đồ gốm, nghề làm gốm\"",
+    "correct_answer": "pottery",
+    "distractors": [
+      "fragrance",
+      "speciality",
+      "suburb"
+    ],
+    "explanation_vi": "\"Pottery\" (n) chỉ đồ gốm hoặc nghề làm gốm bằng đất sét nung."
+  },
+  {
+    "unit": 1,
+    "target_word": "run out of",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ tương ứng với nghĩa: \"hết, cạn kiệt\"",
+    "correct_answer": "run out of",
+    "distractors": [
+      "cut down on",
+      "look around",
+      "hand down"
+    ],
+    "explanation_vi": "\"Run out of\" nghĩa là dùng hết, cạn kiệt nguồn hàng hoặc nguyên liệu."
+  },
+  {
+    "unit": 1,
+    "target_word": "look around",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ tương ứng với nghĩa: \"đi tham quan xung quanh\"",
+    "correct_answer": "look around",
+    "distractors": [
+      "pass down",
+      "get on with",
+      "run out of"
+    ],
+    "explanation_vi": "\"Look around\" nghĩa là đi ngắm nghía, tham quan xung quanh một khu vực."
+  },
+  {
+    "unit": 1,
+    "target_word": "original",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn tính từ tiếng Anh tương ứng với nghĩa: \"nguyên bản, độc đáo\"",
+    "correct_answer": "original",
+    "distractors": [
+      "functional",
+      "suburban",
+      "communal"
+    ],
+    "explanation_vi": "\"Original\" (adj) nghĩa là nguyên bản, ban đầu hoặc có tính sáng tạo độc đáo."
+  },
+  {
+    "unit": 1,
+    "target_word": "function",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn danh từ tiếng Anh tương ứng với nghĩa: \"chức năng\"",
+    "correct_answer": "function",
+    "distractors": [
+      "fragrance",
+      "community",
+      "pottery"
+    ],
+    "explanation_vi": "\"Function\" (n) nghĩa là chức năng, vai trò hoạt động của một vật hoặc công trình."
+  },
+  {
+    "unit": 1,
+    "target_word": "delivery person",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn danh từ tiếng Anh tương ứng với nghĩa: \"nhân viên giao hàng\"",
+    "correct_answer": "delivery person",
+    "distractors": [
+      "garbage collector",
+      "police officer",
+      "firefighter"
+    ],
+    "explanation_vi": "\"Delivery person\" (n) là người giao hàng tận nhà."
+  },
+  {
+    "unit": 1,
+    "target_word": "artisan",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Every vase in this workshop was carefully painted by a skilled local ___.",
+    "correct_answer": "artisan",
+    "distractors": [
+      "firefighter",
+      "electrician",
+      "officer"
+    ],
+    "explanation_vi": "Chọn \"artisan\" (nghệ nhân) vì ngữ cảnh nói về việc vẽ tay các bình gốm trong xưởng. Dịch: Mọi chiếc bình trong xưởng này đều được vẽ tỉ mỉ bởi một nghệ nhân địa phương lành nghề."
+  },
+  {
+    "unit": 1,
+    "target_word": "hand down",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The traditional silk-weaving skills in Van Phuc village have been ___ from generation to generation.",
+    "correct_answer": "handed down",
+    "distractors": [
+      "cut down on",
+      "run out of",
+      "looked around"
+    ],
+    "explanation_vi": "Cụm \"hand down\" (truyền lại) dùng ở thể bị động \"have been handed down\" phù hợp với cụm \"from generation to generation\". Dịch: Kỹ năng dệt lụa truyền thống ở làng Vạn Phúc đã được truyền từ đời này sang đời khác."
+  },
+  {
+    "unit": 1,
+    "target_word": "cut down on",
+    "question_type": "contextual_mcq",
+    "prompt_text": "To protect the local environment, residents are encouraged to ___ plastic waste.",
+    "correct_answer": "cut down on",
+    "distractors": [
+      "get on with",
+      "pass down",
+      "look around"
+    ],
+    "explanation_vi": "Chọn \"cut down on\" (cắt giảm) đi với \"plastic waste\" (rác thải nhựa). Dịch: Để bảo vệ môi trường địa phương, cư dân được khuyến khích cắt giảm rác thải nhựa."
+  },
+  {
+    "unit": 1,
+    "target_word": "speciality",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When visiting Hue, tourists should definitely try bun bo Hue, a famous local ___.",
+    "correct_answer": "speciality",
+    "distractors": [
+      "facility",
+      "suburb",
+      "function"
+    ],
+    "explanation_vi": "Bún bò Huế là một món \"speciality\" (đặc sản) nổi tiếng của Huế. Dịch: Khi đến thăm Huế, du khách nhất định nên thử bún bò Huế, một đặc sản địa phương nổi tiếng."
+  },
+  {
+    "unit": 1,
+    "target_word": "fragrance",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Young sticky rice wrapped in lotus leaves gives off a delicate natural ___.",
+    "correct_answer": "fragrance",
+    "distractors": [
+      "pottery",
+      "handicraft",
+      "community"
+    ],
+    "explanation_vi": "\"Give off a fragrance\" nghĩa là tỏa ra hương thơm. Dịch: Cốm non gói trong lá sen tỏa ra một hương thơm tự nhiên thanh tao."
+  },
+  {
+    "unit": 1,
+    "target_word": "run out of",
+    "question_type": "contextual_mcq",
+    "prompt_text": "We need to buy more clay because the pottery studio has ___ raw materials.",
+    "correct_answer": "run out of",
+    "distractors": [
+      "got on with",
+      "handed down",
+      "cut down on"
+    ],
+    "explanation_vi": "\"Run out of\" (cạn kiệt, hết) hợp lý với vế trước \"cần mua thêm đất sét\". Dịch: Chúng ta cần mua thêm đất sét vì xưởng gốm đã hết nguyên liệu thô."
+  },
+  {
+    "unit": 1,
+    "target_word": "electrician",
+    "question_type": "contextual_mcq",
+    "prompt_text": "All the lights in the community hall suddenly went out, so we phoned an ___ immediately.",
+    "correct_answer": "electrician",
+    "distractors": [
+      "artisan",
+      "delivery person",
+      "garbage collector"
+    ],
+    "explanation_vi": "Đèn đột ngột tắt cần gọi \"electrician\" (thợ điện). Dịch: Toàn bộ đèn trong nhà văn hóa cộng đồng đột ngột tắt nên chúng tôi gọi thợ điện ngay lập tức."
+  },
+  {
+    "unit": 1,
+    "target_word": "facilities",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Our neighbourhood has recently upgraded its public ___ including a library and a swimming pool.",
+    "correct_answer": "facilities",
+    "distractors": [
+      "specialities",
+      "fragrances",
+      "suburbs"
+    ],
+    "explanation_vi": "Thư viện và bể bơi là các \"public facilities\" (cơ sở vật chất công cộng). Dịch: Khu phố chúng tôi gần đây đã nâng cấp cơ sở vật chất công cộng gồm thư viện và bể bơi."
+  },
+  {
+    "unit": 1,
+    "target_word": "get on with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Although they just moved into the suburb last month, they ___ all their neighbours.",
+    "correct_answer": "get on with",
+    "distractors": [
+      "run out of",
+      "pass down",
+      "cut down on"
+    ],
+    "explanation_vi": "\"Get on with\" (hòa thuận với) phù hợp với tân ngữ \"all their neighbours\". Dịch: Dù mới chuyển về vùng ngoại ô tháng trước, họ rất hòa thuận với tất cả hàng xóm."
+  },
+  {
+    "unit": 1,
+    "target_word": "preserve",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Young people play a vital role in helping ___ traditional craft villages for the future.",
+    "correct_answer": "preserve",
+    "distractors": [
+      "deliver",
+      "collect",
+      "originate"
+    ],
+    "explanation_vi": "Sau \"help\" dùng động từ nguyên thể \"preserve\" (bảo tồn). Dịch: Người trẻ đóng vai trò thiết yếu trong việc giúp bảo tồn các làng nghề truyền thống cho tương lai."
+  },
+  {
+    "unit": 1,
+    "target_word": "preserve",
+    "question_type": "word_form",
+    "prompt_text": "The ___ of traditional craft villages requires strong support from both locals and tourists. (PRESERVE)",
+    "correct_answer": "preservation",
+    "distractors": [
+      "preserve",
+      "preserved",
+      "preservative"
+    ],
+    "explanation_vi": "Sau mạo từ \"The\" và trước giới từ \"of\" cần một danh từ trừu tượng chỉ hành động -> \"preservation\" (sự bảo tồn). Dịch: Việc bảo tồn các làng nghề truyền thống đòi hỏi sự ủng hộ mạnh mẽ từ cả người dân địa phương và du khách."
+  },
+  {
+    "unit": 1,
+    "target_word": "original",
+    "question_type": "word_form",
+    "prompt_text": "This pottery village was ___ built along the banks of the Red River centuries ago. (ORIGIN)",
+    "correct_answer": "originally",
+    "distractors": [
+      "original",
+      "origin",
+      "originality"
+    ],
+    "explanation_vi": "Giữa trợ động từ \"was\" và phân từ \"built\" cần một trạng từ bổ nghĩa -> \"originally\" (ban đầu). Dịch: Làng gốm này ban đầu được xây dựng dọc theo bờ sông Hồng cách đây nhiều thế kỷ."
+  },
+  {
+    "unit": 1,
+    "target_word": "fragrance",
+    "question_type": "word_form",
+    "prompt_text": "The lotus tea from West Lake is famous for its ___ aroma and smooth taste. (FRAGRANCE)",
+    "correct_answer": "fragrant",
+    "distractors": [
+      "fragrance",
+      "fragrantly",
+      "fragrances"
+    ],
+    "explanation_vi": "Trước danh từ \"aroma\" (hương vị) cần một tính từ -> \"fragrant\" (thơm ngát). Dịch: Trà sen Hồ Tây nổi tiếng bởi hương thơm ngát và vị êm dịu."
+  },
+  {
+    "unit": 1,
+    "target_word": "electrician",
+    "question_type": "word_form",
+    "prompt_text": "Always unplug ___ appliances before cleaning them to stay safe at home. (ELECTRIC)",
+    "correct_answer": "electrical",
+    "distractors": [
+      "electrician",
+      "electricity",
+      "electrically"
+    ],
+    "explanation_vi": "Cụm từ chuẩn \"electrical appliances\" (thiết bị điện nói chung) dùng tính từ \"electrical\". Dịch: Luôn rút phích cắm các thiết bị điện trước khi vệ sinh để đảm bảo an toàn tại nhà."
+  },
+  {
+    "unit": 1,
+    "target_word": "speciality",
+    "question_type": "word_form",
+    "prompt_text": "This small family workshop ___ in handmade conical hats painted with Hue scenery. (SPECIAL)",
+    "correct_answer": "specializes",
+    "distractors": [
+      "special",
+      "specially",
+      "speciality"
+    ],
+    "explanation_vi": "Sau chủ ngữ số ít \"This small family workshop\" và trước giới từ \"in\" cần động từ chia hiện tại đơn -> \"specializes\" (chuyên về). Dịch: Xưởng gia đình nhỏ này chuyên làm nón lá thủ công vẽ phong cảnh Huế."
+  },
+  {
+    "unit": 1,
+    "target_word": "suburb",
+    "question_type": "word_form",
+    "prompt_text": "Life in a ___ area is generally quieter and less crowded than in the city centre. (SUBURB)",
+    "correct_answer": "suburban",
+    "distractors": [
+      "suburb",
+      "suburbs",
+      "suburbanize"
+    ],
+    "explanation_vi": "Trước danh từ \"area\" cần một tính từ -> \"suburban\" (thuộc ngoại ô). Dịch: Cuộc sống ở khu vực ngoại ô nhìn chung yên tĩnh và ít đông đúc hơn trung tâm thành phố."
+  },
+  {
+    "unit": 1,
+    "target_word": "community helper",
+    "question_type": "word_form",
+    "prompt_text": "Our neighbours are always warm and ___ whenever someone new moves in. (HELP)",
+    "correct_answer": "helpful",
+    "distractors": [
+      "help",
+      "helper",
+      "helpfully"
+    ],
+    "explanation_vi": "Song song với tính từ \"warm\" sau động từ \"are\" cần tính từ -> \"helpful\" (hay giúp đỡ). Dịch: Hàng xóm của chúng tôi luôn thân thiện và sẵn sàng giúp đỡ mỗi khi có người mới chuyển đến."
+  },
+  {
+    "unit": 1,
+    "target_word": "delivery person",
+    "question_type": "word_form",
+    "prompt_text": "The local bookstore offers free ___ for all orders within our district. (DELIVER)",
+    "correct_answer": "delivery",
+    "distractors": [
+      "deliver",
+      "delivered",
+      "delivering"
+    ],
+    "explanation_vi": "Sau tính từ \"free\" cần một danh từ -> \"delivery\" (dịch vụ giao hàng). Dịch: Hiệu sách địa phương miễn phí giao hàng cho mọi đơn hàng trong quận của chúng tôi."
+  },
+  {
+    "unit": 1,
+    "target_word": "function",
+    "question_type": "word_form",
+    "prompt_text": "The renovated community centre is both visually attractive and highly ___. (FUNCTION)",
+    "correct_answer": "functional",
+    "distractors": [
+      "function",
+      "functionally",
+      "functioning"
+    ],
+    "explanation_vi": "Sau trạng từ \"highly\" và song song với tính từ \"attractive\" cần một tính từ -> \"functional\" (thiết thực, có tính ứng dụng cao). Dịch: Trung tâm cộng đồng mới tu sửa vừa đẹp mắt vừa rất thiết thực."
+  },
+  {
+    "unit": 1,
+    "target_word": "garbage collector",
+    "question_type": "word_form",
+    "prompt_text": "Weekly waste ___ takes place every Tuesday and Friday morning in our ward. (COLLECT)",
+    "correct_answer": "collection",
+    "distractors": [
+      "collect",
+      "collector",
+      "collective"
+    ],
+    "explanation_vi": "Cụm danh từ \"waste collection\" (việc thu gom rác thải) làm chủ ngữ số ít cho động từ \"takes\". Dịch: Việc thu gom rác hàng tuần diễn ra vào mỗi sáng thứ Ba và thứ Sáu tại phường của chúng tôi."
+  },
+  {
+    "unit": 1,
+    "target_word": "artisan",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'artisan' trong ngữ cảnh bài học về làng nghề truyền thống có nghĩa là gì?",
+    "correct_answer": "thợ thủ công, nghệ nhân",
+    "distractors": [
+      "người thu gom rác",
+      "hướng dẫn viên du lịch",
+      "nhân viên cứu hỏa"
+    ],
+    "explanation_vi": "'artisan' là danh từ chỉ thợ thủ công lành nghề hoặc nghệ nhân làm ra các sản phẩm thủ công mỹ nghệ."
+  },
+  {
+    "unit": 1,
+    "target_word": "handicraft",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'handicraft' có nghĩa tiếng Việt chính xác nhất là gì?",
+    "correct_answer": "sản phẩm thủ công mỹ nghệ",
+    "distractors": [
+      "máy móc công nghiệp",
+      "đặc sản ẩm thực",
+      "nguyên liệu thô"
+    ],
+    "explanation_vi": "'handicraft' là sản phẩm thủ công được làm khéo léo bằng tay."
+  },
+  {
+    "unit": 1,
+    "target_word": "pottery",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'pottery' mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "đồ gốm, nghề làm gốm",
+    "distractors": [
+      "đồ sơn mài",
+      "tranh thêu tay",
+      "nghề dệt lụa"
+    ],
+    "explanation_vi": "'pottery' chỉ các vật dụng làm bằng gốm sứ hoặc nghề làm gốm."
+  },
+  {
+    "unit": 1,
+    "target_word": "garbage collector",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'garbage collector' chỉ người làm nghề gì?",
+    "correct_answer": "người thu gom rác",
+    "distractors": [
+      "thợ sửa đường ống nước",
+      "người giao hàng",
+      "nhân viên bảo vệ"
+    ],
+    "explanation_vi": "'garbage collector' là người lao động làm nhiệm vụ thu gom và dọn rác thải trong cộng đồng."
+  },
+  {
+    "unit": 1,
+    "target_word": "electrician",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'electrician' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "thợ điện",
+    "distractors": [
+      "kỹ sư xây dựng",
+      "thợ cơ khí",
+      "thợ mộc"
+    ],
+    "explanation_vi": "'electrician' là thợ chuyên lắp đặt, kiểm tra và sửa chữa hệ thống điện."
+  },
+  {
+    "unit": 1,
+    "target_word": "fragrance",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'fragrance' trong bài đọc về cốm Làng Vòng có nghĩa là gì?",
+    "correct_answer": "hương thơm dịu nhẹ, mùi thơm ngát",
+    "distractors": [
+      "vị ngọt thanh",
+      "màu sắc tự nhiên",
+      "hình dáng thon dài"
+    ],
+    "explanation_vi": "'fragrance' là danh từ chỉ mùi hương thơm ngọt ngào, dễ chịu."
+  },
+  {
+    "unit": 1,
+    "target_word": "preserve",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'preserve' trong cụm 'preserve traditional craft villages' mang nghĩa là gì?",
+    "correct_answer": "gìn giữ, bảo tồn",
+    "distractors": [
+      "phá dỡ, cải tạo",
+      "mở rộng, nâng cấp",
+      "thương mại hóa"
+    ],
+    "explanation_vi": "'preserve' có nghĩa là giữ gìn, bảo tồn nét đẹp hoặc giá trị truyền thống để không bị mai một."
+  },
+  {
+    "unit": 1,
+    "target_word": "cut down on",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'cut down on' có nghĩa tương đương với nét nghĩa nào sau đây?",
+    "correct_answer": "cắt giảm, giảm bớt lượng sử dụng",
+    "distractors": [
+      "tăng cường bổ sung",
+      "loại bỏ hoàn toàn",
+      "tiếp tục duy trì"
+    ],
+    "explanation_vi": "'cut down on something' có nghĩa là giảm bớt số lượng hoặc mức tiêu thụ của cái gì."
+  },
+  {
+    "unit": 1,
+    "target_word": "pass down",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'pass down' trong câu 'Skills are passed down through generations' có nghĩa là gì?",
+    "correct_answer": "truyền lại, lưu truyền cho thế hệ sau",
+    "distractors": [
+      "từ chối tiếp nhận",
+      "quên lãng theo thời gian",
+      "học hỏi từ bên ngoài"
+    ],
+    "explanation_vi": "'pass down' mang nghĩa truyền lại kiến thức, kỹ năng hoặc phong tục từ đời này sang đời khác."
+  },
+  {
+    "unit": 1,
+    "target_word": "run out of",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'run out of' mang ý nghĩa gì?",
+    "correct_answer": "cạn kiệt, dùng hết sạch",
+    "distractors": [
+      "chạy trốn khỏi",
+      "tìm thấy ngẫu nhiên",
+      "thu thập thêm"
+    ],
+    "explanation_vi": "'run out of something' có nghĩa là sử dụng hết một nguồn dự trữ nào đó và không còn lại gì."
+  },
+  {
+    "unit": 1,
+    "target_word": "suburb",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh thích hợp nhất cho cụm từ 'vùng ngoại ô, khu vực ngoại thành':",
+    "correct_answer": "suburb",
+    "distractors": [
+      "downtown",
+      "centre",
+      "capital"
+    ],
+    "explanation_vi": "'suburb' là vùng ngoại ô, khu dân cư nằm bên ngoài khu vực trung tâm thành phố."
+  },
+  {
+    "unit": 1,
+    "target_word": "community helper",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào chỉ 'người phục vụ cộng đồng, người hỗ trợ cộng đồng'?",
+    "correct_answer": "community helper",
+    "distractors": [
+      "community leader",
+      "community developer",
+      "community resident"
+    ],
+    "explanation_vi": "'community helper' là thuật ngữ trong Unit 1 chỉ những người làm công việc phục vụ cư dân địa phương như cảnh sát, thợ điện, công nhân vệ sinh..."
+  },
+  {
+    "unit": 1,
+    "target_word": "firefighter",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'người lính cứu hỏa'?",
+    "correct_answer": "firefighter",
+    "distractors": [
+      "police officer",
+      "life guard",
+      "security guard"
+    ],
+    "explanation_vi": "'firefighter' là lính chữa cháy, cứu hộ hỏa hoạn."
+  },
+  {
+    "unit": 1,
+    "target_word": "delivery person",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm danh từ tiếng Anh mang nghĩa 'người giao hàng, nhân viên giao hàng':",
+    "correct_answer": "delivery person",
+    "distractors": [
+      "shop assistant",
+      "post office",
+      "bus driver"
+    ],
+    "explanation_vi": "'delivery person' là người vận chuyển bưu phẩm, đồ ăn hoặc hàng hóa đến cho khách hàng."
+  },
+  {
+    "unit": 1,
+    "target_word": "speciality",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'món ăn đặc sản, nét đặc trưng của một địa phương'?",
+    "correct_answer": "speciality",
+    "distractors": [
+      "ingredient",
+      "refreshment",
+      "facility"
+    ],
+    "explanation_vi": "'speciality' là danh từ chỉ món ăn đặc sản hoặc sản phẩm tiêu biểu của một vùng miền."
+  },
+  {
+    "unit": 1,
+    "target_word": "pedestrian street",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm từ tiếng Anh thích hợp cho 'phố đi bộ':",
+    "correct_answer": "pedestrian street",
+    "distractors": [
+      "highway lane",
+      "traffic jam",
+      "railway station"
+    ],
+    "explanation_vi": "'pedestrian street' là tuyến phố dành riêng cho người đi bộ, không cho phương tiện cơ giới lưu thông."
+  },
+  {
+    "unit": 1,
+    "target_word": "get on with",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'sống hòa thuận, có mối quan hệ tốt với ai'?",
+    "correct_answer": "get on with",
+    "distractors": [
+      "look down on",
+      "catch up with",
+      "make up for"
+    ],
+    "explanation_vi": "'get on with someone' (hoặc 'get along with') nghĩa là có mối quan hệ hòa nhã, tốt đẹp với ai."
+  },
+  {
+    "unit": 1,
+    "target_word": "find out",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ tương ứng với nghĩa 'tìm hiểu, phát hiện thông tin':",
+    "correct_answer": "find out",
+    "distractors": [
+      "give up",
+      "turn down",
+      "take after"
+    ],
+    "explanation_vi": "'find out' có nghĩa là khám phá, tìm hiểu hoặc nhận biết được một thông tin mới."
+  },
+  {
+    "unit": 1,
+    "target_word": "take care of",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ mang nghĩa 'chăm sóc, quan tâm chăm nom':",
+    "correct_answer": "take care of",
+    "distractors": [
+      "take part in",
+      "take place in",
+      "take pride in"
+    ],
+    "explanation_vi": "'take care of' đồng nghĩa với 'look after', có nghĩa là chăm sóc, chu toàn việc gì."
+  },
+  {
+    "unit": 1,
+    "target_word": "facilities",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'cơ sở vật chất, trang thiết bị tiện nghi công cộng'?",
+    "correct_answer": "facilities",
+    "distractors": [
+      "activities",
+      "celebrations",
+      "handicrafts"
+    ],
+    "explanation_vi": "'facilities' chỉ các cơ sở hạ tầng, tiện nghi phục vụ nhu cầu đời sống xã hội như bệnh viện, trường học, khu thể thao..."
+  },
+  {
+    "unit": 1,
+    "target_word": "craft village",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Bat Trang is one of the most famous traditional ______ in Viet Nam, known for its fine ceramic wares.",
+    "correct_answer": "craft villages",
+    "distractors": [
+      "suburban areas",
+      "police stations",
+      "shopping malls"
+    ],
+    "explanation_vi": "Bát Tràng là làng nghề thủ công truyền thống (craft village) nổi tiếng về đồ gốm sứ."
+  },
+  {
+    "unit": 1,
+    "target_word": "workshop",
+    "question_type": "contextual_mcq",
+    "prompt_text": "During their field trip, the students visited an artisan's ______ to see how clay pots are moulded.",
+    "correct_answer": "workshop",
+    "distractors": [
+      "supermarket",
+      "playground",
+      "post office"
+    ],
+    "explanation_vi": "'workshop' là phân xưởng nơi các nghệ nhân thực hành chế tác gốm sứ."
+  },
+  {
+    "unit": 1,
+    "target_word": "tourist attraction",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Hoi An Ancient Town is a popular ______ that draws millions of international visitors every year.",
+    "correct_answer": "tourist attraction",
+    "distractors": [
+      "community shelter",
+      "fire station",
+      "rubbish dump"
+    ],
+    "explanation_vi": "'tourist attraction' nghĩa là điểm đến thu hút đông đảo khách du lịch."
+  },
+  {
+    "unit": 1,
+    "target_word": "shorten",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Today, many craft villages introduce electric machines to ______ the drying process of clay products.",
+    "correct_answer": "shorten",
+    "distractors": [
+      "damage",
+      "worsen",
+      "expand"
+    ],
+    "explanation_vi": "Họ dùng máy móc để rút ngắn (shorten) thời gian sấy khô sản phẩm đất sét."
+  },
+  {
+    "unit": 1,
+    "target_word": "look around",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When we arrived at the lantern village, we decided to ______ to see all the colorful stalls before buying.",
+    "correct_answer": "look around",
+    "distractors": [
+      "run out of",
+      "cut down on",
+      "look down on"
+    ],
+    "explanation_vi": "'look around' mang nghĩa đi vòng quanh ngắm nghía, quan sát không gian trước khi mua sắm."
+  },
+  {
+    "unit": 1,
+    "target_word": "remind of",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The sweet fragrance of com Lang Vong always ______ me of the chilly autumn mornings in Ha Noi.",
+    "correct_answer": "reminds",
+    "distractors": [
+      "forgets",
+      "warns",
+      "prevents"
+    ],
+    "explanation_vi": "Cấu trúc 'remind somebody of something' có nghĩa là làm ai nhớ tới kỷ niệm/sự việc gì."
+  },
+  {
+    "unit": 1,
+    "target_word": "conical hat",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Chuong village in Ha Noi is well-known for producing delicate ______, which Vietnamese women often wear with ao dai.",
+    "correct_answer": "conical hats",
+    "distractors": [
+      "leather shoes",
+      "woollen sweaters",
+      "rubber boots"
+    ],
+    "explanation_vi": "Làng Chuông nổi tiếng với nghề làm nón lá ('conical hats') truyền thống."
+  },
+  {
+    "unit": 1,
+    "target_word": "close-knit",
+    "question_type": "contextual_mcq",
+    "prompt_text": "They live in a ______ community where everybody knows each other and is willing to lend a helping hand.",
+    "correct_answer": "close-knit",
+    "distractors": [
+      "isolated",
+      "distant",
+      "unfriendly"
+    ],
+    "explanation_vi": "'close-knit community' là một cộng đồng gắn kết chặt chẽ, tình làng nghĩa xóm thân thiết."
+  },
+  {
+    "unit": 1,
+    "target_word": "sort",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Our neighbourhood leaders encourage all residents to ______ their daily rubbish into organic and recyclable waste.",
+    "correct_answer": "sort",
+    "distractors": [
+      "throw",
+      "scatter",
+      "burn"
+    ],
+    "explanation_vi": "'sort rubbish/waste' nghĩa là phân loại rác thải thành rác hữu cơ và rác tái chế."
+  },
+  {
+    "unit": 1,
+    "target_word": "hand-craft",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The local craftspeople still ______ each clay cup by hand rather than mass-producing them in large factories.",
+    "correct_answer": "hand-craft",
+    "distractors": [
+      "destroy",
+      "pollute",
+      "electrify"
+    ],
+    "explanation_vi": "'hand-craft' (v) là làm thủ công từng sản phẩm bằng tay."
+  },
+  {
+    "unit": 1,
+    "target_word": "artisan",
+    "question_type": "word_form",
+    "prompt_text": "Many skilled local ______ participated in the annual handicraft exhibition. (ARTISAN)",
+    "correct_answer": "artisans",
+    "distractors": [
+      "artisanal",
+      "artisanry",
+      "artisanly"
+    ],
+    "explanation_vi": "Sau lượng từ 'many' và tính từ 'skilled local' cần một danh từ số nhiều đếm được: 'artisans' (các nghệ nhân)."
+  },
+  {
+    "unit": 1,
+    "target_word": "potter",
+    "question_type": "word_form",
+    "prompt_text": "Mr. Nam is a talented ______ who has shaped brown clay on the wheel for over thirty years. (POTTERY)",
+    "correct_answer": "potter",
+    "distractors": [
+      "pottery",
+      "pots",
+      "potting"
+    ],
+    "explanation_vi": "Vị trí sau mạo từ 'a' và tính từ 'talented' cần một danh từ chỉ người làm gốm: 'potter' (thợ gốm)."
+  },
+  {
+    "unit": 1,
+    "target_word": "neighbourly",
+    "question_type": "word_form",
+    "prompt_text": "The residents in our apartment block always show great ______ spirit by helping one another. (NEIGHBOUR)",
+    "correct_answer": "neighbourly",
+    "distractors": [
+      "neighbourhood",
+      "neighbour",
+      "neighbouring"
+    ],
+    "explanation_vi": "Trước danh từ 'spirit' cần một tính từ bổ nghĩa: 'neighbourly' mang nghĩa hòa thuận, có tình nghĩa láng giềng."
+  },
+  {
+    "unit": 1,
+    "target_word": "electrician",
+    "question_type": "word_form",
+    "prompt_text": "When the main power supply failed, we called a qualified ______ to check the wires. (ELECTRIC)",
+    "correct_answer": "electrician",
+    "distractors": [
+      "electricity",
+      "electrical",
+      "electrically"
+    ],
+    "explanation_vi": "Sau cụm từ 'called a qualified' cần một danh từ chỉ người thợ: 'electrician' (thợ điện)."
+  },
+  {
+    "unit": 1,
+    "target_word": "attractions",
+    "question_type": "word_form",
+    "prompt_text": "Denby Pottery Village is regarded as one of the major tourist ______ in Derbyshire. (ATTRACT)",
+    "correct_answer": "attractions",
+    "distractors": [
+      "attractive",
+      "attractively",
+      "attractiveness"
+    ],
+    "explanation_vi": "Sau 'tourist' và cụm 'one of the major...' cần danh từ số nhiều: 'tourist attractions' (các điểm thu hút du lịch)."
+  },
+  {
+    "unit": 1,
+    "target_word": "specialities",
+    "question_type": "word_form",
+    "prompt_text": "Pho and Bun cha are among the most famous culinary ______ of Ha Noi. (SPECIAL)",
+    "correct_answer": "specialities",
+    "distractors": [
+      "specialization",
+      "specially",
+      "specialness"
+    ],
+    "explanation_vi": "Sau cụm tính từ 'famous culinary' và chủ ngữ số nhiều ('Pho and Bun cha are...') cần danh từ số nhiều: 'specialities' (các món đặc sản)."
+  },
+  {
+    "unit": 1,
+    "target_word": "fragrance",
+    "question_type": "word_form",
+    "prompt_text": "The villagers wrap com in fresh lotus leaves to retain its delicate ______. (FRAGRANT)",
+    "correct_answer": "fragrance",
+    "distractors": [
+      "fragrantly",
+      "fragrantness",
+      "fragrant"
+    ],
+    "explanation_vi": "Sau tính từ sở hữu 'its' và tính từ miêu tả 'delicate' cần một danh từ: 'fragrance' (mùi hương thơm)."
+  },
+  {
+    "unit": 1,
+    "target_word": "preservation",
+    "question_type": "word_form",
+    "prompt_text": "The local authorities are investing money into the ______ of ancient pagodas and craft villages. (PRESERVE)",
+    "correct_answer": "preservation",
+    "distractors": [
+      "preservative",
+      "preserved",
+      "preserving"
+    ],
+    "explanation_vi": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ: 'preservation' (sự bảo tồn, gìn giữ)."
+  },
+  {
+    "unit": 1,
+    "target_word": "shorten",
+    "question_type": "word_form",
+    "prompt_text": "The potters began using modern conveyor belts to ______ the preparation time. (SHORT)",
+    "correct_answer": "shorten",
+    "distractors": [
+      "shortage",
+      "shortly",
+      "shortness"
+    ],
+    "explanation_vi": "Sau 'to' chỉ mục đích ('to + V_bare') cần động từ nguyên mẫu: 'shorten' (rút ngắn)."
+  },
+  {
+    "unit": 1,
+    "target_word": "helpful",
+    "question_type": "word_form",
+    "prompt_text": "The firefighters were incredibly brave and ______ during the rescue mission. (HELP)",
+    "correct_answer": "helpful",
+    "distractors": [
+      "helpless",
+      "helplessly",
+      "helpfully"
+    ],
+    "explanation_vi": "Sau liên từ 'and' kết nối với tính từ 'brave' (sau to be 'were') cần một tính từ tích cực: 'helpful' (hay giúp đỡ, có ích)."
+  }
+]

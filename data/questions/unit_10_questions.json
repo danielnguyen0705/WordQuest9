@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 10,
+    "target_word": "habitat",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'habitat' trong sinh thái học có nghĩa tiếng Việt là gì?",
+    "correct_answer": "môi trường sống tự nhiên",
+    "distractors": [
+      "tập quán sinh hoạt",
+      "nguồn thức ăn dự trữ",
+      "vùng khí hậu cực đoan"
+    ],
+    "explanation_vi": "'habitat' là nơi ở hoặc môi trường sống tự nhiên của một loài động vật hoặc thực vật."
+  },
+  {
+    "unit": 10,
+    "target_word": "food chain",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ 'food chain' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "chuỗi thức ăn",
+    "distractors": [
+      "mạng lưới sinh học",
+      "chu trình dinh dưỡng",
+      "tháp năng lượng"
+    ],
+    "explanation_vi": "'food chain' là chuỗi thức ăn chỉ mối quan hệ dinh dưỡng giữa các loài sinh vật."
+  },
+  {
+    "unit": 10,
+    "target_word": "ecological balance",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'ecological balance' mang nghĩa là gì?",
+    "correct_answer": "sự cân bằng sinh thái",
+    "distractors": [
+      "sự đa dạng sinh học",
+      "sự biến đổi khí hậu",
+      "sự bảo tồn thiên nhiên"
+    ],
+    "explanation_vi": "'ecological balance' là trạng thái cân bằng tự nhiên giữa các loài sinh vật và môi trường sống của chúng."
+  },
+  {
+    "unit": 10,
+    "target_word": "nature reserve",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'nature reserve' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "khu bảo tồn thiên nhiên",
+    "distractors": [
+      "công viên giải trí",
+      "vườn bách thảo đô thị",
+      "nông trại sinh thái"
+    ],
+    "explanation_vi": "'nature reserve' là khu bảo tồn thiên nhiên được khoanh vùng nhằm bảo vệ động thực vật hoang dã."
+  },
+  {
+    "unit": 10,
+    "target_word": "landform",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'landform' trong địa lý học có nghĩa là gì?",
+    "correct_answer": "dạng địa hình, địa mạo",
+    "distractors": [
+      "loại đất trồng trọt",
+      "vùng ranh giới đất liền",
+      "thảm thực vật tự nhiên"
+    ],
+    "explanation_vi": "'landform' là một đặc trưng tự nhiên của bề mặt Trái Đất như đồi núi, thung lũng, cao nguyên."
+  },
+  {
+    "unit": 10,
+    "target_word": "boreal forest",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ 'boreal forest' chỉ kiểu rừng nào?",
+    "correct_answer": "rừng phương bắc, rừng taiga",
+    "distractors": [
+      "rừng mưa nhiệt đới",
+      "rừng ngập mặn ven biển",
+      "rừng rụng lá ôn đới"
+    ],
+    "explanation_vi": "'boreal forest' là rừng phương bắc (rừng taiga), kiểu rừng lá kim bao phủ các vùng cận bắc cực."
+  },
+  {
+    "unit": 10,
+    "target_word": "droppings",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'droppings' trong ngữ cảnh tự nhiên chỉ đối tượng nào?",
+    "correct_answer": "phân động vật, phân chim",
+    "distractors": [
+      "lá cây rụng",
+      "hạt giống rơi",
+      "giọt sương đêm"
+    ],
+    "explanation_vi": "'droppings' là chất thải rắn, phân của các loài chim chóc hoặc động vật nhỏ trong tự nhiên."
+  },
+  {
+    "unit": 10,
+    "target_word": "predator",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'predator' chỉ nhóm sinh vật nào trong tự nhiên?",
+    "correct_answer": "động vật ăn thịt, kẻ săn mồi",
+    "distractors": [
+      "động vật ăn cỏ",
+      "động vật ký sinh trùng",
+      "sinh vật phân hủy"
+    ],
+    "explanation_vi": "'predator' là loài thú săn và ăn thịt các loài sinh vật khác để tồn tại."
+  },
+  {
+    "unit": 10,
+    "target_word": "prey",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'prey' trong chuỗi thức ăn tự nhiên có nghĩa là gì?",
+    "correct_answer": "con mồi (bị động vật khác săn)",
+    "distractors": [
+      "kẻ săn mồi",
+      "động vật ăn tạp",
+      "bầy đàn di cư"
+    ],
+    "explanation_vi": "'prey' là con mồi bị các loài động vật khác săn bắt làm thức ăn."
+  },
+  {
+    "unit": 10,
+    "target_word": "moonquake",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ thiên văn 'moonquake' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "chấn động Mặt Trăng, động đất trên Mặt Trăng",
+    "distractors": [
+      "hiện tượng nguyệt thực",
+      "bão bụi Mặt Trăng",
+      "chu kỳ trăng tròn"
+    ],
+    "explanation_vi": "'moonquake' là hiện tượng rung chấn địa chất xảy ra trên bề mặt của Mặt Trăng."
+  },
+  {
+    "unit": 10,
+    "target_word": "water body",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào mang nghĩa 'vùng nước' (sông, hồ, biển, đại dương)?",
+    "correct_answer": "water body",
+    "distractors": [
+      "water cycle",
+      "water pipe",
+      "water table"
+    ],
+    "explanation_vi": "'water body' là thuật ngữ chỉ các vùng chứa nước trên bề mặt Trái Đất như sông, hồ, biển, đại dương."
+  },
+  {
+    "unit": 10,
+    "target_word": "outer space",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào mang nghĩa 'không gian ngoài vũ trụ'?",
+    "correct_answer": "outer space",
+    "distractors": [
+      "open air",
+      "solar power",
+      "polar region"
+    ],
+    "explanation_vi": "'outer space' là vùng không gian vũ trụ bên ngoài bầu khí quyển của Trái Đất."
+  },
+  {
+    "unit": 10,
+    "target_word": "Solar System",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào có nghĩa là 'Hệ Mặt Trời'?",
+    "correct_answer": "Solar System",
+    "distractors": [
+      "Milky Way",
+      "Space Station",
+      "Cosmic Ray"
+    ],
+    "explanation_vi": "'Solar System' là Hệ Mặt Trời, bao gồm Mặt Trời và các thiên thể quay quanh nó."
+  },
+  {
+    "unit": 10,
+    "target_word": "liquid water",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào mang nghĩa 'nước ở thể lỏng' trên bề mặt các hành tinh?",
+    "correct_answer": "liquid water",
+    "distractors": [
+      "mineral water",
+      "frozen water",
+      "tap water"
+    ],
+    "explanation_vi": "'liquid water' là trạng thái lỏng của nước, điều kiện tiên quyết cho sự sống."
+  },
+  {
+    "unit": 10,
+    "target_word": "pesticide",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'thuốc trừ sâu / hóa chất diệt sinh vật hại'?",
+    "correct_answer": "pesticide",
+    "distractors": [
+      "fertiliser",
+      "herbicide",
+      "pollution"
+    ],
+    "explanation_vi": "'pesticide' là hóa chất dùng để tiêu diệt sâu bọ và các sinh vật gây hại cho mùa màng."
+  },
+  {
+    "unit": 10,
+    "target_word": "herbivore",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'động vật ăn cỏ'?",
+    "correct_answer": "herbivore",
+    "distractors": [
+      "carnivore",
+      "omnivore",
+      "predator"
+    ],
+    "explanation_vi": "'herbivore' là sinh vật chỉ ăn cỏ và thực vật."
+  },
+  {
+    "unit": 10,
+    "target_word": "carnivore",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'động vật ăn thịt'?",
+    "correct_answer": "carnivore",
+    "distractors": [
+      "herbivore",
+      "mammal",
+      "reptile"
+    ],
+    "explanation_vi": "'carnivore' là động vật chuyên ăn thịt các loài sinh vật khác."
+  },
+  {
+    "unit": 10,
+    "target_word": "Blue Planet",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào là tên gọi thân thuộc của Trái Đất: 'Hành tinh Xanh'?",
+    "correct_answer": "Blue Planet",
+    "distractors": [
+      "Red Planet",
+      "Green Zone",
+      "Inner Ring"
+    ],
+    "explanation_vi": "'Blue Planet' là biệt danh của Trái Đất do phần lớn bề mặt được bao phủ bởi nước biển màu xanh."
+  },
+  {
+    "unit": 10,
+    "target_word": "subpolar",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'cận cực / gần vùng địa cực'?",
+    "correct_answer": "subpolar",
+    "distractors": [
+      "subtropical",
+      "temperate",
+      "equatorial"
+    ],
+    "explanation_vi": "'subpolar' là khu vực nằm ngay sát dưới vòng cực, có khí hậu rất lạnh."
+  },
+  {
+    "unit": 10,
+    "target_word": "feed on",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'sống dựa vào / ăn loại thức ăn gì' ở động vật?",
+    "correct_answer": "feed on",
+    "distractors": [
+      "rely in",
+      "carry out",
+      "run out"
+    ],
+    "explanation_vi": "'feed on' có nghĩa là ăn hoặc lấy chất dinh dưỡng từ một loại thức ăn nhất định."
+  },
+  {
+    "unit": 10,
+    "target_word": "habitat",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Cutting down tropical forests destroys the natural ______ of thousands of wild species.",
+    "correct_answer": "habitat",
+    "distractors": [
+      "climate",
+      "atmosphere",
+      "volcano"
+    ],
+    "explanation_vi": "Chặt phá rừng nhiệt đới hủy hoại môi trường sống tự nhiên ('natural habitat') của hàng ngàn loài hoang dã."
+  },
+  {
+    "unit": 10,
+    "target_word": "ecological balance",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Overhunting wolves led to an explosion in deer population, disrupting the local ______.",
+    "correct_answer": "ecological balance",
+    "distractors": [
+      "solar system",
+      "fixed itinerary",
+      "liquid water"
+    ],
+    "explanation_vi": "Săn bắn quá mức loài sói làm bùng nổ số lượng hươu, gây phá vỡ cân bằng sinh thái ('ecological balance')."
+  },
+  {
+    "unit": 10,
+    "target_word": "outer space",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When photographed by astronauts from ______, our Earth looks like a glowing blue marble.",
+    "correct_answer": "outer space",
+    "distractors": [
+      "underwater cave",
+      "sand dune",
+      "nature reserve"
+    ],
+    "explanation_vi": "Khi được phi hành gia chụp ảnh từ ngoài không gian vũ trụ ('outer space'), Trái Đất trông như hòn bi xanh."
+  },
+  {
+    "unit": 10,
+    "target_word": "fertiliser",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Bat droppings in caves have been collected by farmers for decades to use as organic ______.",
+    "correct_answer": "fertiliser",
+    "distractors": [
+      "pesticide",
+      "pollutant",
+      "fuel"
+    ],
+    "explanation_vi": "Phân dơi trong hang được thu gom để làm phân bón hữu cơ ('organic fertiliser') cho cây trồng."
+  },
+  {
+    "unit": 10,
+    "target_word": "orbit",
+    "question_type": "contextual_mcq",
+    "prompt_text": "It takes roughly 365 days for planet Earth to ______ the Sun once.",
+    "correct_answer": "orbit",
+    "distractors": [
+      "erupt",
+      "destroy",
+      "wander"
+    ],
+    "explanation_vi": "Trái Đất mất khoảng 365 ngày để quay một vòng quanh quỹ đạo Mặt Trời ('orbit the Sun')."
+  },
+  {
+    "unit": 10,
+    "target_word": "disrupt",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Excessive chemical discharge into rivers can severely ______ the marine food chain.",
+    "correct_answer": "disrupt",
+    "distractors": [
+      "admire",
+      "attract",
+      "preserve"
+    ],
+    "explanation_vi": "Xả thải hóa chất quá mức xuống sông có thể làm xáo trộn, đảo lộn ('disrupt') chuỗi thức ăn dưới nước."
+  },
+  {
+    "unit": 10,
+    "target_word": "raise awareness of",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Our school launched a tree-planting project to ______ environmental protection among pupils.",
+    "correct_answer": "raise awareness of",
+    "distractors": [
+      "get by in",
+      "be crazy about",
+      "hunt for"
+    ],
+    "explanation_vi": "'raise awareness of' có nghĩa là nâng cao nhận thức của học sinh về việc bảo vệ môi trường."
+  },
+  {
+    "unit": 10,
+    "target_word": "lend a hand to",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Every teenager should ______ cleaning up plastic rubbish along local canals.",
+    "correct_answer": "lend a hand to",
+    "distractors": [
+      "look down on",
+      "run out of",
+      "take care about"
+    ],
+    "explanation_vi": "'lend a hand to' có nghĩa là chung tay giúp đỡ, góp sức vào việc dọn dẹp rác thải."
+  },
+  {
+    "unit": 10,
+    "target_word": "predators",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Big cats like lions and leopards are ferocious ______ that hunt gazelles on the savanna.",
+    "correct_answer": "predators",
+    "distractors": [
+      "herbivores",
+      "landforms",
+      "droppings"
+    ],
+    "explanation_vi": "Sư tử và báo là những loài săn mồi ('predators') hung dữ trên thảo nguyên."
+  },
+  {
+    "unit": 10,
+    "target_word": "threat",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Rising sea levels pose a catastrophic ______ to island nations and coastal cities.",
+    "correct_answer": "threat",
+    "distractors": [
+      "benefit",
+      "permission",
+      "wonder"
+    ],
+    "explanation_vi": "Mực nước biển dâng cao đặt ra mối đe dọa thảm khốc ('catastrophic threat') đối với các quốc đảo."
+  },
+  {
+    "unit": 10,
+    "target_word": "inhabitants",
+    "question_type": "word_form",
+    "prompt_text": "Polar bears and seals are native ______ of the chilly arctic ice pack. (HABITAT)",
+    "correct_answer": "inhabitants",
+    "distractors": [
+      "inhabit",
+      "habitable",
+      "inhabited"
+    ],
+    "explanation_vi": "Sau tính từ 'native' cần một danh từ số nhiều chỉ loài cư trú / cư dân: 'inhabitants'."
+  },
+  {
+    "unit": 10,
+    "target_word": "ecological",
+    "question_type": "word_form",
+    "prompt_text": "Oil spills from wrecked tankers trigger enormous ______ disasters across the ocean. (ECOLOGY)",
+    "correct_answer": "ecological",
+    "distractors": [
+      "ecologically",
+      "ecologist",
+      "ecologize"
+    ],
+    "explanation_vi": "Trước danh từ 'disasters' cần một tính từ bổ nghĩa: 'ecological disasters' (thảm họa sinh thái)."
+  },
+  {
+    "unit": 10,
+    "target_word": "polar",
+    "question_type": "word_form",
+    "prompt_text": "Rapid global warming is causing vast ______ ice caps to melt at alarming rates. (POLE)",
+    "correct_answer": "polar",
+    "distractors": [
+      "polarity",
+      "polarize",
+      "polarization"
+    ],
+    "explanation_vi": "Trước cụm danh từ 'ice caps' cần tính từ thuộc địa cực: 'polar ice caps' (chỏm băng vùng cực)."
+  },
+  {
+    "unit": 10,
+    "target_word": "fertile",
+    "question_type": "word_form",
+    "prompt_text": "Volcanic ash deposited over centuries turned the river valley into highly ______ soil. (FERTILISER)",
+    "correct_answer": "fertile",
+    "distractors": [
+      "fertility",
+      "fertilise",
+      "fertilisation"
+    ],
+    "explanation_vi": "Sau trạng từ 'highly' và đứng trước danh từ 'soil' cần tính từ mang nghĩa phì nhiêu, màu mỡ: 'fertile'."
+  },
+  {
+    "unit": 10,
+    "target_word": "threatens",
+    "question_type": "word_form",
+    "prompt_text": "Unregulated disposal of industrial wastewater seriously ______ our underground water supply. (THREAT)",
+    "correct_answer": "threatens",
+    "distractors": [
+      "threatening",
+      "threatened",
+      "threatener"
+    ],
+    "explanation_vi": "Chủ ngữ là danh từ số ít 'Unregulated disposal...', sau trạng từ 'seriously' cần một động từ chia thì hiện tại đơn ngôi thứ ba số ít: 'threatens' (đe dọa)."
+  },
+  {
+    "unit": 10,
+    "target_word": "preservation",
+    "question_type": "word_form",
+    "prompt_text": "Young volunteers campaigned vigorously for the ______ of primeval forests. (PRESERVE)",
+    "correct_answer": "preservation",
+    "distractors": [
+      "preservative",
+      "preserved",
+      "preservable"
+    ],
+    "explanation_vi": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ chỉ hành động gìn giữ: 'preservation' (sự bảo tồn)."
+  },
+  {
+    "unit": 10,
+    "target_word": "harmful",
+    "question_type": "word_form",
+    "prompt_text": "Dumping untreated plastic waste into the ocean produces extremely ______ impacts on marine creatures. (HARM)",
+    "correct_answer": "harmful",
+    "distractors": [
+      "harmless",
+      "harmfully",
+      "harmlessly"
+    ],
+    "explanation_vi": "Trước danh từ 'impacts' và sau trạng từ 'extremely' cần một tính từ mang nghĩa có hại: 'harmful'."
+  },
+  {
+    "unit": 10,
+    "target_word": "appreciation",
+    "question_type": "word_form",
+    "prompt_text": "Studying astronomy helped students develop a deeper ______ of the cosmos. (APPRECIATE)",
+    "correct_answer": "appreciation",
+    "distractors": [
+      "appreciative",
+      "appreciable",
+      "appreciatively"
+    ],
+    "explanation_vi": "Sau mạo từ 'a' và tính từ 'deeper' cần một danh từ: 'appreciation' (sự trân trọng, đánh giá cao)."
+  },
+  {
+    "unit": 10,
+    "target_word": "observations",
+    "question_type": "word_form",
+    "prompt_text": "After conducting systematic field ______, zoologists documented rare leopard behaviours. (OBSERVE)",
+    "correct_answer": "observations",
+    "distractors": [
+      "observant",
+      "observably",
+      "observance"
+    ],
+    "explanation_vi": "Sau tính từ 'systematic field' cần danh từ số nhiều chỉ các cuộc quan sát thực địa: 'observations'."
+  },
+  {
+    "unit": 10,
+    "target_word": "disruptive",
+    "question_type": "word_form",
+    "prompt_text": "Loud noise from speedboats has a very ______ effect on dolphin communication. (DISRUPT)",
+    "correct_answer": "disruptive",
+    "distractors": [
+      "disruption",
+      "disrupted",
+      "disruptively"
+    ],
+    "explanation_vi": "Sau mạo từ 'a' và trạng từ 'very', đứng trước danh từ 'effect' cần một tính từ: 'disruptive' (gây xáo trộn, gián đoạn)."
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "act out",
+    "pos": "phrase",
+    "ipa": "/ækt aʊt/",
+    "meaning_vi": "đóng vai, diễn lại một câu chuyện",
+    "example_en": "The teacher asked the students to act out the historical folktale in class.",
+    "example_vi": "Giáo viên yêu cầu các học sinh đóng vai diễn lại câu chuyện dân gian lịch sử trong lớp.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "ancestor",
+    "pos": "noun",
+    "ipa": "/ˈænsestə(r)/",
+    "meaning_vi": "tổ tiên, ông bà cụ kỵ",
+    "example_en": "People place fruit and flowers on the family altar to show gratitude to their ancestors.",
+    "example_vi": "Mọi người dâng hoa quả lên bàn thờ gia tiên để bày tỏ lòng biết ơn đối với tổ tiên.",
+    "word_forms": [
+      {
+        "word": "ancestral",
+        "pos": "adj",
+        "meaning_vi": "thuộc về tổ tiên"
+      },
+      {
+        "word": "ancestry",
+        "pos": "noun",
+        "meaning_vi": "dòng dõi, tổ tiên"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "ancient",
+    "pos": "adj",
+    "ipa": "/ˈeɪnʃənt/",
+    "meaning_vi": "cổ xưa, cổ kính",
+    "example_en": "Many foreign visitors love strolling along the ancient streets of Hoi An at night.",
+    "example_vi": "Nhiều du khách nước ngoài thích đi dạo dọc theo những con phố cổ kính của Hội An vào ban đêm.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "bamboo",
+    "pos": "noun",
+    "ipa": "/ˌbæmˈbuː/",
+    "meaning_vi": "cây tre",
+    "example_en": "Bamboo trees were used to build fences, furniture, and agricultural tools.",
+    "example_vi": "Cây tre từng được sử dụng để làm hàng rào, đồ đạc và nông cụ.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "blind man's buff",
+    "pos": "noun",
+    "ipa": "/ˌblaɪnd mænz ˈbʌf/",
+    "meaning_vi": "trò chơi bịt mắt bắt dê",
+    "example_en": "We had a lot of fun playing blind man's buff in the communal yard yesterday.",
+    "example_vi": "Chúng tôi đã có rất nhiều niềm vui khi chơi bịt mắt bắt dê ở sân đình ngày hôm qua.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "breadwinner",
+    "pos": "noun",
+    "ipa": "/ˈbredwɪnə(r)/",
+    "meaning_vi": "trụ cột gia đình (người kiếm tiền chính)",
+    "example_en": "Men were traditionally the sole breadwinners of the family.",
+    "example_vi": "Đàn ông theo truyền thống là những người trụ cột kiếm tiền duy nhất của gia đình.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "clay pot",
+    "pos": "noun",
+    "ipa": "/kleɪ pɒt/",
+    "meaning_vi": "nồi đất sét, niêu đất",
+    "example_en": "Rice cooked in a traditional clay pot has a uniquely delicious flavor.",
+    "example_vi": "Cơm nấu trong niêu đất truyền thống có hương vị thơm ngon rất đặc trưng.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "commemorate",
+    "pos": "verb",
+    "ipa": "/kəˈmeməreɪt/",
+    "meaning_vi": "tưởng niệm, kỷ niệm",
+    "example_en": "Every year, villagers hold a solemn ceremony to commemorate their ancestors.",
+    "example_vi": "Hàng năm, dân làng tổ chức một nghi lễ trang trọng để tưởng niệm tổ tiên.",
+    "word_forms": [
+      {
+        "word": "commemoration",
+        "pos": "noun",
+        "meaning_vi": "sự tưởng niệm, lễ kỷ niệm"
+      },
+      {
+        "word": "commemorative",
+        "pos": "adj",
+        "meaning_vi": "để tưởng nhớ, mang tính kỷ niệm"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "communal house",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːnl haʊs/",
+    "meaning_vi": "đình làng, nhà rông",
+    "example_en": "Villagers gathered at the communal house to discuss important community affairs.",
+    "example_vi": "Dân làng tụ họp tại đình làng để thảo luận các công việc quan trọng của cộng đồng.",
+    "word_forms": [
+      {
+        "word": "commune",
+        "pos": "noun",
+        "meaning_vi": "xã, công xã"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "cottage",
+    "pos": "noun",
+    "ipa": "/ˈkɒtɪdʒ/",
+    "meaning_vi": "nhà tranh, nhà nhỏ ở nông thôn",
+    "example_en": "The old farmer lived in a cozy cottage at the foot of the green hill.",
+    "example_vi": "Người nông dân già sống trong một ngôi nhà nhỏ ấm cúng dưới chân đồi xanh.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "custom",
+    "pos": "noun",
+    "ipa": "/ˈkʌstəm/",
+    "meaning_vi": "phong tục, tập quán",
+    "example_en": "It is a long-standing custom to prepare special offerings during the Tet holiday.",
+    "example_vi": "Chuẩn bị các lễ vật đặc biệt trong dịp Tết là một phong tục lâu đời.",
+    "word_forms": [
+      {
+        "word": "customary",
+        "pos": "adj",
+        "meaning_vi": "theo phong tục thông thường"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "double-decker bus",
+    "pos": "noun",
+    "ipa": "/ˌdʌbl ˈdekə bʌs/",
+    "meaning_vi": "xe buýt hai tầng",
+    "example_en": "Riding a red double-decker bus is an iconic experience when visiting London.",
+    "example_vi": "Đi xe buýt hai tầng màu đỏ là một trải nghiệm mang tính biểu tượng khi đến thăm Luân Đôn.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "dragon-snake",
+    "pos": "noun",
+    "ipa": "/ˈdræɡən sneɪk/",
+    "meaning_vi": "trò chơi rồng rắn lên mây",
+    "example_en": "Dragon-snake was one of the most popular folk games among rural children.",
+    "example_vi": "Rồng rắn lên mây từng là một trong những trò chơi dân gian phổ biến nhất đối với trẻ em nông thôn.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "earthen house",
+    "pos": "noun",
+    "ipa": "/ˈɜːθn haʊs/",
+    "meaning_vi": "nhà đất, nhà vách đất",
+    "example_en": "The old earthen house kept the family warm in winter and cool in summer.",
+    "example_vi": "Ngôi nhà vách đất xưa giữ cho gia đình ấm áp vào mùa đông và mát mẻ vào mùa hè.",
+    "word_forms": [
+      {
+        "word": "earth",
+        "pos": "noun",
+        "meaning_vi": "đất, trái đất"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "extended family",
+    "pos": "noun",
+    "ipa": "/ɪkˌstendɪd ˈfæməli/",
+    "meaning_vi": "gia đình nhiều thế hệ, đại gia đình",
+    "example_en": "In the past, most Vietnamese people lived in an extended family with three or four generations under one roof.",
+    "example_vi": "Trong quá khứ, hầu hết người Việt Nam sống trong một đại gia đình với ba hoặc bốn thế hệ dưới một mái nhà.",
+    "word_forms": [
+      {
+        "word": "extend",
+        "pos": "verb",
+        "meaning_vi": "mở rộng, kéo dài"
+      },
+      {
+        "word": "extension",
+        "pos": "noun",
+        "meaning_vi": "sự mở rộng"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "firewood",
+    "pos": "noun",
+    "ipa": "/ˈfaɪəwʊd/",
+    "meaning_vi": "củi khô, củi đun",
+    "example_en": "Children helped their parents gather dry firewood from the forest to cook meals.",
+    "example_vi": "Trẻ em giúp cha mẹ nhặt củi khô từ trong rừng để nấu ăn.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "generation",
+    "pos": "noun",
+    "ipa": "/ˌdʒenəˈreɪʃn/",
+    "meaning_vi": "thế hệ",
+    "example_en": "There was a close bond between different generations in the old days.",
+    "example_vi": "Có một sự gắn kết chặt chẽ giữa các thế hệ khác nhau trong thời xưa.",
+    "word_forms": [
+      {
+        "word": "generational",
+        "pos": "adj",
+        "meaning_vi": "thuộc về thế hệ"
+      },
+      {
+        "word": "generate",
+        "pos": "verb",
+        "meaning_vi": "tạo ra, phát ra"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "generation gap",
+    "pos": "noun",
+    "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+    "meaning_vi": "khoảng cách thế hệ",
+    "example_en": "Living with grandparents sometimes leads to a generation gap in opinions.",
+    "example_vi": "Sống cùng ông bà đôi khi dẫn đến khoảng cách thế hệ trong quan điểm.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "grow up",
+    "pos": "phrase",
+    "ipa": "/ɡrəʊ ʌp/",
+    "meaning_vi": "lớn lên, trưởng thành",
+    "example_en": "She grew up in a peaceful village where everyone knew each other.",
+    "example_vi": "Cô ấy lớn lên trong một ngôi làng thanh bình, nơi mọi người đều biết nhau.",
+    "word_forms": [
+      {
+        "word": "growth",
+        "pos": "noun",
+        "meaning_vi": "sự phát triển, sự tăng trưởng"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "hardship",
+    "pos": "noun",
+    "ipa": "/ˈhɑːdʃɪp/",
+    "meaning_vi": "sự gian khổ, nỗi khó khăn vất vả",
+    "example_en": "People in the past endured immense hardship during times of war and crop failure.",
+    "example_vi": "Người dân thời xưa đã chịu đựng muôn vàn gian khổ trong thời kỳ chiến tranh và mất mùa.",
+    "word_forms": [
+      {
+        "word": "hard",
+        "pos": "adj",
+        "meaning_vi": "khó khăn, vất vả"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "heritage",
+    "pos": "noun",
+    "ipa": "/ˈherɪtɪdʒ/",
+    "meaning_vi": "di sản",
+    "example_en": "Folk songs and traditional festivals are valuable parts of our intangible cultural heritage.",
+    "example_vi": "Các làn điệu dân ca và lễ hội truyền thống là những phần quý giá trong di sản văn hóa phi vật thể của chúng ta.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "historical",
+    "pos": "adj",
+    "ipa": "/hɪˈstɒrɪkl/",
+    "meaning_vi": "thuộc về lịch sử, có tính lịch sử",
+    "example_en": "Students took part in a walking tour to discover famous historical sites in the capital.",
+    "example_vi": "Học sinh đã tham gia một chuyến đi bộ để khám phá các địa danh lịch sử nổi tiếng tại thủ đô.",
+    "word_forms": [
+      {
+        "word": "history",
+        "pos": "noun",
+        "meaning_vi": "lịch sử"
+      },
+      {
+        "word": "historic",
+        "pos": "adj",
+        "meaning_vi": "mang ý nghĩa lịch sử trọng đại"
+      },
+      {
+        "word": "historian",
+        "pos": "noun",
+        "meaning_vi": "nhà sử học"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "housewife",
+    "pos": "noun",
+    "ipa": "/ˈhaʊswaɪf/",
+    "meaning_vi": "người nội trợ",
+    "example_en": "My grandmother was a dedicated housewife who spent all her time taking care of the home.",
+    "example_vi": "Bà tôi là một người nội trợ tận tụy, dành toàn bộ thời gian chăm sóc gia đình.",
+    "word_forms": [
+      {
+        "word": "housework",
+        "pos": "noun",
+        "meaning_vi": "công việc nhà"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "look back on",
+    "pos": "phrase",
+    "ipa": "/lʊk bæk ɒn/",
+    "meaning_vi": "nhìn lại, hồi tưởng lại quá khứ",
+    "example_en": "Old people usually look back on their youth with a mixture of pride and nostalgia.",
+    "example_vi": "Người già thường nhìn lại thời tuổi trẻ của mình với sự hòa trộn giữa niềm tự hào và nỗi hoài niệm.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "marble",
+    "pos": "noun",
+    "ipa": "/ˈmɑːbl/",
+    "meaning_vi": "viên bi ve, trò chơi bắn bi",
+    "example_en": "Boys used to collect colorful glass marbles to play in the dirt courtyard.",
+    "example_vi": "Các cậu bé từng sưu tập những viên bi ve bằng thủy tinh sặc sỡ để chơi ở sân đất.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "memorable",
+    "pos": "adj",
+    "ipa": "/ˈmemərəbl/",
+    "meaning_vi": "đáng nhớ, không thể nào quên",
+    "example_en": "Listening to our grandfather's wartime stories was an extremely memorable experience.",
+    "example_vi": "Nghe những câu chuyện thời chiến của ông nội là một trải nghiệm vô cùng đáng nhớ.",
+    "word_forms": [
+      {
+        "word": "memory",
+        "pos": "noun",
+        "meaning_vi": "ký ức, trí nhớ"
+      },
+      {
+        "word": "memorize",
+        "pos": "verb",
+        "meaning_vi": "ghi nhớ, học thuộc lòng"
+      },
+      {
+        "word": "memorably",
+        "pos": "adv",
+        "meaning_vi": "đáng ghi nhớ"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "monument",
+    "pos": "noun",
+    "ipa": "/ˈmɒnjumənt/",
+    "meaning_vi": "đài tưởng niệm, di tích lịch sử",
+    "example_en": "The ancient monument was built to commemorate historical heroes of the nation.",
+    "example_vi": "Đài tưởng niệm cổ xưa được xây dựng để tưởng nhớ các vị anh hùng lịch sử của dân tộc.",
+    "word_forms": [
+      {
+        "word": "monumental",
+        "pos": "adj",
+        "meaning_vi": "vĩ đại, mang tính tượng đài"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "nuclear family",
+    "pos": "noun",
+    "ipa": "/ˌnjuːkliə ˈfæməli/",
+    "meaning_vi": "gia đình hạt nhân (chỉ gồm cha mẹ và con cái)",
+    "example_en": "Nowadays, more young couples prefer living in a nuclear family.",
+    "example_vi": "Ngày nay, nhiều cặp vợ chồng trẻ thích sống trong một gia đình hạt nhân hơn.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "occupant",
+    "pos": "noun",
+    "ipa": "/ˈɒkjəpənt/",
+    "meaning_vi": "người ở, người cư ngụ",
+    "example_en": "The occupants of the house shared all daily domestic chores equally.",
+    "example_vi": "Những người sống trong ngôi nhà chia sẻ đều đặn mọi công việc nhà hàng ngày.",
+    "word_forms": [
+      {
+        "word": "occupy",
+        "pos": "verb",
+        "meaning_vi": "chiếm giữ, cư ngụ"
+      },
+      {
+        "word": "occupation",
+        "pos": "noun",
+        "meaning_vi": "nghề nghiệp, sự chiếm đóng"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "oil lamp",
+    "pos": "noun",
+    "ipa": "/ˈɔɪl læmp/",
+    "meaning_vi": "đèn dầu",
+    "example_en": "Before electricity arrived in the village, pupils studied under the dim light of an oil lamp.",
+    "example_vi": "Trước khi điện về làng, học sinh học bài dưới ánh sáng lờ mờ của chiếc đèn dầu.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "pass down",
+    "pos": "phrase",
+    "ipa": "/pɑːs daʊn/",
+    "meaning_vi": "truyền lại, lưu truyền cho thế hệ sau",
+    "example_en": "Valuable moral lessons and cooking recipes were passed down from mothers to daughters.",
+    "example_vi": "Những bài học đạo đức quý báu và công thức nấu ăn đã được truyền lại từ mẹ sang con gái.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "pastime",
+    "pos": "noun",
+    "ipa": "/ˈpɑːstaɪm/",
+    "meaning_vi": "trò tiêu khiển, thú vui giải trí",
+    "example_en": "Playing folk games was a favorite pastime of children in rural areas.",
+    "example_vi": "Chơi các trò chơi dân gian từng là trò tiêu khiển yêu thích của trẻ em ở các vùng nông thôn.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "preservation",
+    "pos": "noun",
+    "ipa": "/ˌprezəˈveɪʃn/",
+    "meaning_vi": "sự bảo tồn, sự gìn giữ",
+    "example_en": "The preservation of ancient architecture helps younger generations understand their roots.",
+    "example_vi": "Việc bảo tồn kiến trúc cổ giúp các thế hệ trẻ hiểu rõ nguồn cội của mình.",
+    "word_forms": [
+      {
+        "word": "preserve",
+        "pos": "verb",
+        "meaning_vi": "bảo tồn, gìn giữ"
+      },
+      {
+        "word": "preservative",
+        "pos": "noun",
+        "meaning_vi": "chất bảo quản"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "rely on",
+    "pos": "phrase",
+    "ipa": "/rɪˈlaɪ ɒn/",
+    "meaning_vi": "dựa dẫm vào, trông cậy vào",
+    "example_en": "In former times, families heavily relied on farming crops for their livelihood.",
+    "example_vi": "Trong thời trước, các gia đình trông cậy rất nhiều vào nghề trồng trọt để kiếm sống.",
+    "word_forms": [
+      {
+        "word": "reliable",
+        "pos": "adj",
+        "meaning_vi": "đáng tin cậy"
+      },
+      {
+        "word": "reliance",
+        "pos": "noun",
+        "meaning_vi": "sự phụ thuộc, sự tin cậy"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "respect",
+    "pos": "verb",
+    "ipa": "/rɪˈspekt/",
+    "meaning_vi": "kính trọng, tôn kính",
+    "example_en": "Younger family members always respect the opinions of their elders.",
+    "example_vi": "Các thành viên trẻ hơn trong gia đình luôn kính trọng ý kiến của bậc trưởng bối.",
+    "word_forms": [
+      {
+        "word": "respectful",
+        "pos": "adj",
+        "meaning_vi": "lễ phép, kính cẩn"
+      },
+      {
+        "word": "disrespectful",
+        "pos": "adj",
+        "meaning_vi": "vô lễ, bất kính"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "respectful",
+    "pos": "adj",
+    "ipa": "/rɪˈspektfl/",
+    "meaning_vi": "tôn trọng, lễ phép, kính cẩn",
+    "example_en": "Children were taught to be polite and respectful towards the elderly.",
+    "example_vi": "Trẻ con được dạy phải lễ phép và tôn trọng đối với người cao tuổi.",
+    "word_forms": [
+      {
+        "word": "respect",
+        "pos": "noun",
+        "meaning_vi": "sự tôn trọng"
+      },
+      {
+        "word": "respect",
+        "pos": "verb",
+        "meaning_vi": "tôn trọng"
+      },
+      {
+        "word": "respectable",
+        "pos": "adj",
+        "meaning_vi": "đáng kính, đoan trang"
+      },
+      {
+        "word": "respectfully",
+        "pos": "adv",
+        "meaning_vi": "một cách cung kính"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "rickshaw",
+    "pos": "noun",
+    "ipa": "/ˈrɪkʃɔː/",
+    "meaning_vi": "xe kéo, xe xích lô",
+    "example_en": "In the nineteenth century, people often traveled around the city by rickshaw.",
+    "example_vi": "Vào thế kỷ 19, người ta thường đi lại quanh thành phố bằng xe kéo.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "seniority",
+    "pos": "noun",
+    "ipa": "/ˌsiːniˈɒrəti/",
+    "meaning_vi": "thâm niên, địa vị bậc trên (theo thâm niên/tuổi tác)",
+    "example_en": "In traditional Asian families, great respect was always paid to seniority.",
+    "example_vi": "Trong các gia đình châu Á truyền thống, người ta luôn dành sự tôn kính lớn cho các bậc cao niên.",
+    "word_forms": [
+      {
+        "word": "senior",
+        "pos": "adj",
+        "meaning_vi": "cao tuổi hơn, cấp trên"
+      },
+      {
+        "word": "senior",
+        "pos": "noun",
+        "meaning_vi": "người lớn tuổi"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "structure",
+    "pos": "noun",
+    "ipa": "/ˈstrʌktʃə(r)/",
+    "meaning_vi": "cơ cấu, cấu trúc",
+    "example_en": "The traditional family structure in Viet Nam has undergone major changes.",
+    "example_vi": "Cơ cấu gia đình truyền thống ở Việt Nam đã trải qua những thay đổi lớn.",
+    "word_forms": [
+      {
+        "word": "structural",
+        "pos": "adj",
+        "meaning_vi": "thuộc về cấu trúc"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "take pride in",
+    "pos": "phrase",
+    "ipa": "/teɪk praɪd ɪn/",
+    "meaning_vi": "tự hào về",
+    "example_en": "Vietnamese people always take pride in their heroic history of defending the nation.",
+    "example_vi": "Người dân Việt Nam luôn tự hào về lịch sử giữ nước hào hùng của mình.",
+    "word_forms": [
+      {
+        "word": "proud",
+        "pos": "adj",
+        "meaning_vi": "tự hào"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "thatched house",
+    "pos": "noun",
+    "ipa": "/θætʃt haʊs/",
+    "meaning_vi": "nhà mái tranh",
+    "example_en": "Decades ago, most villagers lived in modest thatched houses with earthen walls.",
+    "example_vi": "Cách đây nhiều thập kỷ, hầu hết dân làng đều sống trong những ngôi nhà mái tranh đơn sơ với tường đất.",
+    "word_forms": [
+      {
+        "word": "thatch",
+        "pos": "noun",
+        "meaning_vi": "rơm rạ lợp mái"
+      },
+      {
+        "word": "thatch",
+        "pos": "verb",
+        "meaning_vi": "lợp bằng mái tranh"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "tiled roof",
+    "pos": "noun",
+    "ipa": "/taɪld ruːf/",
+    "meaning_vi": "mái ngói",
+    "example_en": "Ancient houses in Hoi An are easily recognized by their dark red tiled roofs.",
+    "example_vi": "Những ngôi nhà cổ ở Hội An rất dễ nhận biết bởi những mái ngói màu đỏ sẫm.",
+    "word_forms": [
+      {
+        "word": "tile",
+        "pos": "noun",
+        "meaning_vi": "viên ngói, gạch lát"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "tradition",
+    "pos": "noun",
+    "ipa": "/trəˈdɪʃn/",
+    "meaning_vi": "truyền thống",
+    "example_en": "We should preserve our rich cultural traditions for future generations.",
+    "example_vi": "Chúng ta nên bảo tồn các truyền thống văn hóa phong phú cho các thế hệ tương lai.",
+    "word_forms": [
+      {
+        "word": "traditional",
+        "pos": "adj",
+        "meaning_vi": "thuộc về truyền thống"
+      },
+      {
+        "word": "traditionally",
+        "pos": "adv",
+        "meaning_vi": "theo truyền thống"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "tram",
+    "pos": "noun",
+    "ipa": "/træm/",
+    "meaning_vi": "xe điện, tàu điện bánh sắt chạy trên đường ray",
+    "example_en": "The ringing sound of old electric trams was once a familiar part of Ha Noi.",
+    "example_vi": "Tiếng chuông leng keng của những chuyến tàu điện cũ từng là một phần quen thuộc của Hà Nội.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "tug of war",
+    "pos": "noun",
+    "ipa": "/ˌtʌɡ əv ˈwɔː(r)/",
+    "meaning_vi": "trò chơi kéo co",
+    "example_en": "Tug of war is an exciting traditional game played at village spring festivals.",
+    "example_vi": "Kéo co là một trò chơi truyền thống sôi nổi được tổ chức tại các lễ hội mùa xuân của làng.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "tuk-tuk",
+    "pos": "noun",
+    "ipa": "/ˈtʊk tʊk/",
+    "meaning_vi": "xe tuk-tuk (xe ba bánh có động cơ)",
+    "example_en": "Tourists enjoy traveling around ancient towns by tuk-tuk.",
+    "example_vi": "Khách du lịch thích đi tham quan quanh các thị trấn cổ bằng xe tuk-tuk.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "unforgettable",
+    "pos": "adj",
+    "ipa": "/ˌʌnfəˈɡetəbl/",
+    "meaning_vi": "không thể quên được",
+    "example_en": "Our trip to the Hue Imperial Citadel left unforgettable impressions on us.",
+    "example_vi": "Chuyến đi tới Cố đô Huế đã để lại cho chúng tôi những ấn tượng không thể nào quên.",
+    "word_forms": [
+      {
+        "word": "forget",
+        "pos": "verb",
+        "meaning_vi": "quên"
+      },
+      {
+        "word": "forgetful",
+        "pos": "adj",
+        "meaning_vi": "hay quên"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "used to",
+    "pos": "phrase",
+    "ipa": "/ˈjuːst tu/",
+    "meaning_vi": "đã từng (thói quen hoặc trạng thái trong quá khứ nay không còn)",
+    "example_en": "Children used to play hide-and-seek outdoors instead of playing computer games.",
+    "example_vi": "Trẻ em từng chơi trốn tìm ngoài trời thay vì chơi trò chơi trên máy tính.",
+    "word_forms": []
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "well-behaved",
+    "pos": "adj",
+    "ipa": "/ˌwel bɪˈheɪvd/",
+    "meaning_vi": "ngoan ngoãn, cư xử đúng mực",
+    "example_en": "The children were well-behaved and always obeyed their parents without arguing.",
+    "example_vi": "Những đứa trẻ rất ngoan ngoãn và luôn vâng lời cha mẹ mà không hề cãi lại.",
+    "word_forms": [
+      {
+        "word": "behave",
+        "pos": "verb",
+        "meaning_vi": "cư xử"
+      },
+      {
+        "word": "behaviour",
+        "pos": "noun",
+        "meaning_vi": "hành vi, cách ứng xử"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "unit_title": "Remembering the Past",
+    "word": "wooden house",
+    "pos": "noun",
+    "ipa": "/ˈwʊdn haʊs/",
+    "meaning_vi": "nhà gỗ",
+    "example_en": "My great-grandparents lived in a traditional wooden house surrounded by fruit trees.",
+    "example_vi": "Cụ tôi từng sống trong một ngôi nhà gỗ truyền thống bao quanh bởi cây ăn quả.",
+    "word_forms": [
+      {
+        "word": "wood",
+        "pos": "noun",
+        "meaning_vi": "gỗ"
+      }
+    ]
+  }
+]

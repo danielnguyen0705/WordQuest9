@@ -1,0 +1,777 @@
+[
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "access",
+    "pos": "noun",
+    "ipa": "/ˈækses/",
+    "meaning_vi": "lối vào, cơ hội tiếp cận đến một nơi",
+    "example_en": "Boats provide the only access to the secluded cave.",
+    "example_vi": "Thuyền bè là phương tiện duy nhất để tiếp cận vào hang động hẻo lánh này.",
+    "word_forms": [
+      {
+        "word": "access",
+        "pos": "verb",
+        "meaning_vi": "tiếp cận, truy cập"
+      },
+      {
+        "word": "accessible",
+        "pos": "adj",
+        "meaning_vi": "có thể tiếp cận được"
+      },
+      {
+        "word": "inaccessible",
+        "pos": "adj",
+        "meaning_vi": "không thể tiếp cận được"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "admiration",
+    "pos": "noun",
+    "ipa": "/ˌædməˈreɪʃn/",
+    "meaning_vi": "sự ngưỡng mộ, lòng khâm phục",
+    "example_en": "The climbers gazed at the magnificent mountain summit with great admiration.",
+    "example_vi": "Những người leo núi nhìn ngắm đỉnh núi hùng vĩ với sự ngưỡng mộ vô cùng.",
+    "word_forms": [
+      {
+        "word": "admire",
+        "pos": "verb",
+        "meaning_vi": "chiêm ngưỡng, thán phục"
+      },
+      {
+        "word": "admirable",
+        "pos": "adj",
+        "meaning_vi": "đáng ngưỡng mộ"
+      },
+      {
+        "word": "admiring",
+        "pos": "adj",
+        "meaning_vi": "ngưỡng mộ, khâm phục"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "annual",
+    "pos": "adj",
+    "ipa": "/ˈænjuəl/",
+    "meaning_vi": "thường niên, diễn ra hằng năm",
+    "example_en": "An annual bicycle race is held across the mountain passes in the first week of July.",
+    "example_vi": "Một cuộc đua xe đạp thường niên được tổ chức băng qua các con đèo vào tuần đầu tiên của tháng Bảy.",
+    "word_forms": [
+      {
+        "word": "annually",
+        "pos": "adv",
+        "meaning_vi": "hằng năm"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "ask for permission",
+    "pos": "phrase",
+    "ipa": "/ɑːsk fɔː(r) pəˈmɪʃn/",
+    "meaning_vi": "xin phép",
+    "example_en": "Tourists must ask for permission before entering sacred natural zones.",
+    "example_vi": "Khách du lịch phải xin phép trước khi tiến vào các khu vực tự nhiên linh thiêng.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "at risk of",
+    "pos": "phrase",
+    "ipa": "/æt rɪsk əv/",
+    "meaning_vi": "có nguy cơ, trước hiểm họa",
+    "example_en": "Many natural wonders are at risk of being damaged by excessive tourism.",
+    "example_vi": "Nhiều kỳ quan thiên nhiên có nguy cơ bị phá hủy bởi hoạt động du lịch quá tải.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "biodiversity",
+    "pos": "noun",
+    "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "meaning_vi": "sự đa dạng sinh học",
+    "example_en": "Deforestation and forest fires pose serious threats to the biodiversity of the rainforest.",
+    "example_vi": "Nạn phá rừng và cháy rừng gây ra những mối đe dọa nghiêm trọng đối với sự đa dạng sinh học của rừng mưa.",
+    "word_forms": [
+      {
+        "word": "diversity",
+        "pos": "noun",
+        "meaning_vi": "sự đa dạng"
+      },
+      {
+        "word": "diverse",
+        "pos": "adj",
+        "meaning_vi": "đa dạng"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "boost",
+    "pos": "verb",
+    "ipa": "/buːst/",
+    "meaning_vi": "thúc đẩy, làm tăng",
+    "example_en": "Promoting natural wonders can significantly boost local tourism.",
+    "example_vi": "Quảng bá các kỳ quan thiên nhiên có thể thúc đẩy mạnh mẽ ngành du lịch địa phương.",
+    "word_forms": [
+      {
+        "word": "boost",
+        "pos": "noun",
+        "meaning_vi": "sự thúc đẩy"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "can't help doing something",
+    "pos": "phrase",
+    "ipa": "/kɑːnt help ˈduːɪŋ/",
+    "meaning_vi": "không thể không làm gì, không kìm được",
+    "example_en": "Visitors can't help admiring the extraordinary sunset over the desert dunes.",
+    "example_vi": "Du khách không thể không thán phục trước cảnh hoàng hôn kỳ vĩ trên những cồn cát sa mạc.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "cliff",
+    "pos": "noun",
+    "ipa": "/klɪf/",
+    "meaning_vi": "vách đá dựng đứng (ven biển hoặc núi)",
+    "example_en": "There are steep rocky cliffs and deep valleys throughout the Dolomites.",
+    "example_vi": "Có những vách đá dốc đứng và các thung lũng sâu khắp dãy Dolomites.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "contribute to",
+    "pos": "phrase",
+    "ipa": "/kənˈtrɪbjuːt tu/",
+    "meaning_vi": "đóng góp vào",
+    "example_en": "Ecotourism contributes millions of dollars to the country's sustainable economy.",
+    "example_vi": "Du lịch sinh thái đóng góp hàng triệu đô la cho nền kinh tế bền vững của đất nước.",
+    "word_forms": [
+      {
+        "word": "contribution",
+        "pos": "noun",
+        "meaning_vi": "sự đóng góp"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "coral",
+    "pos": "noun",
+    "ipa": "/ˈkɒrəl/",
+    "meaning_vi": "san hô",
+    "example_en": "The Great Barrier Reef contains over 400 different types of corals.",
+    "example_vi": "Rạn san hô Great Barrier Reef chứa hơn 400 loài san hô khác nhau.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "crazy about",
+    "pos": "phrase",
+    "ipa": "/ˈkreɪzi əˈbaʊt/",
+    "meaning_vi": "say mê, thích mê điều gì",
+    "example_en": "Tom is crazy about exploring wonders of nature and watching wildlife.",
+    "example_vi": "Tom rất say mê khám phá các kỳ quan thiên nhiên và ngắm nhìn động vật hoang dã.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "deforestation",
+    "pos": "noun",
+    "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+    "meaning_vi": "nạn phá rừng",
+    "example_en": "Deforestation causes severe soil erosion and destroys natural animal habitats.",
+    "example_vi": "Nạn phá rừng gây xói mòn đất nghiêm trọng và phá hủy môi trường sống tự nhiên của động vật.",
+    "word_forms": [
+      {
+        "word": "forest",
+        "pos": "noun",
+        "meaning_vi": "rừng"
+      },
+      {
+        "word": "afforestation",
+        "pos": "noun",
+        "meaning_vi": "sự trồng rừng"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "destination",
+    "pos": "noun",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "meaning_vi": "điểm đến",
+    "example_en": "The Grand Canyon is one of the greatest tourist destinations in the United States.",
+    "example_vi": "Hẻm núi lớn Grand Canyon là một trong những điểm đến du lịch tuyệt vời nhất tại Hoa Kỳ.",
+    "word_forms": [
+      {
+        "word": "destine",
+        "pos": "verb",
+        "meaning_vi": "dự định, định trước"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "discovery",
+    "pos": "noun",
+    "ipa": "/dɪˈskʌvəri/",
+    "meaning_vi": "sự khám phá, phát hiện",
+    "example_en": "The discovery of Son Doong Cave astonished geologists and adventurers worldwide.",
+    "example_vi": "Sự phát hiện ra Hang Sơn Đoòng đã làm kinh ngạc các nhà địa chất và những người thám hiểm trên toàn thế giới.",
+    "word_forms": [
+      {
+        "word": "discover",
+        "pos": "verb",
+        "meaning_vi": "khám phá, phát hiện"
+      },
+      {
+        "word": "discoverer",
+        "pos": "noun",
+        "meaning_vi": "người khám phá"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "ecosystem",
+    "pos": "noun",
+    "ipa": "/ˈiːkəʊsɪstəm/",
+    "meaning_vi": "hệ sinh thái",
+    "example_en": "Governments and communities should cooperate to restore damaged ecosystems.",
+    "example_vi": "Chính phủ và cộng đồng cần hợp tác để khôi phục các hệ sinh thái bị tổn hại.",
+    "word_forms": [
+      {
+        "word": "ecology",
+        "pos": "noun",
+        "meaning_vi": "sinh thái học"
+      },
+      {
+        "word": "ecological",
+        "pos": "adj",
+        "meaning_vi": "thuộc về sinh thái"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "eruption",
+    "pos": "noun",
+    "ipa": "/ɪˈrʌpʃn/",
+    "meaning_vi": "sự phun trào (núi lửa)",
+    "example_en": "The volcanic eruption created dramatic lava rocks and unique landscapes.",
+    "example_vi": "Đợt phun trào núi lửa đã tạo nên những tảng đá nham thạch kỳ vĩ và phong cảnh độc đáo.",
+    "word_forms": [
+      {
+        "word": "erupt",
+        "pos": "verb",
+        "meaning_vi": "phun trào"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "extinction",
+    "pos": "noun",
+    "ipa": "/ɪkˈstɪŋkʃn/",
+    "meaning_vi": "sự tuyệt chủng",
+    "example_en": "Many precious species in the jungle are facing the danger of extinction.",
+    "example_vi": "Nhiều loài quý hiếm trong rừng rậm đang phải đối mặt với nguy cơ tuyệt chủng.",
+    "word_forms": [
+      {
+        "word": "extinct",
+        "pos": "adj",
+        "meaning_vi": "tuyệt chủng"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "fauna",
+    "pos": "noun",
+    "ipa": "/ˈfɔːnə/",
+    "meaning_vi": "hệ động vật (trong một khu vực)",
+    "example_en": "Scientists study the rare fauna living in the depths of the ocean.",
+    "example_vi": "Các nhà khoa học nghiên cứu hệ động vật quý hiếm sống ở những vùng nước sâu dưới đáy biển.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "feature",
+    "pos": "noun",
+    "ipa": "/ˈfiːtʃə(r)/",
+    "meaning_vi": "đặc điểm, nét đặc trưng",
+    "example_en": "Limestone karst formations are a prominent feature of Ha Long Bay.",
+    "example_vi": "Các kiến tạo núi đá vôi là nét đặc trưng nổi bật của Vịnh Hạ Long.",
+    "word_forms": [
+      {
+        "word": "feature",
+        "pos": "verb",
+        "meaning_vi": "có nét đặc trưng, làm nổi bật"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "flora",
+    "pos": "noun",
+    "ipa": "/ˈflɔːrə/",
+    "meaning_vi": "hệ thực vật (trong một khu vực)",
+    "example_en": "The tropical national park is well-known for its rich flora and fauna.",
+    "example_vi": "Vườn quốc gia nhiệt đới nổi tiếng với hệ thực vật và động vật vô cùng phong phú.",
+    "word_forms": [
+      {
+        "word": "floral",
+        "pos": "adj",
+        "meaning_vi": "thuộc về thực vật, hoa"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "hesitate",
+    "pos": "verb",
+    "ipa": "/ˈhezɪteɪt/",
+    "meaning_vi": "do dự, ngập ngừng, chần chừ",
+    "example_en": "Do not hesitate to book a trip to the mountain pass if you enjoy nature.",
+    "example_vi": "Đừng ngập ngừng đặt chuyến đi đến con đèo nếu bạn là người yêu thiên nhiên.",
+    "word_forms": [
+      {
+        "word": "hesitation",
+        "pos": "noun",
+        "meaning_vi": "sự do dự"
+      },
+      {
+        "word": "hesitant",
+        "pos": "adj",
+        "meaning_vi": "lưỡng lự"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "hesitation",
+    "pos": "noun",
+    "ipa": "/ˌhezɪˈteɪʃn/",
+    "meaning_vi": "sự do dự, sự ngập ngừng",
+    "example_en": "She agreed to join the expedition to the cave without any hesitation.",
+    "example_vi": "Cô ấy đồng ý tham gia chuyến thám hiểm vào hang động mà không hề do dự chút nào.",
+    "word_forms": [
+      {
+        "word": "hesitate",
+        "pos": "verb",
+        "meaning_vi": "do dự, chần chừ"
+      },
+      {
+        "word": "hesitant",
+        "pos": "adj",
+        "meaning_vi": "lưỡng lự, do dự"
+      },
+      {
+        "word": "hesitantly",
+        "pos": "adv",
+        "meaning_vi": "một cách ngập ngừng"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "landscape",
+    "pos": "noun",
+    "ipa": "/ˈlændskeɪp/",
+    "meaning_vi": "phong cảnh, cảnh quan thiên nhiên",
+    "example_en": "A landscape is everything you can see in a large area of land, especially in the countryside.",
+    "example_vi": "Phong cảnh là mọi thứ bạn có thể nhìn thấy trong một vùng đất rộng lớn, đặc biệt là ở vùng nông thôn.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "locate",
+    "pos": "verb",
+    "ipa": "/ləʊˈkeɪt/",
+    "meaning_vi": "định vị, xác định vị trí, đặt ở",
+    "example_en": "The Dead Sea is located between Israel and Jordan.",
+    "example_vi": "Biển Chết nằm ở giữa Israel và Jordan.",
+    "word_forms": [
+      {
+        "word": "location",
+        "pos": "noun",
+        "meaning_vi": "vị trí, địa điểm"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "location",
+    "pos": "noun",
+    "ipa": "/ləʊˈkeɪʃn/",
+    "meaning_vi": "vị trí, địa điểm",
+    "example_en": "The exact location of the waterfall makes it difficult for casual tourists to find.",
+    "example_vi": "Vị trí chính xác của con thác khiến du khách thông thường khó tìm thấy.",
+    "word_forms": [
+      {
+        "word": "locate",
+        "pos": "verb",
+        "meaning_vi": "định vị, đặt tại"
+      },
+      {
+        "word": "located",
+        "pos": "adj",
+        "meaning_vi": "tọa lạc, nằm ở"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "majestic",
+    "pos": "adj",
+    "ipa": "/məˈdʒestɪk/",
+    "meaning_vi": "uy nghi, tráng lệ, hùng vĩ",
+    "example_en": "The Dolomites are a majestic site with sharp peaks and snow-covered slopes.",
+    "example_vi": "Dãy Dolomites là một địa danh uy nghi tráng lệ với những đỉnh núi nhọn hoắt và các sườn dốc phủ tuyết.",
+    "word_forms": [
+      {
+        "word": "majesty",
+        "pos": "noun",
+        "meaning_vi": "vẻ uy nghiêm, sự tráng lệ"
+      },
+      {
+        "word": "majestically",
+        "pos": "adv",
+        "meaning_vi": "một cách uy nghi, tráng lệ"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "mountain range",
+    "pos": "noun",
+    "ipa": "/ˈmaʊntən reɪndʒ/",
+    "meaning_vi": "dãy núi",
+    "example_en": "The Dolomites are an impressive mountain range located in northern Italy.",
+    "example_vi": "Dãy Dolomites là một dãy núi ấn tượng nằm ở miền bắc nước Ý.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "natural wonder",
+    "pos": "noun",
+    "ipa": "/ˌnætʃrəl ˈwʌndə(r)/",
+    "meaning_vi": "kỳ quan thiên nhiên",
+    "example_en": "Ha Long Bay is recognized as one of the most famous natural wonders of the world.",
+    "example_vi": "Vịnh Hạ Long được công nhận là một trong những kỳ quan thiên nhiên nổi tiếng nhất thế giới.",
+    "word_forms": [
+      {
+        "word": "wonder",
+        "pos": "verb",
+        "meaning_vi": "tự hỏi, băn khoăn"
+      },
+      {
+        "word": "wonderful",
+        "pos": "adj",
+        "meaning_vi": "tuyệt vời"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "occur",
+    "pos": "verb",
+    "ipa": "/əˈkɜː(r)/",
+    "meaning_vi": "xảy ra, diễn ra",
+    "example_en": "Severe snowstorms often occur on Mount Everest during the harsh winter.",
+    "example_vi": "Những cơn bão tuyết dữ dội thường xảy ra trên đỉnh Everest trong suốt mùa đông khắc nghiệt.",
+    "word_forms": [
+      {
+        "word": "occurrence",
+        "pos": "noun",
+        "meaning_vi": "sự việc xảy ra"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "paradise",
+    "pos": "noun",
+    "ipa": "/ˈpærədaɪs/",
+    "meaning_vi": "thiên đường, nơi đẹp tuyệt trần",
+    "example_en": "With picturesque green valleys and snowy peaks, the Dolomites are regarded as a paradise on Earth.",
+    "example_vi": "Với những thung lũng xanh như tranh vẽ và những đỉnh núi phủ tuyết, dãy Dolomites được coi là chốn thiên đường nơi hạ giới.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "peak",
+    "pos": "noun",
+    "ipa": "/piːk/",
+    "meaning_vi": "đỉnh núi, chóp núi",
+    "example_en": "Mount Everest is the highest mountain peak on Earth.",
+    "example_vi": "Đỉnh Everest là đỉnh núi cao nhất trên Trái Đất.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "permission",
+    "pos": "noun",
+    "ipa": "/pəˈmɪʃn/",
+    "meaning_vi": "sự cho phép",
+    "example_en": "You must ask for permission from the park guard before camping inside the reserve.",
+    "example_vi": "Bạn phải xin phép nhân viên bảo vệ rừng trước khi cắm trại bên trong khu bảo tồn.",
+    "word_forms": [
+      {
+        "word": "permit",
+        "pos": "verb",
+        "meaning_vi": "cho phép"
+      },
+      {
+        "word": "permit",
+        "pos": "noun",
+        "meaning_vi": "giấy phép"
+      },
+      {
+        "word": "permissible",
+        "pos": "adj",
+        "meaning_vi": "được chấp nhận, có thể cho phép"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "possess",
+    "pos": "verb",
+    "ipa": "/pəˈzes/",
+    "meaning_vi": "sở hữu, có được",
+    "example_en": "The national reserve possesses an extraordinary variety of rare plants.",
+    "example_vi": "Khu bảo tồn quốc gia sở hữu một sự đa dạng đặc biệt của các loài thực vật quý hiếm.",
+    "word_forms": [
+      {
+        "word": "possession",
+        "pos": "noun",
+        "meaning_vi": "sự sở hữu, tài sản"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "possession",
+    "pos": "noun",
+    "ipa": "/pəˈzeʃn/",
+    "meaning_vi": "sự sở hữu, tài sản",
+    "example_en": "The national park came into the possession of the state to protect rare wildlife.",
+    "example_vi": "Vườn quốc gia đã thuộc về quyền sở hữu của nhà nước để bảo vệ động vật hoang dã quý hiếm.",
+    "word_forms": [
+      {
+        "word": "possess",
+        "pos": "verb",
+        "meaning_vi": "sở hữu, có được"
+      },
+      {
+        "word": "possessive",
+        "pos": "adj",
+        "meaning_vi": "sở hữu, muốn chiếm hữu"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "rainforest",
+    "pos": "noun",
+    "ipa": "/ˈreɪnfɒrɪst/",
+    "meaning_vi": "rừng mưa nhiệt đới",
+    "example_en": "The Amazon Rainforest is often referred to as the green lung of the Earth.",
+    "example_vi": "Rừng mưa Amazon thường được xem là lá phổi xanh của Trái Đất.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "restore",
+    "pos": "verb",
+    "ipa": "/rɪˈstɔː(r)/",
+    "meaning_vi": "khôi phục, phục hồi",
+    "example_en": "Volunteers joined together to restore the damaged forest ecosystem by planting native trees.",
+    "example_vi": "Các tình nguyện viên đã cùng nhau khôi phục hệ sinh thái rừng bị tổn hại bằng cách trồng các loài cây bản địa.",
+    "word_forms": [
+      {
+        "word": "restoration",
+        "pos": "noun",
+        "meaning_vi": "sự khôi phục, sự phục hồi"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "sand dune",
+    "pos": "noun",
+    "ipa": "/ˈsænd djuːn/",
+    "meaning_vi": "cồn cát",
+    "example_en": "You can see red sand and beautiful sand dunes everywhere in the desert.",
+    "example_vi": "Bạn có thể thấy cát đỏ và những cồn cát tuyệt đẹp ở khắp mọi nơi trong sa mạc.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "slippery",
+    "pos": "adj",
+    "ipa": "/ˈslɪpəri/",
+    "meaning_vi": "trơn trượt",
+    "example_en": "The path up the rocky mountain was wet and slippery after the heavy rain.",
+    "example_vi": "Con đường lên ngọn núi đá ẩm ướt và trơn trượt sau cơn mưa lớn.",
+    "word_forms": [
+      {
+        "word": "slip",
+        "pos": "verb",
+        "meaning_vi": "trượt chân"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "slope",
+    "pos": "noun",
+    "ipa": "/sləʊp/",
+    "meaning_vi": "dốc, sườn dốc",
+    "example_en": "He walked down the steep mountain slope very carefully.",
+    "example_vi": "Anh ấy cẩn thận đi xuống sườn núi dốc đứng.",
+    "word_forms": [
+      {
+        "word": "sloping",
+        "pos": "adj",
+        "meaning_vi": "nghiêng, dốc"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "snow-covered",
+    "pos": "adj",
+    "ipa": "/ˈsnəʊ kʌvəd/",
+    "meaning_vi": "phủ đầy tuyết",
+    "example_en": "Tourists love admiring the snow-covered peaks of the Alps from afar.",
+    "example_vi": "Du khách rất thích chiêm ngưỡng những đỉnh núi phủ đầy tuyết của dãy Alps từ đằng xa.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "sustainable",
+    "pos": "adj",
+    "ipa": "/səˈsteɪnəbl/",
+    "meaning_vi": "bền vững",
+    "example_en": "We should support sustainable development to preserve natural treasures for the future.",
+    "example_vi": "Chúng ta nên ủng hộ sự phát triển bền vững để gìn giữ những báu vật thiên nhiên cho tương lai.",
+    "word_forms": [
+      {
+        "word": "sustain",
+        "pos": "verb",
+        "meaning_vi": "duy trì, chống đỡ"
+      },
+      {
+        "word": "sustainability",
+        "pos": "noun",
+        "meaning_vi": "tính bền vững"
+      },
+      {
+        "word": "sustainably",
+        "pos": "adv",
+        "meaning_vi": "một cách bền vững"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "urgent",
+    "pos": "adj",
+    "ipa": "/ˈɜːdʒənt/",
+    "meaning_vi": "khẩn cấp, cấp bách",
+    "example_en": "There is an urgent need to protect biological diversity in our national parks.",
+    "example_vi": "Có một nhu cầu cấp bách phải bảo vệ sự đa dạng sinh học trong các vườn quốc gia của chúng ta.",
+    "word_forms": [
+      {
+        "word": "urgency",
+        "pos": "noun",
+        "meaning_vi": "sự khẩn cấp"
+      },
+      {
+        "word": "urgently",
+        "pos": "adv",
+        "meaning_vi": "một cách khẩn cấp"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "valley",
+    "pos": "noun",
+    "ipa": "/ˈvæli/",
+    "meaning_vi": "thung lũng",
+    "example_en": "The mountain range stretches from the Adige River to the Piave River valley.",
+    "example_vi": "Dãy núi trải dài từ sông Adige đến thung lũng sông Piave.",
+    "word_forms": []
+  },
+  {
+    "unit": 7,
+    "unit_title": "Natural Wonders of the World",
+    "word": "volcano",
+    "pos": "noun",
+    "ipa": "/vɒlˈkeɪnəʊ/",
+    "meaning_vi": "núi lửa",
+    "example_en": "Jeju Island was formed by the eruption of an underwater volcano millions of years ago.",
+    "example_vi": "Đảo Jeju được hình thành từ sự phun trào của một ngọn núi lửa ngầm dưới nước hàng triệu năm trước.",
+    "word_forms": [
+      {
+        "word": "volcanic",
+        "pos": "adj",
+        "meaning_vi": "thuộc núi lửa"
+      }
+    ]
+  }
+]

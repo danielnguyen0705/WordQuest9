@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 7,
+    "target_word": "mountain range",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'mountain range' trong địa lý có nghĩa tiếng Việt là gì?",
+    "correct_answer": "dãy núi",
+    "distractors": [
+      "sườn núi",
+      "đỉnh núi",
+      "chân núi"
+    ],
+    "explanation_vi": "'mountain range' là một chuỗi hoặc hệ thống các ngọn núi liền kề nhau, tức 'dãy núi'."
+  },
+  {
+    "unit": 7,
+    "target_word": "sand dune",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'sand dune' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "cồn cát, đụn cát",
+    "distractors": [
+      "hẻm núi đá",
+      "thung lũng lầy",
+      "bãi đá ngầm"
+    ],
+    "explanation_vi": "'sand dune' là một gò cát hoặc đồi cát được hình thành do gió thổi ở sa mạc hoặc bờ biển."
+  },
+  {
+    "unit": 7,
+    "target_word": "biodiversity",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'biodiversity' trong sinh thái học có nghĩa là gì?",
+    "correct_answer": "sự đa dạng sinh học",
+    "distractors": [
+      "sự cân bằng khí hậu",
+      "sự suy thoái đất",
+      "sự ô nhiễm môi trường"
+    ],
+    "explanation_vi": "'biodiversity' là sự phong phú và đa dạng về các loài sinh vật trong một hệ sinh thái."
+  },
+  {
+    "unit": 7,
+    "target_word": "rainforest",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'rainforest' có nghĩa tiếng Việt chuẩn là gì?",
+    "correct_answer": "rừng mưa nhiệt đới",
+    "distractors": [
+      "rừng ngập mặn",
+      "rừng lá kim",
+      "rừng phòng hộ"
+    ],
+    "explanation_vi": "'rainforest' là kiểu rừng rậm nhiệt đới có lượng mưa hàng năm rất lớn."
+  },
+  {
+    "unit": 7,
+    "target_word": "flora",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ 'flora' dùng để chỉ đối tượng nào trong tự nhiên?",
+    "correct_answer": "hệ thực vật",
+    "distractors": [
+      "hệ động vật",
+      "hệ sinh thái biển",
+      "chuỗi thức ăn"
+    ],
+    "explanation_vi": "'flora' chỉ toàn bộ đời sống thực vật thuộc một khu vực hoặc thời kỳ cụ thể."
+  },
+  {
+    "unit": 7,
+    "target_word": "fauna",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ 'fauna' dùng để chỉ đối tượng nào?",
+    "correct_answer": "hệ động vật",
+    "distractors": [
+      "hệ thực vật",
+      "khoáng vật tự nhiên",
+      "sinh vật phù du"
+    ],
+    "explanation_vi": "'fauna' chỉ tất cả các loài động vật sống trong một khu vực địa lý hoặc môi trường xác định."
+  },
+  {
+    "unit": 7,
+    "target_word": "deforestation",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'deforestation' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "nạn phá rừng, sự tàn phá rừng",
+    "distractors": [
+      "sự trồng rừng mới",
+      "sự bảo tồn rừng",
+      "sự tái sinh rừng"
+    ],
+    "explanation_vi": "'deforestation' là hành vi chặt phá cây cối và hủy hoại diện tích rừng trên diện rộng."
+  },
+  {
+    "unit": 7,
+    "target_word": "majestic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'majestic' khi miêu tả cảnh quan thiên nhiên mang ý nghĩa gì?",
+    "correct_answer": "uy nghi, tráng lệ, hùng vĩ",
+    "distractors": [
+      "nhỏ bé, hoang sơ",
+      "bằng phẳng, rộng lớn",
+      "khô cằn, nứt nẻ"
+    ],
+    "explanation_vi": "'majestic' miêu tả vẻ đẹp tráng lệ, oai nghiêm và gây ấn tượng mạnh của các cảnh quan tự nhiên."
+  },
+  {
+    "unit": 7,
+    "target_word": "sustainable",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'sustainable' trong phát triển và bảo vệ môi trường có nghĩa là gì?",
+    "correct_answer": "bền vững",
+    "distractors": [
+      "tạm thời",
+      "lãng phí",
+      "khẩn cấp"
+    ],
+    "explanation_vi": "'sustainable' chỉ phương thức phát triển duy trì được lâu dài mà không gây hại cho môi trường tự nhiên."
+  },
+  {
+    "unit": 7,
+    "target_word": "at risk of",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'at risk of' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "có nguy cơ, đang gặp nguy hiểm",
+    "distractors": [
+      "vượt qua thử thách",
+      "không còn trở ngại",
+      "được bảo vệ tuyệt đối"
+    ],
+    "explanation_vi": "'at risk of' có nghĩa là đang ở trong tình thế có thể gặp nguy hiểm, rủi ro hoặc tổn thất."
+  },
+  {
+    "unit": 7,
+    "target_word": "natural wonder",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào mang nghĩa 'kỳ quan thiên nhiên'?",
+    "correct_answer": "natural wonder",
+    "distractors": [
+      "man-made structure",
+      "historical site",
+      "cultural heritage"
+    ],
+    "explanation_vi": "'natural wonder' là kỳ quan do thiên nhiên tạo ra mà không có bàn tay con người can thiệp."
+  },
+  {
+    "unit": 7,
+    "target_word": "cliff",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'vách đá dựng đứng'?",
+    "correct_answer": "cliff",
+    "distractors": [
+      "valley",
+      "slope",
+      "stream"
+    ],
+    "explanation_vi": "'cliff' là một vùng đá có bề mặt dốc đứng hoặc thẳng đứng, thường ở bờ biển hoặc vùng núi."
+  },
+  {
+    "unit": 7,
+    "target_word": "ecosystem",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Thuật ngữ tiếng Anh nào có nghĩa là 'hệ sinh thái'?",
+    "correct_answer": "ecosystem",
+    "distractors": [
+      "environment",
+      "atmosphere",
+      "temperature"
+    ],
+    "explanation_vi": "'ecosystem' là hệ thống bao gồm các sinh vật sống tương tác với nhau và với môi trường vật lý xung quanh."
+  },
+  {
+    "unit": 7,
+    "target_word": "extinction",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'sự tuyệt chủng' của một loài sinh vật?",
+    "correct_answer": "extinction",
+    "distractors": [
+      "evolution",
+      "adaptation",
+      "reproduction"
+    ],
+    "explanation_vi": "'extinction' là tình trạng một loài thực vật hoặc động vật biến mất vĩnh viễn khỏi Trái Đất."
+  },
+  {
+    "unit": 7,
+    "target_word": "eruption",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'sự phun trào của núi lửa'?",
+    "correct_answer": "eruption",
+    "distractors": [
+      "pollution",
+      "evaporation",
+      "condensation"
+    ],
+    "explanation_vi": "'eruption' là hiện tượng núi lửa phun trào dung nham, tro bụi và khí nóng ra ngoài."
+  },
+  {
+    "unit": 7,
+    "target_word": "permission",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào có nghĩa là 'sự cho phép'?",
+    "correct_answer": "permission",
+    "distractors": [
+      "hesitation",
+      "possession",
+      "admiration"
+    ],
+    "explanation_vi": "'permission' là sự đồng ý, cho phép ai đó làm một điều gì."
+  },
+  {
+    "unit": 7,
+    "target_word": "hesitation",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'sự do dự, chần chừ'?",
+    "correct_answer": "hesitation",
+    "distractors": [
+      "destination",
+      "preservation",
+      "convenience"
+    ],
+    "explanation_vi": "'hesitation' là trạng thái ngập ngừng, đắn đo hoặc chậm trễ trước khi đưa ra quyết định."
+  },
+  {
+    "unit": 7,
+    "target_word": "slippery",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ nào mang nghĩa 'trơn trượt' (do ẩm ướt hoặc băng tuyết)?",
+    "correct_answer": "slippery",
+    "distractors": [
+      "rocky",
+      "steep",
+      "muddy"
+    ],
+    "explanation_vi": "'slippery' diễn tả bề mặt trơn nhẵn, dễ làm trượt chân khi đi lại."
+  },
+  {
+    "unit": 7,
+    "target_word": "snow-covered",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ ghép nào mang nghĩa 'phủ đầy tuyết'?",
+    "correct_answer": "snow-covered",
+    "distractors": [
+      "well-known",
+      "fast-flowing",
+      "deep-rooted"
+    ],
+    "explanation_vi": "'snow-covered' là tính từ ghép miêu tả bề mặt hoặc đỉnh núi bị bao phủ bởi tuyết trắng."
+  },
+  {
+    "unit": 7,
+    "target_word": "ask for permission",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'xin phép' trước khi làm việc gì?",
+    "correct_answer": "ask for permission",
+    "distractors": [
+      "take pride in",
+      "rely on others",
+      "run out of time"
+    ],
+    "explanation_vi": "'ask for permission' có nghĩa là yêu cầu được sự đồng ý, cho phép từ người có thẩm quyền."
+  },
+  {
+    "unit": 7,
+    "target_word": "peaks",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Mount Everest is renowned for having one of the highest mountain ______ in the world.",
+    "correct_answer": "peaks",
+    "distractors": [
+      "tunnels",
+      "caves",
+      "shores"
+    ],
+    "explanation_vi": "Mount Everest nổi tiếng với một trong những đỉnh núi ('peaks') cao nhất thế giới."
+  },
+  {
+    "unit": 7,
+    "target_word": "ecosystems",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Human activities like illegal logging severely harm delicate forest ______ and destroy wildlife habitats.",
+    "correct_answer": "ecosystems",
+    "distractors": [
+      "monuments",
+      "devices",
+      "appliances"
+    ],
+    "explanation_vi": "Hoạt động chặt gỗ trái phép gây tổn hại nghiêm trọng đến các hệ sinh thái ('ecosystems') rừng nhạy cảm."
+  },
+  {
+    "unit": 7,
+    "target_word": "volcano",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Jeju Island in South Korea was formed through the historic eruption of an ancient ______.",
+    "correct_answer": "volcano",
+    "distractors": [
+      "glacier",
+      "desert",
+      "waterfall"
+    ],
+    "explanation_vi": "Đảo Jeju được hình thành qua sự phun trào lịch sử của một ngọn núi lửa ('volcano') cổ xưa."
+  },
+  {
+    "unit": 7,
+    "target_word": "sustainable",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Governments encourage ______ tourism to protect the natural wonder while benefiting the local community.",
+    "correct_answer": "sustainable",
+    "distractors": [
+      "frightening",
+      "exhausting",
+      "disappointing"
+    ],
+    "explanation_vi": "Chính phủ khuyến khích du lịch bền vững ('sustainable tourism') nhằm bảo tồn kỳ quan thiên nhiên."
+  },
+  {
+    "unit": 7,
+    "target_word": "access",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Due to dense tropical jungles, visitors can only gain ______ to the hidden cave by boat.",
+    "correct_answer": "access",
+    "distractors": [
+      "threat",
+      "damage",
+      "conflict"
+    ],
+    "explanation_vi": "Cụm 'gain access to' có nghĩa là tiếp cận, đi vào một địa điểm."
+  },
+  {
+    "unit": 7,
+    "target_word": "hesitation",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When she heard about the trip to the famous canyon, she packed her backpack without any ______.",
+    "correct_answer": "hesitation",
+    "distractors": [
+      "tradition",
+      "seniority",
+      "hardship"
+    ],
+    "explanation_vi": "Cụm từ 'without any hesitation' có nghĩa là không hề chần chừ hay do dự chút nào."
+  },
+  {
+    "unit": 7,
+    "target_word": "boost",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Promoting unique natural attractions on social media can greatly ______ local economic growth.",
+    "correct_answer": "boost",
+    "distractors": [
+      "pollute",
+      "delay",
+      "reduce"
+    ],
+    "explanation_vi": "Quảng bá các điểm tham quan tự nhiên có thể thúc đẩy mạnh mẽ ('boost') sự tăng trưởng kinh tế địa phương."
+  },
+  {
+    "unit": 7,
+    "target_word": "restore",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Environmental organizations are working hard to ______ coral reefs that were damaged by ocean pollution.",
+    "correct_answer": "restore",
+    "distractors": [
+      "memorise",
+      "dye",
+      "destroy"
+    ],
+    "explanation_vi": "Các tổ chức môi trường nỗ lực phục hồi, khôi phục ('restore') các rạn san hô bị hư hại."
+  },
+  {
+    "unit": 7,
+    "target_word": "can't help",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Tourists ______ taking photos when they first lay eyes on the stunning scenery of the bay.",
+    "correct_answer": "can't help",
+    "distractors": [
+      "look forward to",
+      "run out of",
+      "take pride in"
+    ],
+    "explanation_vi": "Cấu trúc 'can't help doing sth' diễn tả ý không thể kìm nén được việc chụp ảnh trước cảnh đẹp."
+  },
+  {
+    "unit": 7,
+    "target_word": "crazy about",
+    "question_type": "contextual_mcq",
+    "prompt_text": "My younger brother is ______ exploring pristine rainforests and observing strange wild creatures.",
+    "correct_answer": "crazy about",
+    "distractors": [
+      "ashamed of",
+      "worried about",
+      "tired of"
+    ],
+    "explanation_vi": "Cụm tính từ 'crazy about' diễn đạt sự đam mê, yêu thích cuồng nhiệt một việc gì đó."
+  },
+  {
+    "unit": 7,
+    "target_word": "discovery",
+    "question_type": "word_form",
+    "prompt_text": "The accidental ______ of a deep underground grotto surprised many scientists worldwide. (DISCOVER)",
+    "correct_answer": "discovery",
+    "distractors": [
+      "discoverer",
+      "discoverable",
+      "discovered"
+    ],
+    "explanation_vi": "Sau tính từ 'accidental' và mạo từ 'The' cần một danh từ chỉ sự việc: 'discovery' (sự khám phá, phát hiện)."
+  },
+  {
+    "unit": 7,
+    "target_word": "accessible",
+    "question_type": "word_form",
+    "prompt_text": "Because of severe landslides during the monsoon, the remote mountain village is no longer ______. (ACCESS)",
+    "correct_answer": "accessible",
+    "distractors": [
+      "accessibility",
+      "accessibly",
+      "accessed"
+    ],
+    "explanation_vi": "Sau 'is no longer' cần một tính từ: 'accessible' (có thể tiếp cận được)."
+  },
+  {
+    "unit": 7,
+    "target_word": "urgently",
+    "question_type": "word_form",
+    "prompt_text": "Rangers must act ______ to rescue wounded wild animals from illegal poachers' traps. (URGENT)",
+    "correct_answer": "urgently",
+    "distractors": [
+      "urgency",
+      "urgent",
+      "urgentness"
+    ],
+    "explanation_vi": "Bổ nghĩa cho động từ hành động 'act' cần một trạng từ: 'urgently' (một cách khẩn cấp)."
+  },
+  {
+    "unit": 7,
+    "target_word": "annually",
+    "question_type": "word_form",
+    "prompt_text": "A colorful flower festival is celebrated ______ in the mountain resort town every spring. (ANNUAL)",
+    "correct_answer": "annually",
+    "distractors": [
+      "anniversary",
+      "annualize",
+      "annual"
+    ],
+    "explanation_vi": "Đứng cuối câu bổ nghĩa cho động từ bị động 'is celebrated' cần một trạng từ chỉ tần suất: 'annually' (hàng năm)."
+  },
+  {
+    "unit": 7,
+    "target_word": "admiration",
+    "question_type": "word_form",
+    "prompt_text": "Visitors always gaze at the majestic limestone karsts with great ______. (ADMIRE)",
+    "correct_answer": "admiration",
+    "distractors": [
+      "admirable",
+      "admiring",
+      "admirably"
+    ],
+    "explanation_vi": "Sau giới từ 'with' và tính từ 'great' cần một danh từ: 'admiration' (sự thán phục, ngưỡng mộ)."
+  },
+  {
+    "unit": 7,
+    "target_word": "extinct",
+    "question_type": "word_form",
+    "prompt_text": "Without timely human protection, many endangered mammal species may soon become ______. (EXTINCTION)",
+    "correct_answer": "extinct",
+    "distractors": [
+      "extinction",
+      "extinctly",
+      "extinctive"
+    ],
+    "explanation_vi": "Sau động từ nối 'become' cần một tính từ: 'extinct' (bị tuyệt chủng)."
+  },
+  {
+    "unit": 7,
+    "target_word": "wonderful",
+    "question_type": "word_form",
+    "prompt_text": "Watching the golden sunrise over the immense sand dunes was a ______ experience. (WONDER)",
+    "correct_answer": "wonderful",
+    "distractors": [
+      "wonderfully",
+      "wondering",
+      "wondrously"
+    ],
+    "explanation_vi": "Trước danh từ 'experience' cần một tính từ mang nghĩa tuyệt vời: 'wonderful'."
+  },
+  {
+    "unit": 7,
+    "target_word": "possessions",
+    "question_type": "word_form",
+    "prompt_text": "Ancient indigenous tribes believed that the sacred land was not among human ______. (POSSESS)",
+    "correct_answer": "possessions",
+    "distractors": [
+      "possessive",
+      "possessor",
+      "possessively"
+    ],
+    "explanation_vi": "Sau tính từ 'human' và giới từ 'among' cần một danh từ số nhiều chỉ của cải, tài sản: 'possessions'."
+  },
+  {
+    "unit": 7,
+    "target_word": "located",
+    "question_type": "word_form",
+    "prompt_text": "The breathtaking waterfall is conveniently ______ near the highway entrance. (LOCATION)",
+    "correct_answer": "located",
+    "distractors": [
+      "location",
+      "locating",
+      "locate"
+    ],
+    "explanation_vi": "Sau 'is' và trạng từ 'conveniently' cần phân từ hai làm tính từ chỉ vị trí: 'located' (tọa lạc, nằm ở)."
+  },
+  {
+    "unit": 7,
+    "target_word": "volcanic",
+    "question_type": "word_form",
+    "prompt_text": "Geologists discovered that the unique black beaches were made of ______ sand. (VOLCANO)",
+    "correct_answer": "volcanic",
+    "distractors": [
+      "volcano",
+      "volcanically",
+      "volcanology"
+    ],
+    "explanation_vi": "Trước danh từ 'sand' cần một tính từ bổ nghĩa: 'volcanic sand' (cát có nguồn gốc từ núi lửa)."
+  }
+]

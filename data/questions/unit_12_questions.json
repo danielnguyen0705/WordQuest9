@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 12,
+    "target_word": "career path",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'career path' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "con đường sự nghiệp, lộ trình phát triển nghề nghiệp",
+    "distractors": [
+      "hợp đồng lao động chính thức",
+      "chương trình thực tập ngắn hạn",
+      "thời gian biểu làm việc hàng ngày"
+    ],
+    "explanation_vi": "'career path' là con đường hoặc lộ trình tiến triển trong sự nghiệp qua các giai đoạn học tập và làm việc."
+  },
+  {
+    "unit": 12,
+    "target_word": "vocational",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'vocational' trong giáo dục có nghĩa là gì?",
+    "correct_answer": "thuộc về dạy nghề, hướng nghiệp",
+    "distractors": [
+      "thuộc về nghiên cứu học thuật",
+      "mang tính lý thuyết hàn lâm",
+      "dành riêng cho bậc đại học"
+    ],
+    "explanation_vi": "'vocational' liên quan đến việc dạy các kỹ năng thực tế cần thiết cho một nghề nghiệp cụ thể."
+  },
+  {
+    "unit": 12,
+    "target_word": "apprenticeship",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'apprenticeship' trong đào tạo nghề có nghĩa tiếng Việt là gì?",
+    "correct_answer": "thời gian học việc, chương trình học nghề thực tập",
+    "distractors": [
+      "bằng cấp thạc sĩ chính quy",
+      "khoản tiền thưởng cuối năm",
+      "buổi phỏng vấn xin việc"
+    ],
+    "explanation_vi": "'apprenticeship' là thời gian một người làm việc cho một người thợ lành nghề để học nghề."
+  },
+  {
+    "unit": 12,
+    "target_word": "qualification",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'qualification' trong hồ sơ xin việc có nghĩa là gì?",
+    "correct_answer": "văn bằng, chứng chỉ, trình độ chuyên môn",
+    "distractors": [
+      "mức lương khởi điểm mong muốn",
+      "lịch trình phỏng vấn tuyển dụng",
+      "đơn khiếu nại của nhân viên"
+    ],
+    "explanation_vi": "'qualification' là bằng cấp hoặc chứng chỉ chứng minh một người đủ năng lực thực hiện công việc."
+  },
+  {
+    "unit": 12,
+    "target_word": "rewarding",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'rewarding' khi nói về một nghề nghiệp có nghĩa là gì?",
+    "correct_answer": "bổ ích, đem lại cảm giác thỏa mãn và ý nghĩa",
+    "distractors": [
+      "nhiều căng thẳng và áp lực",
+      "được trả lương rất thấp",
+      "nhàm chán và lặp đi lặp lại"
+    ],
+    "explanation_vi": "'rewarding' chỉ công việc mang lại sự hài lòng, ý nghĩa và cảm giác có giá trị cho bản thân."
+  },
+  {
+    "unit": 12,
+    "target_word": "hands-on",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'hands-on' trong huấn luyện công việc mang ý nghĩa gì?",
+    "correct_answer": "thực hành, thực tế",
+    "distractors": [
+      "hoàn toàn trên lý thuyết",
+      "làm việc từ xa qua mạng",
+      "dễ dãi, không đòi hỏi"
+    ],
+    "explanation_vi": "'hands-on' chỉ kinh nghiệm thực tế có được qua việc trực tiếp bắt tay vào làm thay vì học lý thuyết."
+  },
+  {
+    "unit": 12,
+    "target_word": "earn a living",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'earn a living' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "kiếm sống, mưu sinh",
+    "distractors": [
+      "tiêu xài lãng phí",
+      "tìm kiếm học bổng",
+      "đầu tư bất động sản"
+    ],
+    "explanation_vi": "'earn a living' có nghĩa là làm việc để kiếm đủ tiền trang trải cho cuộc sống."
+  },
+  {
+    "unit": 12,
+    "target_word": "burn the midnight oil",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'burn the midnight oil' mang ý nghĩa là gì?",
+    "correct_answer": "thức khuya làm việc hoặc học bài",
+    "distractors": [
+      "lãng phí thời gian và tiền bạc",
+      "thất bại trong kỳ thi tuyển",
+      "bỏ việc giữa chừng"
+    ],
+    "explanation_vi": "'burn the midnight oil' là thành ngữ chỉ việc thức rất khuya để học tập hoặc hoàn thành công việc."
+  },
+  {
+    "unit": 12,
+    "target_word": "learn the ropes",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'learn the ropes' trong môi trường làm việc có nghĩa là gì?",
+    "correct_answer": "học cách làm quen và nắm vững quy trình công việc",
+    "distractors": [
+      "vi phạm nội quy công ty",
+      "tranh cãi với đồng nghiệp",
+      "xin nghỉ phép dài hạn"
+    ],
+    "explanation_vi": "'learn the ropes' nghĩa là học hỏi các kỹ năng hoặc quy tắc cơ bản để làm quen với công việc mới."
+  },
+  {
+    "unit": 12,
+    "target_word": "paramedic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'paramedic' chỉ người làm công việc gì?",
+    "correct_answer": "nhân viên cứu thương, nhân viên y tế khẩn cấp",
+    "distractors": [
+      "dược sĩ bào chế thuốc",
+      "hướng dẫn viên du lịch",
+      "kỹ sư phần mềm máy tính"
+    ],
+    "explanation_vi": "'paramedic' là người được đào tạo y tế chuyên xử lý và sơ cứu khẩn cấp cho người bệnh trước khi đến bệnh viện."
+  },
+  {
+    "unit": 12,
+    "target_word": "academic",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'thuộc về học thuật, lý thuyết trường lớp'?",
+    "correct_answer": "academic",
+    "distractors": [
+      "vocational",
+      "demanding",
+      "rewarding"
+    ],
+    "explanation_vi": "'academic' liên quan đến việc học tập, nghiên cứu mang tính hàn lâm tại trường học hoặc viện nghiên cứu."
+  },
+  {
+    "unit": 12,
+    "target_word": "permanent",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ nào mang nghĩa 'lâu dài, vĩnh viễn, hợp đồng chính thức' trong công việc?",
+    "correct_answer": "permanent",
+    "distractors": [
+      "temporary",
+      "part-time",
+      "portable"
+    ],
+    "explanation_vi": "'permanent' chỉ vị trí công việc hoặc hợp đồng ổn định, lâu dài."
+  },
+  {
+    "unit": 12,
+    "target_word": "shift work",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào mang nghĩa 'công việc làm theo ca'?",
+    "correct_answer": "shift work",
+    "distractors": [
+      "career path",
+      "job market",
+      "eye strain"
+    ],
+    "explanation_vi": "'shift work' là hình thức làm việc chia theo các ca khác nhau trong ngày (như ca sáng, ca đêm)."
+  },
+  {
+    "unit": 12,
+    "target_word": "overtime",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'giờ làm thêm, việc làm thêm giờ'?",
+    "correct_answer": "overtime",
+    "distractors": [
+      "deadline",
+      "salary",
+      "posture"
+    ],
+    "explanation_vi": "'overtime' là thời gian làm việc vượt quá giờ quy định tiêu chuẩn trong hợp đồng."
+  },
+  {
+    "unit": 12,
+    "target_word": "demanding",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'đòi hỏi khắt khe, nhiều áp lực' khi nói về một nghề?",
+    "correct_answer": "demanding",
+    "distractors": [
+      "well-paid",
+      "stylish",
+      "bilingual"
+    ],
+    "explanation_vi": "'demanding' miêu tả công việc đòi hỏi rất nhiều thời gian, công sức và sự nỗ lực."
+  },
+  {
+    "unit": 12,
+    "target_word": "broaden your horizons",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Thành ngữ nào mang ý nghĩa 'mở rộng tầm nhìn, mở rộng hiểu biết'?",
+    "correct_answer": "broaden your horizons",
+    "distractors": [
+      "burn the midnight oil",
+      "think outside the box",
+      "at your fingertips"
+    ],
+    "explanation_vi": "'broaden your horizons' có nghĩa là gia tăng kiến thức, trải nghiệm và tầm nhìn về thế giới xung quanh."
+  },
+  {
+    "unit": 12,
+    "target_word": "think outside the box",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Thành ngữ nào mang nghĩa 'suy nghĩ sáng tạo, suy nghĩ vượt ra ngoài khuôn khổ thông thường'?",
+    "correct_answer": "think outside the box",
+    "distractors": [
+      "learn the ropes",
+      "earn a living",
+      "feed on"
+    ],
+    "explanation_vi": "'think outside the box' nghĩa là tư duy đột phá, sáng tạo và không bị giới hạn bởi các lối mòn cũ."
+  },
+  {
+    "unit": 12,
+    "target_word": "counsellor",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'chuyên viên tư vấn / người cố vấn' (về hướng nghiệp, học tập)?",
+    "correct_answer": "counsellor",
+    "distractors": [
+      "mechanic",
+      "carpenter",
+      "pharmacist"
+    ],
+    "explanation_vi": "'counsellor' là người có chuyên môn đưa ra lời khuyên và hướng dẫn về các vấn đề nghề nghiệp hoặc tâm lý."
+  },
+  {
+    "unit": 12,
+    "target_word": "pharmacist",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'dược sĩ' (người phụ trách bán và cấp phát thuốc theo đơn)?",
+    "correct_answer": "pharmacist",
+    "distractors": [
+      "paramedic",
+      "electrician",
+      "tailor"
+    ],
+    "explanation_vi": "'pharmacist' là người có chuyên môn về thuốc và được cấp phép để chuẩn bị, phát thuốc."
+  },
+  {
+    "unit": 12,
+    "target_word": "flight attendant",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào chỉ 'tiếp viên hàng không'?",
+    "correct_answer": "flight attendant",
+    "distractors": [
+      "tour guide",
+      "native speaker",
+      "nature reserve"
+    ],
+    "explanation_vi": "'flight attendant' là nhân viên phục vụ và đảm bảo an toàn cho hành khách trên máy bay."
+  },
+  {
+    "unit": 12,
+    "target_word": "vocational",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Instead of entering a traditional university, Nam enrolled in a ______ school to master culinary arts.",
+    "correct_answer": "vocational",
+    "distractors": [
+      "subpolar",
+      "monolingual",
+      "lightweight"
+    ],
+    "explanation_vi": "Thay vì học đại học truyền thống, Nam chọn học trường nghề ('vocational school') để học nấu ăn."
+  },
+  {
+    "unit": 12,
+    "target_word": "qualifications",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Applicants must possess appropriate academic ______ and language certificates to be considered for this post.",
+    "correct_answer": "qualifications",
+    "distractors": [
+      "landforms",
+      "droppings",
+      "subtitles"
+    ],
+    "explanation_vi": "Ứng viên cần có bằng cấp, trình độ chuyên môn phù hợp ('academic qualifications') khi ứng tuyển."
+  },
+  {
+    "unit": 12,
+    "target_word": "temporary",
+    "question_type": "contextual_mcq",
+    "prompt_text": "During the summer holiday, she found a ______ job as a cashier to earn extra pocket money.",
+    "correct_answer": "temporary",
+    "distractors": [
+      "permanent",
+      "wireless",
+      "bilingual"
+    ],
+    "explanation_vi": "Trong kỳ nghỉ hè, cô ấy tìm một công việc tạm thời / ngắn hạn ('temporary job') làm thu ngân."
+  },
+  {
+    "unit": 12,
+    "target_word": "deadlines",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Software programmers often experience heavy pressure because they have to meet tight ______.",
+    "correct_answer": "deadlines",
+    "distractors": [
+      "postures",
+      "water bodies",
+      "cardboards"
+    ],
+    "explanation_vi": "Lập trình viên chịu áp lực lớn vì phải kịp các hạn chót nghiêm ngặt ('tight deadlines')."
+  },
+  {
+    "unit": 12,
+    "target_word": "take into account",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When deciding on your future occupation, you should ______ your strengths and personal interests.",
+    "correct_answer": "take into account",
+    "distractors": [
+      "lend a hand to",
+      "get by in",
+      "feed on"
+    ],
+    "explanation_vi": "'take into account' có nghĩa là cân nhắc, tính đến điểm mạnh và sở thích cá nhân khi chọn nghề."
+  },
+  {
+    "unit": 12,
+    "target_word": "burn the midnight oil",
+    "question_type": "contextual_mcq",
+    "prompt_text": "To submit the engineering report on time, the entire project team had to ______ for three straight nights.",
+    "correct_answer": "burn the midnight oil",
+    "distractors": [
+      "think outside the box",
+      "raise awareness of",
+      "have a conversation with"
+    ],
+    "explanation_vi": "Cả nhóm phải thức khuya làm việc ('burn the midnight oil') trong suốt ba đêm liên tiếp."
+  },
+  {
+    "unit": 12,
+    "target_word": "mechanic",
+    "question_type": "contextual_mcq",
+    "prompt_text": "When the car engine suddenly made strange noises, my uncle took it to a skilled ______.",
+    "correct_answer": "mechanic",
+    "distractors": [
+      "counsellor",
+      "tailor",
+      "pharmacist"
+    ],
+    "explanation_vi": "Khi xe ô tô phát ra tiếng động lạ, bác tôi đã mang xe đến thợ cơ khí / thợ sửa xe ('mechanic')."
+  },
+  {
+    "unit": 12,
+    "target_word": "counsellor",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Students can book an appointment with the career ______ if they are confused about choosing their senior high stream.",
+    "correct_answer": "counsellor",
+    "distractors": [
+      "paramedic",
+      "carpenter",
+      "flight attendant"
+    ],
+    "explanation_vi": "Học sinh có thể hẹn gặp chuyên viên tư vấn nghề nghiệp ('career counsellor') để nhận lời khuyên."
+  },
+  {
+    "unit": 12,
+    "target_word": "satisfaction",
+    "question_type": "contextual_mcq",
+    "prompt_text": "A supportive office environment and fair promotion opportunities greatly improve employees' job ______.",
+    "correct_answer": "satisfaction",
+    "distractors": [
+      "strain",
+      "balance",
+      "loss"
+    ],
+    "explanation_vi": "'job satisfaction' là sự hài lòng, thỏa mãn đối với công việc của người lao động."
+  },
+  {
+    "unit": 12,
+    "target_word": "hands-on",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Apprentices gain invaluable ______ training by working alongside experienced technicians on real machinery.",
+    "correct_answer": "hands-on",
+    "distractors": [
+      "academic",
+      "stressful",
+      "portable"
+    ],
+    "explanation_vi": "Người học việc có được sự đào tạo mang tính thực hành, thực tế ('hands-on training') bên cạnh các kỹ thuật viên."
+  },
+  {
+    "unit": 12,
+    "target_word": "professional",
+    "question_type": "word_form",
+    "prompt_text": "She completed her medical degree and received high ______ recognition from senior doctors. (PROFESSION)",
+    "correct_answer": "professional",
+    "distractors": [
+      "professionally",
+      "professor",
+      "profess"
+    ],
+    "explanation_vi": "Trước danh từ 'recognition' cần một tính từ bổ nghĩa: 'professional recognition' (sự công nhận về mặt chuyên môn)."
+  },
+  {
+    "unit": 12,
+    "target_word": "occupational",
+    "question_type": "word_form",
+    "prompt_text": "Wearing safety helmets and protective gloves reduces the likelihood of ______ accidents. (OCCUPY)",
+    "correct_answer": "occupational",
+    "distractors": [
+      "occupation",
+      "occupant",
+      "occupancy"
+    ],
+    "explanation_vi": "Trước danh từ 'accidents' cần một tính từ thuộc về nghề nghiệp: 'occupational accidents' (tai nạn lao động / nghề nghiệp)."
+  },
+  {
+    "unit": 12,
+    "target_word": "qualified",
+    "question_type": "word_form",
+    "prompt_text": "The IT enterprise only hires candidates who are thoroughly ______ in computer programming. (QUALIFY)",
+    "correct_answer": "qualified",
+    "distractors": [
+      "qualification",
+      "qualifying",
+      "qualifier"
+    ],
+    "explanation_vi": "Sau cấu trúc 'are thoroughly' cần tính từ biểu thị năng lực: 'qualified in' (đủ trình độ, có năng lực chuyên môn)."
+  },
+  {
+    "unit": 12,
+    "target_word": "employees",
+    "question_type": "word_form",
+    "prompt_text": "The international corporation provides all its ______ with health insurance and annual leave. (EMPLOY)",
+    "correct_answer": "employees",
+    "distractors": [
+      "employers",
+      "employment",
+      "unemployment"
+    ],
+    "explanation_vi": "Sau 'provides all its...' cần danh từ số nhiều chỉ người lao động được công ty cấp bảo hiểm: 'employees' (nhân viên)."
+  },
+  {
+    "unit": 12,
+    "target_word": "applicants",
+    "question_type": "word_form",
+    "prompt_text": "More than five hundred young ______ submitted their resumes for the internship program. (APPLY)",
+    "correct_answer": "applicants",
+    "distractors": [
+      "applications",
+      "applicable",
+      "appliances"
+    ],
+    "explanation_vi": "Sau cụm 'five hundred young' cần một danh từ số nhiều chỉ người nộp đơn ứng tuyển: 'applicants' (ứng viên)."
+  },
+  {
+    "unit": 12,
+    "target_word": "promotion",
+    "question_type": "word_form",
+    "prompt_text": "After leading the marketing campaign successfully, he was considered for a major ______. (PROMOTE)",
+    "correct_answer": "promotion",
+    "distractors": [
+      "promoter",
+      "promotional",
+      "promoted"
+    ],
+    "explanation_vi": "Sau mạo từ 'a' và tính từ 'major' cần danh từ chỉ sự thăng chức: 'promotion'."
+  },
+  {
+    "unit": 12,
+    "target_word": "mechanical",
+    "question_type": "word_form",
+    "prompt_text": "He decided to study ______ engineering because he enjoys designing car components. (MECHANIC)",
+    "correct_answer": "mechanical",
+    "distractors": [
+      "mechanically",
+      "mechanics",
+      "mechanism"
+    ],
+    "explanation_vi": "Trước danh từ 'engineering' cần một tính từ thuộc về cơ khí: 'mechanical engineering' (kỹ thuật cơ khí)."
+  },
+  {
+    "unit": 12,
+    "target_word": "counselling",
+    "question_type": "word_form",
+    "prompt_text": "Secondary students benefit immensely from individual career ______ sessions before graduation. (COUNSEL)",
+    "correct_answer": "counselling",
+    "distractors": [
+      "counsellor",
+      "counselled",
+      "counsels"
+    ],
+    "explanation_vi": "Trước danh từ 'sessions' trong cụm 'career ... sessions' cần danh từ chỉ hoạt động tư vấn: 'counselling' (các buổi tư vấn nghề nghiệp)."
+  },
+  {
+    "unit": 12,
+    "target_word": "satisfactory",
+    "question_type": "word_form",
+    "prompt_text": "The manager praised his work as highly ______ after the trial employment period. (SATISFY)",
+    "correct_answer": "satisfactory",
+    "distractors": [
+      "satisfaction",
+      "satisfied",
+      "satisfactorily"
+    ],
+    "explanation_vi": "Sau cấu trúc 'praised his work as highly...' cần tính từ mang nghĩa thỏa đáng, đạt yêu cầu chất lượng: 'satisfactory'."
+  },
+  {
+    "unit": 12,
+    "target_word": "demands",
+    "question_type": "word_form",
+    "prompt_text": "Young doctors often struggle to balance family life with the physical ______ of hospital shifts. (DEMAND)",
+    "correct_answer": "demands",
+    "distractors": [
+      "demanding",
+      "demandingly",
+      "demanded"
+    ],
+    "explanation_vi": "Sau tính từ 'physical' và có mạo từ 'the' cần một danh từ số nhiều chỉ những đòi hỏi, yêu cầu khắt khe về thể chất: 'demands'."
+  }
+]

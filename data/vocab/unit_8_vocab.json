@@ -1,0 +1,579 @@
+[
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "accommodation",
+    "pos": "noun",
+    "ipa": "/əˌkɒməˈdeɪʃn/",
+    "meaning_vi": "chỗ ở, nơi lưu trú (khách sạn, nhà nghỉ, homestay)",
+    "example_en": "Online travel apps help travellers compare prices and book comfortable accommodation easily.",
+    "example_vi": "Các ứng dụng du lịch trực tuyến giúp du khách so sánh giá và đặt chỗ ở tiện nghi dễ dàng.",
+    "word_forms": [
+      {
+        "word": "accommodate",
+        "pos": "verb",
+        "meaning_vi": "cung cấp chỗ ở, đáp ứng"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "agency",
+    "pos": "noun",
+    "ipa": "/ˈeɪdʒənsi/",
+    "meaning_vi": "hãng, đại lý (du lịch)",
+    "example_en": "If you are travelling abroad for the first time, it's better to look for a reliable travel agency.",
+    "example_vi": "Nếu bạn đi du lịch nước ngoài lần đầu, tốt hơn là nên tìm một công ty du lịch đáng tin cậy.",
+    "word_forms": [
+      {
+        "word": "agent",
+        "pos": "noun",
+        "meaning_vi": "đại lý, nhân viên đại lý"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "book",
+    "pos": "verb",
+    "ipa": "/bʊk/",
+    "meaning_vi": "đặt vé, đặt phòng trước",
+    "example_en": "It is advisable to book air tickets early to secure cheap fares.",
+    "example_vi": "Nên đặt vé máy bay sớm để giữ được giá vé rẻ.",
+    "word_forms": [
+      {
+        "word": "booking",
+        "pos": "noun",
+        "meaning_vi": "sự đặt chỗ trước"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "brochure",
+    "pos": "noun",
+    "ipa": "/ˈbrəʊʃə(r)/",
+    "meaning_vi": "quyển cẩm nang/tập gấp quảng cáo du lịch",
+    "example_en": "I picked up a colorful travel brochure introducing different sightseeing tours in Hue.",
+    "example_vi": "Tôi đã lấy một cuốn tập gấp du lịch đầy màu sắc giới thiệu các tour ngắm cảnh khác nhau ở Huế.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "cruise",
+    "pos": "noun",
+    "ipa": "/kruːz/",
+    "meaning_vi": "chuyến du ngoạn biển, chuyến tàu biển nghỉ dưỡng",
+    "example_en": "We spent two nights on a luxury cruise across Ha Long Bay.",
+    "example_vi": "Chúng tôi đã trải qua hai đêm trên một chuyến du thuyền sang trọng băng qua Vịnh Hạ Long.",
+    "word_forms": [
+      {
+        "word": "cruise",
+        "pos": "verb",
+        "meaning_vi": "du ngoạn bằng tàu thuyền"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "curious",
+    "pos": "adj",
+    "ipa": "/ˈkjʊəriəs/",
+    "meaning_vi": "tò mò, hiếu kỳ muốn khám phá",
+    "example_en": "The visitors were curious about the mysterious legends behind the ancient royal tomb.",
+    "example_vi": "Các du khách rất tò mò về những truyền thuyết bí ẩn đằng sau lăng mộ hoàng gia cổ kính.",
+    "word_forms": [
+      {
+        "word": "curiosity",
+        "pos": "noun",
+        "meaning_vi": "sự tò mò, tính hiếu kỳ"
+      },
+      {
+        "word": "curiously",
+        "pos": "adv",
+        "meaning_vi": "một cách tò mò"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "destination",
+    "pos": "noun",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "meaning_vi": "điểm đến, đích đến du lịch",
+    "example_en": "Bali is an ideal holiday destination for people who love the sea and nature.",
+    "example_vi": "Bali là một điểm đến nghỉ dưỡng lý tưởng cho những người yêu biển và thiên nhiên.",
+    "word_forms": [
+      {
+        "word": "destine",
+        "pos": "verb",
+        "meaning_vi": "định trước, dành riêng"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "domestic tourism",
+    "pos": "noun",
+    "ipa": "/dəˌmestɪk ˈtʊərɪzəm/",
+    "meaning_vi": "du lịch nội địa, du lịch trong nước",
+    "example_en": "The government has introduced policies to promote domestic tourism among citizens.",
+    "example_vi": "Chính phủ đã ban hành nhiều chính sách nhằm thúc đẩy du lịch nội địa trong người dân.",
+    "word_forms": [
+      {
+        "word": "domestic",
+        "pos": "adj",
+        "meaning_vi": "thuộc nội địa, trong nước"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "ecotourism",
+    "pos": "noun",
+    "ipa": "/ˈiːkəʊtʊərɪzəm/",
+    "meaning_vi": "du lịch sinh thái",
+    "example_en": "Ecotourism educates holidaymakers about biodiversity and conserving natural habitats.",
+    "example_vi": "Du lịch sinh thái giáo dục du khách về sự đa dạng sinh học và việc bảo tồn môi trường tự nhiên.",
+    "word_forms": [
+      {
+        "word": "ecotourist",
+        "pos": "noun",
+        "meaning_vi": "khách du lịch sinh thái"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "entrance ticket",
+    "pos": "noun",
+    "ipa": "/ˈentrəns ˈtɪkɪt/",
+    "meaning_vi": "vé vào cổng, vé vào cửa",
+    "example_en": "Visitors need to purchase an entrance ticket before entering the historic citadel.",
+    "example_vi": "Du khách cần mua vé vào cổng trước khi bước vào khu di tích hoàng thành.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "estimate",
+    "pos": "verb",
+    "ipa": "/ˈestɪmeɪt/",
+    "meaning_vi": "ước tính, dự toán (chi phí, thời gian)",
+    "example_en": "Travellers should estimate the total cost of transport, food, and lodging beforehand.",
+    "example_vi": "Du khách nên ước tính trước tổng chi phí đi lại, ăn uống và lưu trú.",
+    "word_forms": [
+      {
+        "word": "estimate",
+        "pos": "noun",
+        "meaning_vi": "sự ước tính, bản dự toán"
+      },
+      {
+        "word": "estimation",
+        "pos": "noun",
+        "meaning_vi": "sự đánh giá, ước lượng"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "excursion",
+    "pos": "noun",
+    "ipa": "/ɪkˈskɜːʃn/",
+    "meaning_vi": "chuyến tham quan ngắn ngày, chuyến dã ngoại",
+    "example_en": "The school organized a weekend excursion to the national botanical gardens.",
+    "example_vi": "Nhà trường đã tổ chức một chuyến tham quan ngắn ngày cuối tuần tới vườn bách thảo quốc gia.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "fixed",
+    "pos": "adj",
+    "ipa": "/fɪkst/",
+    "meaning_vi": "cố định, không thay đổi",
+    "example_en": "Guided excursions have fixed departure times that tourists must follow.",
+    "example_vi": "Các tour tham quan có hướng dẫn viên thường có giờ xuất phát cố định mà du khách phải tuân theo.",
+    "word_forms": [
+      {
+        "word": "fix",
+        "pos": "verb",
+        "meaning_vi": "ấn định, sửa chữa"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "fixed itinerary",
+    "pos": "noun",
+    "ipa": "/fɪkst aɪˈtɪnərəri/",
+    "meaning_vi": "lịch trình cố định",
+    "example_en": "One minor drawback of group travel is that you must stick to a fixed itinerary.",
+    "example_vi": "Một điểm bất tiện nhỏ của du lịch theo đoàn là bạn phải bám sát lịch trình cố định.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "food tourism",
+    "pos": "noun",
+    "ipa": "/fuːd ˈtʊərɪzəm/",
+    "meaning_vi": "du lịch ẩm thực",
+    "example_en": "Food tourism is designed for people who love tasting authentic local specialities.",
+    "example_vi": "Du lịch ẩm thực được thiết kế cho những người yêu thích thưởng thức đặc sản địa phương đích thực.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "graveyard",
+    "pos": "noun",
+    "ipa": "/ˈɡreɪvjɑːd/",
+    "meaning_vi": "nghĩa địa, nghĩa trang lịch sử",
+    "example_en": "The historic graveyard contains monuments dedicated to ancient city rulers.",
+    "example_vi": "Nghĩa trang cổ kính này có những đài tưởng niệm dành riêng cho các vị thủ lĩnh thành phố xưa.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "high season",
+    "pos": "noun",
+    "ipa": "/ˈhaɪ ˈsiːzn/",
+    "meaning_vi": "mùa du lịch cao điểm, mùa đông khách",
+    "example_en": "During the high season, coastal resorts are completely booked up weeks in advance.",
+    "example_vi": "Vào mùa cao điểm, các khu nghỉ dưỡng ven biển đều kín phòng từ trước đó vài tuần.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "holidaymaker",
+    "pos": "noun",
+    "ipa": "/ˈhɒlədeɪmeɪkə(r)/",
+    "meaning_vi": "người đi nghỉ mát, du khách nghỉ lễ",
+    "example_en": "Sunny beaches in Da Nang attract thousands of holidaymakers every summer.",
+    "example_vi": "Những bãi biển đầy nắng ở Đà Nẵng thu hút hàng ngàn du khách nghỉ mát vào mỗi mùa hè.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "homestay",
+    "pos": "noun",
+    "ipa": "/ˈhəʊmsteɪ/",
+    "meaning_vi": "dịch vụ lưu trú tại nhà dân",
+    "example_en": "Staying at a homestay in the village allows tourists to taste homemade food and experience local customs.",
+    "example_vi": "Nghỉ tại một homestay trong bản giúp du khách thưởng thức món ăn nhà làm và trải nghiệm phong tục địa phương.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "hop-on hop-off",
+    "pos": "adj",
+    "ipa": "/ˌhɒp ɒn ˌhɒp ˈɒf/",
+    "meaning_vi": "loại hình xe buýt du lịch cho phép tùy ý lên xuống tại nhiều điểm dừng",
+    "example_en": "A hop-on hop-off double-decker bus is the most convenient way to explore Hanoi landmarks.",
+    "example_vi": "Xe buýt hai tầng hop-on hop-off là cách thuận tiện nhất để khám phá các thắng cảnh Hà Nội.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "hunt for",
+    "pos": "phrase",
+    "ipa": "/hʌnt fɔː(r)/",
+    "meaning_vi": "săn tìm, lùng sục (vé máy bay giá rẻ, ưu đãi phòng)",
+    "example_en": "Backpackers often spend hours hunting for discount coupons and cheap accommodation online.",
+    "example_vi": "Dân du lịch bụi thường dành nhiều giờ lùng sục phiếu giảm giá và chỗ ở giá rẻ trên mạng.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "itinerary",
+    "pos": "noun",
+    "ipa": "/aɪˈtɪnərəri/",
+    "meaning_vi": "lịch trình chuyến đi (ngày giờ, tuyến đường, điểm tham quan)",
+    "example_en": "The travel guide handed us a detailed itinerary for our three-day trip in Da Nang.",
+    "example_vi": "Hướng dẫn viên du lịch đã trao cho chúng tôi bản lịch trình chi tiết cho chuyến đi ba ngày tại Đà Nẵng.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "loft",
+    "pos": "noun",
+    "ipa": "/lɒft/",
+    "meaning_vi": "gác mái (phòng áp mái được cải tạo)",
+    "example_en": "Our cozy mountain homestay featured a wooden loft overlooking pine forests.",
+    "example_vi": "Căn homestay miền núi ấm cúng của chúng tôi có một căn gác mái bằng gỗ nhìn ra rừng thông.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "low season",
+    "pos": "noun",
+    "ipa": "/ˈləʊ ˈsiːzn/",
+    "meaning_vi": "mùa du lịch thấp điểm, mùa vắng khách",
+    "example_en": "Flight tickets and hotel rooms are much cheaper if you travel during the low season.",
+    "example_vi": "Vé máy bay và phòng khách sạn rẻ hơn rất nhiều nếu bạn đi du lịch vào mùa thấp điểm.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "luxurious",
+    "pos": "adj",
+    "ipa": "/lʌɡˈʒʊəriəs/",
+    "meaning_vi": "sang trọng, xa hoa, đắt tiền",
+    "example_en": "They decided to stay at a luxurious beachfront hotel with modern spa amenities.",
+    "example_vi": "Họ quyết định nghỉ tại một khách sạn hướng biển xa hoa với các tiện ích spa hiện đại.",
+    "word_forms": [
+      {
+        "word": "luxury",
+        "pos": "noun",
+        "meaning_vi": "sự xa hoa, đồ xa xỉ"
+      },
+      {
+        "word": "luxuriously",
+        "pos": "adv",
+        "meaning_vi": "một cách xa hoa"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "must-go",
+    "pos": "adj",
+    "ipa": "/ˈmʌst ɡəʊ/",
+    "meaning_vi": "nhất định phải đến, không thể bỏ qua",
+    "example_en": "With its ancient architecture and tasty delicacies, Hoi An is a must-go destination.",
+    "example_vi": "Với kiến trúc cổ kính và nhiều món ngon, Hội An là một điểm đến nhất định phải ghé qua.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "package holiday",
+    "pos": "noun",
+    "ipa": "/ˈpækɪdʒ ˈhɒlədeɪ/",
+    "meaning_vi": "kỳ nghỉ trọn gói",
+    "example_en": "Elderly travellers usually prefer a package holiday because transport and lodging are pre-arranged.",
+    "example_vi": "Du khách lớn tuổi thường chuộng kỳ nghỉ trọn gói vì việc đi lại và chỗ ở đều đã được sắp xếp trước.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "package tour",
+    "pos": "noun",
+    "ipa": "/ˈpækɪdʒ tʊə(r)/",
+    "meaning_vi": "chuyến tham quan trọn gói, tour trọn gói",
+    "example_en": "When taking a package tour, you have to follow a fixed itinerary set by the organizer.",
+    "example_vi": "Khi tham gia tour trọn gói, bạn phải tuân thủ lịch trình cố định do đơn vị tổ chức đưa ra.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "romantic",
+    "pos": "adj",
+    "ipa": "/rəʊˈmæntɪk/",
+    "meaning_vi": "lãng mạn, nên thơ",
+    "example_en": "Da Lat is known for its romantic pine hills and tranquil misty lakes.",
+    "example_vi": "Đà Lạt nổi tiếng với những đồi thông lãng mạn và những hồ nước mờ sương yên bình.",
+    "word_forms": [
+      {
+        "word": "romance",
+        "pos": "noun",
+        "meaning_vi": "sự lãng mạn"
+      },
+      {
+        "word": "romantically",
+        "pos": "adv",
+        "meaning_vi": "một cách lãng mạn"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "ruinous",
+    "pos": "adj",
+    "ipa": "/ˈruːɪnəs/",
+    "meaning_vi": "đổ nát, hoang tàn",
+    "example_en": "The Colosseum in Rome was partially ruinous, yet it looked incredibly majestic.",
+    "example_vi": "Đấu trường La Mã ở Rome bị đổ nát một phần, tuy nhiên trông nó vẫn vô cùng uy nghi.",
+    "word_forms": [
+      {
+        "word": "ruin",
+        "pos": "noun",
+        "meaning_vi": "sự đổ nát, tàn tích"
+      },
+      {
+        "word": "ruin",
+        "pos": "verb",
+        "meaning_vi": "phá hủy, làm hỏng"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "ruinous site",
+    "pos": "noun",
+    "ipa": "/ˈruːɪnəs saɪt/",
+    "meaning_vi": "khu di tích đổ nát, tàn tích cổ",
+    "example_en": "Archaeologists are restoring the ancient temple, which was formerly a ruinous site.",
+    "example_vi": "Các nhà khảo cổ học đang khôi phục ngôi đền cổ xưa, nơi trước đây từng là một khu di tích đổ nát.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "self-guided tour",
+    "pos": "noun",
+    "ipa": "/ˌself ˈɡaɪdɪd tʊə(r)/",
+    "meaning_vi": "chuyến du lịch tự túc, tour tự túc khám phá",
+    "example_en": "Young adventurers often prefer a self-guided tour so that they can manage their own schedule.",
+    "example_vi": "Những bạn trẻ thích phiêu lưu thường thích tour tự túc để có thể tự quản lý thời gian biểu của mình.",
+    "word_forms": [
+      {
+        "word": "self-guided",
+        "pos": "adj",
+        "meaning_vi": "tự tổ chức, có tính chất tự túc"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "shopping tourism",
+    "pos": "noun",
+    "ipa": "/ˈʃɒpɪŋ ˈtʊərɪzəm/",
+    "meaning_vi": "du lịch mua sắm",
+    "example_en": "Hong Kong and Singapore are world-famous hubs for shopping tourism.",
+    "example_vi": "Hồng Kông và Singapore là những trung tâm nổi tiếng thế giới về du lịch mua sắm.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "smooth",
+    "pos": "adj",
+    "ipa": "/smuːð/",
+    "meaning_vi": "suôn sẻ, trôi chảy, không gặp trục trặc",
+    "example_en": "Thanks to careful preparation and good navigation apps, we had a very smooth trip.",
+    "example_vi": "Nhờ chuẩn bị kỹ lưỡng và ứng dụng chỉ đường tốt, chúng tôi đã có một chuyến đi rất suôn sẻ.",
+    "word_forms": [
+      {
+        "word": "smoothly",
+        "pos": "adv",
+        "meaning_vi": "một cách suôn sẻ, êm xuôi"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "souvenir shop",
+    "pos": "noun",
+    "ipa": "/ˌsuːvəˈnɪə ʃɒp/",
+    "meaning_vi": "cửa hàng bán đồ lưu niệm",
+    "example_en": "She dropped by a small souvenir shop to buy some hand-painted silk fans for her friends.",
+    "example_vi": "Cô ấy ghé vào một cửa hàng lưu niệm nhỏ để mua vài chiếc quạt lụa vẽ tay cho bạn bè.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "sports tourism",
+    "pos": "noun",
+    "ipa": "/spɔːts ˈtʊərɪzəm/",
+    "meaning_vi": "du lịch thể thao (đi xem hoặc tham gia thi đấu thể thao)",
+    "example_en": "Sports tourism involves travelling to another country to attend major sporting events.",
+    "example_vi": "Du lịch thể thao bao gồm việc đi đến quốc gia khác để tham dự các sự kiện thể thao lớn.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "terraced field",
+    "pos": "noun",
+    "ipa": "/ˈterəst fiːld/",
+    "meaning_vi": "ruộng bậc thang",
+    "example_en": "Foreign visitors love photographing golden terraced fields during the harvest season in Mu Cang Chai.",
+    "example_vi": "Du khách nước ngoài rất thích chụp ảnh những thửa ruộng bậc thang chín vàng vào mùa gặt ở Mù Cang Chải.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "tour guide",
+    "pos": "noun",
+    "ipa": "/ˈtʊə ɡaɪd/",
+    "meaning_vi": "hướng dẫn viên du lịch",
+    "example_en": "The enthusiastic tour guide gave an informative speech about the temple ruins.",
+    "example_vi": "Người hướng dẫn viên du lịch nhiệt tình đã có bài thuyết minh bổ ích về tàn tích đền đài.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "travel agency",
+    "pos": "noun",
+    "ipa": "/ˈtrævl ˈeɪdʒənsi/",
+    "meaning_vi": "công ty lữ hành, đại lý du lịch",
+    "example_en": "The travel agency takes care of almost everything for travellers on a package tour.",
+    "example_vi": "Công ty lữ hành lo liệu hầu như mọi thứ cho du khách trong một chuyến du lịch trọn gói.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "wander",
+    "pos": "verb",
+    "ipa": "/ˈwɒndə(r)/",
+    "meaning_vi": "đi dạo lang thang, tản bộ thong dong",
+    "example_en": "We spent the cool evening wandering along narrow paved alleys in Hoi An.",
+    "example_vi": "Chúng tôi dành buổi tối mát mẻ tản bộ thong dong dọc theo những con ngõ nhỏ lát đá ở Hội An.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "work out",
+    "pos": "phrase",
+    "ipa": "/wɜːk aʊt/",
+    "meaning_vi": "soạn thảo, lên kế hoạch, tính toán chi phí",
+    "example_en": "Before heading off, they worked out an itinerary and estimated the travel budget.",
+    "example_vi": "Trước khi lên đường, họ đã cùng nhau lên lịch trình và tính toán ngân sách du lịch.",
+    "word_forms": []
+  },
+  {
+    "unit": 8,
+    "unit_title": "Tourism",
+    "word": "world-famous",
+    "pos": "adj",
+    "ipa": "/ˌwɜːld ˈfeɪməs/",
+    "meaning_vi": "nổi tiếng khắp thế giới",
+    "example_en": "Ha Long Bay is a world-famous tourist attraction that welcomes millions of visitors each year.",
+    "example_vi": "Vịnh Hạ Long là điểm du lịch nổi tiếng thế giới đón hàng triệu lượt khách mỗi năm.",
+    "word_forms": []
+  }
+]

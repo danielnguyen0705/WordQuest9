@@ -1,0 +1,937 @@
+[
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "artisan",
+    "pos": "noun",
+    "ipa": "/ˌɑːtɪˈzæn/",
+    "meaning_vi": "thợ làm nghề thủ công, nghệ nhân",
+    "example_en": "The skilled artisans in Bat Trang village make beautiful ceramic vases by hand.",
+    "example_vi": "Những nghệ nhân lành nghề ở làng Bát Tràng làm ra những chiếc bình gốm tuyệt đẹp bằng tay.",
+    "word_forms": [
+      {
+        "word": "artisanal",
+        "pos": "adj",
+        "meaning_vi": "thuộc nghề thủ công"
+      },
+      {
+        "word": "artisanry",
+        "pos": "noun",
+        "meaning_vi": "tay nghề thủ công"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "city centre",
+    "pos": "noun",
+    "ipa": "/ˈsɪti ˈsentə(r)/",
+    "meaning_vi": "trung tâm thành phố",
+    "example_en": "They decided to move to a peaceful suburb rather than staying in the noisy city centre.",
+    "example_vi": "Họ quyết định chuyển ra vùng ngoại ô yên bình thay vì tiếp tục ở trung tâm thành phố ồn ào.",
+    "word_forms": [
+      {
+        "word": "central",
+        "pos": "adj",
+        "meaning_vi": "thuộc trung tâm"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "clay",
+    "pos": "noun",
+    "ipa": "/kleɪ/",
+    "meaning_vi": "đất sét (nguyên liệu làm gốm)",
+    "example_en": "Artisans shape soft clay on the potter's wheel to create decorative bowls and vases.",
+    "example_vi": "Các nghệ nhân tạo hình đất sét mềm trên bàn xoay để làm ra những chiếc bát và bình hoa trang trí.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "close-knit",
+    "pos": "adj",
+    "ipa": "/ˌkləʊs ˈnɪt/",
+    "meaning_vi": "gắn kết chặt chẽ, khăng khít",
+    "example_en": "A close-knit community always supports each other during difficult times.",
+    "example_vi": "Một cộng đồng gắn kết khăng khít luôn đùm bọc, giúp đỡ lẫn nhau trong những lúc khó khăn.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "come back",
+    "pos": "phrase",
+    "ipa": "/kʌm bæk/",
+    "meaning_vi": "trở về, quay trở lại",
+    "example_en": "After years of working in big cities, many young artisans decide to come back to their home village.",
+    "example_vi": "Sau nhiều năm làm việc tại thành phố lớn, nhiều nghệ nhân trẻ quyết định quay trở về làng quê của mình.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "community",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːnəti/",
+    "meaning_vi": "cộng đồng",
+    "example_en": "Everyone in our local community joined hands to clean up the neighbourhood park.",
+    "example_vi": "Mọi người trong cộng đồng địa phương chúng tôi đã chung tay dọn sạch công viên khu phố.",
+    "word_forms": [
+      {
+        "word": "communal",
+        "pos": "adj",
+        "meaning_vi": "công cộng, chung của cộng đồng"
+      },
+      {
+        "word": "communicate",
+        "pos": "verb",
+        "meaning_vi": "giao tiếp"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "community center",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːnəti ˈsentə(r)/",
+    "meaning_vi": "nhà văn hóa cộng đồng, trung tâm sinh hoạt cộng đồng",
+    "example_en": "People often gather at the community center to hold meetings and practice sports.",
+    "example_vi": "Mọi người thường tập trung tại nhà văn hóa cộng đồng để họp hành và rèn luyện thể thao.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "community helper",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːnəti ˈhelpə(r)/",
+    "meaning_vi": "người phục vụ cộng đồng",
+    "example_en": "Firefighters, police officers, and nurses are important community helpers.",
+    "example_vi": "Lính cứu hỏa, cảnh sát và y tá là những người phục vụ cộng đồng quan trọng.",
+    "word_forms": [
+      {
+        "word": "help",
+        "pos": "verb",
+        "meaning_vi": "giúp đỡ"
+      },
+      {
+        "word": "helpful",
+        "pos": "adj",
+        "meaning_vi": "hữu ích, hay giúp đỡ"
+      },
+      {
+        "word": "helpfully",
+        "pos": "adv",
+        "meaning_vi": "một cách hữu ích"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "conical hat",
+    "pos": "noun",
+    "ipa": "/ˈkɒnɪkl hæt/",
+    "meaning_vi": "nón lá",
+    "example_en": "Chuong village is famous for making delicate conical hats from palm leaves.",
+    "example_vi": "Làng Chuông nổi tiếng với nghề làm những chiếc nón lá tinh xảo từ lá cọ.",
+    "word_forms": [
+      {
+        "word": "conical",
+        "pos": "adj",
+        "meaning_vi": "hình nón"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "craft village",
+    "pos": "noun",
+    "ipa": "/krɑːft ˈvɪlɪdʒ/",
+    "meaning_vi": "làng nghề thủ công",
+    "example_en": "Van Phuc is a famous traditional silk craft village near Ha Noi.",
+    "example_vi": "Vạn Phúc là một làng nghề lụa truyền thống nổi tiếng gần Hà Nội.",
+    "word_forms": [
+      {
+        "word": "craft",
+        "pos": "verb",
+        "meaning_vi": "chế tác thủ công"
+      },
+      {
+        "word": "craftsman",
+        "pos": "noun",
+        "meaning_vi": "thợ thủ công"
+      },
+      {
+        "word": "craftsmanship",
+        "pos": "noun",
+        "meaning_vi": "sự khéo léo, tay nghề"
+      },
+      {
+        "word": "craft",
+        "pos": "noun",
+        "meaning_vi": "nghề thủ công, kỹ nghệ"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "cut down on",
+    "pos": "phrase",
+    "ipa": "/kʌt daʊn ɒn/",
+    "meaning_vi": "cắt giảm",
+    "example_en": "Our neighbourhood is trying to cut down on single-use plastic bags.",
+    "example_vi": "Khu phố của chúng tôi đang cố gắng cắt giảm túi nhựa dùng một lần.",
+    "word_forms": [
+      {
+        "word": "cutback",
+        "pos": "noun",
+        "meaning_vi": "sự cắt giảm"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "delivery person",
+    "pos": "noun",
+    "ipa": "/dɪˈlɪvəri ˈpɜːsn/",
+    "meaning_vi": "nhân viên giao hàng",
+    "example_en": "The delivery person brought the package right to our front door on time.",
+    "example_vi": "Nhân viên giao hàng đã mang kiện hàng tới tận cửa trước nhà chúng tôi đúng giờ.",
+    "word_forms": [
+      {
+        "word": "deliver",
+        "pos": "verb",
+        "meaning_vi": "giao hàng, chuyển phát"
+      },
+      {
+        "word": "delivery",
+        "pos": "noun",
+        "meaning_vi": "sự giao hàng"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "electrical wire",
+    "pos": "noun",
+    "ipa": "/ɪˈlektrɪkl waɪə(r)/",
+    "meaning_vi": "dây dẫn điện",
+    "example_en": "The electrician checks and repairs exposed electrical wires to prevent accidents.",
+    "example_vi": "Thợ điện kiểm tra và sửa chữa những đường dây điện bị hở để ngăn ngừa tai nạn.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "electrician",
+    "pos": "noun",
+    "ipa": "/ɪˌlekˈtrɪʃn/",
+    "meaning_vi": "thợ điện",
+    "example_en": "We called an electrician to repair the broken power outlet in the living room.",
+    "example_vi": "Chúng tôi đã gọi thợ điện đến sửa ổ cắm điện bị hỏng trong phòng khách.",
+    "word_forms": [
+      {
+        "word": "electric",
+        "pos": "adj",
+        "meaning_vi": "chạy bằng điện"
+      },
+      {
+        "word": "electrical",
+        "pos": "adj",
+        "meaning_vi": "thuộc về điện"
+      },
+      {
+        "word": "electricity",
+        "pos": "noun",
+        "meaning_vi": "điện năng"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "facilities",
+    "pos": "noun",
+    "ipa": "/fəˈsɪlətiz/",
+    "meaning_vi": "cơ sở vật chất, tiện nghi",
+    "example_en": "The new community centre has modern sports facilities for local teenagers.",
+    "example_vi": "Trung tâm cộng đồng mới có cơ sở vật chất thể thao hiện đại cho thanh thiếu niên địa phương.",
+    "word_forms": [
+      {
+        "word": "facility",
+        "pos": "noun",
+        "meaning_vi": "tiện nghi, cơ sở"
+      },
+      {
+        "word": "facilitate",
+        "pos": "verb",
+        "meaning_vi": "tạo điều kiện thuận lợi"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "find out",
+    "pos": "phrase",
+    "ipa": "/faɪnd aʊt/",
+    "meaning_vi": "tìm hiểu, phát hiện ra thông tin",
+    "example_en": "Tourists visit the local community museum to find out about traditional handicrafts.",
+    "example_vi": "Khách du lịch ghé thăm bảo tàng cộng đồng địa phương để tìm hiểu về các đồ thủ công truyền thống.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "firefighter",
+    "pos": "noun",
+    "ipa": "/ˈfaɪəfaɪtə(r)/",
+    "meaning_vi": "lính cứu hỏa",
+    "example_en": "The brave firefighters rescued the family from the burning building.",
+    "example_vi": "Những người lính cứu hỏa dũng cảm đã giải cứu gia đình khỏi tòa nhà đang cháy.",
+    "word_forms": [
+      {
+        "word": "firefighting",
+        "pos": "noun",
+        "meaning_vi": "công tác chữa cháy"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "fragrance",
+    "pos": "noun",
+    "ipa": "/ˈfreɪɡrəns/",
+    "meaning_vi": "hương thơm",
+    "example_en": "Vong village's young sticky rice has a gentle, natural fragrance of lotus leaves.",
+    "example_vi": "Cốm làng Vòng có hương thơm dịu nhẹ, tự nhiên của lá sen.",
+    "word_forms": [
+      {
+        "word": "fragrant",
+        "pos": "adj",
+        "meaning_vi": "thơm ngát"
+      },
+      {
+        "word": "fragrantly",
+        "pos": "adv",
+        "meaning_vi": "một cách thơm ngát"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "function",
+    "pos": "noun",
+    "ipa": "/ˈfʌŋkʃn/",
+    "meaning_vi": "chức năng",
+    "example_en": "The main function of this community library is to promote reading habits among children.",
+    "example_vi": "Chức năng chính của thư viện cộng đồng này là thúc đẩy thói quen đọc sách ở trẻ em.",
+    "word_forms": [
+      {
+        "word": "function",
+        "pos": "verb",
+        "meaning_vi": "hoạt động, vận hành"
+      },
+      {
+        "word": "functional",
+        "pos": "adj",
+        "meaning_vi": "thuộc chức năng, thiết thực"
+      },
+      {
+        "word": "functionally",
+        "pos": "adv",
+        "meaning_vi": "về mặt chức năng"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "garbage collector",
+    "pos": "noun",
+    "ipa": "/ˈɡɑːbɪdʒ kəlektə(r)/",
+    "meaning_vi": "nhân viên dọn vệ sinh, người thu gom rác",
+    "example_en": "The garbage collectors work early every morning to keep our streets clean.",
+    "example_vi": "Các nhân viên thu gom rác làm việc từ sáng sớm mỗi ngày để giữ đường phố sạch đẹp.",
+    "word_forms": [
+      {
+        "word": "collect",
+        "pos": "verb",
+        "meaning_vi": "thu gom, sưu tầm"
+      },
+      {
+        "word": "collection",
+        "pos": "noun",
+        "meaning_vi": "bộ sưu tập, sự thu gom"
+      },
+      {
+        "word": "collective",
+        "pos": "adj",
+        "meaning_vi": "tập thể, chung"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "get on with",
+    "pos": "phrase",
+    "ipa": "/ɡet ɒn wɪð/",
+    "meaning_vi": "có quan hệ tốt với, hòa thuận với",
+    "example_en": "My family gets on well with all of our new neighbours in the suburb.",
+    "example_vi": "Gia đình tôi rất hòa thuận với tất cả những người hàng xóm mới ở vùng ngoại ô.",
+    "word_forms": [
+      {
+        "word": "get along with",
+        "pos": "phrase",
+        "meaning_vi": "hòa thuận với (đồng nghĩa)"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "give advice",
+    "pos": "phrase",
+    "ipa": "/ɡɪv ədˈvaɪs/",
+    "meaning_vi": "đưa ra lời khuyên",
+    "example_en": "Older neighbours often give advice on how to grow vegetables in community gardens.",
+    "example_vi": "Các cụ hàng xóm lớn tuổi thường đưa ra lời khuyên về cách trồng rau trong vườn cộng đồng.",
+    "word_forms": [
+      {
+        "word": "advise",
+        "pos": "verb",
+        "meaning_vi": "khuyên bảo"
+      },
+      {
+        "word": "advisable",
+        "pos": "adj",
+        "meaning_vi": "nên làm, thích hợp"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "go out",
+    "pos": "phrase",
+    "ipa": "/ɡəʊ aʊt/",
+    "meaning_vi": "đi ra ngoài, đi chơi",
+    "example_en": "Teenagers enjoy going out with their friends at the local park on Sunday evenings.",
+    "example_vi": "Các bạn thanh thiếu niên thích đi chơi cùng bạn bè tại công viên địa phương vào các buổi tối Chủ nhật.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "hand down",
+    "pos": "phrase",
+    "ipa": "/hænd daʊn/",
+    "meaning_vi": "truyền lại (cho thế hệ sau)",
+    "example_en": "The secret recipe for making com has been handed down through many generations.",
+    "example_vi": "Công thức bí truyền làm cốm đã được truyền lại qua nhiều thế hệ.",
+    "word_forms": [
+      {
+        "word": "hand-me-down",
+        "pos": "noun",
+        "meaning_vi": "đồ cũ truyền lại"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "hand-craft",
+    "pos": "verb",
+    "ipa": "/ˈhænd krɑːft/",
+    "meaning_vi": "chế tác bằng tay, làm thủ công",
+    "example_en": "We can watch local artisans hand-craft exquisite ceramic collections.",
+    "example_vi": "Chúng ta có thể ngắm nhìn các nghệ nhân địa phương chế tác thủ công những bộ sưu tập gốm tinh xảo.",
+    "word_forms": [
+      {
+        "word": "handcrafted",
+        "pos": "adj",
+        "meaning_vi": "được làm thủ công"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "handicraft",
+    "pos": "noun",
+    "ipa": "/ˈhændikrɑːft/",
+    "meaning_vi": "sản phẩm thủ công mỹ nghệ",
+    "example_en": "Tourists often buy bamboo baskets and conical hats as local handicrafts.",
+    "example_vi": "Du khách thường mua giỏ tre và nón lá làm sản phẩm thủ công mỹ nghệ địa phương.",
+    "word_forms": [
+      {
+        "word": "handcrafted",
+        "pos": "adj",
+        "meaning_vi": "được làm thủ công"
+      },
+      {
+        "word": "handicraftsman",
+        "pos": "noun",
+        "meaning_vi": "thợ thủ công"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "look around",
+    "pos": "phrase",
+    "ipa": "/lʊk əˈraʊnd/",
+    "meaning_vi": "ngắm nghía xung quanh, đi tham quan quanh nơi nào",
+    "example_en": "We spent the afternoon looking around the pottery workshops in the village.",
+    "example_vi": "Chúng tôi đã dành cả buổi chiều đi tham quan quanh các xưởng gốm trong làng.",
+    "word_forms": [
+      {
+        "word": "outlook",
+        "pos": "noun",
+        "meaning_vi": "quan điểm, triển vọng"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "look for",
+    "pos": "phrase",
+    "ipa": "/lʊk fɔː(r)/",
+    "meaning_vi": "tìm kiếm",
+    "example_en": "Foreign tourists were looking for traditional lacquerware shops around the walking street.",
+    "example_vi": "Các du khách nước ngoài đang tìm kiếm những cửa hàng bán đồ sơn mài truyền thống quanh phố đi bộ.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "neighbourhood",
+    "pos": "noun",
+    "ipa": "/ˈneɪbəhʊd/",
+    "meaning_vi": "khu vực lân cận, khu dân cư xung quanh",
+    "example_en": "Her new neighbourhood is bigger with wider streets and fewer people.",
+    "example_vi": "Khu dân cư mới của cô ấy rộng hơn với những con đường thông thoáng hơn và ít người hơn.",
+    "word_forms": [
+      {
+        "word": "neighbour",
+        "pos": "noun",
+        "meaning_vi": "người hàng xóm"
+      },
+      {
+        "word": "neighbourly",
+        "pos": "adj",
+        "meaning_vi": "thân thiện, có tình làng nghĩa xóm"
+      },
+      {
+        "word": "neighbourliness",
+        "pos": "noun",
+        "meaning_vi": "sự thân thiện, tình làng nghĩa xóm"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "obey the law",
+    "pos": "phrase",
+    "ipa": "/əˈbeɪ ðə lɔː/",
+    "meaning_vi": "tuân thủ luật pháp, chấp hành luật",
+    "example_en": "Police officers protect people and make sure everybody obeys the law.",
+    "example_vi": "Cảnh sát bảo vệ người dân và đảm bảo mọi người đều tuân thủ pháp luật.",
+    "word_forms": [
+      {
+        "word": "obedient",
+        "pos": "adj",
+        "meaning_vi": "biết vâng lời, ngoan ngoãn"
+      },
+      {
+        "word": "obedience",
+        "pos": "noun",
+        "meaning_vi": "sự tuân theo, sự vâng lời"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "original",
+    "pos": "adj",
+    "ipa": "/əˈrɪdʒənl/",
+    "meaning_vi": "nguyên bản, ban đầu, độc đáo",
+    "example_en": "The artisans try to preserve the original patterns on traditional silk scarves.",
+    "example_vi": "Các nghệ nhân cố gắng gìn giữ những hoa văn nguyên bản trên khăn lụa truyền thống.",
+    "word_forms": [
+      {
+        "word": "origin",
+        "pos": "noun",
+        "meaning_vi": "nguồn gốc"
+      },
+      {
+        "word": "originally",
+        "pos": "adv",
+        "meaning_vi": "ban đầu, vốn dĩ"
+      },
+      {
+        "word": "originality",
+        "pos": "noun",
+        "meaning_vi": "tính độc đáo, nguyên bản"
+      },
+      {
+        "word": "originate",
+        "pos": "verb",
+        "meaning_vi": "bắt nguồn từ"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "pass down",
+    "pos": "phrase",
+    "ipa": "/pɑːs daʊn/",
+    "meaning_vi": "truyền lại, để lại cho đời sau",
+    "example_en": "Older artisans pass down their weaving techniques to young villagers.",
+    "example_vi": "Các nghệ nhân lớn tuổi truyền lại kỹ thuật dệt của mình cho thanh niên trong làng.",
+    "word_forms": [
+      {
+        "word": "passage",
+        "pos": "noun",
+        "meaning_vi": "đoạn văn, lối đi, sự trôi qua"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "pedestrian street",
+    "pos": "noun",
+    "ipa": "/pəˈdestriən striːt/",
+    "meaning_vi": "phố đi bộ",
+    "example_en": "Nguyen Hue Pedestrian Street is a famous open space that attracts many families every weekend.",
+    "example_vi": "Phố đi bộ Nguyễn Huệ là một không gian mở nổi tiếng thu hút nhiều gia đình vào mỗi dịp cuối tuần.",
+    "word_forms": [
+      {
+        "word": "pedestrian",
+        "pos": "noun",
+        "meaning_vi": "người đi bộ"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "police officer",
+    "pos": "noun",
+    "ipa": "/pəˈliːs ˈɒfɪsə(r)/",
+    "meaning_vi": "cảnh sát",
+    "example_en": "The local police officer helped the lost child find his parents safely.",
+    "example_vi": "Viên cảnh sát địa phương đã giúp em bé bị lạc tìm lại bố mẹ an toàn.",
+    "word_forms": [
+      {
+        "word": "police",
+        "pos": "verb",
+        "meaning_vi": "giữ gìn trật tự, kiểm soát"
+      },
+      {
+        "word": "official",
+        "pos": "adj",
+        "meaning_vi": "chính thức"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "pottery",
+    "pos": "noun",
+    "ipa": "/ˈpɒtəri/",
+    "meaning_vi": "đồ gốm, nghề làm gốm",
+    "example_en": "Making pottery requires patience, creativity, and careful shaping on the wheel.",
+    "example_vi": "Nghề làm gốm đòi hỏi sự kiên nhẫn, sáng tạo và tạo hình cẩn thận trên bàn xoay.",
+    "word_forms": [
+      {
+        "word": "potter",
+        "pos": "noun",
+        "meaning_vi": "thợ làm gốm"
+      },
+      {
+        "word": "pot",
+        "pos": "noun",
+        "meaning_vi": "nồi, chậu, bình"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "preserve",
+    "pos": "verb",
+    "ipa": "/prɪˈzɜːv/",
+    "meaning_vi": "bảo tồn, gìn giữ",
+    "example_en": "Local authorities have launched a project to preserve traditional craft villages.",
+    "example_vi": "Chính quyền địa phương đã phát động dự án nhằm bảo tồn các làng nghề truyền thống.",
+    "word_forms": [
+      {
+        "word": "preservation",
+        "pos": "noun",
+        "meaning_vi": "sự bảo tồn"
+      },
+      {
+        "word": "preservative",
+        "pos": "noun",
+        "meaning_vi": "chất bảo quản"
+      },
+      {
+        "word": "preserved",
+        "pos": "adj",
+        "meaning_vi": "được bảo tồn"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "property",
+    "pos": "noun",
+    "ipa": "/ˈprɒpəti/",
+    "meaning_vi": "tài sản, của cải",
+    "example_en": "Firefighters risk their lives to protect people and property from fires.",
+    "example_vi": "Các chiến sĩ cứu hỏa liều mình để bảo vệ người dân và tài sản khỏi hỏa hoạn.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "remind of",
+    "pos": "phrase",
+    "ipa": "/rɪˈmaɪnd əv/",
+    "meaning_vi": "gợi nhớ về, nhắc nhớ đến ai/cái gì",
+    "example_en": "The fragrance of com reminds me of peaceful autumn days in Ha Noi.",
+    "example_vi": "Hương thơm của cốm gợi tôi nhớ về những ngày mùa thu thanh bình ở Hà Nội.",
+    "word_forms": [
+      {
+        "word": "reminder",
+        "pos": "noun",
+        "meaning_vi": "lời nhắc nhở, vật nhắc nhớ"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "run out of",
+    "pos": "phrase",
+    "ipa": "/rʌn aʊt əv/",
+    "meaning_vi": "hết, cạn kiệt",
+    "example_en": "The bakery ran out of fresh bread before nine o'clock this morning.",
+    "example_vi": "Tiệm bánh đã bán hết bánh mì tươi trước chín giờ sáng nay.",
+    "word_forms": [
+      {
+        "word": "shortage",
+        "pos": "noun",
+        "meaning_vi": "sự thiếu hụt"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "shopping mall",
+    "pos": "noun",
+    "ipa": "/ˈʃɒpɪŋ mɔːl/",
+    "meaning_vi": "trung tâm thương mại, khu mua sắm lớn",
+    "example_en": "There is a modern shopping mall located right in the centre of our town.",
+    "example_vi": "Có một trung tâm thương mại hiện đại nằm ngay tại khu trung tâm thị trấn của chúng tôi.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "shorten",
+    "pos": "verb",
+    "ipa": "/ˈʃɔːtn/",
+    "meaning_vi": "rút ngắn (thời gian, quy trình)",
+    "example_en": "Nowadays, villagers use modern machines for some steps to shorten the process.",
+    "example_vi": "Ngày nay, dân làng sử dụng máy móc hiện đại cho một số công đoạn để rút ngắn quy trình.",
+    "word_forms": [
+      {
+        "word": "short",
+        "pos": "adj",
+        "meaning_vi": "ngắn"
+      },
+      {
+        "word": "shortage",
+        "pos": "noun",
+        "meaning_vi": "sự thiếu hụt"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "sort",
+    "pos": "verb",
+    "ipa": "/sɔːt/",
+    "meaning_vi": "phân loại, sắp xếp",
+    "example_en": "We should sort our household trash into recyclables and organic waste.",
+    "example_vi": "Chúng ta nên phân loại rác thải sinh hoạt thành rác tái chế và rác hữu cơ.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "speciality",
+    "pos": "noun",
+    "ipa": "/ˌspeʃiˈæləti/",
+    "meaning_vi": "đặc sản",
+    "example_en": "Bun cha and pho are well-known specialities of Ha Noi.",
+    "example_vi": "Bún chả và phở là những đặc sản nổi tiếng của Hà Nội.",
+    "word_forms": [
+      {
+        "word": "special",
+        "pos": "adj",
+        "meaning_vi": "đặc biệt"
+      },
+      {
+        "word": "specially",
+        "pos": "adv",
+        "meaning_vi": "một cách đặc biệt"
+      },
+      {
+        "word": "specialize",
+        "pos": "verb",
+        "meaning_vi": "chuyên về"
+      },
+      {
+        "word": "specialist",
+        "pos": "noun",
+        "meaning_vi": "chuyên gia"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "suburb",
+    "pos": "noun",
+    "ipa": "/ˈsʌbɜːb/",
+    "meaning_vi": "vùng ngoại ô",
+    "example_en": "Many families choose to live in a quiet suburb to enjoy fresher air.",
+    "example_vi": "Nhiều gia đình chọn sống ở vùng ngoại ô yên tĩnh để tận hưởng không khí trong lành hơn.",
+    "word_forms": [
+      {
+        "word": "suburban",
+        "pos": "adj",
+        "meaning_vi": "thuộc ngoại ô"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "take care of",
+    "pos": "phrase",
+    "ipa": "/teɪk keər əv/",
+    "meaning_vi": "chăm sóc, quan tâm chăm nom",
+    "example_en": "Residents in this apartment complex always take care of the communal green space.",
+    "example_vi": "Cư dân trong khu chung cư này luôn quan tâm chăm sóc không gian xanh sinh hoạt chung.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "tourist attraction",
+    "pos": "noun",
+    "ipa": "/ˈtʊərɪst əˈtrækʃn/",
+    "meaning_vi": "điểm thu hút khách du lịch",
+    "example_en": "Ha Long Bay and Denby village are popular tourist attractions.",
+    "example_vi": "Vịnh Hạ Long và làng Denby là những điểm thu hút khách du lịch nổi tiếng.",
+    "word_forms": [
+      {
+        "word": "attract",
+        "pos": "verb",
+        "meaning_vi": "thu hút"
+      },
+      {
+        "word": "attractive",
+        "pos": "adj",
+        "meaning_vi": "hấp dẫn, lôi cuốn"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "town hall",
+    "pos": "noun",
+    "ipa": "/taʊn hɔːl/",
+    "meaning_vi": "tòa thị chính, trụ sở cơ quan thị trấn",
+    "example_en": "The local authority held an important conference at the town hall.",
+    "example_vi": "Chính quyền địa phương đã tổ chức một hội nghị quan trọng tại tòa thị chính.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "volunteer",
+    "pos": "noun",
+    "ipa": "/ˌvɒlənˈtɪə(r)/",
+    "meaning_vi": "tình nguyện viên",
+    "example_en": "Many young volunteers gathered to collect plastic waste along the lake.",
+    "example_vi": "Nhiều tình nguyện viên trẻ đã tụ họp lại để thu gom rác thải nhựa dọc bờ hồ.",
+    "word_forms": [
+      {
+        "word": "volunteer",
+        "pos": "verb",
+        "meaning_vi": "tình nguyện"
+      },
+      {
+        "word": "voluntary",
+        "pos": "adj",
+        "meaning_vi": "tự nguyện"
+      },
+      {
+        "word": "voluntarily",
+        "pos": "adv",
+        "meaning_vi": "một cách tự nguyện"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "workshop",
+    "pos": "noun",
+    "ipa": "/ˈwɜːkʃɒp/",
+    "meaning_vi": "xưởng làm việc, phân xưởng thủ công",
+    "example_en": "Visitors can make pottery in workshops or find out about the history of pottery in the museum.",
+    "example_vi": "Khách tham quan có thể làm gốm tại các phân xưởng hoặc tìm hiểu về lịch sử nghề gốm trong bảo tàng.",
+    "word_forms": []
+  },
+  {
+    "unit": 1,
+    "unit_title": "Local Community",
+    "word": "world-famous",
+    "pos": "adj",
+    "ipa": "/ˌwɜːld ˈfeɪməs/",
+    "meaning_vi": "nổi tiếng khắp thế giới",
+    "example_en": "Bat Trang ceramic products and Denby pottery are world-famous.",
+    "example_vi": "Các sản phẩm gốm Bát Tràng và đồ gốm Denby nổi tiếng khắp thế giới.",
+    "word_forms": []
+  }
+]

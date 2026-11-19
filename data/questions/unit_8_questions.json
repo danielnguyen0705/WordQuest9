@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 8,
+    "target_word": "travel agency",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'travel agency' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "công ty lữ hành, đại lý du lịch",
+    "distractors": [
+      "ban quản lý khu du lịch",
+      "trạm thông tin du khách",
+      "hội đồng hướng dẫn viên"
+    ],
+    "explanation_vi": "'travel agency' là công ty hoặc đại lý chuyên kinh doanh, sắp xếp vé máy bay, phòng khách sạn và tour cho du khách."
+  },
+  {
+    "unit": 8,
+    "target_word": "brochure",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'brochure' trong ngành du lịch có nghĩa là gì?",
+    "correct_answer": "tập gấp quảng cáo, sách cẩm nang du lịch mỏng",
+    "distractors": [
+      "vé lên tàu máy bay",
+      "hợp đồng bảo hiểm du lịch",
+      "hộ chiếu phổ thông"
+    ],
+    "explanation_vi": "'brochure' là ấn phẩm nhỏ in màu giới thiệu thông tin, hình ảnh về điểm đến hoặc dịch vụ du lịch."
+  },
+  {
+    "unit": 8,
+    "target_word": "holidaymaker",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'holidaymaker' đồng nghĩa với từ nào và mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "người đi nghỉ mát, du khách nghỉ lễ",
+    "distractors": [
+      "người tổ chức sự kiện",
+      "nhân viên đại lý bán vé",
+      "người dân cư trú bản địa"
+    ],
+    "explanation_vi": "'holidaymaker' là người đi du lịch, nghỉ dưỡng trong kỳ nghỉ hoặc ngày lễ."
+  },
+  {
+    "unit": 8,
+    "target_word": "package tour",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'package tour' chỉ loại hình du lịch nào?",
+    "correct_answer": "chuyến tham quan trọn gói, tour trọn gói",
+    "distractors": [
+      "chuyến du lịch tự túc bụi",
+      "chuyến công tác kết hợp hội thảo",
+      "chuyến tham quan trong ngày"
+    ],
+    "explanation_vi": "'package tour' là tour trọn gói bao gồm đầy đủ phương tiện đi lại, phòng ở, ăn uống và lịch trình tham quan."
+  },
+  {
+    "unit": 8,
+    "target_word": "self-guided tour",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'self-guided tour' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "chuyến du lịch tự túc khám phá",
+    "distractors": [
+      "chuyến du lịch có hướng dẫn viên đi kèm",
+      "kỳ nghỉ dưỡng biển cao cấp",
+      "chuyến thám hiểm có đoàn dẫn đường"
+    ],
+    "explanation_vi": "'self-guided tour' là hình thức du khách tự lên kế hoạch và tự mình khám phá điểm đến mà không có hướng dẫn viên đi kèm."
+  },
+  {
+    "unit": 8,
+    "target_word": "itinerary",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'itinerary' trong các chuyến đi có nghĩa tiếng Việt là gì?",
+    "correct_answer": "lịch trình chuyến đi, lộ trình chi tiết",
+    "distractors": [
+      "bản đồ giao thông thành phố",
+      "hóa đơn thanh toán phòng",
+      "nhật ký du lịch cá nhân"
+    ],
+    "explanation_vi": "'itinerary' là bản kế hoạch chi tiết về tuyến đường, thời gian và các địa điểm tham quan của chuyến đi."
+  },
+  {
+    "unit": 8,
+    "target_word": "accommodation",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'accommodation' trong dịch vụ du lịch có nghĩa là gì?",
+    "correct_answer": "chỗ ở, nơi lưu trú (khách sạn, nhà nghỉ...)",
+    "distractors": [
+      "phương tiện vận chuyển hành khách",
+      "dịch vụ ăn uống giải khát",
+      "thủ tục xuất nhập cảnh"
+    ],
+    "explanation_vi": "'accommodation' là từ chỉ chung cho phòng ở, nơi cư trú tạm thời của du khách như khách sạn, nhà nghỉ, homestay."
+  },
+  {
+    "unit": 8,
+    "target_word": "low season",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'low season' trong kinh doanh du lịch mang nghĩa là gì?",
+    "correct_answer": "mùa du lịch thấp điểm, mùa vắng khách",
+    "distractors": [
+      "mùa bão lũ nguy hiểm",
+      "mùa du lịch cao điểm",
+      "mùa lễ hội truyền thống"
+    ],
+    "explanation_vi": "'low season' là khoảng thời gian trong năm có ít du khách đến tham quan nhất, giá phòng và vé thường giảm mạnh."
+  },
+  {
+    "unit": 8,
+    "target_word": "excursion",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'excursion' thường dùng để chỉ chuyến đi như thế nào?",
+    "correct_answer": "chuyến tham quan ngắn ngày, dã ngoại",
+    "distractors": [
+      "chuyến thám hiểm vùng cực nguy hiểm",
+      "cuộc di cư dài ngày xuyên quốc gia",
+      "hành trình bay quốc tế dài giờ"
+    ],
+    "explanation_vi": "'excursion' là chuyến đi chơi ngắn ngày hoặc chuyến tham quan theo đoàn để giải trí hoặc học tập."
+  },
+  {
+    "unit": 8,
+    "target_word": "hop-on hop-off",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm tính từ 'hop-on hop-off' (trong 'hop-on hop-off bus') có nghĩa là gì?",
+    "correct_answer": "tùy ý lên xuống tại các trạm dừng trong tuyến",
+    "distractors": [
+      "chạy tuyến thẳng không dừng đón khách",
+      "chỉ đưa đón khách lúc đêm muộn",
+      "chạy với tốc độ cao trên đường cao tốc"
+    ],
+    "explanation_vi": "'hop-on hop-off' miêu tả loại xe buýt du lịch cho phép du khách tùy ý lên và xuống bất cứ điểm dừng nào trong lộ trình có hiệu lực của vé."
+  },
+  {
+    "unit": 8,
+    "target_word": "ecotourism",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Thuật ngữ tiếng Anh nào chỉ hình thức 'du lịch sinh thái'?",
+    "correct_answer": "ecotourism",
+    "distractors": [
+      "shopping tourism",
+      "domestic tourism",
+      "sports tourism"
+    ],
+    "explanation_vi": "'ecotourism' là hình thức du lịch có trách nhiệm hướng đến các vùng tự nhiên nhằm bảo tồn môi trường."
+  },
+  {
+    "unit": 8,
+    "target_word": "domestic tourism",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào có nghĩa là 'du lịch nội địa / trong nước'?",
+    "correct_answer": "domestic tourism",
+    "distractors": [
+      "inbound tourism",
+      "adventure tourism",
+      "international tourism"
+    ],
+    "explanation_vi": "'domestic tourism' là hoạt động du lịch của người dân diễn ra trong phạm vi lãnh thổ quốc gia của mình."
+  },
+  {
+    "unit": 8,
+    "target_word": "food tourism",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào chỉ loại hình 'du lịch ẩm thực'?",
+    "correct_answer": "food tourism",
+    "distractors": [
+      "historical tourism",
+      "medical tourism",
+      "space tourism"
+    ],
+    "explanation_vi": "'food tourism' là loại hình du lịch tập trung vào việc trải nghiệm và khám phá văn hóa ẩm thực đặc sắc của từng vùng miền."
+  },
+  {
+    "unit": 8,
+    "target_word": "sports tourism",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ nào chỉ loại hình 'du lịch thể thao'?",
+    "correct_answer": "sports tourism",
+    "distractors": [
+      "shopping tourism",
+      "cultural tourism",
+      "business tourism"
+    ],
+    "explanation_vi": "'sports tourism' là hoạt động du lịch kết hợp việc tham gia thi đấu hoặc theo dõi các sự kiện thể thao."
+  },
+  {
+    "unit": 8,
+    "target_word": "tour guide",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào có nghĩa là 'người hướng dẫn viên du lịch'?",
+    "correct_answer": "tour guide",
+    "distractors": [
+      "holidaymaker",
+      "travel agent",
+      "hotel receptionist"
+    ],
+    "explanation_vi": "'tour guide' là người thuyết minh, dẫn đường và hỗ trợ du khách trong suốt chuyến đi."
+  },
+  {
+    "unit": 8,
+    "target_word": "entrance ticket",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ nào có nghĩa là 'vé vào cổng, vé vào cửa' điểm tham quan?",
+    "correct_answer": "entrance ticket",
+    "distractors": [
+      "boarding pass",
+      "parking fine",
+      "luggage tag"
+    ],
+    "explanation_vi": "'entrance ticket' là vé cho phép du khách bước vào tham quan các danh lam thắng cảnh, bảo tàng hay khu vui chơi."
+  },
+  {
+    "unit": 8,
+    "target_word": "high season",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào chỉ 'mùa du lịch cao điểm'?",
+    "correct_answer": "high season",
+    "distractors": [
+      "dry season",
+      "rainy season",
+      "low season"
+    ],
+    "explanation_vi": "'high season' là mùa cao điểm du lịch khi lượng khách đổ về rất đông và chi phí dịch vụ tăng cao."
+  },
+  {
+    "unit": 8,
+    "target_word": "cruise",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'chuyến du ngoạn bằng tàu thủy / du thuyền'?",
+    "correct_answer": "cruise",
+    "distractors": [
+      "flight",
+      "safari",
+      "commute"
+    ],
+    "explanation_vi": "'cruise' là chuyến du lịch thư giãn trên tàu lớn hoặc du thuyền trên biển, sông hồ."
+  },
+  {
+    "unit": 8,
+    "target_word": "wander",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào mang nghĩa 'tản bộ, đi dạo lang thang thong dong ngắm cảnh'?",
+    "correct_answer": "wander",
+    "distractors": [
+      "rush",
+      "wanderlust",
+      "hesitate"
+    ],
+    "explanation_vi": "'wander' có nghĩa là đi dạo chậm rãi, không vội vã và thường không có mục đích cố định."
+  },
+  {
+    "unit": 8,
+    "target_word": "work out",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'lên kế hoạch, tính toán chi phí chuyến đi'?",
+    "correct_answer": "work out",
+    "distractors": [
+      "look after",
+      "put off",
+      "give up"
+    ],
+    "explanation_vi": "'work out' có nghĩa là tính toán, lên kế hoạch chi tiết (ví dụ: work out an itinerary / budget)."
+  },
+  {
+    "unit": 8,
+    "target_word": "destination",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Da Nang is considered an attractive holiday ______ with modern bridges and sandy coastlines.",
+    "correct_answer": "destination",
+    "distractors": [
+      "departure",
+      "obstruction",
+      "extinction"
+    ],
+    "explanation_vi": "'holiday destination' là cụm từ chuẩn chỉ điểm đến du lịch, điểm dừng chân nghỉ mát."
+  },
+  {
+    "unit": 8,
+    "target_word": "package tour",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Since we opted for a ______, the agency organized our flight tickets, transport, and hotel rooms.",
+    "correct_answer": "package tour",
+    "distractors": [
+      "sand dune",
+      "mountain peak",
+      "generation gap"
+    ],
+    "explanation_vi": "Vì chọn tour trọn gói ('package tour') nên công ty đã lo toàn bộ vé bay, xe cộ và phòng khách sạn."
+  },
+  {
+    "unit": 8,
+    "target_word": "accommodation",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Backpackers often stay in budget youth hostels to minimize their spending on ______.",
+    "correct_answer": "accommodation",
+    "distractors": [
+      "souvenirs",
+      "biodiversity",
+      "scenery"
+    ],
+    "explanation_vi": "Dân du lịch bụi thường chọn nhà nghỉ giá rẻ để cắt giảm chi phí chỗ ở lưu trú ('accommodation')."
+  },
+  {
+    "unit": 8,
+    "target_word": "hunt for",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Many students spend hours browsing the internet to ______ cheap plane tickets for their summer break.",
+    "correct_answer": "hunt for",
+    "distractors": [
+      "care for",
+      "account for",
+      "apologize for"
+    ],
+    "explanation_vi": "'hunt for cheap plane tickets' mang nghĩa là săn tìm, lùng sục vé máy bay giá rẻ."
+  },
+  {
+    "unit": 8,
+    "target_word": "self-guided tour",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Instead of following a rigid schedule, they organized a ______ to explore the city at their own pace.",
+    "correct_answer": "self-guided tour",
+    "distractors": [
+      "natural wonder",
+      "traffic jam",
+      "nuclear family"
+    ],
+    "explanation_vi": "Thay vì đi theo lịch trình cứng nhắc, họ đã chọn chuyến du lịch tự túc ('self-guided tour') để tự do khám phá."
+  },
+  {
+    "unit": 8,
+    "target_word": "brochure",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The information booth handed each visitor a colorful ______ that outlined famous attractions in the citadel.",
+    "correct_answer": "brochure",
+    "distractors": [
+      "ticket",
+      "receipt",
+      "permit"
+    ],
+    "explanation_vi": "Quầy thông tin phát tập gấp cẩm nang du lịch ('brochure') giới thiệu các điểm tham quan."
+  },
+  {
+    "unit": 8,
+    "target_word": "holidaymakers",
+    "question_type": "contextual_mcq",
+    "prompt_text": "During the public holidays, thousands of ______ flocked to Nha Trang beach to swim and sunbathe.",
+    "correct_answer": "holidaymakers",
+    "distractors": [
+      "forefathers",
+      "counsellors",
+      "adventurers"
+    ],
+    "explanation_vi": "Vào dịp nghỉ lễ, hàng ngàn du khách nghỉ mát ('holidaymakers') đổ về các bãi biển."
+  },
+  {
+    "unit": 8,
+    "target_word": "low season",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Hotels usually lower their room rates significantly during the ______ to entice more guests.",
+    "correct_answer": "low season",
+    "distractors": [
+      "harvest season",
+      "high season",
+      "rainy season"
+    ],
+    "explanation_vi": "Các khách sạn thường giảm giá phòng rất nhiều vào mùa vắng khách ('low season') để thu hút khách."
+  },
+  {
+    "unit": 8,
+    "target_word": "excursion",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Our class participated in a one-day ______ to Bat Trang ceramic village last Sunday.",
+    "correct_answer": "excursion",
+    "distractors": [
+      "extinction",
+      "resilience",
+      "privacy"
+    ],
+    "explanation_vi": "Cả lớp đã tham gia chuyến dã ngoại / tham quan ngắn ngày ('excursion') đến làng gốm Bát Tràng."
+  },
+  {
+    "unit": 8,
+    "target_word": "smooth",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Because they had booked every single ticket beforehand, their vacation was remarkably ______.",
+    "correct_answer": "smooth",
+    "distractors": [
+      "ruinous",
+      "hostile",
+      "exhausting"
+    ],
+    "explanation_vi": "Nhờ đã đặt trước mọi loại vé, chuyến nghỉ mát của họ diễn ra vô cùng suôn sẻ, êm đẹp ('smooth')."
+  },
+  {
+    "unit": 8,
+    "target_word": "luxurious",
+    "question_type": "word_form",
+    "prompt_text": "The travel group spent their holiday relaxing at a ______ five-star resort by the ocean. (LUXURY)",
+    "correct_answer": "luxurious",
+    "distractors": [
+      "luxuriously",
+      "luxuriousness",
+      "luxuriate"
+    ],
+    "explanation_vi": "Trước cụm danh từ 'five-star resort' cần một tính từ bổ nghĩa: 'luxurious' (xa hoa, sang trọng)."
+  },
+  {
+    "unit": 8,
+    "target_word": "accommodation",
+    "question_type": "word_form",
+    "prompt_text": "Finding affordable hotel ______ during peak festival seasons can be extremely difficult. (ACCOMMODATE)",
+    "correct_answer": "accommodation",
+    "distractors": [
+      "accommodating",
+      "accommodated",
+      "accommodative"
+    ],
+    "explanation_vi": "Sau tính từ 'affordable hotel' và làm chủ ngữ cần danh từ: 'accommodation' (chỗ lưu trú, nơi ở)."
+  },
+  {
+    "unit": 8,
+    "target_word": "tourism",
+    "question_type": "word_form",
+    "prompt_text": "Responsible ecological ______ can bring vital economic income to local ethnic communities. (TOUR)",
+    "correct_answer": "tourism",
+    "distractors": [
+      "tourist",
+      "touristy",
+      "touring"
+    ],
+    "explanation_vi": "Đứng sau các tính từ 'Responsible ecological' cần danh từ chỉ ngành / loại hình: 'tourism' (ngành du lịch)."
+  },
+  {
+    "unit": 8,
+    "target_word": "self-guided",
+    "question_type": "word_form",
+    "prompt_text": "Adventurous youth usually prefer taking ______ walking tours through old alleys. (GUIDE)",
+    "correct_answer": "self-guided",
+    "distractors": [
+      "guidance",
+      "guideline",
+      "guiding"
+    ],
+    "explanation_vi": "Bổ nghĩa cho cụm 'walking tours' cần tính từ ghép chỉ hình thức tự khám phá: 'self-guided'."
+  },
+  {
+    "unit": 8,
+    "target_word": "smoothly",
+    "question_type": "word_form",
+    "prompt_text": "Thanks to our experienced tour guide, the entire 5-day trip ran extraordinarily ______. (SMOOTH)",
+    "correct_answer": "smoothly",
+    "distractors": [
+      "smooth",
+      "smoothness",
+      "smoother"
+    ],
+    "explanation_vi": "Bổ nghĩa cho động từ 'ran' cần trạng từ: 'smoothly' (một cách suôn sẻ, êm thuận)."
+  },
+  {
+    "unit": 8,
+    "target_word": "estimated",
+    "question_type": "word_form",
+    "prompt_text": "The ______ budget for our holiday excursion was much lower than our actual spending. (ESTIMATE)",
+    "correct_answer": "estimated",
+    "distractors": [
+      "estimation",
+      "estimating",
+      "estimable"
+    ],
+    "explanation_vi": "Trước danh từ 'budget' cần tính từ dạng phân từ mang nghĩa 'được ước tính': 'estimated budget'."
+  },
+  {
+    "unit": 8,
+    "target_word": "ruinous",
+    "question_type": "word_form",
+    "prompt_text": "Visitors were fascinated by the ancient, ______ stone castles located atop the cliff. (RUIN)",
+    "correct_answer": "ruinous",
+    "distractors": [
+      "ruining",
+      "ruinously",
+      "ruinedly"
+    ],
+    "explanation_vi": "Đứng sau tính từ 'ancient' qua dấu phẩy để bổ nghĩa cho 'castles' cần tính từ: 'ruinous' (đổ nát, hoang tàn)."
+  },
+  {
+    "unit": 8,
+    "target_word": "romantic",
+    "question_type": "word_form",
+    "prompt_text": "With its sparkling lantern-lit canals, Hoi An provides an exceptionally ______ setting. (ROMANCE)",
+    "correct_answer": "romantic",
+    "distractors": [
+      "romantically",
+      "romanticize",
+      "romanticism"
+    ],
+    "explanation_vi": "Trước danh từ 'setting' và sau phó từ 'exceptionally' cần tính từ: 'romantic' (lãng mạn, thơ mộng)."
+  },
+  {
+    "unit": 8,
+    "target_word": "curiosity",
+    "question_type": "word_form",
+    "prompt_text": "The tourists looked at the indigenous stone carvings with great ______. (CURIOUS)",
+    "correct_answer": "curiosity",
+    "distractors": [
+      "curiously",
+      "curious",
+      "curiousness"
+    ],
+    "explanation_vi": "Sau giới từ 'with' và tính từ 'great' cần một danh từ: 'curiosity' (sự tò mò, lòng hiếu kỳ)."
+  },
+  {
+    "unit": 8,
+    "target_word": "booking",
+    "question_type": "word_form",
+    "prompt_text": "Making an early hotel ______ guarantees you a good room at an affordable rate. (BOOK)",
+    "correct_answer": "booking",
+    "distractors": [
+      "booklet",
+      "booker",
+      "booked"
+    ],
+    "explanation_vi": "Cụm danh từ 'hotel booking' có nghĩa là việc đặt phòng khách sạn."
+  }
+]

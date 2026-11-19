@@ -1,0 +1,1042 @@
+[
+  {
+    "unit": 2,
+    "target_word": "bustling",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho tính từ: \"bustling\"",
+    "correct_answer": "hối hả, nhộn nhịp, náo nhiệt",
+    "distractors": [
+      "vắng vẻ, hiu quạnh",
+      "đắt đỏ, xa xỉ",
+      "đáng tin cậy"
+    ],
+    "explanation_vi": "\"Bustling\" (adj) dùng để miêu tả thành phố, khu chợ hoặc con phố vô cùng nhộn nhịp, đông vui."
+  },
+  {
+    "unit": 2,
+    "target_word": "congested",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho tính từ: \"congested\"",
+    "correct_answer": "tắc nghẽn (giao thông), đông đúc",
+    "distractors": [
+      "đáng sống",
+      "hợp vệ sinh",
+      "rộng rãi, thoáng mát"
+    ],
+    "explanation_vi": "\"Congested\" (adj) chỉ tình trạng đường phố bị tắc nghẽn do quá nhiều xe cộ."
+  },
+  {
+    "unit": 2,
+    "target_word": "concrete jungle",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm danh từ: \"concrete jungle\"",
+    "correct_answer": "rừng bê tông (đô thị dày đặc nhà cao tầng)",
+    "distractors": [
+      "công trường xây dựng",
+      "tiện ích công cộng",
+      "khu bảo tồn thiên nhiên"
+    ],
+    "explanation_vi": "\"Concrete jungle\" mang nghĩa bóng chỉ những đô thị đầy nhà cao tầng bê tông và thiếu mảng xanh."
+  },
+  {
+    "unit": 2,
+    "target_word": "liveable",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho tính từ: \"liveable\"",
+    "correct_answer": "đáng sống",
+    "distractors": [
+      "ngứa ngáy",
+      "tắc nghẽn",
+      "đắt đỏ"
+    ],
+    "explanation_vi": "\"Liveable\" (adj) nghĩa là đáng sống, phù hợp và dễ chịu để sinh sống lâu dài."
+  },
+  {
+    "unit": 2,
+    "target_word": "pricey",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho tính từ: \"pricey\"",
+    "correct_answer": "đắt đỏ",
+    "distractors": [
+      "bình dân, giá rẻ",
+      "an toàn, yên tĩnh",
+      "hối hả, bận rộn"
+    ],
+    "explanation_vi": "\"Pricey\" (adj) đồng nghĩa với \"expensive\", nghĩa là có giá đắt đỏ."
+  },
+  {
+    "unit": 2,
+    "target_word": "reliable",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho tính từ: \"reliable\"",
+    "correct_answer": "đáng tin cậy",
+    "distractors": [
+      "gây ngứa",
+      "chật cứng",
+      "nhộn nhịp"
+    ],
+    "explanation_vi": "\"Reliable\" (adj) nghĩa là đáng tin cậy, hoạt động đúng giờ và ổn định (ví dụ: xe buýt, tàu điện)."
+  },
+  {
+    "unit": 2,
+    "target_word": "come down with",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm động từ: \"come down with\"",
+    "correct_answer": "bị ốm, mắc bệnh gì đó",
+    "distractors": [
+      "đi lại xung quanh",
+      "tiến hành thực hiện",
+      "đi chơi cùng bạn bè"
+    ],
+    "explanation_vi": "\"Come down with + tên bệnh\" nghĩa là bắt đầu bị ốm hoặc mắc bệnh nhẹ (cảm cúm, sốt)."
+  },
+  {
+    "unit": 2,
+    "target_word": "carry out",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm động từ: \"carry out\"",
+    "correct_answer": "tiến hành, thực hiện",
+    "distractors": [
+      "bị mắc bệnh",
+      "tụ tập đi chơi",
+      "chật kín người"
+    ],
+    "explanation_vi": "\"Carry out\" (phrasal verb) nghĩa là tiến hành thực hiện một dự án, khảo sát hay nghiên cứu."
+  },
+  {
+    "unit": 2,
+    "target_word": "public amenity",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho cụm danh từ: \"public amenity\"",
+    "correct_answer": "tiện ích công cộng",
+    "distractors": [
+      "công trường xây dựng",
+      "giờ cao điểm",
+      "kẻ móc túi"
+    ],
+    "explanation_vi": "\"Public amenity\" là các tiện ích công cộng phục vụ cư dân như công viên, thư viện, sân chơi."
+  },
+  {
+    "unit": 2,
+    "target_word": "hygiene",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Chọn nghĩa tiếng Việt đúng nhất cho danh từ: \"hygiene\"",
+    "correct_answer": "vệ sinh, vấn đề vệ sinh",
+    "distractors": [
+      "sự giải trí",
+      "thức ăn thừa",
+      "tàu điện ngầm"
+    ],
+    "explanation_vi": "\"Hygiene\" (n) nghĩa là vệ sinh (vệ sinh cá nhân, vệ sinh an toàn thực phẩm)."
+  },
+  {
+    "unit": 2,
+    "target_word": "rush hour",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm danh từ tiếng Anh tương ứng với nghĩa: \"giờ cao điểm\"",
+    "correct_answer": "rush hour",
+    "distractors": [
+      "traffic jam",
+      "sky train",
+      "construction site"
+    ],
+    "explanation_vi": "\"Rush hour\" là khung giờ cao điểm buổi sáng và chiều khi lượng người đi làm, đi học đông nhất."
+  },
+  {
+    "unit": 2,
+    "target_word": "construction site",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm danh từ tiếng Anh tương ứng với nghĩa: \"công trường xây dựng\"",
+    "correct_answer": "construction site",
+    "distractors": [
+      "concrete jungle",
+      "public amenity",
+      "downtown"
+    ],
+    "explanation_vi": "\"Construction site\" nghĩa là công trường xây dựng, nơi đang thi công nhà cửa hoặc cầu đường."
+  },
+  {
+    "unit": 2,
+    "target_word": "pickpocket",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn danh từ tiếng Anh tương ứng với nghĩa: \"kẻ móc túi\"",
+    "correct_answer": "pickpocket",
+    "distractors": [
+      "leftover",
+      "metro",
+      "entertainment"
+    ],
+    "explanation_vi": "\"Pickpocket\" (n) chỉ kẻ gian chuyên móc túi người đi đường ở nơi đông đúc."
+  },
+  {
+    "unit": 2,
+    "target_word": "downtown",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh tương ứng với nghĩa: \"khu trung tâm thành phố\"",
+    "correct_answer": "downtown",
+    "distractors": [
+      "underground",
+      "leftover",
+      "hygiene"
+    ],
+    "explanation_vi": "\"Downtown\" là khu vực trung tâm sầm uất của thành phố."
+  },
+  {
+    "unit": 2,
+    "target_word": "sky train",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm danh từ tiếng Anh tương ứng với nghĩa: \"tàu điện trên cao\"",
+    "correct_answer": "sky train",
+    "distractors": [
+      "underground",
+      "traffic jam",
+      "rush hour"
+    ],
+    "explanation_vi": "\"Sky train\" là tàu điện chạy trên đường ray trên cao trong đô thị."
+  },
+  {
+    "unit": 2,
+    "target_word": "get around",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ tương ứng với nghĩa: \"đi lại xung quanh (trong thành phố)\"",
+    "correct_answer": "get around",
+    "distractors": [
+      "carry out",
+      "come down with",
+      "hang out with"
+    ],
+    "explanation_vi": "\"Get around\" nghĩa là di chuyển, đi lại từ nơi này sang nơi khác trong khu vực."
+  },
+  {
+    "unit": 2,
+    "target_word": "hang out with",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm động từ tương ứng với nghĩa: \"đi chơi cùng, tụ tập với\"",
+    "correct_answer": "hang out with",
+    "distractors": [
+      "come down with",
+      "get around",
+      "carry out"
+    ],
+    "explanation_vi": "\"Hang out with (someone)\" nghĩa là dành thời gian rảnh đi chơi, tụ tập cùng ai đó."
+  },
+  {
+    "unit": 2,
+    "target_word": "packed with",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm tính từ tương ứng với nghĩa: \"chật cứng, đông nghịt\"",
+    "correct_answer": "packed with",
+    "distractors": [
+      "pricey",
+      "itchy",
+      "reliable"
+    ],
+    "explanation_vi": "\"Be packed with\" nghĩa là chật kín, đông nghịt người hoặc xe cộ."
+  },
+  {
+    "unit": 2,
+    "target_word": "itchy",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn tính từ tiếng Anh tương ứng với nghĩa: \"ngứa, gây ngứa\"",
+    "correct_answer": "itchy",
+    "distractors": [
+      "pricey",
+      "bustling",
+      "liveable"
+    ],
+    "explanation_vi": "\"Itchy\" (adj) diễn tả cảm giác ngứa mắt, ngứa họng do khói bụi ô nhiễm."
+  },
+  {
+    "unit": 2,
+    "target_word": "leftover",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn danh từ tiếng Anh tương ứng với nghĩa: \"thức ăn thừa\"",
+    "correct_answer": "leftover",
+    "distractors": [
+      "hygiene",
+      "metro",
+      "pickpocket"
+    ],
+    "explanation_vi": "\"Leftover\" (thường dùng số nhiều \"leftovers\") nghĩa là thức ăn còn thừa sau bữa ăn."
+  },
+  {
+    "unit": 2,
+    "target_word": "congested",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The streets leading to the city centre are always heavily ___ between 7 a.m. and 8:30 a.m.",
+    "correct_answer": "congested",
+    "distractors": [
+      "liveable",
+      "itchy",
+      "reliable"
+    ],
+    "explanation_vi": "Khung giờ 7h–8h30 sáng là giờ cao điểm nên đường phố luôn bị \"congested\" (tắc nghẽn). Dịch: Các con đường dẫn vào trung tâm thành phố luôn tắc nghẽn nghiêm trọng từ 7 giờ đến 8 giờ 30 sáng."
+  },
+  {
+    "unit": 2,
+    "target_word": "come down with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Lan had to stay home from school yesterday because she ___ a bad cold.",
+    "correct_answer": "came down with",
+    "distractors": [
+      "carried out",
+      "got around",
+      "hung out with"
+    ],
+    "explanation_vi": "\"Come down with a cold\" (bị cảm lạnh), chia quá khứ đơn thành \"came down with\". Dịch: Lan phải nghỉ học ở nhà hôm qua vì bạn ấy bị cảm lạnh nặng."
+  },
+  {
+    "unit": 2,
+    "target_word": "carry out",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The local government plans to ___ a project to plant ten thousand more trees downtown.",
+    "correct_answer": "carry out",
+    "distractors": [
+      "hang out with",
+      "come down with",
+      "get around"
+    ],
+    "explanation_vi": "\"Carry out a project\" nghĩa là triển khai/thực hiện một dự án. Dịch: Chính quyền địa phương dự định triển khai dự án trồng thêm mười nghìn cây xanh ở trung tâm."
+  },
+  {
+    "unit": 2,
+    "target_word": "packed with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "On Sunday evenings, the night market is ___ tourists and local shoppers.",
+    "correct_answer": "packed with",
+    "distractors": [
+      "itchy with",
+      "pricey with",
+      "reliable with"
+    ],
+    "explanation_vi": "Cấu trúc \"be packed with + N\" (đông nghịt). Dịch: Vào các tối Chủ Nhật, chợ đêm đông nghịt du khách và người mua sắm địa phương."
+  },
+  {
+    "unit": 2,
+    "target_word": "concrete jungle",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Many people complain that rapid urbanization is turning the city into a lifeless ___.",
+    "correct_answer": "concrete jungle",
+    "distractors": [
+      "public amenity",
+      "sky train",
+      "rush hour"
+    ],
+    "explanation_vi": "Đô thị hóa nhanh thiếu cây xanh biến thành phố thành \"concrete jungle\" (rừng bê tông). Dịch: Nhiều người phàn nàn rằng đô thị hóa nhanh đang biến thành phố thành một rừng bê tông vô hồn."
+  },
+  {
+    "unit": 2,
+    "target_word": "itchy",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Thick dust from the nearby construction site made my eyes red and ___.",
+    "correct_answer": "itchy",
+    "distractors": [
+      "bustling",
+      "pricey",
+      "liveable"
+    ],
+    "explanation_vi": "Khói bụi dày đặc làm mắt bị đỏ và \"itchy\" (ngứa). Dịch: Bụi dày từ công trường xây dựng gần đó làm mắt tôi bị đỏ và ngứa."
+  },
+  {
+    "unit": 2,
+    "target_word": "public amenity",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Having clean parks and safe bike lanes as ___ makes residents much happier.",
+    "correct_answer": "public amenities",
+    "distractors": [
+      "traffic jams",
+      "construction sites",
+      "pickpockets"
+    ],
+    "explanation_vi": "Công viên sạch và làn xe đạp an toàn là các \"public amenities\" (tiện ích công cộng). Dịch: Có công viên sạch sẽ và làn xe đạp an toàn như những tiện ích công cộng khiến cư dân hạnh phúc hơn nhiều."
+  },
+  {
+    "unit": 2,
+    "target_word": "get around",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Thanks to the new metro line, tourists can ___ the city quickly and cheaply.",
+    "correct_answer": "get around",
+    "distractors": [
+      "carry out",
+      "come down with",
+      "hang out with"
+    ],
+    "explanation_vi": "\"Get around the city\" nghĩa là di chuyển vòng quanh thành phố. Dịch: Nhờ tuyến tàu điện đô thị mới, du khách có thể đi lại quanh thành phố nhanh chóng và rẻ."
+  },
+  {
+    "unit": 2,
+    "target_word": "pickpocket",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Keep your backpack zipped in crowded metro stations to protect your phone from ___.",
+    "correct_answer": "pickpockets",
+    "distractors": [
+      "leftovers",
+      "amenities",
+      "sites"
+    ],
+    "explanation_vi": "Ở nhà ga đông người cần đề phòng \"pickpockets\" (kẻ móc túi). Dịch: Hãy kéo khóa ba lô ở các nhà ga đông đúc để bảo vệ điện thoại khỏi kẻ móc túi."
+  },
+  {
+    "unit": 2,
+    "target_word": "pricey",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Eating at restaurants in the downtown area is quite ___, so students prefer cooking at home.",
+    "correct_answer": "pricey",
+    "distractors": [
+      "reliable",
+      "congested",
+      "itchy"
+    ],
+    "explanation_vi": "Vì ăn ở nhà hàng trung tâm khá \"pricey\" (đắt đỏ) nên sinh viên thích tự nấu ăn. Dịch: Ăn tại các nhà hàng ở khu trung tâm khá đắt đỏ nên sinh viên thích nấu ăn ở nhà hơn."
+  },
+  {
+    "unit": 2,
+    "target_word": "congested",
+    "question_type": "word_form",
+    "prompt_text": "Expanding the metro network is an effective solution to traffic ___ in mega-cities. (CONGEST)",
+    "correct_answer": "congestion",
+    "distractors": [
+      "congest",
+      "congested",
+      "congesting"
+    ],
+    "explanation_vi": "Cụm danh từ chuẩn \"traffic congestion\" (tình trạng tắc nghẽn giao thông) cần danh từ \"congestion\". Dịch: Mở rộng mạng lưới tàu điện là giải pháp hiệu quả cho tình trạng tắc nghẽn giao thông ở các siêu đô thị."
+  },
+  {
+    "unit": 2,
+    "target_word": "reliable",
+    "question_type": "word_form",
+    "prompt_text": "Passengers value the ___ of the electric bus system because it always arrives on schedule. (RELY)",
+    "correct_answer": "reliability",
+    "distractors": [
+      "rely",
+      "reliable",
+      "reliably"
+    ],
+    "explanation_vi": "Sau mạo từ \"the\" và trước giới từ \"of\" cần danh từ -> \"reliability\" (độ tin cậy). Dịch: Hành khách đánh giá cao độ tin cậy của hệ thống xe buýt điện vì nó luôn đến đúng lịch trình."
+  },
+  {
+    "unit": 2,
+    "target_word": "entertainment",
+    "question_type": "word_form",
+    "prompt_text": "The street music festival offered a lively and ___ evening for both locals and visitors. (ENTERTAIN)",
+    "correct_answer": "entertaining",
+    "distractors": [
+      "entertain",
+      "entertainment",
+      "entertainer"
+    ],
+    "explanation_vi": "Song song với tính từ \"lively\" trước danh từ \"evening\" cần tính từ -> \"entertaining\" (thú vị, giải trí). Dịch: Lễ hội âm nhạc đường phố đã mang đến một buổi tối sôi động và đầy tính giải trí cho người dân lẫn du khách."
+  },
+  {
+    "unit": 2,
+    "target_word": "hygiene",
+    "question_type": "word_form",
+    "prompt_text": "Inspectors closed the food stall temporarily because its kitchen conditions were ___. (HYGIENE)",
+    "correct_answer": "unhygienic",
+    "distractors": [
+      "hygiene",
+      "hygienic",
+      "hygienically"
+    ],
+    "explanation_vi": "Ngữ cảnh \"bị thanh tra đóng cửa tạm thời\" suy ra điều kiện bếp mất vệ sinh -> tính từ phủ định \"unhygienic\". Dịch: Thanh tra đã tạm đóng cửa quầy thức ăn vì điều kiện nhà bếp mất vệ sinh."
+  },
+  {
+    "unit": 2,
+    "target_word": "construction site",
+    "question_type": "word_form",
+    "prompt_text": "The city is currently working on the ___ of a new underground train station. (CONSTRUCT)",
+    "correct_answer": "construction",
+    "distractors": [
+      "construct",
+      "constructive",
+      "constructed"
+    ],
+    "explanation_vi": "Sau mạo từ \"the\" và trước \"of\" cần danh từ -> \"construction\" (việc xây dựng). Dịch: Thành phố hiện đang tiến hành xây dựng một nhà ga tàu điện ngầm mới."
+  },
+  {
+    "unit": 2,
+    "target_word": "liveable",
+    "question_type": "word_form",
+    "prompt_text": "Green spaces and clean air greatly improve the ___ of any modern city. (LIVE)",
+    "correct_answer": "liveability",
+    "distractors": [
+      "live",
+      "liveable",
+      "lively"
+    ],
+    "explanation_vi": "Sau mạo từ \"the\" và trước giới từ \"of\" cần danh từ -> \"liveability\" (mức độ đáng sống). Dịch: Không gian xanh và không khí sạch cải thiện đáng kể mức độ đáng sống của mọi thành phố hiện đại."
+  },
+  {
+    "unit": 2,
+    "target_word": "metro",
+    "question_type": "word_form",
+    "prompt_text": "The ___ area around Ho Chi Minh City continues to grow rapidly every year. (METRO)",
+    "correct_answer": "metropolitan",
+    "distractors": [
+      "metro",
+      "metropolis",
+      "metros"
+    ],
+    "explanation_vi": "Trước danh từ \"area\" cần một tính từ -> \"metropolitan\" (thuộc khu vực đô thị lớn). Dịch: Khu vực đô thị xung quanh Thành phố Hồ Chí Minh tiếp tục phát triển nhanh chóng mỗi năm."
+  },
+  {
+    "unit": 2,
+    "target_word": "reliable",
+    "question_type": "word_form",
+    "prompt_text": "Commuters stopped taking that old bus route because it became too ___ during rainy days. (RELY)",
+    "correct_answer": "unreliable",
+    "distractors": [
+      "reliable",
+      "reliability",
+      "rely"
+    ],
+    "explanation_vi": "Ngữ cảnh \"người đi làm ngừng đi tuyến xe buýt cũ\" suy ra nó không đáng tin cậy -> \"unreliable\". Dịch: Người đi làm đã ngừng đi tuyến xe buýt cũ đó vì nó trở nên quá thiếu tin cậy vào những ngày mưa."
+  },
+  {
+    "unit": 2,
+    "target_word": "hygiene",
+    "question_type": "word_form",
+    "prompt_text": "All street food vendors must prepare and store ingredients ___ to protect customers. (HYGIENE)",
+    "correct_answer": "hygienically",
+    "distractors": [
+      "hygiene",
+      "hygienic",
+      "unhygienic"
+    ],
+    "explanation_vi": "Bổ nghĩa cho động từ \"prepare and store\" cần một trạng từ -> \"hygienically\" (một cách hợp vệ sinh). Dịch: Tất cả người bán hàng ăn đường phố phải chế biến và bảo quản nguyên liệu hợp vệ sinh để bảo vệ khách hàng."
+  },
+  {
+    "unit": 2,
+    "target_word": "entertainment",
+    "question_type": "word_form",
+    "prompt_text": "Street ___ attract large crowds along Hoan Kiem walking street every weekend. (ENTERTAIN)",
+    "correct_answer": "entertainers",
+    "distractors": [
+      "entertain",
+      "entertainment",
+      "entertaining"
+    ],
+    "explanation_vi": "Chủ ngữ số nhiều chỉ người đứng trước động từ nguyên thể \"attract\" -> \"entertainers\" (nghệ sĩ biểu diễn giải trí). Dịch: Các nghệ sĩ đường phố thu hút đám đông lớn dọc phố đi bộ Hoàn Kiếm mỗi cuối tuần."
+  },
+  {
+    "unit": 2,
+    "target_word": "traffic congestion",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'traffic congestion' có nghĩa tiếng Việt chính xác nhất là gì?",
+    "correct_answer": "sự ùn tắc giao thông",
+    "distractors": [
+      "tai nạn giao thông",
+      "luật an toàn giao thông",
+      "phương tiện giao thông công cộng"
+    ],
+    "explanation_vi": "'traffic congestion' là danh từ chỉ tình trạng đường sá bị tắc nghẽn, kẹt xe do lượng phương tiện quá đông."
+  },
+  {
+    "unit": 2,
+    "target_word": "concrete jungle",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'concrete jungle' thường được dùng để chỉ điều gì?",
+    "correct_answer": "khu đô thị bê tông hóa, rừng bê tông",
+    "distractors": [
+      "khu rừng nhiệt đới nguyên sinh",
+      "công viên sinh thái tự nhiên",
+      "vùng nông thôn hẻo lánh"
+    ],
+    "explanation_vi": "'concrete jungle' là cách nói ẩn dụ miêu tả thành phố hiện đại ngột ngạt với toàn những tòa nhà cao tầng bằng bê tông cốt thép, thiếu cây xanh."
+  },
+  {
+    "unit": 2,
+    "target_word": "public amenities",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'public amenities' mang ý nghĩa gì?",
+    "correct_answer": "tiện ích công cộng, tiện nghi công cộng",
+    "distractors": [
+      "chi phí sinh hoạt",
+      "công trình tư nhân",
+      "tệ nạn xã hội"
+    ],
+    "explanation_vi": "'public amenities' chỉ các công trình, dịch vụ tiện ích phục vụ đời sống chung của cộng đồng như công viên, bể bơi, thư viện..."
+  },
+  {
+    "unit": 2,
+    "target_word": "commuter",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'commuter' chỉ đối tượng nào?",
+    "correct_answer": "người đi làm xa, người đi lại hàng ngày giữa nhà và nơi làm việc",
+    "distractors": [
+      "khách du lịch quốc tế",
+      "người lái xe buýt",
+      "người bán hàng rong"
+    ],
+    "explanation_vi": "'commuter' là người thường xuyên di chuyển một quãng đường xa đều đặn mỗi ngày (thường từ ngoại ô vào nội thành) để đi làm hoặc đi học."
+  },
+  {
+    "unit": 2,
+    "target_word": "drawback",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'drawback' có nghĩa tương đương với nét nghĩa nào sau đây?",
+    "correct_answer": "nhược điểm, điều bất lợi",
+    "distractors": [
+      "lợi ích nổi trội",
+      "nguyên nhân chính",
+      "mục tiêu phát triển"
+    ],
+    "explanation_vi": "'drawback' là danh từ chỉ nhược điểm, mặt hạn chế hoặc điều gây cản trở, bất lợi."
+  },
+  {
+    "unit": 2,
+    "target_word": "hustle and bustle",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'hustle and bustle' miêu tả đặc điểm gì của đời sống đô thị?",
+    "correct_answer": "sự hối hả và nhộn nhịp",
+    "distractors": [
+      "sự thanh bình và tĩnh lặng",
+      "tình trạng nghèo đói và lạc hậu",
+      "môi trường sống trong lành"
+    ],
+    "explanation_vi": "'hustle and bustle' là thành ngữ diễn tả nhịp sống hối hả, tất bật, ồn ào và đầy năng lượng của chốn đô hội."
+  },
+  {
+    "unit": 2,
+    "target_word": "liveable",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'liveable' (hoặc 'livable') có nghĩa tiếng Việt là gì?",
+    "correct_answer": "đáng sống, sống tốt",
+    "distractors": [
+      "đông đúc, ngột ngạt",
+      "xa xôi, hẻo lánh",
+      "đắt đỏ, tốn kém"
+    ],
+    "explanation_vi": "'liveable' là tính từ chỉ môi trường có chất lượng sống tốt, tiện nghi, an toàn và trong lành cho cư dân định cư."
+  },
+  {
+    "unit": 2,
+    "target_word": "come down with",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'come down with' có nghĩa là gì?",
+    "correct_answer": "bị mắc bệnh, bị ốm",
+    "distractors": [
+      "hồi phục sức khỏe",
+      "phản đối kịch liệt",
+      "điều trị dứt điểm"
+    ],
+    "explanation_vi": "'come down with' có nghĩa là bắt đầu mắc phải một căn bệnh nào đó (như cảm cúm, sốt...)."
+  },
+  {
+    "unit": 2,
+    "target_word": "carry out",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'carry out' trong cụm 'carry out a survey' có nghĩa là gì?",
+    "correct_answer": "tiến hành, thực hiện",
+    "distractors": [
+      "trì hoãn, hủy bỏ",
+      "chỉ trích, phê phán",
+      "mang vác ra ngoài"
+    ],
+    "explanation_vi": "'carry out' là tiến hành, thực thi một nghiên cứu, cuộc khảo sát, kế hoạch hoặc nhiệm vụ cụ thể."
+  },
+  {
+    "unit": 2,
+    "target_word": "cost an arm and a leg",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'cost an arm and a leg' diễn đạt điều gì về giá cả?",
+    "correct_answer": "rất đắt đỏ, tốn kém vô cùng",
+    "distractors": [
+      "giá cả rất bình dân",
+      "được giảm giá mạnh",
+      "hoàn toàn miễn phí"
+    ],
+    "explanation_vi": "'cost an arm and a leg' là thành ngữ chỉ một món đồ hoặc dịch vụ có giá trên trời, cực kỳ đắt đỏ."
+  },
+  {
+    "unit": 2,
+    "target_word": "construction site",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào mang nghĩa 'công trường xây dựng'?",
+    "correct_answer": "construction site",
+    "distractors": [
+      "pedestrian zone",
+      "parking lot",
+      "shopping centre"
+    ],
+    "explanation_vi": "'construction site' là khu vực công trường đang diễn ra các hoạt động thi công, xây dựng công trình."
+  },
+  {
+    "unit": 2,
+    "target_word": "rush hour",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào trong tiếng Anh có nghĩa là 'giờ cao điểm'?",
+    "correct_answer": "rush hour",
+    "distractors": [
+      "free time",
+      "opening hour",
+      "lunch break"
+    ],
+    "explanation_vi": "'rush hour' là khoảng thời gian trong ngày khi mật độ giao thông và người đi lại đông nhất (thường là đầu giờ sáng và cuối giờ chiều)."
+  },
+  {
+    "unit": 2,
+    "target_word": "sky train",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn từ tiếng Anh chỉ phương tiện giao thông 'tàu điện trên cao':",
+    "correct_answer": "sky train",
+    "distractors": [
+      "underground",
+      "double-decker bus",
+      "ferry boat"
+    ],
+    "explanation_vi": "'sky train' là hệ thống tàu điện chạy trên đường ray trên cao nhằm giảm tải áp lực cho giao thông mặt đất."
+  },
+  {
+    "unit": 2,
+    "target_word": "city dweller",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào dùng để gọi 'cư dân thành phố, người sống ở đô thị'?",
+    "correct_answer": "city dweller",
+    "distractors": [
+      "villager",
+      "commuter",
+      "foreigner"
+    ],
+    "explanation_vi": "'city dweller' là người sinh sống và cư trú tại các khu vực thành phố hoặc đô thị."
+  },
+  {
+    "unit": 2,
+    "target_word": "hygiene",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa là 'vấn đề vệ sinh, sự giữ gìn vệ sinh'?",
+    "correct_answer": "hygiene",
+    "distractors": [
+      "nutrition",
+      "pollution",
+      "medicine"
+    ],
+    "explanation_vi": "'hygiene' là danh từ chỉ các thói quen, biện pháp giữ gìn vệ sinh và sạch sẽ để phòng tránh bệnh tật."
+  },
+  {
+    "unit": 2,
+    "target_word": "congested",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào miêu tả tình trạng 'đông đúc, tắc nghẽn (giao thông)'?",
+    "correct_answer": "congested",
+    "distractors": [
+      "spacious",
+      "deserted",
+      "peaceful"
+    ],
+    "explanation_vi": "'congested' là tính từ diễn tả đường sá hoặc địa điểm bị ứ đọng, kẹt cứng xe cộ hoặc người qua lại."
+  },
+  {
+    "unit": 2,
+    "target_word": "pricey",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào đồng nghĩa với 'expensive', có nghĩa là 'đắt đỏ, tốn kém'?",
+    "correct_answer": "pricey",
+    "distractors": [
+      "affordable",
+      "economical",
+      "valueless"
+    ],
+    "explanation_vi": "'pricey' là tính từ thân mật mang nghĩa đắt tiền, tốn nhiều chi phí."
+  },
+  {
+    "unit": 2,
+    "target_word": "get around",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'đi lại, di chuyển quanh khu vực'?",
+    "correct_answer": "get around",
+    "distractors": [
+      "look around",
+      "turn around",
+      "pass around"
+    ],
+    "explanation_vi": "'get around' có nghĩa là đi lại từ nơi này đến nơi khác, di chuyển xung quanh một khu vực hay thành phố."
+  },
+  {
+    "unit": 2,
+    "target_word": "pull down",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào có nghĩa là 'phá dỡ, đánh sập (một tòa nhà hoặc công trình cũ)'?",
+    "correct_answer": "pull down",
+    "distractors": [
+      "put down",
+      "cut down",
+      "break down"
+    ],
+    "explanation_vi": "'pull down' là phá dỡ hoàn toàn một công trình hoặc ngôi nhà cũ kỹ, xuống cấp."
+  },
+  {
+    "unit": 2,
+    "target_word": "affordable",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ nào mang nghĩa 'giá cả phải chăng, vừa với túi tiền của người mua'?",
+    "correct_answer": "affordable",
+    "distractors": [
+      "overpriced",
+      "luxurious",
+      "valuable"
+    ],
+    "explanation_vi": "'affordable' là tính từ diễn tả hàng hóa hoặc dịch vụ có mức giá hợp lý mà đại đa số mọi người có khả năng chi trả."
+  },
+  {
+    "unit": 2,
+    "target_word": "green space",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Central Park provides a huge ______ where city dwellers can exercise, relax, and breathe fresh air.",
+    "correct_answer": "green space",
+    "distractors": [
+      "concrete jungle",
+      "construction site",
+      "traffic jam"
+    ],
+    "explanation_vi": "'green space' (không gian xanh như vườn hoa, công viên cây xanh) là nơi cư dân có thể thư giãn và tập thể dục."
+  },
+  {
+    "unit": 2,
+    "target_word": "metro",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Taking the underground ______ is the fastest way to travel across town without getting stuck in road traffic.",
+    "correct_answer": "metro",
+    "distractors": [
+      "bicycle",
+      "ferry",
+      "rickshaw"
+    ],
+    "explanation_vi": "'metro' là hệ thống tàu điện ngầm chạy dưới lòng đất, giúp tránh được ùn tắc giao thông trên đường bộ."
+  },
+  {
+    "unit": 2,
+    "target_word": "dusty",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Because of the major road repairs nearby, the neighborhood air has become thick, noisy, and extremely ______.",
+    "correct_answer": "dusty",
+    "distractors": [
+      "fresh",
+      "humid",
+      "sparkling"
+    ],
+    "explanation_vi": "Do công trường sửa đường gần đó nên không khí xung quanh trở nên đầy bụi bặm ('dusty')."
+  },
+  {
+    "unit": 2,
+    "target_word": "packed with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "On Saturday evenings, the pedestrian street is completely ______ local families and foreign tourists.",
+    "correct_answer": "packed with",
+    "distractors": [
+      "empty of",
+      "worried about",
+      "short of"
+    ],
+    "explanation_vi": "Cụm tính từ 'packed with' có nghĩa là chật ních, đông nghịt người."
+  },
+  {
+    "unit": 2,
+    "target_word": "hang out with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "After a stressful school week, Mai likes to ______ her classmates at a cozy downtown milk tea shop.",
+    "correct_answer": "hang out with",
+    "distractors": [
+      "cut down on",
+      "come down with",
+      "run out of"
+    ],
+    "explanation_vi": "'hang out with' có nghĩa là đi chơi, tụ tập bạn bè để giải trí sau giờ học."
+  },
+  {
+    "unit": 2,
+    "target_word": "itchy",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Walking through dense vehicle emissions without protective goggles made his eyes red and ______.",
+    "correct_answer": "itchy",
+    "distractors": [
+      "healthy",
+      "clear",
+      "reliable"
+    ],
+    "explanation_vi": "Khói bụi và khí thải ô nhiễm làm mắt bị kích ứng dẫn đến đỏ và ngứa ngáy ('itchy')."
+  },
+  {
+    "unit": 2,
+    "target_word": "get stuck",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Commuters often ______ in severe traffic jams when crossing the bridge during the evening rush hour.",
+    "correct_answer": "get stuck",
+    "distractors": [
+      "look after",
+      "give up",
+      "turn off"
+    ],
+    "explanation_vi": "'get stuck in a traffic jam' là cụm từ quen thuộc mang nghĩa bị mắc kẹt trong đám tắc đường."
+  },
+  {
+    "unit": 2,
+    "target_word": "pedestrians",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Urban authorities constructed overpasses and zebra crossings to guarantee maximum safety for ______.",
+    "correct_answer": "pedestrians",
+    "distractors": [
+      "motorists",
+      "artisans",
+      "passengers"
+    ],
+    "explanation_vi": "Cầu vượt bộ hành và vạch qua đường được thiết kế để đảm bảo an toàn cho người đi bộ ('pedestrians')."
+  },
+  {
+    "unit": 2,
+    "target_word": "turn into",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The local council plans to ______ the old dilapidated warehouse into an open-air community sports ground.",
+    "correct_answer": "turn",
+    "distractors": [
+      "pull",
+      "break",
+      "carry"
+    ],
+    "explanation_vi": "Cấu trúc 'turn something into something' mang nghĩa biến đổi, chuyển đổi cái gì thành cái gì."
+  },
+  {
+    "unit": 2,
+    "target_word": "reliable",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Many people choose to travel by tram because it is punctual, safe, and highly ______.",
+    "correct_answer": "reliable",
+    "distractors": [
+      "unpredictable",
+      "risky",
+      "careless"
+    ],
+    "explanation_vi": "Người dân thích dùng xe điện vì nó đúng giờ, an toàn và rất đáng tin cậy ('reliable')."
+  },
+  {
+    "unit": 2,
+    "target_word": "congested",
+    "question_type": "word_form",
+    "prompt_text": "The main ring roads become heavily ______ with commercial vehicles during peak morning hours. (CONGESTION)",
+    "correct_answer": "congested",
+    "distractors": [
+      "congesting",
+      "congestion",
+      "congests"
+    ],
+    "explanation_vi": "Sau trạng từ 'heavily' và động từ 'become' cần một tính từ miêu tả trạng thái: 'congested' (bị tắc nghẽn, đông nghịt)."
+  },
+  {
+    "unit": 2,
+    "target_word": "liveable",
+    "question_type": "word_form",
+    "prompt_text": "Thanks to clean beaches and modern amenities, Da Nang is recognized as one of the most ______ cities. (LIVE)",
+    "correct_answer": "liveable",
+    "distractors": [
+      "lively",
+      "living",
+      "lived"
+    ],
+    "explanation_vi": "Sau cụm 'the most' và trước danh từ 'cities' cần tính từ: 'liveable' (đáng sống)."
+  },
+  {
+    "unit": 2,
+    "target_word": "commuters",
+    "question_type": "word_form",
+    "prompt_text": "Thousands of suburban ______ use the new metro line to travel to their offices downtown. (COMMUTE)",
+    "correct_answer": "commuters",
+    "distractors": [
+      "commuting",
+      "commutation",
+      "commutes"
+    ],
+    "explanation_vi": "Đứng làm chủ ngữ của động từ số nhiều 'use' và đi sau 'thousands of suburban' cần một danh từ số nhiều chỉ người: 'commuters' (những người đi làm xa)."
+  },
+  {
+    "unit": 2,
+    "target_word": "construction",
+    "question_type": "word_form",
+    "prompt_text": "The deafening noise generated by the nearby ______ site prevented the students from concentrating. (CONSTRUCT)",
+    "correct_answer": "construction",
+    "distractors": [
+      "constructive",
+      "constructed",
+      "constructor"
+    ],
+    "explanation_vi": "Tạo thành cụm danh từ ghép 'construction site' (công trường xây dựng)."
+  },
+  {
+    "unit": 2,
+    "target_word": "unhygienic",
+    "question_type": "word_form",
+    "prompt_text": "Preparing food in ______ conditions can quickly lead to severe food poisoning. (HYGIENE)",
+    "correct_answer": "unhygienic",
+    "distractors": [
+      "hygienic",
+      "hygienically",
+      "unhygienically"
+    ],
+    "explanation_vi": "Trước danh từ 'conditions' cần tính từ mang nghĩa tiêu cực (gây ngộ độc thực phẩm): 'unhygienic' (mất vệ sinh)."
+  },
+  {
+    "unit": 2,
+    "target_word": "pollution",
+    "question_type": "word_form",
+    "prompt_text": "Severe air ______ in industrial metropolises triggers chronic breathing illnesses in the elderly. (POLLUTE)",
+    "correct_answer": "pollution",
+    "distractors": [
+      "pollutant",
+      "polluted",
+      "polluter"
+    ],
+    "explanation_vi": "Sau tính từ 'severe air' và làm chủ ngữ của câu cần danh từ không đếm được: 'pollution' (sự ô nhiễm)."
+  },
+  {
+    "unit": 2,
+    "target_word": "convenient",
+    "question_type": "word_form",
+    "prompt_text": "It is extremely ______ to have a 24-hour convenience store right on the ground floor. (CONVENIENCE)",
+    "correct_answer": "convenient",
+    "distractors": [
+      "conveniently",
+      "inconvenient",
+      "convening"
+    ],
+    "explanation_vi": "Cấu trúc 'It is + adj + to V' cần tính từ: 'convenient' (tiện lợi, thuận tiện)."
+  },
+  {
+    "unit": 2,
+    "target_word": "affordability",
+    "question_type": "word_form",
+    "prompt_text": "The rapid rise in property prices has caused housing ______ to become a major social dilemma. (AFFORD)",
+    "correct_answer": "affordability",
+    "distractors": [
+      "affordable",
+      "affordably",
+      "unaffordable"
+    ],
+    "explanation_vi": "Đi cùng với 'housing' để tạo thành cụm danh từ 'housing affordability' (khả năng chi trả về nhà ở)."
+  },
+  {
+    "unit": 2,
+    "target_word": "entertainment",
+    "question_type": "word_form",
+    "prompt_text": "The commercial district includes a brand new ______ complex featuring cinemas and bowling alleys. (ENTERTAIN)",
+    "correct_answer": "entertainment",
+    "distractors": [
+      "entertaining",
+      "entertainer",
+      "entertained"
+    ],
+    "explanation_vi": "Bổ nghĩa cho 'complex' tạo thành cụm danh từ 'entertainment complex' (khu phức hợp giải trí)."
+  },
+  {
+    "unit": 2,
+    "target_word": "dwellers",
+    "question_type": "word_form",
+    "prompt_text": "Many city ______ suffer from mental stress due to high living costs and continuous traffic noise. (DWELL)",
+    "correct_answer": "dwellers",
+    "distractors": [
+      "dwellings",
+      "dwelling",
+      "dwelled"
+    ],
+    "explanation_vi": "Cụm danh từ 'city dwellers' (những cư dân thành phố) làm chủ ngữ cho động từ số nhiều 'suffer'."
+  }
+]

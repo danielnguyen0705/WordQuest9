@@ -1,0 +1,577 @@
+[
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "3D printer",
+    "pos": "noun",
+    "ipa": "/ˌθriː diː ˈprɪntə(r)/",
+    "meaning_vi": "máy in 3D",
+    "example_en": "Engineers use a 3D printer to create accurate medical implants and prototype components.",
+    "example_vi": "Các kỹ sư sử dụng máy in 3D để chế tạo các mảnh ghép y tế chính xác và các linh kiện mẫu.",
+    "word_forms": [
+      {
+        "word": "3D printing",
+        "pos": "noun",
+        "meaning_vi": "công nghệ in ba chiều"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "aluminium",
+    "pos": "noun",
+    "ipa": "/ˌæljəˈmɪniəm/",
+    "meaning_vi": "nhôm (kim loại nhẹ)",
+    "example_en": "Many modern laptops and tablets feature sleek aluminium casings.",
+    "example_vi": "Nhiều máy tính xách tay và máy tính bảng hiện đại sở hữu lớp vỏ nhôm sang trọng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "assemble",
+    "pos": "verb",
+    "ipa": "/əˈsembl/",
+    "meaning_vi": "lắp ráp (các linh kiện, thiết bị)",
+    "example_en": "Read the instruction manual thoroughly before attempting to assemble the desktop computer.",
+    "example_vi": "Hãy đọc kỹ hướng dẫn sử dụng trước khi bắt tay vào lắp ráp máy tính để bàn.",
+    "word_forms": [
+      {
+        "word": "assembly",
+        "pos": "noun",
+        "meaning_vi": "sự lắp ráp, bộ phận lắp ráp"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "at your fingertips",
+    "pos": "phrase",
+    "ipa": "/æt jɔː(r) ˈfɪŋɡətɪps/",
+    "meaning_vi": "ngay trong tầm tay, sẵn có để dùng",
+    "example_en": "With a connected smartphone, you hold a vast world of knowledge right at your fingertips.",
+    "example_vi": "Với một chiếc điện thoại kết nối mạng, bạn nắm giữ cả thế giới tri thức rộng lớn ngay trong tầm tay.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "camcorder",
+    "pos": "noun",
+    "ipa": "/ˈkæmkɔːdə(r)/",
+    "meaning_vi": "máy quay video cầm tay",
+    "example_en": "Reporters used a modern camcorder to film the live concert in high definition.",
+    "example_vi": "Các phóng viên đã sử dụng máy quay video cầm tay hiện đại để ghi hình buổi hòa nhạc trực tiếp ở độ phân giải cao.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "cardboard",
+    "pos": "noun",
+    "ipa": "/ˈkɑːdbɔːd/",
+    "meaning_vi": "bìa cứng, bìa các-tông",
+    "example_en": "Eco-friendly businesses use recycled cardboard boxes to pack their electronic items.",
+    "example_vi": "Các doanh nghiệp thân thiện với môi trường sử dụng hộp bìa các-tông tái chế để đóng gói đồ điện tử.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "collaborate with",
+    "pos": "phrase",
+    "ipa": "/kəˈlæbəreɪt wɪð/",
+    "meaning_vi": "hợp tác, cộng tác với ai",
+    "example_en": "Online tools make it easy for students to collaborate with classmates on group projects.",
+    "example_vi": "Các công cụ trực tuyến giúp học sinh dễ dàng hợp tác với bạn cùng lớp trong các dự án nhóm.",
+    "word_forms": [
+      {
+        "word": "collaboration",
+        "pos": "noun",
+        "meaning_vi": "sự cộng tác"
+      },
+      {
+        "word": "collaborative",
+        "pos": "adj",
+        "meaning_vi": "có tính hợp tác"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "conduct",
+    "pos": "verb",
+    "ipa": "/kənˈdʌkt/",
+    "meaning_vi": "dẫn (điện, nhiệt)",
+    "example_en": "Metals like copper and aluminium conduct electricity extremely well.",
+    "example_vi": "Các kim loại như đồng và nhôm dẫn điện cực kỳ tốt.",
+    "word_forms": [
+      {
+        "word": "conductor",
+        "pos": "noun",
+        "meaning_vi": "chất dẫn điện, dây dẫn"
+      },
+      {
+        "word": "conduction",
+        "pos": "noun",
+        "meaning_vi": "sự dẫn điện, sự dẫn nhiệt"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "copper",
+    "pos": "noun",
+    "ipa": "/ˈkɒpə(r)/",
+    "meaning_vi": "đồng (kim loại)",
+    "example_en": "Copper is widely used for electrical wires and power lines because it is an excellent conductor.",
+    "example_vi": "Đồng được sử dụng rộng rãi cho dây điện và đường dây truyền tải điện vì nó là chất dẫn điện tuyệt vời.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "critical thinking",
+    "pos": "noun",
+    "ipa": "/ˌkrɪtɪkl ˈθɪŋkɪŋ/",
+    "meaning_vi": "tư duy phản biện",
+    "example_en": "Relying blindly on electronic search engines may reduce students' critical thinking abilities.",
+    "example_vi": "Quá phụ thuộc một cách mù quáng vào các công cụ tìm kiếm điện tử có thể làm giảm năng lực tư duy phản biện của học sinh.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "desktop",
+    "pos": "noun",
+    "ipa": "/ˈdesktɒp/",
+    "meaning_vi": "máy tính để bàn",
+    "example_en": "Desktops are usually more powerful and durable than portable laptops.",
+    "example_vi": "Máy tính để bàn thường mạnh mẽ và bền hơn máy tính xách tay.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "digital textbook",
+    "pos": "noun",
+    "ipa": "/ˌdɪdʒɪtl ˈtekstbʊk/",
+    "meaning_vi": "sách giáo khoa điện tử",
+    "example_en": "Some experimental schools now use digital textbooks instead of traditional print materials.",
+    "example_vi": "Một số trường học thử nghiệm hiện dùng sách giáo khoa điện tử thay cho tài liệu in ấn truyền thống.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "distract",
+    "pos": "verb",
+    "ipa": "/dɪˈstrækt/",
+    "meaning_vi": "làm xao nhãng, làm mất tập trung",
+    "example_en": "Notifications from gaming apps can easily distract teenagers while doing their homework.",
+    "example_vi": "Các thông báo từ ứng dụng trò chơi có thể dễ dàng làm thiếu niên xao nhãng khi đang làm bài tập về nhà.",
+    "word_forms": [
+      {
+        "word": "distraction",
+        "pos": "noun",
+        "meaning_vi": "sự xao nhãng, điều gây mất tập trung"
+      },
+      {
+        "word": "distracted",
+        "pos": "adj",
+        "meaning_vi": "bị phân tâm, mất tập trung"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "durable",
+    "pos": "adj",
+    "ipa": "/ˈdjʊərəbl/",
+    "meaning_vi": "bền bỉ, dùng được lâu bền",
+    "example_en": "We often make toy parts from hard plastic because it is both lightweight and durable.",
+    "example_vi": "Chúng ta thường làm các bộ phận đồ chơi từ nhựa cứng vì nó vừa nhẹ vừa bền.",
+    "word_forms": [
+      {
+        "word": "durability",
+        "pos": "noun",
+        "meaning_vi": "độ bền, tính bền lâu"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "e-reader",
+    "pos": "noun",
+    "ipa": "/ˈiː riːdə(r)/",
+    "meaning_vi": "máy đọc sách điện tử",
+    "example_en": "I can adjust font sizes and screen brightness to suit my preferences on an e-reader.",
+    "example_vi": "Tôi có thể điều chỉnh cỡ chữ và độ sáng màn hình theo sở thích trên máy đọc sách điện tử.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "educational software",
+    "pos": "noun",
+    "ipa": "/ˌedʒuˈkeɪʃənl ˈsɒftweə(r)/",
+    "meaning_vi": "phần mềm giáo dục / học tập",
+    "example_en": "Teachers install educational software on tablets to gamify grammar and vocabulary drills.",
+    "example_vi": "Giáo viên cài đặt phần mềm giáo dục lên máy tính bảng để biến các bài luyện ngữ pháp và từ vựng thành trò chơi.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "electronic device",
+    "pos": "noun",
+    "ipa": "/ɪˌlektrɒnɪk dɪˈvaɪs/",
+    "meaning_vi": "thiết bị điện tử",
+    "example_en": "Modern classrooms are increasingly equipped with electronic devices to support learning.",
+    "example_vi": "Các lớp học hiện đại ngày càng được trang bị nhiều thiết bị điện tử để hỗ trợ việc học tập.",
+    "word_forms": [
+      {
+        "word": "electronic",
+        "pos": "adj",
+        "meaning_vi": "thuộc điện tử"
+      },
+      {
+        "word": "electronics",
+        "pos": "noun",
+        "meaning_vi": "ngành điện tử, đồ điện tử"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "eye strain",
+    "pos": "noun",
+    "ipa": "/ˈaɪ streɪn/",
+    "meaning_vi": "mỏi mắt, tình trạng căng thẳng thị giác",
+    "example_en": "Staring at electronic screens continuously for hours causes eye strain and severe headaches.",
+    "example_vi": "Nhìn chằm chằm vào màn hình điện tử liên tục hàng giờ liền gây mỏi mắt và đau đầu dữ dội.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "interactive",
+    "pos": "adj",
+    "ipa": "/ˌɪntərˈæktɪv/",
+    "meaning_vi": "có tính tương tác",
+    "example_en": "Interactive touchscreens help teachers create engaging lessons for ninth graders.",
+    "example_vi": "Màn hình cảm ứng tương tác giúp giáo viên tạo ra các bài giảng lôi cuốn cho học sinh lớp chín.",
+    "word_forms": [
+      {
+        "word": "interact",
+        "pos": "verb",
+        "meaning_vi": "tương tác"
+      },
+      {
+        "word": "interaction",
+        "pos": "noun",
+        "meaning_vi": "sự tương tác"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "laptop",
+    "pos": "noun",
+    "ipa": "/ˈlæptɒp/",
+    "meaning_vi": "máy tính xách tay",
+    "example_en": "Students prefer using a lightweight laptop because they can carry it anywhere.",
+    "example_vi": "Học sinh thích dùng máy tính xách tay mỏng nhẹ vì họ có thể mang nó đi bất cứ đâu.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "laser technology",
+    "pos": "noun",
+    "ipa": "/ˈleɪzə tekˌnɒlədʒi/",
+    "meaning_vi": "công nghệ la-de",
+    "example_en": "New robot cleaners utilize advanced laser technology to scan rooms and avoid obstacles.",
+    "example_vi": "Các máy hút bụi robot đời mới sử dụng công nghệ la-de tiên tiến để quét phòng và tránh các chướng ngại vật.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "leaflet",
+    "pos": "noun",
+    "ipa": "/ˈliːflət/",
+    "meaning_vi": "tờ rơi quảng cáo (sản phẩm, thiết bị)",
+    "example_en": "Our marketing group designed a colorful promotional leaflet for the new e-reader.",
+    "example_vi": "Nhóm tiếp thị của chúng tôi đã thiết kế một tờ rơi quảng cáo đầy màu sắc cho chiếc máy đọc sách mới.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "lightweight",
+    "pos": "adj",
+    "ipa": "/ˈlaɪtweɪt/",
+    "meaning_vi": "nhẹ, có trọng lượng nhẹ",
+    "example_en": "This tablet has a lightweight aluminium case that makes it very easy to hold.",
+    "example_vi": "Chiếc máy tính bảng này có vỏ nhôm nhẹ giúp cầm nắm rất dễ dàng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "live-stream",
+    "pos": "verb",
+    "ipa": "/ˈlaɪv striːm/",
+    "meaning_vi": "phát sóng trực tiếp qua mạng",
+    "example_en": "Content creators use high-end camcorders to live-stream music concerts and gaming sessions.",
+    "example_vi": "Các nhà sáng tạo nội dung dùng máy quay cao cấp để phát sóng trực tiếp các buổi hòa nhạc và màn chơi game.",
+    "word_forms": [
+      {
+        "word": "live-streaming",
+        "pos": "noun",
+        "meaning_vi": "việc phát sóng trực tiếp"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "plastic",
+    "pos": "noun",
+    "ipa": "/ˈplæstɪk/",
+    "meaning_vi": "chất dẻo, nhựa",
+    "example_en": "Plastic is lightweight and doesn't conduct electricity, so it is often used for device cases.",
+    "example_vi": "Nhựa có trọng lượng nhẹ và không dẫn điện nên thường được dùng làm vỏ bọc thiết bị.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "portable",
+    "pos": "adj",
+    "ipa": "/ˈpɔːtəbl/",
+    "meaning_vi": "di động, có thể xách tay, mang theo",
+    "example_en": "The shop assistant recommended buying a portable device for studying on the go.",
+    "example_vi": "Nhân viên bán hàng đã khuyên mua một thiết bị di động nhỏ gọn để học tập khi di chuyển.",
+    "word_forms": [
+      {
+        "word": "portability",
+        "pos": "noun",
+        "meaning_vi": "tính linh động, tính cơ động"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "portable music player",
+    "pos": "noun",
+    "ipa": "/ˈpɔːtəbl ˈmjuːzɪk ˌpleɪə(r)/",
+    "meaning_vi": "máy nghe nhạc cầm tay",
+    "example_en": "A portable music player allows you to carry your music collection everywhere you go.",
+    "example_vi": "Máy nghe nhạc cầm tay cho phép bạn mang theo bộ sưu tập âm nhạc của mình đi bất cứ đâu.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "posture",
+    "pos": "noun",
+    "ipa": "/ˈpɒstʃə(r)/",
+    "meaning_vi": "tư thế ngồi, dáng điệu",
+    "example_en": "Slouching over your laptop for prolonged periods leads to poor posture and neck pain.",
+    "example_vi": "Ngồi gù lưng trước máy tính xách tay trong thời gian dài sẽ dẫn đến tư thế ngồi xấu và đau cổ.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "privacy",
+    "pos": "noun",
+    "ipa": "/ˈprɪvəsi/",
+    "meaning_vi": "sự riêng tư, quyền riêng tư",
+    "example_en": "Smart blinds provide additional privacy by blocking unwanted views from outside.",
+    "example_vi": "Rèm che thông minh mang lại sự riêng tư tối đa bằng cách chặn những ánh nhìn không mong muốn từ bên ngoài.",
+    "word_forms": [
+      {
+        "word": "private",
+        "pos": "adj",
+        "meaning_vi": "riêng tư, cá nhân"
+      },
+      {
+        "word": "privately",
+        "pos": "adv",
+        "meaning_vi": "một cách riêng tư"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "robotic vacuum cleaner",
+    "pos": "noun",
+    "ipa": "/rəʊˌbɒtɪk ˈvækjuːm ˌkliːnə(r)/",
+    "meaning_vi": "robot hút bụi tự động",
+    "example_en": "A robotic vacuum cleaner automatically navigates around furniture to sweep the floor.",
+    "example_vi": "Một con robot hút bụi tự động điều hướng xung quanh đồ đạc để quét dọn sàn nhà.",
+    "word_forms": [
+      {
+        "word": "robotic",
+        "pos": "adj",
+        "meaning_vi": "thuộc về người máy"
+      },
+      {
+        "word": "robot",
+        "pos": "noun",
+        "meaning_vi": "người máy, rô-bốt"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "rubber",
+    "pos": "noun",
+    "ipa": "/ˈrʌbə(r)/",
+    "meaning_vi": "cao su",
+    "example_en": "Rubber is the main material used for producing tires for motorbikes and cars.",
+    "example_vi": "Cao su là vật liệu chính được dùng để sản xuất lốp xe cho xe máy và ô tô.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "self-portrait",
+    "pos": "noun",
+    "ipa": "/ˌself ˈpɔːtreɪt/",
+    "meaning_vi": "ảnh chân dung tự chụp, ảnh selfie",
+    "example_en": "The mobile phone features an ultra-wide camera perfect for taking a sharp self-portrait.",
+    "example_vi": "Chiếc điện thoại di động sở hữu camera góc siêu rộng hoàn hảo để chụp ảnh chân dung tự sướng sắc nét.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "smartwatch",
+    "pos": "noun",
+    "ipa": "/ˈsmɑːtwɒtʃ/",
+    "meaning_vi": "đồng hồ thông minh",
+    "example_en": "My smartwatch tracks my heart rate, daily steps, and sleeping patterns.",
+    "example_vi": "Đồng hồ thông minh của tôi theo dõi nhịp tim, số bước chân hàng ngày và thói quen giấc ngủ.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "steel",
+    "pos": "noun",
+    "ipa": "/stiːl/",
+    "meaning_vi": "thép",
+    "example_en": "Stainless steel is used to make strong frames for machines and construction bridges.",
+    "example_vi": "Thép không gỉ được dùng để làm khung máy vững chắc và cầu xây dựng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "stylish",
+    "pos": "adj",
+    "ipa": "/ˈstaɪlɪʃ/",
+    "meaning_vi": "hợp thời trang, phong cách, kiểu cách",
+    "example_en": "This new smartphone has a sleek, stylish design that attracts young trendsetters.",
+    "example_vi": "Chiếc điện thoại thông minh mới này có thiết kế sang trọng, hợp thời trang thu hút giới trẻ sành điệu.",
+    "word_forms": [
+      {
+        "word": "style",
+        "pos": "noun",
+        "meaning_vi": "phong cách, kiểu dáng"
+      },
+      {
+        "word": "stylishly",
+        "pos": "adv",
+        "meaning_vi": "một cách sành điệu"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "suck up",
+    "pos": "phrase",
+    "ipa": "/sʌk ʌp/",
+    "meaning_vi": "hút lên, hút sạch (bụi, vụn thức ăn)",
+    "example_en": "Future smart vacuum cleaners will automatically detect breadcrumbs and suck them up quickly.",
+    "example_vi": "Những chiếc máy hút bụi thông minh trong tương lai sẽ tự động phát hiện vụn bánh mì và hút sạch chúng nhanh chóng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "tablet",
+    "pos": "noun",
+    "ipa": "/ˈtæblət/",
+    "meaning_vi": "máy tính bảng",
+    "example_en": "This tablet has a responsive touchscreen that is great for drawing 3D designs.",
+    "example_vi": "Chiếc máy tính bảng này có màn hình cảm ứng nhạy rất tuyệt vời cho việc vẽ các thiết kế 3D.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "touchscreen",
+    "pos": "noun",
+    "ipa": "/ˈtʌtʃskriːn/",
+    "meaning_vi": "màn hình cảm ứng",
+    "example_en": "You can control everything on the tablet with your fingers on the touchscreen.",
+    "example_vi": "Bạn có thể điều khiển mọi thứ trên máy tính bảng bằng ngón tay ngay trên màn hình cảm ứng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "virtual keyboard",
+    "pos": "noun",
+    "ipa": "/ˌvɜːtʃuəl ˈkiːbɔːd/",
+    "meaning_vi": "bàn phím ảo",
+    "example_en": "When typing on a smartphone, a virtual keyboard pops up on the screen.",
+    "example_vi": "Khi gõ chữ trên điện thoại thông minh, một bàn phím ảo sẽ hiện lên trên màn hình.",
+    "word_forms": [
+      {
+        "word": "virtual",
+        "pos": "adj",
+        "meaning_vi": "ảo (trên máy tính)"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "window shade",
+    "pos": "noun",
+    "ipa": "/ˈwɪndəʊ ʃeɪd/",
+    "meaning_vi": "mành rèm cửa sổ",
+    "example_en": "A smart window shade can automatically roll down to control the amount of light entering the room.",
+    "example_vi": "Mành cửa sổ thông minh có thể tự động hạ xuống để điều chỉnh lượng ánh sáng chiếu vào phòng.",
+    "word_forms": []
+  },
+  {
+    "unit": 11,
+    "unit_title": "Electronic Devices",
+    "word": "wireless",
+    "pos": "adj",
+    "ipa": "/ˈwaɪələs/",
+    "meaning_vi": "không dây, vô tuyến",
+    "example_en": "If you don't like the virtual keys, you can connect a wireless hardware keyboard.",
+    "example_vi": "Nếu bạn không thích bàn phím ảo, bạn có thể kết nối với một bàn phím cơ không dây.",
+    "word_forms": []
+  }
+]

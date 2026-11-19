@@ -1,0 +1,680 @@
+[
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "affect",
+    "pos": "verb",
+    "ipa": "/əˈfekt/",
+    "meaning_vi": "ảnh hưởng đến, tác động tiêu cực đến",
+    "example_en": "Rising temperatures severely affect the survival of polar bears.",
+    "example_vi": "Nhiệt độ gia tăng ảnh hưởng nghiêm trọng đến sự sinh tồn của loài gấu bắc cực.",
+    "word_forms": [
+      {
+        "word": "affection",
+        "pos": "noun",
+        "meaning_vi": "tình cảm"
+      },
+      {
+        "word": "affective",
+        "pos": "adj",
+        "meaning_vi": "thuộc cảm xúc"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "appreciate",
+    "pos": "verb",
+    "ipa": "/əˈpriːʃieɪt/",
+    "meaning_vi": "đánh giá cao, thưởng thức, trân trọng",
+    "example_en": "Visiting botanical gardens helps students appreciate the beauty and wonder of nature.",
+    "example_vi": "Tham quan các vườn thực vật giúp học sinh biết trân trọng vẻ đẹp và sự kỳ diệu của tự nhiên.",
+    "word_forms": [
+      {
+        "word": "appreciation",
+        "pos": "noun",
+        "meaning_vi": "sự đánh giá cao, lòng biết ơn"
+      },
+      {
+        "word": "appreciative",
+        "pos": "adj",
+        "meaning_vi": "biết ơn, tán thưởng"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "Blue Planet",
+    "pos": "noun",
+    "ipa": "/ˌbluː ˈplænɪt/",
+    "meaning_vi": "Hành tinh Xanh (tên gọi khác của Trái Đất)",
+    "example_en": "Because water covers over seventy percent of its surface, Earth is called the Blue Planet.",
+    "example_vi": "Vì nước bao phủ hơn bảy mươi phần trăm bề mặt nên Trái Đất được gọi là Hành tinh Xanh.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "boreal forest",
+    "pos": "noun",
+    "ipa": "/ˌbɔːriəl ˈfɒrɪst/",
+    "meaning_vi": "rừng taiga, rừng phương bắc",
+    "example_en": "Boreal forests cover vast subarctic regions of Canada and Russia.",
+    "example_vi": "Rừng phương bắc bao phủ những khu vực cận bắc cực rộng lớn của Canada và Nga.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "carnivore",
+    "pos": "noun",
+    "ipa": "/ˈkɑːnɪvɔː(r)/",
+    "meaning_vi": "động vật ăn thịt",
+    "example_en": "Carnivores have sharp teeth and claws adapted for hunting.",
+    "example_vi": "Động vật ăn thịt có răng và móng vuốt sắc nhọn thích nghi với việc săn bắt.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "climate change",
+    "pos": "noun",
+    "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+    "meaning_vi": "sự biến đổi khí hậu",
+    "example_en": "Climate change causes extreme weather events such as severe droughts and devastating storms.",
+    "example_vi": "Biến đổi khí hậu gây ra các hiện tượng thời tiết cực đoan như hạn hán khốc liệt và bão lũ tàn phá.",
+    "word_forms": [
+      {
+        "word": "climatic",
+        "pos": "adj",
+        "meaning_vi": "thuộc về khí hậu"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "disrupt",
+    "pos": "verb",
+    "ipa": "/dɪsˈrʌpt/",
+    "meaning_vi": "làm gián đoạn, làm đảo lộn",
+    "example_en": "Pollution can disrupt natural marine food chains and cause species decline.",
+    "example_vi": "Ô nhiễm có thể làm đảo lộn chuỗi thức ăn biển tự nhiên và khiến nhiều loài suy giảm.",
+    "word_forms": [
+      {
+        "word": "disruption",
+        "pos": "noun",
+        "meaning_vi": "sự gián đoạn, sự xáo trộn"
+      },
+      {
+        "word": "disruptive",
+        "pos": "adj",
+        "meaning_vi": "gây rối, mang tính phá vỡ"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "droppings",
+    "pos": "noun",
+    "ipa": "/ˈdrɒpɪŋz/",
+    "meaning_vi": "phân động vật (loài nhỏ hoặc chim chóc)",
+    "example_en": "Bird droppings serve as natural fertilisers that enrich the forest soil.",
+    "example_vi": "Phân chim đóng vai trò như phân bón tự nhiên làm màu mỡ thêm cho đất rừng.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "Earth Day",
+    "pos": "noun",
+    "ipa": "/ˈɜːθ deɪ/",
+    "meaning_vi": "Ngày Trái Đất (ngày 22 tháng 4)",
+    "example_en": "Schools organize various environmental campaigns to celebrate Earth Day every April.",
+    "example_vi": "Các trường học tổ chức nhiều chiến dịch môi trường khác nhau để kỷ niệm Ngày Trái Đất vào mỗi tháng Tư.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "ecological balance",
+    "pos": "noun",
+    "ipa": "/ˌiːkəˈlɒdʒɪkl ˈbæləns/",
+    "meaning_vi": "sự cân bằng sinh thái",
+    "example_en": "Overhunting disrupts the ecological balance and leads to serious environmental problems.",
+    "example_vi": "Việc săn bắn quá mức làm phá vỡ sự cân bằng sinh thái và dẫn đến nhiều vấn đề môi trường nghiêm trọng.",
+    "word_forms": [
+      {
+        "word": "ecology",
+        "pos": "noun",
+        "meaning_vi": "sinh thái học"
+      },
+      {
+        "word": "ecologist",
+        "pos": "noun",
+        "meaning_vi": "nhà sinh thái học"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "essential",
+    "pos": "adj",
+    "ipa": "/ɪˈsenʃl/",
+    "meaning_vi": "thiết yếu, vô cùng quan trọng",
+    "example_en": "Fresh water and clean air are essential for the survival of all living things.",
+    "example_vi": "Nước ngọt và không khí trong lành là thiết yếu cho sự sống còn của vạn vật.",
+    "word_forms": [
+      {
+        "word": "essence",
+        "pos": "noun",
+        "meaning_vi": "bản chất, cốt lõi"
+      },
+      {
+        "word": "essentially",
+        "pos": "adv",
+        "meaning_vi": "về cơ bản"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "fascinating",
+    "pos": "adj",
+    "ipa": "/ˈfæsɪneɪtɪŋ/",
+    "meaning_vi": "rất thú vị, lôi cuốn, hấp dẫn",
+    "example_en": "It is fascinating to observe how different animals adapt to their natural habitats.",
+    "example_vi": "Thật thú vị khi quan sát cách các loài động vật khác nhau thích nghi với môi trường sống tự nhiên của chúng.",
+    "word_forms": [
+      {
+        "word": "fascinate",
+        "pos": "verb",
+        "meaning_vi": "làm mê hoặc, quyến rũ"
+      },
+      {
+        "word": "fascination",
+        "pos": "noun",
+        "meaning_vi": "sự mê hoặc, sự hấp dẫn"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "feed on",
+    "pos": "phrase",
+    "ipa": "/fiːd ɒn/",
+    "meaning_vi": "ăn, sống dựa vào thức ăn gì",
+    "example_en": "In arctic regions, polar bears mainly feed on seals to survive.",
+    "example_vi": "Ở các vùng bắc cực, gấu bắc cực chủ yếu ăn hải cẩu để sinh tồn.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "fertiliser",
+    "pos": "noun",
+    "ipa": "/ˈfɜːtəlaɪzə(r)/",
+    "meaning_vi": "phân bón",
+    "example_en": "Excessive chemical fertilisers wash into nearby streams and pollute the waterways.",
+    "example_vi": "Phân bón hóa học quá mức bị rửa trôi xuống các con suối gần đó và làm ô nhiễm nguồn nước.",
+    "word_forms": [
+      {
+        "word": "fertilise",
+        "pos": "verb",
+        "meaning_vi": "bón phân, thụ phấn"
+      },
+      {
+        "word": "fertility",
+        "pos": "noun",
+        "meaning_vi": "độ màu mỡ, phì nhiêu"
+      },
+      {
+        "word": "fertile",
+        "pos": "adj",
+        "meaning_vi": "màu mỡ"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "flora and fauna",
+    "pos": "phrase",
+    "ipa": "/ˌflɔːrə ənd ˈfɔːnə/",
+    "meaning_vi": "hệ thực vật và hệ động vật",
+    "example_en": "National parks are established to preserve diverse flora and fauna.",
+    "example_vi": "Các vườn quốc gia được thành lập nhằm bảo tồn hệ thực vật và động vật phong phú.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "food chain",
+    "pos": "noun",
+    "ipa": "/ˈfuːd tʃeɪn/",
+    "meaning_vi": "chuỗi thức ăn",
+    "example_en": "Every living species plays an indispensable role in maintaining the natural food chain.",
+    "example_vi": "Mỗi loài sinh vật đều đóng một vai trò không thể thiếu trong việc duy trì chuỗi thức ăn tự nhiên.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "global warming",
+    "pos": "noun",
+    "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+    "meaning_vi": "sự nóng lên toàn cầu",
+    "example_en": "Global warming causes glaciers and polar ice sheets to melt at an alarming speed.",
+    "example_vi": "Hiện tượng nóng lên toàn cầu khiến các dòng sông băng và tảng băng vùng cực tan chảy với tốc độ đáng báo động.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "grassland",
+    "pos": "noun",
+    "ipa": "/ˈɡrɑːslænd/",
+    "meaning_vi": "đồng cỏ, thảo nguyên",
+    "example_en": "Grasslands provide essential grazing areas for cattle and many wild herbivores.",
+    "example_vi": "Đồng cỏ cung cấp các khu vực chăn thả gia súc thiết yếu và nơi ăn cỏ cho nhiều loài động vật hoang dã.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "habitat",
+    "pos": "noun",
+    "ipa": "/ˈhæbɪtæt/",
+    "meaning_vi": "môi trường sống tự nhiên của động thực vật",
+    "example_en": "Deforestation and pollution are rapidly destroying natural habitats of wildlife.",
+    "example_vi": "Nạn phá rừng và ô nhiễm đang nhanh chóng phá hủy môi trường sống tự nhiên của động vật hoang dã.",
+    "word_forms": [
+      {
+        "word": "inhabit",
+        "pos": "verb",
+        "meaning_vi": "sinh sống, cư trú"
+      },
+      {
+        "word": "inhabitant",
+        "pos": "noun",
+        "meaning_vi": "cư dân, sinh vật cư trú"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "habitat loss",
+    "pos": "noun",
+    "ipa": "/ˈhæbɪtæt lɒs/",
+    "meaning_vi": "sự mất môi trường sống",
+    "example_en": "Habitat loss is one of the greatest threats to global biodiversity.",
+    "example_vi": "Sự mất môi trường sống là một trong những mối đe dọa lớn nhất đối với đa dạng sinh học toàn cầu.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "harmful",
+    "pos": "adj",
+    "ipa": "/ˈhɑːmfl/",
+    "meaning_vi": "có hại, gây nguy hại",
+    "example_en": "Air pollution has harmful effects on the respiratory health of humans and animals.",
+    "example_vi": "Ô nhiễm không khí có những tác động gây hại tới sức khỏe hô hấp của con người và động vật.",
+    "word_forms": [
+      {
+        "word": "harm",
+        "pos": "noun",
+        "meaning_vi": "sự tổn hại"
+      },
+      {
+        "word": "harm",
+        "pos": "verb",
+        "meaning_vi": "làm hại, gây tổn thương"
+      },
+      {
+        "word": "harmless",
+        "pos": "adj",
+        "meaning_vi": "vô hại"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "herbivore",
+    "pos": "noun",
+    "ipa": "/ˈhɜːbɪvɔː(r)/",
+    "meaning_vi": "động vật ăn cỏ",
+    "example_en": "Zebras, giraffes, and elephants are famous herbivores of African grasslands.",
+    "example_vi": "Ngựa vằn, hươu cao cổ và voi là những loài ăn cỏ nổi tiếng của vùng thảo nguyên châu Phi.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "how would you feel about",
+    "pos": "phrase",
+    "ipa": "/haʊ wʊd juː fiːl əˈbaʊt/",
+    "meaning_vi": "bạn nghĩ sao về việc... (dùng để thuyết phục)",
+    "example_en": "How would you feel about contributing to the fund to protect our local wildlife?",
+    "example_vi": "Bạn nghĩ sao về việc đóng góp vào quỹ bảo vệ động vật hoang dã tại địa phương?",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "landform",
+    "pos": "noun",
+    "ipa": "/ˈlændfɔːm/",
+    "meaning_vi": "dạng địa hình, địa mạo (núi, đồi, đồng bằng)",
+    "example_en": "Mountains, hills, plateaus, and plains are common examples of landforms.",
+    "example_vi": "Núi, đồi, cao nguyên và đồng bằng là những ví dụ điển hình về các dạng địa hình.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "lend a hand to",
+    "pos": "phrase",
+    "ipa": "/lend ə hænd tu/",
+    "meaning_vi": "chung tay giúp đỡ, góp phần",
+    "example_en": "Every citizen can lend a hand to protecting Mother Earth by planting more trees.",
+    "example_vi": "Mỗi người dân đều có thể chung tay bảo vệ Mẹ Trái Đất bằng cách trồng thêm nhiều cây xanh.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "liquid water",
+    "pos": "noun",
+    "ipa": "/ˌlɪkwɪd ˈwɔːtə(r)/",
+    "meaning_vi": "nước ở thể lỏng",
+    "example_en": "Earth is the only planet known to possess liquid water on its surface.",
+    "example_vi": "Trái Đất là hành tinh duy nhất được biết đến có nước ở thể lỏng trên bề mặt.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "moonquake",
+    "pos": "noun",
+    "ipa": "/ˈmuːnkweɪk/",
+    "meaning_vi": "động đất trên Mặt Trăng, chấn động Mặt Trăng",
+    "example_en": "Moonquakes are much weaker than earthquakes, but they can last much longer.",
+    "example_vi": "Chấn động Mặt Trăng yếu hơn nhiều so với động đất trên Trái Đất, nhưng chúng có thể kéo dài lâu hơn nhiều.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "nature reserve",
+    "pos": "noun",
+    "ipa": "/ˈneɪtʃə rɪzɜːv/",
+    "meaning_vi": "khu bảo tồn thiên nhiên",
+    "example_en": "We can build nature reserves to keep endangered plants and animals safe.",
+    "example_vi": "Chúng ta có thể xây dựng các khu bảo tồn thiên nhiên để bảo vệ an toàn cho các loài động thực vật có nguy cơ tuyệt chủng.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "observe",
+    "pos": "verb",
+    "ipa": "/əbˈzɜːv/",
+    "meaning_vi": "quan sát, theo dõi",
+    "example_en": "Scientists set up hidden cameras to observe wildlife in their natural habitat.",
+    "example_vi": "Các nhà khoa học đặt các máy quay ẩn để quan sát động vật hoang dã trong môi trường sống tự nhiên của chúng.",
+    "word_forms": [
+      {
+        "word": "observation",
+        "pos": "noun",
+        "meaning_vi": "sự quan sát"
+      },
+      {
+        "word": "observant",
+        "pos": "adj",
+        "meaning_vi": "tinh ý, nhanh mắt"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "orbit",
+    "pos": "verb",
+    "ipa": "/ˈɔːbɪt/",
+    "meaning_vi": "quay quanh quỹ đạo",
+    "example_en": "The Moon orbits Earth once every twenty-seven days.",
+    "example_vi": "Mặt Trăng quay quanh quỹ đạo Trái Đất cứ hai mươi bảy ngày một lần.",
+    "word_forms": [
+      {
+        "word": "orbit",
+        "pos": "noun",
+        "meaning_vi": "quỹ đạo"
+      },
+      {
+        "word": "orbital",
+        "pos": "adj",
+        "meaning_vi": "thuộc quỹ đạo"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "outer space",
+    "pos": "noun",
+    "ipa": "/ˌaʊtə ˈspeɪs/",
+    "meaning_vi": "ngoài vũ trụ, không gian vũ trụ",
+    "example_en": "Seen from outer space, Earth looks entirely blue because water covers over 70 percent of it.",
+    "example_vi": "Nhìn từ ngoài vũ trụ, Trái Đất trông toàn màu xanh vì nước bao phủ hơn 70 phần trăm diện tích.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "pesticide",
+    "pos": "noun",
+    "ipa": "/ˈpestɪsaɪd/",
+    "meaning_vi": "thuốc trừ sâu, thuốc diệt cỏ",
+    "example_en": "Farmers should stop using toxic pesticides to protect helpful insects.",
+    "example_vi": "Nông dân nên ngừng sử dụng thuốc trừ sâu độc hại để bảo vệ các loài côn trùng có ích.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "pole",
+    "pos": "noun",
+    "ipa": "/pəʊl/",
+    "meaning_vi": "cực (Bắc cực hoặc Nam cực)",
+    "example_en": "The North Pole and the South Pole are covered in thick sheets of ice.",
+    "example_vi": "Bắc cực và Nam cực được bao phủ bởi những lớp băng dày đặc.",
+    "word_forms": [
+      {
+        "word": "polar",
+        "pos": "adj",
+        "meaning_vi": "thuộc về địa cực"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "predator",
+    "pos": "noun",
+    "ipa": "/ˈpredətə(r)/",
+    "meaning_vi": "động vật ăn thịt, kẻ săn mồi",
+    "example_en": "Tigers and lions are top predators that regulate herbivore populations.",
+    "example_vi": "Hổ và sư tử là những kẻ săn mồi đỉnh cao giúp điều hòa số lượng loài ăn cỏ.",
+    "word_forms": [
+      {
+        "word": "predatory",
+        "pos": "adj",
+        "meaning_vi": "săn mồi"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "preserve",
+    "pos": "verb",
+    "ipa": "/prɪˈzɜːv/",
+    "meaning_vi": "bảo tồn, giữ gìn",
+    "example_en": "Local communities are joining hands to preserve rare wetland habitats.",
+    "example_vi": "Cộng đồng địa phương đang chung tay bảo tồn các vùng đất ngập nước quý hiếm.",
+    "word_forms": [
+      {
+        "word": "preservation",
+        "pos": "noun",
+        "meaning_vi": "sự bảo tồn"
+      },
+      {
+        "word": "preservative",
+        "pos": "noun",
+        "meaning_vi": "chất bảo quản"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "prey",
+    "pos": "noun",
+    "ipa": "/preɪ/",
+    "meaning_vi": "con mồi",
+    "example_en": "In the wild food chain, deer and rabbits are common prey for wolves.",
+    "example_vi": "Trong chuỗi thức ăn tự nhiên, hươu và thỏ là con mồi phổ biến của loài sói.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "raise awareness of",
+    "pos": "phrase",
+    "ipa": "/reɪz əˈweənəs əv/",
+    "meaning_vi": "nâng cao nhận thức về",
+    "example_en": "The club organized an exhibition to raise awareness of endangered species.",
+    "example_vi": "Câu lạc bộ đã tổ chức một buổi triển lãm để nâng cao nhận thức về các loài có nguy cơ tuyệt chủng.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "Solar System",
+    "pos": "noun",
+    "ipa": "/ˈsəʊlə sɪstəm/",
+    "meaning_vi": "Hệ Mặt Trời",
+    "example_en": "There are eight planets orbiting the Sun in our Solar System.",
+    "example_vi": "Có tám hành tinh quay quanh Mặt Trời trong Hệ Mặt Trời của chúng ta.",
+    "word_forms": [
+      {
+        "word": "solar",
+        "pos": "adj",
+        "meaning_vi": "thuộc về mặt trời"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "subpolar",
+    "pos": "adj",
+    "ipa": "/ˌsʌbˈpəʊlə(r)/",
+    "meaning_vi": "cận cực, gần vùng địa cực",
+    "example_en": "Boreal forests thrive in the harsh, chilly subpolar regions of the northern hemisphere.",
+    "example_vi": "Rừng phương bắc phát triển mạnh ở các vùng cận cực lạnh giá và khắc nghiệt của bán cầu bắc.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "threat",
+    "pos": "noun",
+    "ipa": "/θret/",
+    "meaning_vi": "mối đe dọa, nguy cơ",
+    "example_en": "Plastic pollution poses a grave threat to marine life across the globe.",
+    "example_vi": "Ô nhiễm rác thải nhựa gây ra mối đe dọa nghiêm trọng đối với sinh vật biển trên toàn thế giới.",
+    "word_forms": [
+      {
+        "word": "threaten",
+        "pos": "verb",
+        "meaning_vi": "đe dọa"
+      },
+      {
+        "word": "threatening",
+        "pos": "adj",
+        "meaning_vi": "mang tính đe dọa"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "toxic",
+    "pos": "adj",
+    "ipa": "/ˈtɒksɪk/",
+    "meaning_vi": "độc hại",
+    "example_en": "Discharging toxic chemicals into local lakes destroys the aquatic ecosystem.",
+    "example_vi": "Việc xả các hóa chất độc hại vào hồ nước địa phương sẽ phá hủy hệ sinh thái dưới nước.",
+    "word_forms": [
+      {
+        "word": "toxicity",
+        "pos": "noun",
+        "meaning_vi": "độ độc hại"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "vital",
+    "pos": "adj",
+    "ipa": "/ˈvaɪtl/",
+    "meaning_vi": "mang tính sống còn, cực kỳ quan trọng",
+    "example_en": "The Amazon rainforest plays a vital role in regulating the global climate.",
+    "example_vi": "Rừng mưa nhiệt đới Amazon đóng một vai trò sống còn trong việc điều hòa khí hậu toàn cầu.",
+    "word_forms": [
+      {
+        "word": "vitality",
+        "pos": "noun",
+        "meaning_vi": "sức sống, sinh khí"
+      },
+      {
+        "word": "vitally",
+        "pos": "adv",
+        "meaning_vi": "vô cùng quan trọng"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "water body",
+    "pos": "noun",
+    "ipa": "/ˈwɔːtə bɒdi/",
+    "meaning_vi": "vùng nước (sông, hồ, biển, đại dương)",
+    "example_en": "Oceans, seas, rivers, and lakes are different types of water bodies on Earth.",
+    "example_vi": "Đại dương, biển, sông và hồ là những dạng vùng nước khác nhau trên Trái Đất.",
+    "word_forms": []
+  },
+  {
+    "unit": 10,
+    "unit_title": "Planet Earth",
+    "word": "why don't you give it a go",
+    "pos": "phrase",
+    "ipa": "/waɪ dəʊnt juː ɡɪv ɪt ə ɡəʊ/",
+    "meaning_vi": "sao bạn không thử làm điều đó xem sao",
+    "example_en": "This astronomy documentary is super interesting; why don't you give it a go?",
+    "example_vi": "Bộ phim tài liệu thiên văn học này cực kỳ thú vị đấy; sao bạn không thử xem nó một lần?",
+    "word_forms": []
+  }
+]

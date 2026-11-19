@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 11,
+    "target_word": "desktop",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'desktop' (viết tắt của desktop computer) có nghĩa tiếng Việt là gì?",
+    "correct_answer": "máy tính để bàn",
+    "distractors": [
+      "máy tính xách tay",
+      "máy tính bảng",
+      "màn hình cảm ứng"
+    ],
+    "explanation_vi": "'desktop' là danh từ chỉ máy tính để bàn cố định phục vụ công việc và học tập."
+  },
+  {
+    "unit": 11,
+    "target_word": "touchscreen",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'touchscreen' chỉ bộ phận nào trên thiết bị điện tử?",
+    "correct_answer": "màn hình cảm ứng",
+    "distractors": [
+      "bàn phím cơ rời",
+      "chuột quang không dây",
+      "bộ sạc dự phòng"
+    ],
+    "explanation_vi": "'touchscreen' là màn hình cho phép người dùng thao tác trực tiếp bằng ngón tay hoặc bút cảm ứng."
+  },
+  {
+    "unit": 11,
+    "target_word": "virtual keyboard",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'virtual keyboard' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "bàn phím ảo (hiển thị trên màn hình)",
+    "distractors": [
+      "bàn phím rời có dây",
+      "bàn di chuột cảm ứng",
+      "bộ gõ chính tả tự động"
+    ],
+    "explanation_vi": "'virtual keyboard' là bàn phím phần mềm hiển thị trực tiếp trên màn hình cảm ứng để người dùng gõ phím."
+  },
+  {
+    "unit": 11,
+    "target_word": "robotic vacuum cleaner",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'robotic vacuum cleaner' chỉ thiết bị gia dụng nào?",
+    "correct_answer": "robot hút bụi tự động",
+    "distractors": [
+      "máy giặt sấy đa năng",
+      "nồi chiên không dầu thông minh",
+      "máy lọc không khí ion"
+    ],
+    "explanation_vi": "'robotic vacuum cleaner' là thiết bị hút bụi tự động có cảm biến điều hướng dọn dẹp sàn nhà."
+  },
+  {
+    "unit": 11,
+    "target_word": "camcorder",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'camcorder' trong các thiết bị công nghệ có nghĩa là gì?",
+    "correct_answer": "máy quay video cầm tay",
+    "distractors": [
+      "máy ghi âm kỹ thuật số",
+      "máy ảnh chụp lấy ngay",
+      "kính thực tế ảo"
+    ],
+    "explanation_vi": "'camcorder' là thiết bị điện tử tích hợp dùng để quay phim và ghi âm cầm tay."
+  },
+  {
+    "unit": 11,
+    "target_word": "conduct",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'conduct' trong ngữ cảnh vật lý và thiết bị điện mang nghĩa là gì?",
+    "correct_answer": "dẫn điện, truyền nhiệt",
+    "distractors": [
+      "ngăn chặn dòng điện",
+      "tiêu thụ năng lượng",
+      "chuyển đổi điện áp"
+    ],
+    "explanation_vi": "'conduct' mang nghĩa là cho phép dòng điện hoặc nhiệt truyền qua (ví dụ: metals conduct electricity)."
+  },
+  {
+    "unit": 11,
+    "target_word": "durable",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'durable' miêu tả đặc tính nào của một thiết bị hoặc vật liệu?",
+    "correct_answer": "bền bỉ, dùng được lâu dài",
+    "distractors": [
+      "dễ vỡ, giòn tan",
+      "nhỏ gọn, nhẹ nhàng",
+      "đắt tiền, xa xỉ"
+    ],
+    "explanation_vi": "'durable' mang nghĩa là bền chắc, chịu được hao mòn qua thời gian dài sử dụng."
+  },
+  {
+    "unit": 11,
+    "target_word": "eye strain",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'eye strain' chỉ tình trạng sức khỏe nào khi dùng máy tính quá nhiều?",
+    "correct_answer": "mỏi mắt, căng thẳng thị giác",
+    "distractors": [
+      "tật cận thị bẩm sinh",
+      "chứng đau lưng mãn tính",
+      "chấn thương đốt sống cổ"
+    ],
+    "explanation_vi": "'eye strain' là hiện tượng mắt bị nhức mỏi, khô rát do nhìn màn hình thiết bị quá lâu."
+  },
+  {
+    "unit": 11,
+    "target_word": "window shade",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'window shade' (trong hệ thống nhà thông minh) có nghĩa là gì?",
+    "correct_answer": "mành rèm cửa sổ",
+    "distractors": [
+      "chấn song cửa sổ",
+      "khung kính cường lực",
+      "tay nắm mở cửa"
+    ],
+    "explanation_vi": "'window shade' là mành cuốn hoặc rèm che cửa sổ dùng để chắn sáng và tạo sự riêng tư."
+  },
+  {
+    "unit": 11,
+    "target_word": "at your fingertips",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'at your fingertips' mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "ngay trong tầm tay, sẵn sàng để sử dụng",
+    "distractors": [
+      "khó lòng tiếp cận được",
+      "nằm ngoài tầm với",
+      "vượt quá khả năng chi trả"
+    ],
+    "explanation_vi": "'at your fingertips' có nghĩa là thông tin, kiến thức hay công cụ luôn sẵn có ngay lập tức khi cần."
+  },
+  {
+    "unit": 11,
+    "target_word": "e-reader",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'máy đọc sách điện tử'?",
+    "correct_answer": "e-reader",
+    "distractors": [
+      "camcorder",
+      "desktop",
+      "smartwatch"
+    ],
+    "explanation_vi": "'e-reader' là thiết bị chuyên dụng dùng để tải và đọc sách điện tử."
+  },
+  {
+    "unit": 11,
+    "target_word": "smartwatch",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào có nghĩa là 'đồng hồ thông minh'?",
+    "correct_answer": "smartwatch",
+    "distractors": [
+      "touchscreen",
+      "leaflet",
+      "printer"
+    ],
+    "explanation_vi": "'smartwatch' là đồng hồ điện tử đeo tay tích hợp các tính năng theo dõi sức khỏe và thông báo."
+  },
+  {
+    "unit": 11,
+    "target_word": "3D printer",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào chỉ thiết bị 'máy in ba chiều / máy in 3D'?",
+    "correct_answer": "3D printer",
+    "distractors": [
+      "scanner",
+      "photocopier",
+      "camcorder"
+    ],
+    "explanation_vi": "'3D printer' là thiết bị tạo ra các vật thể ba chiều từ mô hình kỹ thuật số."
+  },
+  {
+    "unit": 11,
+    "target_word": "portable",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'di động, có thể xách tay, dễ mang theo'?",
+    "correct_answer": "portable",
+    "distractors": [
+      "durable",
+      "stylish",
+      "interactive"
+    ],
+    "explanation_vi": "'portable' miêu tả thiết bị có kích thước nhỏ gọn, dễ mang vác khi di chuyển."
+  },
+  {
+    "unit": 11,
+    "target_word": "copper",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Kim loại nào trong tiếng Anh mang tên 'copper' (thường dùng làm lõi dây điện)?",
+    "correct_answer": "copper",
+    "distractors": [
+      "aluminium",
+      "steel",
+      "plastic"
+    ],
+    "explanation_vi": "'copper' là kim loại đồng, dẫn điện tốt và là vật liệu sản xuất lõi dây điện."
+  },
+  {
+    "unit": 11,
+    "target_word": "cardboard",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'bìa các-tông, bìa cứng' dùng làm hộp đựng?",
+    "correct_answer": "cardboard",
+    "distractors": [
+      "rubber",
+      "plastic",
+      "aluminium"
+    ],
+    "explanation_vi": "'cardboard' là bìa cứng dùng làm thùng và hộp đóng gói hàng hóa."
+  },
+  {
+    "unit": 11,
+    "target_word": "live-stream",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ nào có nghĩa là 'phát sóng video trực tiếp trên mạng xã hội'?",
+    "correct_answer": "live-stream",
+    "distractors": [
+      "download",
+      "assemble",
+      "distract"
+    ],
+    "explanation_vi": "'live-stream' là phát video trực tiếp theo thời gian thực qua Internet."
+  },
+  {
+    "unit": 11,
+    "target_word": "assemble",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào có nghĩa là 'lắp ráp các linh kiện máy tính lại với nhau'?",
+    "correct_answer": "assemble",
+    "distractors": [
+      "conduct",
+      "distract",
+      "interact"
+    ],
+    "explanation_vi": "'assemble' có nghĩa là gắn kết, lắp ráp các bộ phận lại thành một thiết bị hoàn chỉnh."
+  },
+  {
+    "unit": 11,
+    "target_word": "collaborate with",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào mang nghĩa 'hợp tác, làm việc nhóm cùng với ai' qua ứng dụng trực tuyến?",
+    "correct_answer": "collaborate with",
+    "distractors": [
+      "interfere with",
+      "compete with",
+      "dispense with"
+    ],
+    "explanation_vi": "'collaborate with' có nghĩa là cộng tác, chung tay thực hiện công việc với người khác."
+  },
+  {
+    "unit": 11,
+    "target_word": "suck up",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào miêu tả hành động 'hút bụi, hút sạch các mảnh vụn' của máy hút bụi?",
+    "correct_answer": "suck up",
+    "distractors": [
+      "turn up",
+      "look up",
+      "pick up"
+    ],
+    "explanation_vi": "'suck up' miêu tả hành động hút vào bên trong của máy hút bụi đối với rác và bụi bẩn."
+  },
+  {
+    "unit": 11,
+    "target_word": "tablets",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Because they are lightweight and compact, students often bring their ______ to class to take quick notes.",
+    "correct_answer": "tablets",
+    "distractors": [
+      "desktops",
+      "printers",
+      "photocopiers"
+    ],
+    "explanation_vi": "Học sinh mang máy tính bảng ('tablets') đến lớp vì chúng gọn nhẹ và tiện ghi chép."
+  },
+  {
+    "unit": 11,
+    "target_word": "wireless",
+    "question_type": "contextual_mcq",
+    "prompt_text": "If you dislike typing on a flat glass screen, you can connect an external ______ keyboard via Bluetooth.",
+    "correct_answer": "wireless",
+    "distractors": [
+      "hopeless",
+      "ruinous",
+      "toxic"
+    ],
+    "explanation_vi": "Người dùng có thể kết nối bàn phím không dây ('wireless keyboard') thông qua Bluetooth."
+  },
+  {
+    "unit": 11,
+    "target_word": "smartwatch",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Nam checks his daily steps, burned calories, and sleeping quality on his newly-bought ______.",
+    "correct_answer": "smartwatch",
+    "distractors": [
+      "e-reader",
+      "camcorder",
+      "window shade"
+    ],
+    "explanation_vi": "Đồng hồ thông minh ('smartwatch') có tính năng đếm bước chân, đo calo và theo dõi giấc ngủ."
+  },
+  {
+    "unit": 11,
+    "target_word": "3D printer",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The science laboratory acquired an advanced ______ to manufacture plastic organ models for biology lessons.",
+    "correct_answer": "3D printer",
+    "distractors": [
+      "virtual keyboard",
+      "food chain",
+      "travel agency"
+    ],
+    "explanation_vi": "Phòng thí nghiệm dùng máy in 3D ('3D printer') để in các mô hình cơ quan bằng nhựa."
+  },
+  {
+    "unit": 11,
+    "target_word": "conduct",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Electricians prefer copper cables because metals ______ electricity significantly better than plastic.",
+    "correct_answer": "conduct",
+    "distractors": [
+      "dissolve",
+      "pollute",
+      "disrupt"
+    ],
+    "explanation_vi": "Kim loại dẫn điện ('conduct electricity') tốt hơn nhiều so với chất dẻo."
+  },
+  {
+    "unit": 11,
+    "target_word": "distract",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Pop-up notifications from social networking apps can easily ______ students from doing homework.",
+    "correct_answer": "distract",
+    "distractors": [
+      "appreciate",
+      "simplify",
+      "translate"
+    ],
+    "explanation_vi": "Các thông báo từ mạng xã hội dễ làm học sinh mất tập trung, xao nhãng ('distract') khi làm bài."
+  },
+  {
+    "unit": 11,
+    "target_word": "interactive",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Teachers employ ______ whiteboards to allow students to participate directly in vocabulary games.",
+    "correct_answer": "interactive",
+    "distractors": [
+      "monolingual",
+      "subpolar",
+      "rusty"
+    ],
+    "explanation_vi": "Bảng trắng có tính tương tác ('interactive whiteboards') giúp học sinh tham gia trò chơi trực tiếp."
+  },
+  {
+    "unit": 11,
+    "target_word": "posture",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Bending your neck forward toward your computer screen for hours will damage your spinal ______.",
+    "correct_answer": "posture",
+    "distractors": [
+      "subtitles",
+      "brochures",
+      "droppings"
+    ],
+    "explanation_vi": "Cúi đầu về phía màn hình hàng giờ sẽ làm hỏng tư thế ('posture') của cột sống."
+  },
+  {
+    "unit": 11,
+    "target_word": "privacy",
+    "question_type": "contextual_mcq",
+    "prompt_text": "You can close the automated window blinds whenever you need more peace and ______ in your room.",
+    "correct_answer": "privacy",
+    "distractors": [
+      "itinerary",
+      "excursion",
+      "accommodation"
+    ],
+    "explanation_vi": "Đóng rèm tự động để có thêm sự yên tĩnh và riêng tư ('privacy') trong phòng."
+  },
+  {
+    "unit": 11,
+    "target_word": "at your fingertips",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Having an internet-connected tablet puts an infinite digital library right ______.",
+    "correct_answer": "at your fingertips",
+    "distractors": [
+      "in high season",
+      "on the rocks",
+      "under the weather"
+    ],
+    "explanation_vi": "Có máy tính bảng nối mạng mang cả thư viện số đến ngay trong tầm tay ('at your fingertips')."
+  },
+  {
+    "unit": 11,
+    "target_word": "electronic",
+    "question_type": "word_form",
+    "prompt_text": "Smartphones and tablets are indispensable ______ gadgets in modern classrooms. (ELECTRON)",
+    "correct_answer": "electronic",
+    "distractors": [
+      "electronics",
+      "electronically",
+      "electrical"
+    ],
+    "explanation_vi": "Trước danh từ 'gadgets' cần một tính từ thuộc về điện tử: 'electronic gadgets'."
+  },
+  {
+    "unit": 11,
+    "target_word": "portability",
+    "question_type": "word_form",
+    "prompt_text": "The main advantage of modern tablets is their extreme light weight and high ______. (PORTABLE)",
+    "correct_answer": "portability",
+    "distractors": [
+      "portable",
+      "portably",
+      "port"
+    ],
+    "explanation_vi": "Sau tính từ 'high' cần một danh từ chỉ tính di động: 'portability'."
+  },
+  {
+    "unit": 11,
+    "target_word": "conductor",
+    "question_type": "word_form",
+    "prompt_text": "Copper is commonly utilized in electrical wiring because it is an outstanding ______. (CONDUCT)",
+    "correct_answer": "conductor",
+    "distractors": [
+      "conduction",
+      "conductive",
+      "conductance"
+    ],
+    "explanation_vi": "Sau mạo từ 'an' và tính từ 'outstanding' cần danh từ chỉ chất dẫn điện: 'conductor'."
+  },
+  {
+    "unit": 11,
+    "target_word": "durability",
+    "question_type": "word_form",
+    "prompt_text": "Engineers tested the smartphone's aluminium frame to verify its exceptional ______. (DURABLE)",
+    "correct_answer": "durability",
+    "distractors": [
+      "durable",
+      "durably",
+      "durance"
+    ],
+    "explanation_vi": "Sau tính từ sở hữu 'its' và tính từ 'exceptional' cần danh từ chỉ độ bền: 'durability'."
+  },
+  {
+    "unit": 11,
+    "target_word": "interaction",
+    "question_type": "word_form",
+    "prompt_text": "Touchscreens provide intuitive, direct ______ between the digital system and the user. (INTERACTIVE)",
+    "correct_answer": "interaction",
+    "distractors": [
+      "interactive",
+      "interactively",
+      "interact"
+    ],
+    "explanation_vi": "Sau các tính từ 'intuitive, direct' cần danh từ chỉ sự tương tác: 'interaction'."
+  },
+  {
+    "unit": 11,
+    "target_word": "collaborative",
+    "question_type": "word_form",
+    "prompt_text": "Cloud-based learning platforms encourage ______ teamwork among secondary students. (COLLABORATE)",
+    "correct_answer": "collaborative",
+    "distractors": [
+      "collaboration",
+      "collaborator",
+      "collaboratively"
+    ],
+    "explanation_vi": "Trước danh từ 'teamwork' cần một tính từ mang nghĩa mang tính hợp tác: 'collaborative teamwork'."
+  },
+  {
+    "unit": 11,
+    "target_word": "distractions",
+    "question_type": "word_form",
+    "prompt_text": "Students ought to turn off game notifications to avoid unwanted ______ while studying. (DISTRACT)",
+    "correct_answer": "distractions",
+    "distractors": [
+      "distracted",
+      "distractingly",
+      "distractive"
+    ],
+    "explanation_vi": "Sau tính từ 'unwanted' cần một danh từ số nhiều chỉ những điều gây xao nhãng: 'distractions'."
+  },
+  {
+    "unit": 11,
+    "target_word": "stylish",
+    "question_type": "word_form",
+    "prompt_text": "The latest smartwatch model features a very sleek, ______ casing made of titanium. (STYLE)",
+    "correct_answer": "stylish",
+    "distractors": [
+      "stylishly",
+      "stylist",
+      "style"
+    ],
+    "explanation_vi": "Sau tính từ 'sleek' qua dấu phẩy và đứng trước danh từ 'casing' cần tính từ: 'stylish' (hợp thời trang)."
+  },
+  {
+    "unit": 11,
+    "target_word": "private",
+    "question_type": "word_form",
+    "prompt_text": "You shouldn't share your personal passwords or ______ account information on public computers. (PRIVACY)",
+    "correct_answer": "private",
+    "distractors": [
+      "privately",
+      "privatize",
+      "privatization"
+    ],
+    "explanation_vi": "Trước cụm danh từ 'account information' cần một tính từ: 'private account information' (thông tin tài khoản riêng tư)."
+  },
+  {
+    "unit": 11,
+    "target_word": "robotic",
+    "question_type": "word_form",
+    "prompt_text": "Many manufacturing factories now utilize automated ______ arms to assemble components precisely. (ROBOT)",
+    "correct_answer": "robotic",
+    "distractors": [
+      "robotics",
+      "robotically",
+      "robotize"
+    ],
+    "explanation_vi": "Trước danh từ 'arms' cần một tính từ bổ nghĩa: 'robotic arms' (cánh tay người máy, cánh tay robot)."
+  }
+]

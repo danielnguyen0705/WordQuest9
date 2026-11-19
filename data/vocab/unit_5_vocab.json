@@ -1,0 +1,815 @@
+[
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "adventure",
+    "pos": "noun",
+    "ipa": "/ədˈventʃə(r)/",
+    "meaning_vi": "chuyến phiêu lưu, cuộc mạo hiểm",
+    "example_en": "Their trek through the national park was a thrilling adventure full of surprises.",
+    "example_vi": "Chuyến đi bộ băng rừng quốc gia của họ là một cuộc phiêu lưu hồi hộp đầy bất ngờ.",
+    "word_forms": [
+      {
+        "word": "adventurous",
+        "pos": "adj",
+        "meaning_vi": "thích phiêu lưu mạo hiểm"
+      },
+      {
+        "word": "adventurer",
+        "pos": "noun",
+        "meaning_vi": "nhà thám hiểm, người thích phiêu lưu"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "annoying",
+    "pos": "adj",
+    "ipa": "/əˈnɔɪɪŋ/",
+    "meaning_vi": "phiền phức, gây bực mình",
+    "example_en": "Waiting for three hours at the airport because of flight delays was so annoying.",
+    "example_vi": "Chờ đợi suốt ba tiếng tại sân bay vì hoãn chuyến bay quả thực rất bực mình.",
+    "word_forms": [
+      {
+        "word": "annoy",
+        "pos": "verb",
+        "meaning_vi": "làm phiền, chọc tức"
+      },
+      {
+        "word": "annoyed",
+        "pos": "adj",
+        "meaning_vi": "bực mình, tức giận"
+      },
+      {
+        "word": "annoyance",
+        "pos": "noun",
+        "meaning_vi": "sự bực dọc"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "aquarium",
+    "pos": "noun",
+    "ipa": "/əˈkweəriəm/",
+    "meaning_vi": "thủy cung, bể nuôi sinh vật biển",
+    "example_en": "The children marveled at colorful coral reefs and giant sharks at the city aquarium.",
+    "example_vi": "Bọn trẻ trầm trồ trước những rạn san hô rực rỡ và cá mập khổng lồ tại thủy cung thành phố.",
+    "word_forms": [
+      {
+        "word": "aquatic",
+        "pos": "adj",
+        "meaning_vi": "sống dưới nước, thủy sinh"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "breathtaking",
+    "pos": "adj",
+    "ipa": "/ˈbreθteɪkɪŋ/",
+    "meaning_vi": "đẹp đến ngạt thở, ngoạn mục",
+    "example_en": "Standing atop the misty summit, we enjoyed a breathtaking panoramic view of the valley.",
+    "example_vi": "Đứng trên đỉnh núi mờ sương, chúng tôi thưởng ngoạn tầm nhìn toàn cảnh đẹp đến ngạt thở của thung lũng.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "broaden one's horizons",
+    "pos": "phrase",
+    "ipa": "/ˈbrɔːdn wʌnz həˈraɪznz/",
+    "meaning_vi": "mở rộng tầm mắt, mở rộng vốn hiểu biết",
+    "example_en": "Travelling to different cultural regions helps young people broaden their horizons.",
+    "example_vi": "Đi du lịch đến những vùng văn hóa khác nhau giúp người trẻ mở rộng tầm mắt và sự hiểu biết.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "challenging",
+    "pos": "adj",
+    "ipa": "/ˈtʃælɪndʒɪŋ/",
+    "meaning_vi": "đầy thách thức, cam go",
+    "example_en": "Rafting down the rapid river currents proved to be a challenging sport.",
+    "example_vi": "Chèo thuyền vượt qua dòng thác ghềnh chảy xiết tỏ ra là một môn thể thao đầy thách thức.",
+    "word_forms": [
+      {
+        "word": "challenge",
+        "pos": "noun",
+        "meaning_vi": "thử thách, thách thức"
+      },
+      {
+        "word": "challenge",
+        "pos": "verb",
+        "meaning_vi": "thách thức"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "check in",
+    "pos": "phrase",
+    "ipa": "/tʃek ɪn/",
+    "meaning_vi": "làm thủ tục nhận phòng hoặc lên máy bay",
+    "example_en": "Guests can check in at the reception desk from 2 p.m. onwards.",
+    "example_vi": "Khách có thể làm thủ tục nhận phòng tại quầy lễ tân từ 2 giờ chiều trở đi.",
+    "word_forms": [
+      {
+        "word": "check-in",
+        "pos": "noun",
+        "meaning_vi": "thủ tục/quầy đăng ký"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "check out",
+    "pos": "phrase",
+    "ipa": "/tʃek aʊt/",
+    "meaning_vi": "làm thủ tục trả phòng",
+    "example_en": "Remember to check out of the resort before noon to avoid late fees.",
+    "example_vi": "Hãy nhớ làm thủ tục trả phòng resort trước buổi trưa để tránh bị tính thêm phí trễ hạn.",
+    "word_forms": [
+      {
+        "word": "checkout",
+        "pos": "noun",
+        "meaning_vi": "sự trả phòng, quầy thanh toán"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "coral reef",
+    "pos": "noun",
+    "ipa": "/ˈkɒrəl riːf/",
+    "meaning_vi": "rạn san hô",
+    "example_en": "Snorkellers can explore the vibrant underwater coral reef around the island.",
+    "example_vi": "Những người lặn ống thở có thể khám phá rạn san hô rực rỡ sắc màu dưới nước quanh hòn đảo.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "destination",
+    "pos": "noun",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "meaning_vi": "điểm đến, đích đến",
+    "example_en": "Da Nang has become an attractive holiday destination for domestic and foreign tourists.",
+    "example_vi": "Đà Nẵng đã trở thành một điểm đến du lịch nghỉ dưỡng hấp dẫn đối với du khách trong và ngoài nước.",
+    "word_forms": [
+      {
+        "word": "destine",
+        "pos": "verb",
+        "meaning_vi": "định đoạt, dành riêng cho"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "disappointing",
+    "pos": "adj",
+    "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+    "meaning_vi": "gây thất vọng",
+    "example_en": "The hotel service was rather disappointing considering the high price we paid.",
+    "example_vi": "Dịch vụ khách sạn khá là gây thất vọng nếu xét đến mức giá cao mà chúng tôi đã trả.",
+    "word_forms": [
+      {
+        "word": "disappoint",
+        "pos": "verb",
+        "meaning_vi": "làm thất vọng"
+      },
+      {
+        "word": "disappointed",
+        "pos": "adj",
+        "meaning_vi": "bị thất vọng"
+      },
+      {
+        "word": "disappointment",
+        "pos": "noun",
+        "meaning_vi": "nỗi thất vọng"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "exhausting",
+    "pos": "adj",
+    "ipa": "/ɪɡˈzɔːstɪŋ/",
+    "meaning_vi": "làm kiệt sức, rất mệt mỏi",
+    "example_en": "Carrying heavy backpacks during a six-hour mountain climb was totally exhausting.",
+    "example_vi": "Đeo ba lô nặng trong suốt chuyến leo núi kéo dài sáu tiếng thực sự làm kiệt sức.",
+    "word_forms": [
+      {
+        "word": "exhaust",
+        "pos": "verb",
+        "meaning_vi": "làm kiệt quệ"
+      },
+      {
+        "word": "exhausted",
+        "pos": "adj",
+        "meaning_vi": "kiệt sức"
+      },
+      {
+        "word": "exhaustion",
+        "pos": "noun",
+        "meaning_vi": "tình trạng kiệt sức"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "exotic",
+    "pos": "adj",
+    "ipa": "/ɪɡˈzɒtɪk/",
+    "meaning_vi": "kỳ lạ, mang phong vị xứ xa, độc lạ",
+    "example_en": "The night market is packed with exotic tropical fruits we had never tasted before.",
+    "example_vi": "Chợ đêm tràn ngập những loại trái cây nhiệt đới độc lạ mà chúng tôi chưa từng nếm thử trước đây.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "expedition",
+    "pos": "noun",
+    "ipa": "/ˌekspəˈdɪʃn/",
+    "meaning_vi": "cuộc thám hiểm, hành trình khảo sát",
+    "example_en": "Scientists joined an adventurous expedition to explore the deep caverns of Son Doong Cave.",
+    "example_vi": "Các nhà khoa học đã tham gia một cuộc thám hiểm đầy phiêu lưu để khám phá những hang hốc sâu thẳm của Hang Sơn Đoòng.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "experience",
+    "pos": "noun",
+    "ipa": "/ɪkˈspɪəriəns/",
+    "meaning_vi": "trải nghiệm, kinh nghiệm",
+    "example_en": "Climbing Mount Fansipan was an unforgettable experience for all of us.",
+    "example_vi": "Leo đỉnh Phan-xi-păng là một trải nghiệm không thể nào quên đối với tất cả chúng tôi.",
+    "word_forms": [
+      {
+        "word": "experience",
+        "pos": "verb",
+        "meaning_vi": "trải nghiệm, trải qua"
+      },
+      {
+        "word": "experienced",
+        "pos": "adj",
+        "meaning_vi": "có kinh nghiệm, từng trải"
+      },
+      {
+        "word": "inexperienced",
+        "pos": "adj",
+        "meaning_vi": "chưa có kinh nghiệm, non nớt"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "explore",
+    "pos": "verb",
+    "ipa": "/ɪkˈsplɔː(r)/",
+    "meaning_vi": "khám phá, thám hiểm",
+    "example_en": "Tourists hire wooden boats to explore the mysterious limestone grottoes.",
+    "example_vi": "Du khách thuê thuyền gỗ để khám phá những hang động đá vôi huyền bí.",
+    "word_forms": [
+      {
+        "word": "exploration",
+        "pos": "noun",
+        "meaning_vi": "sự khám phá, cuộc thám hiểm"
+      },
+      {
+        "word": "explorer",
+        "pos": "noun",
+        "meaning_vi": "nhà thám hiểm"
+      },
+      {
+        "word": "exploratory",
+        "pos": "adj",
+        "meaning_vi": "có tính chất thăm dò, thám hiểm"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "fascinating",
+    "pos": "adj",
+    "ipa": "/ˈfæsɪneɪtɪŋ/",
+    "meaning_vi": "lôi cuốn, quyến rũ, cực kỳ hấp dẫn",
+    "example_en": "Visiting ethnic minority villages provided a fascinating insight into local lifestyle.",
+    "example_vi": "Đến thăm các bản làng dân tộc thiểu số đã đem lại cái nhìn sâu sắc đầy lôi cuốn về lối sống địa phương.",
+    "word_forms": [
+      {
+        "word": "fascinate",
+        "pos": "verb",
+        "meaning_vi": "lôi cuốn, thôi miên sự chú ý"
+      },
+      {
+        "word": "fascination",
+        "pos": "noun",
+        "meaning_vi": "sự quyến rũ, niềm say mê"
+      },
+      {
+        "word": "fascinated",
+        "pos": "adj",
+        "meaning_vi": "bị mê hoặc, bị thu hút"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "frightening",
+    "pos": "adj",
+    "ipa": "/ˈfraɪtnɪŋ/",
+    "meaning_vi": "đáng sợ, ghê sợ",
+    "example_en": "Walking alone across the old suspension bridge in strong winds was a frightening ordeal.",
+    "example_vi": "Đi một mình qua cây cầu treo cũ kỹ trong cơn gió mạnh là một trải nghiệm đáng sợ.",
+    "word_forms": [
+      {
+        "word": "frighten",
+        "pos": "verb",
+        "meaning_vi": "làm hoảng sợ"
+      },
+      {
+        "word": "frightened",
+        "pos": "adj",
+        "meaning_vi": "sợ hãi"
+      },
+      {
+        "word": "fright",
+        "pos": "noun",
+        "meaning_vi": "sự hoảng sợ"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "get back",
+    "pos": "phrase",
+    "ipa": "/ɡet bæk/",
+    "meaning_vi": "trở về, quay trở lại sau chuyến đi",
+    "example_en": "We were very tired but thrilled when we finally got back home from our safari trip.",
+    "example_vi": "Chúng tôi rất mệt nhưng vô cùng phấn khích khi cuối cùng cũng trở về nhà sau chuyến thám hiểm hoang dã.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "go camping",
+    "pos": "phrase",
+    "ipa": "/ɡəʊ ˈkæmpɪŋ/",
+    "meaning_vi": "đi cắm trại",
+    "example_en": "My family loves to go camping by the peaceful pine forest every summer.",
+    "example_vi": "Gia đình tôi rất thích đi cắm trại bên rừng thông yên tĩnh vào mỗi mùa hè.",
+    "word_forms": [
+      {
+        "word": "camp",
+        "pos": "noun",
+        "meaning_vi": "trại, khu cắm trại"
+      },
+      {
+        "word": "campsite",
+        "pos": "noun",
+        "meaning_vi": "địa điểm cắm trại"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "homestay",
+    "pos": "noun",
+    "ipa": "/ˈhəʊmsteɪ/",
+    "meaning_vi": "hình thức lưu trú nhà dân (ở chung với người bản địa)",
+    "example_en": "Staying at a local homestay allows travellers to experience authentic village customs.",
+    "example_vi": "Ở tại một homestay địa phương giúp du khách trải nghiệm các phong tục bản làng đích thực.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "landscape",
+    "pos": "noun",
+    "ipa": "/ˈlændskeɪp/",
+    "meaning_vi": "phong cảnh, cảnh quan tổng thể",
+    "example_en": "The limestone karst landscape of Ha Long Bay is world-famous.",
+    "example_vi": "Cảnh quan núi đá vôi của Vịnh Hạ Long nổi tiếng khắp thế giới.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "magnificent",
+    "pos": "adj",
+    "ipa": "/mæɡˈnɪfɪsnt/",
+    "meaning_vi": "tráng lệ, nguy nga, trần ngập vẻ đẹp",
+    "example_en": "The ancient royal palace looked truly magnificent illuminated under night lights.",
+    "example_vi": "Cung điện hoàng gia cổ kính trông thực sự tráng lệ khi được thắp sáng dưới ánh đèn đêm.",
+    "word_forms": [
+      {
+        "word": "magnificence",
+        "pos": "noun",
+        "meaning_vi": "vẻ tráng lệ, sự nguy nga"
+      },
+      {
+        "word": "magnificently",
+        "pos": "adv",
+        "meaning_vi": "một cách nguy nga, tráng lệ"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "marvel at",
+    "pos": "phrase",
+    "ipa": "/ˈmɑːvl æt/",
+    "meaning_vi": "trầm trồ kinh ngạc, thán phục trước",
+    "example_en": "Visitors always marvel at the sheer grandeur and beauty of the natural waterfall.",
+    "example_vi": "Khách tham quan luôn trầm trồ kinh ngạc trước vẻ đẹp và sự hùng vĩ trọn vẹn của thác nước tự nhiên.",
+    "word_forms": [
+      {
+        "word": "marvellous",
+        "pos": "adj",
+        "meaning_vi": "kỳ diệu, tuyệt vời"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "once-in-a-lifetime",
+    "pos": "adj",
+    "ipa": "/ˌwʌns ɪn ə ˈlaɪftaɪm/",
+    "meaning_vi": "chỉ xảy ra một lần trong đời, nghìn năm có một",
+    "example_en": "Diving with whale sharks in the open ocean was truly a once-in-a-lifetime experience.",
+    "example_vi": "Lặn biển cùng cá mập voi giữa đại dương thực sự là một trải nghiệm có một không hai trong đời.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "picturesque",
+    "pos": "adj",
+    "ipa": "/ˌpɪktʃəˈresk/",
+    "meaning_vi": "đẹp như tranh vẽ",
+    "example_en": "We cycled through peaceful, picturesque countryside lanes bordered by wildflowers.",
+    "example_vi": "Chúng tôi đạp xe qua những con đường làng quê thanh bình, đẹp như tranh vẽ men theo những vạt hoa dại.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "pleasant",
+    "pos": "adj",
+    "ipa": "/ˈpleznt/",
+    "meaning_vi": "dễ chịu, thoải mái, thân thiện",
+    "example_en": "We had a pleasant boat cruise along the gentle river in the cool morning.",
+    "example_vi": "Chúng tôi đã có một chuyến du ngoạn bằng thuyền thật dễ chịu dọc con sông êm đềm vào buổi sáng mát mẻ.",
+    "word_forms": [
+      {
+        "word": "please",
+        "pos": "verb",
+        "meaning_vi": "làm hài lòng"
+      },
+      {
+        "word": "pleasure",
+        "pos": "noun",
+        "meaning_vi": "niềm vui thích"
+      },
+      {
+        "word": "unpleasant",
+        "pos": "adj",
+        "meaning_vi": "khó chịu"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "put up",
+    "pos": "phrase",
+    "ipa": "/pʊt ʌp/",
+    "meaning_vi": "dựng lên (lều trại)",
+    "example_en": "The scout members worked together to put up their camping tents before sunset.",
+    "example_vi": "Các thành viên hướng đạo sinh đã cùng nhau hợp sức để dựng lều cắm trại trước khi hoàng hôn buông xuống.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "run out of",
+    "pos": "phrase",
+    "ipa": "/rʌn aʊt əv/",
+    "meaning_vi": "cạn kiệt, dùng hết sạch (nước uống, pin, tiền)",
+    "example_en": "During the long hike in the hot sun, we unfortunately ran out of drinking water.",
+    "example_vi": "Trong chuyến đi bộ đường dài dưới trời nắng gắt, chúng tôi không may đã cạn kiệt nước uống.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "safari",
+    "pos": "noun",
+    "ipa": "/səˈfɑːri/",
+    "meaning_vi": "chuyến thám hiểm ngắm động vật hoang dã",
+    "example_en": "Going on a wildlife safari in Africa is high on my travel bucket list.",
+    "example_vi": "Đi một chuyến thám hiểm ngắm động vật hoang dã ở châu Phi nằm trong danh sách những điều tôi rất muốn làm.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "scenery",
+    "pos": "noun",
+    "ipa": "/ˈsiːnəri/",
+    "meaning_vi": "phong cảnh, cảnh quan thiên nhiên",
+    "example_en": "The breathtaking mountain scenery along the pass left us speechless.",
+    "example_vi": "Phong cảnh núi non ngoạn mục dọc theo con đèo khiến chúng tôi không thốt nên lời.",
+    "word_forms": [
+      {
+        "word": "scenic",
+        "pos": "adj",
+        "meaning_vi": "thuộc cảnh vật, có phong cảnh đẹp"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "scuba diving",
+    "pos": "noun",
+    "ipa": "/ˈskuːbə ˌdaɪvɪŋ/",
+    "meaning_vi": "môn lặn có bình dưỡng khí sâu dưới biển",
+    "example_en": "You need proper training and a certificate before going scuba diving in deep water.",
+    "example_vi": "Bạn cần được huấn luyện bài bản và có chứng chỉ trước khi đi lặn bằng bình khí ở vùng nước sâu.",
+    "word_forms": [
+      {
+        "word": "scuba diver",
+        "pos": "noun",
+        "meaning_vi": "thợ lặn dùng bình khí"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "set off",
+    "pos": "phrase",
+    "ipa": "/set ɒf/",
+    "meaning_vi": "khởi hành, lên đường",
+    "example_en": "We packed our travel bags and set off at dawn to beat the city traffic.",
+    "example_vi": "Chúng tôi thu xếp hành lý và lên đường lúc rạng đông để tránh kẹt xe trong thành phố.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "snorkelling",
+    "pos": "noun",
+    "ipa": "/ˈsnɔːkəlɪŋ/",
+    "meaning_vi": "môn lặn có ống thở",
+    "example_en": "We spent the whole sunny afternoon snorkelling in the clear turquoise sea.",
+    "example_vi": "Chúng tôi dành trọn buổi chiều nắng đẹp để lặn ống thở trong làn nước biển màu ngọc bích trong vắt.",
+    "word_forms": [
+      {
+        "word": "snorkel",
+        "pos": "noun",
+        "meaning_vi": "ống thở lặn"
+      },
+      {
+        "word": "snorkel",
+        "pos": "verb",
+        "meaning_vi": "lặn có ống thở"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "souvenir",
+    "pos": "noun",
+    "ipa": "/ˌsuːvəˈnɪə(r)/",
+    "meaning_vi": "quà lưu niệm, đồ lưu niệm",
+    "example_en": "She bought some handcrafted bamboo fans as souvenirs for her close classmates.",
+    "example_vi": "Cô ấy đã mua vài chiếc quạt tre thủ công mỹ nghệ làm quà lưu niệm cho bạn bè cùng lớp.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "spectacular",
+    "pos": "adj",
+    "ipa": "/spekˈtækjələ(r)/",
+    "meaning_vi": "hùng vĩ, ngoạn mục, ấn tượng",
+    "example_en": "The annual fireworks display above the river offered a spectacular view.",
+    "example_vi": "Màn trình diễn pháo hoa thường niên trên sông mang lại một cảnh tượng vô cùng ngoạn mục.",
+    "word_forms": [
+      {
+        "word": "spectacle",
+        "pos": "noun",
+        "meaning_vi": "quang cảnh kỳ thú, cảnh tượng"
+      },
+      {
+        "word": "spectacularly",
+        "pos": "adv",
+        "meaning_vi": "một cách ngoạn mục"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "surfing",
+    "pos": "noun",
+    "ipa": "/ˈsɜːfɪŋ/",
+    "meaning_vi": "môn lướt sóng",
+    "example_en": "The coastal beach has giant ocean waves that are perfect for surfing.",
+    "example_vi": "Bãi biển ven bờ có những con sóng đại dương khổng lồ rất lý tưởng cho môn lướt sóng.",
+    "word_forms": [
+      {
+        "word": "surf",
+        "pos": "verb",
+        "meaning_vi": "lướt sóng"
+      },
+      {
+        "word": "surfer",
+        "pos": "noun",
+        "meaning_vi": "người lướt sóng"
+      },
+      {
+        "word": "surfboard",
+        "pos": "noun",
+        "meaning_vi": "ván lướt sóng"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "take off",
+    "pos": "phrase",
+    "ipa": "/teɪk ɒf/",
+    "meaning_vi": "cất cánh (máy bay rời mặt đất)",
+    "example_en": "The flight was delayed due to heavy fog and could only take off at 9 a.m.",
+    "example_vi": "Chuyến bay bị hoãn do sương mù dày đặc và chỉ có thể cất cánh vào lúc 9 giờ sáng.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "takeoff",
+    "pos": "noun",
+    "ipa": "/ˈteɪkɒf/",
+    "meaning_vi": "sự cất cánh",
+    "example_en": "All mobile devices must be switched to flight mode during takeoff and landing.",
+    "example_vi": "Mọi thiết bị di động phải được chuyển sang chế độ máy bay trong khi cất cánh và hạ cánh.",
+    "word_forms": [
+      {
+        "word": "take off",
+        "pos": "phrase",
+        "meaning_vi": "cất cánh"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "thrilling",
+    "pos": "adj",
+    "ipa": "/ˈθrɪlɪŋ/",
+    "meaning_vi": "ly kỳ, hồi hộp, đầy phấn khích",
+    "example_en": "Riding the giant roller coaster at the theme park was a thrilling sensation.",
+    "example_vi": "Đi tàu lượn siêu tốc khổng lồ ở công viên chủ đề là một cảm giác hồi hộp đầy phấn khích.",
+    "word_forms": [
+      {
+        "word": "thrill",
+        "pos": "noun",
+        "meaning_vi": "cảm giác rùng mình phấn khích"
+      },
+      {
+        "word": "thrill",
+        "pos": "verb",
+        "meaning_vi": "làm hồi hộp, gây phấn khích"
+      },
+      {
+        "word": "thrilled",
+        "pos": "adj",
+        "meaning_vi": "rất vui sướng và hồi hộp"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "touch down",
+    "pos": "phrase",
+    "ipa": "/tʌtʃ daʊn/",
+    "meaning_vi": "hạ cánh (máy bay chạm đất)",
+    "example_en": "Our international flight touched down safely at Noi Bai Airport ahead of schedule.",
+    "example_vi": "Chuyến bay quốc tế của chúng tôi đã hạ cánh an toàn xuống sân bay Nội Bài trước thời gian dự kiến.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "touchdown",
+    "pos": "noun",
+    "ipa": "/ˈtʌtʃdaʊn/",
+    "meaning_vi": "sự hạ cánh (máy bay tiếp đất)",
+    "example_en": "The passengers burst into applause right after the smooth touchdown of the airplane.",
+    "example_vi": "Các hành khách đồng loạt vỗ tay ngay sau khi máy bay hạ cánh êm đẹp.",
+    "word_forms": [
+      {
+        "word": "touch down",
+        "pos": "phrase",
+        "meaning_vi": "hạ cánh, tiếp đất"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "trekking",
+    "pos": "noun",
+    "ipa": "/ˈtrekɪŋ/",
+    "meaning_vi": "hoạt động đi bộ đường dài leo núi, băng rừng",
+    "example_en": "Trekking across steep rocky mountain trails requires strong physical stamina.",
+    "example_vi": "Đi bộ đường dài băng qua những con đường núi đá dốc đòi hỏi thể lực rất bền bỉ.",
+    "word_forms": [
+      {
+        "word": "trek",
+        "pos": "verb",
+        "meaning_vi": "đi bộ đường dài vất vả"
+      },
+      {
+        "word": "trek",
+        "pos": "noun",
+        "meaning_vi": "chuyến đi bộ dài"
+      },
+      {
+        "word": "trekker",
+        "pos": "noun",
+        "meaning_vi": "người đi bộ leo núi"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "unforgettable",
+    "pos": "adj",
+    "ipa": "/ˌʌnfəˈɡetəbl/",
+    "meaning_vi": "không thể nào quên",
+    "example_en": "Our school trip to the mountain homestay created unforgettable memories for all students.",
+    "example_vi": "Chuyến tham quan của trường đến homestay miền núi đã tạo nên những kỷ niệm không thể nào quên cho mọi học sinh.",
+    "word_forms": [
+      {
+        "word": "forget",
+        "pos": "verb",
+        "meaning_vi": "quên"
+      },
+      {
+        "word": "unforgettably",
+        "pos": "adv",
+        "meaning_vi": "một cách khó quên"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "unwind",
+    "pos": "verb",
+    "ipa": "/ˌʌnˈwaɪnd/",
+    "meaning_vi": "thư giãn, thả lỏng sau khi mệt mỏi",
+    "example_en": "A peaceful weekend at a beach resort is the best way to unwind after hard work.",
+    "example_vi": "Một kỳ nghỉ cuối tuần yên tĩnh tại khu nghỉ dưỡng ven biển là cách tốt nhất để thư giãn sau những ngày làm việc vất vả.",
+    "word_forms": []
+  },
+  {
+    "unit": 5,
+    "unit_title": "Our Experiences",
+    "word": "wildlife",
+    "pos": "noun",
+    "ipa": "/ˈwaɪldlaɪf/",
+    "meaning_vi": "động thực vật hoang dã, thế giới hoang dã",
+    "example_en": "Cuc Phuong National Park is home to a rich variety of precious wildlife.",
+    "example_vi": "Vườn quốc gia Cúc Phương là nơi sinh sống của rất nhiều loài động thực vật hoang dã quý hiếm.",
+    "word_forms": []
+  }
+]

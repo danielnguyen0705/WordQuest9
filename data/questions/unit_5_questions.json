@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 5,
+    "target_word": "touchdown",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'touchdown' trong lĩnh vực hàng không có nghĩa tiếng Việt là gì?",
+    "correct_answer": "sự hạ cánh, sự tiếp đất của máy bay",
+    "distractors": [
+      "sự cất cánh của máy bay",
+      "sự hoãn chuyến bay",
+      "sự hủy chuyến bay đột xuất"
+    ],
+    "explanation_vi": "'touchdown' là danh từ chỉ thời điểm máy bay chạm bánh xuống đường băng để hạ cánh."
+  },
+  {
+    "unit": 5,
+    "target_word": "safari",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'safari' chỉ loại hình du lịch nào?",
+    "correct_answer": "chuyến thám hiểm ngắm động vật hoang dã",
+    "distractors": [
+      "kỳ nghỉ dưỡng biển cao cấp",
+      "chuyến du lịch tâm linh lễ chùa",
+      "chuyến tham quan bảo tàng lịch sử"
+    ],
+    "explanation_vi": "'safari' là chuyến đi thám hiểm quan sát động vật hoang dã trong môi trường tự nhiên (thường ở các vườn quốc gia, khu bảo tồn châu Phi)."
+  },
+  {
+    "unit": 5,
+    "target_word": "snorkelling",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'snorkelling' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "môn lặn có ống thở",
+    "distractors": [
+      "môn lặn dùng bình dưỡng khí sâu",
+      "môn lướt ván buồm",
+      "môn chèo thuyền vượt thác"
+    ],
+    "explanation_vi": "'snorkelling' là hoạt động bơi lặn nông gần mặt nước có sử dụng ống thở và kính lặn."
+  },
+  {
+    "unit": 5,
+    "target_word": "breathtaking",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'breathtaking' dùng để miêu tả cảnh quan có nghĩa là gì?",
+    "correct_answer": "đẹp đến ngạt thở, ngoạn mục",
+    "distractors": [
+      "ảm đạm, u ám",
+      "khó thở, ngột ngạt vì khói bụi",
+      "tẻ nhạt, buồn chán"
+    ],
+    "explanation_vi": "'breathtaking' là tính từ miêu tả cảnh đẹp kỳ vĩ, ấn tượng đến mức khiến người xem choáng ngợp và ngỡ ngàng."
+  },
+  {
+    "unit": 5,
+    "target_word": "picturesque",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'picturesque' mang ý nghĩa gì?",
+    "correct_answer": "đẹp như tranh vẽ, cổ kính thanh bình",
+    "distractors": [
+      "đông đúc náo nhiệt",
+      "hiện đại và xa hoa",
+      "đắt đỏ tốn kém"
+    ],
+    "explanation_vi": "'picturesque' miêu tả một địa điểm (thường là làng quê hoặc phố cổ) có vẻ đẹp mộc mạc, nên thơ như một bức tranh."
+  },
+  {
+    "unit": 5,
+    "target_word": "exotic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'exotic' thường mang nghĩa gì khi nói về ẩm thực hay điểm đến?",
+    "correct_answer": "kỳ lạ, mang phong vị xứ xa, độc lạ",
+    "distractors": [
+      "quen thuộc, bình dị",
+      "nhạt nhẽo, vô vị",
+      "truyền thống lâu đời"
+    ],
+    "explanation_vi": "'exotic' chỉ những điều mới mẻ, độc đáo, mang nét quyến rũ đến từ những vùng đất xa xôi hoặc nhiệt đới."
+  },
+  {
+    "unit": 5,
+    "target_word": "set off",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'set off' trong một chuyến du lịch có nghĩa là gì?",
+    "correct_answer": "khởi hành, lên đường",
+    "distractors": [
+      "hoãn ngày đi",
+      "kết thúc hành trình",
+      "đặt phòng khách sạn"
+    ],
+    "explanation_vi": "'set off' mang nghĩa là bắt đầu một hành trình, chuyến đi hoặc lên đường."
+  },
+  {
+    "unit": 5,
+    "target_word": "run out of",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'run out of' có nghĩa là gì?",
+    "correct_answer": "cạn kiệt, dùng hết sạch",
+    "distractors": [
+      "chạy trốn khỏi nguy hiểm",
+      "tìm kiếm đồ thất lạc",
+      "tích trữ thêm nhiều hơn"
+    ],
+    "explanation_vi": "'run out of' có nghĩa là đã sử dụng hết sạch thứ gì đó (nước uống, tiền bạc, pin điện thoại...)."
+  },
+  {
+    "unit": 5,
+    "target_word": "put up",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'put up' trong câu 'They put up a tent' mang nghĩa là gì?",
+    "correct_answer": "dựng lên (lều trại)",
+    "distractors": [
+      "dỡ bỏ, thu gọn",
+      "mua sắm mới",
+      "mang vác đi xa"
+    ],
+    "explanation_vi": "'put up a tent' là hành động căng lều, dựng lều trại khi đi cắm trại ngoài trời."
+  },
+  {
+    "unit": 5,
+    "target_word": "broaden one's horizons",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'broaden one's horizons' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "mở rộng tầm mắt, mở mang kiến thức",
+    "distractors": [
+      "giới hạn tầm nhìn xa",
+      "tập trung vào một lĩnh vực duy nhất",
+      "tiết kiệm tối đa chi phí"
+    ],
+    "explanation_vi": "'broaden one's horizons' có nghĩa là mở rộng phạm vi hiểu biết, tầm nhìn và trải nghiệm về thế giới xung quanh."
+  },
+  {
+    "unit": 5,
+    "target_word": "coral reef",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào có nghĩa là 'rạn san hô'?",
+    "correct_answer": "coral reef",
+    "distractors": [
+      "sand dune",
+      "rocky shore",
+      "waterfall"
+    ],
+    "explanation_vi": "'coral reef' là rạn san hô dưới biển, môi trường sống phong phú của nhiều loài sinh vật biển."
+  },
+  {
+    "unit": 5,
+    "target_word": "homestay",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ hình thức du lịch lưu trú tại nhà người bản địa?",
+    "correct_answer": "homestay",
+    "distractors": [
+      "hotel",
+      "resort",
+      "campsite"
+    ],
+    "explanation_vi": "'homestay' là hình thức du lịch mà du khách nghỉ lại tại nhà của người dân địa phương để trải nghiệm đời sống văn hóa bản xứ."
+  },
+  {
+    "unit": 5,
+    "target_word": "trekking",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'hoạt động đi bộ đường dài leo núi, băng rừng vất vả'?",
+    "correct_answer": "trekking",
+    "distractors": [
+      "jogging",
+      "cycling",
+      "sunbathing"
+    ],
+    "explanation_vi": "'trekking' là hoạt động đi bộ đường dài qua các địa hình hiểm trở như đồi núi, rừng rậm."
+  },
+  {
+    "unit": 5,
+    "target_word": "souvenir",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ nào trong tiếng Anh có nghĩa là 'quà lưu niệm, đồ lưu niệm'?",
+    "correct_answer": "souvenir",
+    "distractors": [
+      "luggage",
+      "ingredient",
+      "handicraft"
+    ],
+    "explanation_vi": "'souvenir' là đồ vật mua hoặc giữ lại làm kỷ niệm nhắc nhớ về một địa điểm đã đi qua."
+  },
+  {
+    "unit": 5,
+    "target_word": "thrilling",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'ly kỳ, hồi hộp, đầy phấn khích'?",
+    "correct_answer": "thrilling",
+    "distractors": [
+      "disappointing",
+      "exhausting",
+      "annoying"
+    ],
+    "explanation_vi": "'thrilling' là tính từ diễn tả cảm giác vô cùng hào hứng, ly kỳ và phấn khích."
+  },
+  {
+    "unit": 5,
+    "target_word": "magnificent",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ nào mang nghĩa 'tráng lệ, nguy nga, lộng lẫy'?",
+    "correct_answer": "magnificent",
+    "distractors": [
+      "ancient",
+      "tiny",
+      "crowded"
+    ],
+    "explanation_vi": "'magnificent' diễn tả vẻ đẹp vô cùng tráng lệ, kỳ vĩ và ấn tượng của một công trình hay phong cảnh."
+  },
+  {
+    "unit": 5,
+    "target_word": "check in",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào có nghĩa là 'làm thủ tục nhận phòng khách sạn hoặc lên máy bay'?",
+    "correct_answer": "check in",
+    "distractors": [
+      "check out",
+      "get around",
+      "take off"
+    ],
+    "explanation_vi": "'check in' là xuất trình giấy tờ để làm thủ tục nhận phòng khách sạn hoặc xác nhận trước chuyến bay."
+  },
+  {
+    "unit": 5,
+    "target_word": "unwind",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào đồng nghĩa với 'relax', mang nghĩa 'thư giãn, thả lỏng sau khi mệt mỏi'?",
+    "correct_answer": "unwind",
+    "distractors": [
+      "delay",
+      "exhaust",
+      "distract"
+    ],
+    "explanation_vi": "'unwind' có nghĩa là thả lỏng tinh thần, thư giãn sau thời gian làm việc hoặc học tập căng thẳng."
+  },
+  {
+    "unit": 5,
+    "target_word": "once-in-a-lifetime",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ ghép nào mang nghĩa 'nghìn năm có một, chỉ có một lần duy nhất trong đời'?",
+    "correct_answer": "once-in-a-lifetime",
+    "distractors": [
+      "well-balanced",
+      "full-time",
+      "short-term"
+    ],
+    "explanation_vi": "'once-in-a-lifetime' là tính từ miêu tả cơ hội hoặc trải nghiệm quý báu chỉ có một lần trong đời."
+  },
+  {
+    "unit": 5,
+    "target_word": "marvel at",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào mang nghĩa 'trầm trồ kinh ngạc, thán phục trước một kỳ quan hoặc vẻ đẹp'?",
+    "correct_answer": "marvel at",
+    "distractors": [
+      "look down on",
+      "keep up with",
+      "cut down on"
+    ],
+    "explanation_vi": "'marvel at' là cảm thấy hoặc bày tỏ sự ngạc nhiên, thán phục trước vẻ đẹp kỳ diệu."
+  },
+  {
+    "unit": 5,
+    "target_word": "aquarium",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The tourists spent their morning visiting the giant municipal ______ to admire colorful marine creatures.",
+    "correct_answer": "aquarium",
+    "distractors": [
+      "stadium",
+      "cinema",
+      "gymnasium"
+    ],
+    "explanation_vi": "Khách du lịch đến thủy cung ('aquarium') để chiêm ngưỡng các sinh vật biển rực rỡ sắc màu."
+  },
+  {
+    "unit": 5,
+    "target_word": "destination",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Phu Quoc Island is regarded as a top holiday ______ with sandy beaches and crystal-clear waters.",
+    "correct_answer": "destination",
+    "distractors": [
+      "departure",
+      "obstacle",
+      "disadvantage"
+    ],
+    "explanation_vi": "'holiday destination' là điểm đến du lịch, điểm nghỉ dưỡng hấp dẫn."
+  },
+  {
+    "unit": 5,
+    "target_word": "scenery",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The train journey to Sa Pa offered stunning mountain ______ that fascinated every passenger on board.",
+    "correct_answer": "scenery",
+    "distractors": [
+      "luggage",
+      "amenity",
+      "schedule"
+    ],
+    "explanation_vi": "Chuyến tàu mang lại phong cảnh thiên nhiên vùng núi ('scenery') tuyệt đẹp làm say lòng hành khách."
+  },
+  {
+    "unit": 5,
+    "target_word": "took off",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Because of bad weather conditions, the plane ______ two hours later than the initial timetable.",
+    "correct_answer": "took off",
+    "distractors": [
+      "passed down",
+      "gave up",
+      "pulled down"
+    ],
+    "explanation_vi": "Vì thời tiết xấu nên máy bay đã cất cánh ('took off' - thì quá khứ của 'take off') trễ 2 tiếng so với lịch trình."
+  },
+  {
+    "unit": 5,
+    "target_word": "touchdown",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Passengers were relieved when the pilot made a remarkably gentle ______ on the rainy runway.",
+    "correct_answer": "touchdown",
+    "distractors": [
+      "takeoff",
+      "turnoff",
+      "workout"
+    ],
+    "explanation_vi": "Cụm 'made a gentle touchdown' có nghĩa là phi công đã thực hiện cú hạ cánh tiếp đất vô cùng êm ái."
+  },
+  {
+    "unit": 5,
+    "target_word": "exhausting",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Climbing up to the top of the mountain under the scorching sun was an ______ journey, but the view was worth it.",
+    "correct_answer": "exhausting",
+    "distractors": [
+      "affordable",
+      "inappropriate",
+      "optimistic"
+    ],
+    "explanation_vi": "Chuyến leo núi dưới nắng gắt làm kiệt sức, mệt rã rời ('exhausting') nhưng cảnh vật rất xứng đáng."
+  },
+  {
+    "unit": 5,
+    "target_word": "disappointing",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Our trip was rather ______ because it poured with rain every day and we could not go sightseeing.",
+    "correct_answer": "disappointing",
+    "distractors": [
+      "fascinating",
+      "picturesque",
+      "breathtaking"
+    ],
+    "explanation_vi": "Chuyến đi thật đáng thất vọng ('disappointing') vì trời mưa tầm tã suốt ngày khiến không thể đi ngắm cảnh."
+  },
+  {
+    "unit": 5,
+    "target_word": "frightening",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Crossing that shaky wooden rope bridge over the deep canyon was truly a ______ experience for Peter.",
+    "correct_answer": "frightening",
+    "distractors": [
+      "pleasant",
+      "refreshing",
+      "relaxing"
+    ],
+    "explanation_vi": "Băng qua cây cầu dây gỗ lắc lư trên hẻm vực sâu là một trải nghiệm đáng sợ ('frightening')."
+  },
+  {
+    "unit": 5,
+    "target_word": "get back",
+    "question_type": "contextual_mcq",
+    "prompt_text": "We were completely exhausted by the time we managed to ______ to our hotel after the 10-mile hike.",
+    "correct_answer": "get back",
+    "distractors": [
+      "carry out",
+      "hang out",
+      "look after"
+    ],
+    "explanation_vi": "'get back to our hotel' có nghĩa là quay trở về khách sạn sau chuyến đi bộ đường dài."
+  },
+  {
+    "unit": 5,
+    "target_word": "safari",
+    "question_type": "contextual_mcq",
+    "prompt_text": "During their African ______, tourists sat in jeeps and observed lions and elephants roaming freely.",
+    "correct_answer": "safari",
+    "distractors": [
+      "voyage",
+      "cruise",
+      "commute"
+    ],
+    "explanation_vi": "Trong chuyến thám hiểm dã ngoại ngắm thú ('safari'), du khách ngồi trên xe jeep quan sát sư tử và voi."
+  },
+  {
+    "unit": 5,
+    "target_word": "adventurous",
+    "question_type": "word_form",
+    "prompt_text": "My older brother is very ______; he enjoys rafting and trekking in deep jungles. (ADVENTURE)",
+    "correct_answer": "adventurous",
+    "distractors": [
+      "adventurer",
+      "adventure",
+      "adventurously"
+    ],
+    "explanation_vi": "Sau động từ 'is' và trạng từ 'very' cần một tính từ miêu tả tính cách con người: 'adventurous' (thích phiêu lưu mạo hiểm)."
+  },
+  {
+    "unit": 5,
+    "target_word": "inexperienced",
+    "question_type": "word_form",
+    "prompt_text": "Young and ______ travellers should hire a professional local guide before hiking in high mountains. (EXPERIENCE)",
+    "correct_answer": "inexperienced",
+    "distractors": [
+      "experienced",
+      "experiences",
+      "experiencing"
+    ],
+    "explanation_vi": "Đứng cùng với 'young' qua liên từ 'and' để miêu tả những du khách còn non nớt, chưa có kinh nghiệm: 'inexperienced'."
+  },
+  {
+    "unit": 5,
+    "target_word": "fascinating",
+    "question_type": "word_form",
+    "prompt_text": "Visiting the historical ethnic minority museum was a truly ______ cultural journey. (FASCINATE)",
+    "correct_answer": "fascinating",
+    "distractors": [
+      "fascinated",
+      "fascination",
+      "fascinates"
+    ],
+    "explanation_vi": "Bổ nghĩa cho cụm danh từ 'cultural journey' (chỉ sự vật) cần tính từ đuôi -ing: 'fascinating' (lôi cuốn, hấp dẫn)."
+  },
+  {
+    "unit": 5,
+    "target_word": "challenging",
+    "question_type": "word_form",
+    "prompt_text": "Rowing kayaks across the rapid river currents was the most ______ task of the holiday. (CHALLENGE)",
+    "correct_answer": "challenging",
+    "distractors": [
+      "challenged",
+      "challenges",
+      "challengingly"
+    ],
+    "explanation_vi": "Sau 'the most' và bổ nghĩa cho 'task' cần tính từ: 'challenging' (đầy tính thử thách, cam go)."
+  },
+  {
+    "unit": 5,
+    "target_word": "magnificence",
+    "question_type": "word_form",
+    "prompt_text": "Visitors stood in awe admiring the sheer ______ of the imperial royal palace. (MAGNIFICENT)",
+    "correct_answer": "magnificence",
+    "distractors": [
+      "magnificently",
+      "magnify",
+      "magnification"
+    ],
+    "explanation_vi": "Sau tính từ 'sheer' và sau mạo từ 'the' cần một danh từ: 'magnificence' (vẻ tráng lệ, sự nguy nga)."
+  },
+  {
+    "unit": 5,
+    "target_word": "exploration",
+    "question_type": "word_form",
+    "prompt_text": "Cave ______ has become an increasingly popular ecotourism activity in Quang Binh. (EXPLORE)",
+    "correct_answer": "exploration",
+    "distractors": [
+      "explorer",
+      "exploratory",
+      "explored"
+    ],
+    "explanation_vi": "Tạo thành cụm danh từ ghép 'cave exploration' (hoạt động thám hiểm hang động)."
+  },
+  {
+    "unit": 5,
+    "target_word": "unforgettable",
+    "question_type": "word_form",
+    "prompt_text": "The breathtaking sunset over Ha Long Bay left an ______ impression on everyone. (FORGET)",
+    "correct_answer": "unforgettable",
+    "distractors": [
+      "forgetful",
+      "forgettable",
+      "forgetfully"
+    ],
+    "explanation_vi": "Trước danh từ 'impression' cần tính từ mang nghĩa tích cực (ấn tượng không thể nào quên): 'unforgettable'."
+  },
+  {
+    "unit": 5,
+    "target_word": "annoyed",
+    "question_type": "word_form",
+    "prompt_text": "The tourists felt thoroughly ______ because their flight had been delayed for five hours. (ANNOY)",
+    "correct_answer": "annoyed",
+    "distractors": [
+      "annoying",
+      "annoyance",
+      "annoyingly"
+    ],
+    "explanation_vi": "Cấu trúc 'felt + adj' chỉ cảm xúc của con người khi bực mình: 'annoyed'."
+  },
+  {
+    "unit": 5,
+    "target_word": "exhaustion",
+    "question_type": "word_form",
+    "prompt_text": "After twelve hours of non-stop trekking through the rain, they collapsed from pure ______. (EXHAUST)",
+    "correct_answer": "exhaustion",
+    "distractors": [
+      "exhausting",
+      "exhausted",
+      "exhaustively"
+    ],
+    "explanation_vi": "Sau giới từ 'from' và tính từ 'pure' cần danh từ: 'exhaustion' (tình trạng kiệt sức hoàn toàn)."
+  },
+  {
+    "unit": 5,
+    "target_word": "scenic",
+    "question_type": "word_form",
+    "prompt_text": "We took the longer route along the coast to enjoy the lovely ______ views. (SCENERY)",
+    "correct_answer": "scenic",
+    "distractors": [
+      "scenes",
+      "scenically",
+      "scenicness"
+    ],
+    "explanation_vi": "Trước danh từ 'views' cần một tính từ: 'scenic views' (những quang cảnh có phong cảnh thiên nhiên đẹp)."
+  }
+]

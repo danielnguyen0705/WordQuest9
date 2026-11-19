@@ -1,0 +1,889 @@
+[
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "affordable",
+    "pos": "adj",
+    "ipa": "/əˈfɔːdəbl/",
+    "meaning_vi": "vừa túi tiền, giá cả phải chăng",
+    "example_en": "Young couples often struggle to find affordable housing in urban centres.",
+    "example_vi": "Các cặp vợ chồng trẻ thường gặp khó khăn trong việc tìm kiếm nhà ở giá cả phải chăng tại trung tâm đô thị.",
+    "word_forms": [
+      {
+        "word": "afford",
+        "pos": "verb",
+        "meaning_vi": "có đủ khả năng chi trả"
+      },
+      {
+        "word": "affordability",
+        "pos": "noun",
+        "meaning_vi": "khả năng chi trả"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "air pollution",
+    "pos": "noun",
+    "ipa": "/ˈeə pəluːʃn/",
+    "meaning_vi": "ô nhiễm không khí",
+    "example_en": "Air pollution from motorbikes and factories is a critical issue in major metropolises.",
+    "example_vi": "Ô nhiễm không khí từ xe máy và nhà máy là một vấn đề nhức nhối ở các đô thị lớn.",
+    "word_forms": [
+      {
+        "word": "pollute",
+        "pos": "verb",
+        "meaning_vi": "gây ô nhiễm"
+      },
+      {
+        "word": "pollutant",
+        "pos": "noun",
+        "meaning_vi": "chất gây ô nhiễm"
+      },
+      {
+        "word": "polluted",
+        "pos": "adj",
+        "meaning_vi": "bị ô nhiễm"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "bustling",
+    "pos": "adj",
+    "ipa": "/ˈbʌslɪŋ/",
+    "meaning_vi": "hối hả, nhộn nhịp, náo nhiệt",
+    "example_en": "Ho Chi Minh City is a bustling metropolis full of energy day and night.",
+    "example_vi": "Thành phố Hồ Chí Minh là một đô thị nhộn nhịp tràn đầy năng lượng cả ngày lẫn đêm.",
+    "word_forms": [
+      {
+        "word": "bustle",
+        "pos": "noun",
+        "meaning_vi": "sự hối hả, nhộn nhịp"
+      },
+      {
+        "word": "bustle",
+        "pos": "verb",
+        "meaning_vi": "đi lại hối hả"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "carry out",
+    "pos": "phrase",
+    "ipa": "/ˈkæri aʊt/",
+    "meaning_vi": "tiến hành, thực hiện (kế hoạch, nghiên cứu)",
+    "example_en": "The city council is carrying out a survey on public transport satisfaction.",
+    "example_vi": "Hội đồng thành phố đang tiến hành một cuộc khảo sát về mức độ hài lòng với giao thông công cộng.",
+    "word_forms": [
+      {
+        "word": "execution",
+        "pos": "noun",
+        "meaning_vi": "sự thực thi"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "city dweller",
+    "pos": "noun",
+    "ipa": "/ˈsɪti ˌdwelə(r)/",
+    "meaning_vi": "cư dân thành phố, người sống ở đô thị",
+    "example_en": "Many city dwellers suffer from respiratory problems because of exhaust fumes.",
+    "example_vi": "Nhiều cư dân thành phố mắc các bệnh về đường hô hấp do khói thải xe cộ.",
+    "word_forms": [
+      {
+        "word": "dwell",
+        "pos": "verb",
+        "meaning_vi": "trú ngụ, cư ngụ"
+      },
+      {
+        "word": "dwelling",
+        "pos": "noun",
+        "meaning_vi": "nhà ở, chỗ ở"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "come down with",
+    "pos": "phrase",
+    "ipa": "/kʌm daʊn wɪð/",
+    "meaning_vi": "bị ốm, mắc bệnh gì đó",
+    "example_en": "Minh couldn't attend class today because he came down with the flu.",
+    "example_vi": "Minh không thể đến lớp hôm nay vì cậu ấy bị cảm cúm.",
+    "word_forms": [
+      {
+        "word": "illness",
+        "pos": "noun",
+        "meaning_vi": "căn bệnh"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "commuter",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːtə(r)/",
+    "meaning_vi": "người đi làm xa, người đi lại hàng ngày giữa nhà và nơi làm việc",
+    "example_en": "Thousands of commuters travel from the suburbs to the business district by underground.",
+    "example_vi": "Hàng ngàn người đi làm di chuyển từ vùng ngoại ô vào khu thương mại bằng tàu điện ngầm.",
+    "word_forms": [
+      {
+        "word": "commute",
+        "pos": "verb",
+        "meaning_vi": "đi làm hàng ngày (quãng đường xa)"
+      },
+      {
+        "word": "commute",
+        "pos": "noun",
+        "meaning_vi": "quãng đường đi làm"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "concrete jungle",
+    "pos": "noun",
+    "ipa": "/ˌkɒŋkriːt ˈdʒʌŋɡl/",
+    "meaning_vi": "rừng bê tông (khu đô thị dày đặc nhà cao tầng)",
+    "example_en": "Without enough parks and trees, a big city quickly feels like a concrete jungle.",
+    "example_vi": "Nếu không có đủ công viên và cây xanh, một thành phố lớn nhanh chóng mang lại cảm giác như rừng bê tông.",
+    "word_forms": [
+      {
+        "word": "concrete",
+        "pos": "adj",
+        "meaning_vi": "bằng bê tông, cụ thể"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "congested",
+    "pos": "adj",
+    "ipa": "/kənˈdʒestɪd/",
+    "meaning_vi": "tắc nghẽn (giao thông), đông đúc",
+    "example_en": "The main avenue becomes heavily congested during morning rush hour.",
+    "example_vi": "Đại lộ chính trở nên tắc nghẽn nghiêm trọng vào giờ cao điểm buổi sáng.",
+    "word_forms": [
+      {
+        "word": "congestion",
+        "pos": "noun",
+        "meaning_vi": "sự tắc nghẽn"
+      },
+      {
+        "word": "congest",
+        "pos": "verb",
+        "meaning_vi": "làm tắc nghẽn"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "construction site",
+    "pos": "noun",
+    "ipa": "/kənˈstrʌkʃn saɪt/",
+    "meaning_vi": "công trường xây dựng",
+    "example_en": "Dust and noise from the nearby construction site bothered local residents.",
+    "example_vi": "Bụi và tiếng ồn từ công trường xây dựng gần đó đã làm phiền cư dân địa phương.",
+    "word_forms": [
+      {
+        "word": "construct",
+        "pos": "verb",
+        "meaning_vi": "xây dựng"
+      },
+      {
+        "word": "construction",
+        "pos": "noun",
+        "meaning_vi": "sự xây dựng, công trình"
+      },
+      {
+        "word": "constructive",
+        "pos": "adj",
+        "meaning_vi": "mang tính xây dựng"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "convenient",
+    "pos": "adj",
+    "ipa": "/kənˈviːniənt/",
+    "meaning_vi": "tiện lợi, thuận tiện",
+    "example_en": "Living near the sky train station makes it convenient to travel across the city.",
+    "example_vi": "Sống gần ga tàu điện trên cao giúp việc đi lại khắp thành phố trở nên vô cùng thuận tiện.",
+    "word_forms": [
+      {
+        "word": "convenience",
+        "pos": "noun",
+        "meaning_vi": "sự thuận tiện, tiện ích"
+      },
+      {
+        "word": "inconvenient",
+        "pos": "adj",
+        "meaning_vi": "bất tiện"
+      },
+      {
+        "word": "conveniently",
+        "pos": "adv",
+        "meaning_vi": "một cách thuận tiện"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "cost an arm and a leg",
+    "pos": "phrase",
+    "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+    "meaning_vi": "rất đắt đỏ, tốn kém vô cùng",
+    "example_en": "Renting a modern studio apartment in central London costs an arm and a leg.",
+    "example_vi": "Thuê một căn hộ studio hiện đại ở trung tâm Luân Đôn đắt đỏ vô cùng.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "cut down on",
+    "pos": "phrase",
+    "ipa": "/kʌt daʊn ɒn/",
+    "meaning_vi": "cắt giảm, giảm bớt lượng tiêu thụ",
+    "example_en": "The city council encourages people to cut down on private vehicle use to decrease emissions.",
+    "example_vi": "Hội đồng thành phố khuyến khích người dân cắt giảm việc dùng xe cá nhân để giảm khí thải.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "downtown",
+    "pos": "noun",
+    "ipa": "/ˌdaʊnˈtaʊn/",
+    "meaning_vi": "khu trung tâm thành phố",
+    "example_en": "We took the sky train to go downtown for shopping and dinner.",
+    "example_vi": "Chúng tôi đi tàu trên cao vào trung tâm thành phố để mua sắm và ăn tối.",
+    "word_forms": [
+      {
+        "word": "downtown",
+        "pos": "adv",
+        "meaning_vi": "ở khu trung tâm thành phố"
+      },
+      {
+        "word": "downtown",
+        "pos": "adj",
+        "meaning_vi": "thuộc trung tâm thành phố"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "drawback",
+    "pos": "noun",
+    "ipa": "/ˈdrɔːbæk/",
+    "meaning_vi": "nhược điểm, điều bất lợi",
+    "example_en": "High living costs and heavy traffic are major drawbacks of urban life.",
+    "example_vi": "Chi phí sinh hoạt đắt đỏ và giao thông đông đúc là những bất lợi lớn của đời sống đô thị.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "dusty",
+    "pos": "adj",
+    "ipa": "/ˈdʌsti/",
+    "meaning_vi": "bụi bặm, đầy bụi",
+    "example_en": "The streets around the construction site were dusty and filled with gravel.",
+    "example_vi": "Đường sá xung quanh công trường xây dựng đầy bụi bặm và sỏi đá.",
+    "word_forms": [
+      {
+        "word": "dust",
+        "pos": "noun",
+        "meaning_vi": "bụi"
+      },
+      {
+        "word": "dust",
+        "pos": "verb",
+        "meaning_vi": "phủi bụi, quét bụi"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "entertainment",
+    "pos": "noun",
+    "ipa": "/ˌentəˈteɪnmənt/",
+    "meaning_vi": "sự giải trí, hoạt động giải trí",
+    "example_en": "Big cities offer endless options for entertainment, from cinemas to live concerts.",
+    "example_vi": "Các thành phố lớn mang đến vô vàn lựa chọn giải trí, từ rạp chiếu phim đến hòa nhạc trực tiếp.",
+    "word_forms": [
+      {
+        "word": "entertain",
+        "pos": "verb",
+        "meaning_vi": "giải trí, chiêu đãi"
+      },
+      {
+        "word": "entertaining",
+        "pos": "adj",
+        "meaning_vi": "thú vị, mang tính giải trí"
+      },
+      {
+        "word": "entertainer",
+        "pos": "noun",
+        "meaning_vi": "nghệ sĩ giải trí"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "entertainment centre",
+    "pos": "noun",
+    "ipa": "/ˌentəˈteɪnmənt ˈsentə(r)/",
+    "meaning_vi": "trung tâm giải trí",
+    "example_en": "They opened a modern entertainment centre with bowling alleys and video games.",
+    "example_vi": "Họ đã khai trương một trung tâm giải trí hiện đại có sân chơi bowling và trò chơi điện tử.",
+    "word_forms": [
+      {
+        "word": "entertain",
+        "pos": "verb",
+        "meaning_vi": "giải trí, chiêu đãi"
+      },
+      {
+        "word": "entertaining",
+        "pos": "adj",
+        "meaning_vi": "thú vị, có tính giải trí"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "get around",
+    "pos": "phrase",
+    "ipa": "/ɡet əˈraʊnd/",
+    "meaning_vi": "đi lại xung quanh (trong thành phố)",
+    "example_en": "It is very easy to get around Tokyo using its efficient metro system.",
+    "example_vi": "Rất dễ đi lại quanh Tokyo bằng hệ thống tàu điện ngầm hiệu quả của thành phố này.",
+    "word_forms": [
+      {
+        "word": "mobility",
+        "pos": "noun",
+        "meaning_vi": "khả năng di chuyển"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "get stuck",
+    "pos": "phrase",
+    "ipa": "/ɡet stʌk/",
+    "meaning_vi": "bị mắc kẹt (trong đám kẹt xe)",
+    "example_en": "We got stuck in a massive traffic jam and missed the beginning of the movie.",
+    "example_vi": "Chúng tôi bị mắc kẹt trong một vụ ùn tắc giao thông nghiêm trọng và lỡ mất phần đầu của bộ phim.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "green space",
+    "pos": "noun",
+    "ipa": "/ˈɡriːn speɪs/",
+    "meaning_vi": "không gian xanh",
+    "example_en": "Urban planners need to create more green spaces to improve the quality of city life.",
+    "example_vi": "Các nhà quy hoạch đô thị cần tạo ra nhiều không gian xanh hơn để cải thiện chất lượng cuộc sống thành thị.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "hang out with",
+    "pos": "phrase",
+    "ipa": "/hæŋ aʊt wɪð/",
+    "meaning_vi": "đi chơi cùng, tụ tập với",
+    "example_en": "On weekends, teenagers love to hang out with friends at shopping malls.",
+    "example_vi": "Vào cuối tuần, thanh thiếu niên thích đi chơi cùng bạn bè tại các trung tâm thương mại.",
+    "word_forms": [
+      {
+        "word": "hangout",
+        "pos": "noun",
+        "meaning_vi": "nơi hay lui tới tụ tập"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "hustle and bustle",
+    "pos": "noun",
+    "ipa": "/ˌhʌsl ənd ˈbʌsl/",
+    "meaning_vi": "sự hối hả và nhộn nhịp",
+    "example_en": "We took a weekend trip to the countryside to escape the hustle and bustle of the city.",
+    "example_vi": "Chúng tôi đã có một chuyến đi cuối tuần về miền quê để trốn khỏi sự hối hả và nhộn nhịp của thành phố.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "hygiene",
+    "pos": "noun",
+    "ipa": "/ˈhaɪdʒiːn/",
+    "meaning_vi": "vệ sinh, vấn đề vệ sinh",
+    "example_en": "Street food stalls must follow strict food hygiene regulations.",
+    "example_vi": "Các quầy đồ ăn đường phố phải tuân thủ nghiêm ngặt quy định vệ sinh thực phẩm.",
+    "word_forms": [
+      {
+        "word": "hygienic",
+        "pos": "adj",
+        "meaning_vi": "hợp vệ sinh"
+      },
+      {
+        "word": "unhygienic",
+        "pos": "adj",
+        "meaning_vi": "mất vệ sinh"
+      },
+      {
+        "word": "hygienically",
+        "pos": "adv",
+        "meaning_vi": "một cách hợp vệ sinh"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "itchy",
+    "pos": "adj",
+    "ipa": "/ˈɪtʃi/",
+    "meaning_vi": "ngứa, gây ngứa",
+    "example_en": "Heavy air pollution made her eyes red and itchy on the way to school.",
+    "example_vi": "Ô nhiễm không khí nặng nề khiến mắt cô ấy đỏ và ngứa trên đường đến trường.",
+    "word_forms": [
+      {
+        "word": "itch",
+        "pos": "noun",
+        "meaning_vi": "cảm giác ngứa"
+      },
+      {
+        "word": "itch",
+        "pos": "verb",
+        "meaning_vi": "bị ngứa"
+      },
+      {
+        "word": "itchiness",
+        "pos": "noun",
+        "meaning_vi": "tình trạng ngứa ngáy"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "leftover",
+    "pos": "noun",
+    "ipa": "/ˈleftəʊvə(r)/",
+    "meaning_vi": "thức ăn thừa",
+    "example_en": "Instead of throwing away leftovers, we can store them properly for the next meal.",
+    "example_vi": "Thay vì vứt bỏ thức ăn thừa, chúng ta có thể bảo quản chúng đúng cách cho bữa sau.",
+    "word_forms": [
+      {
+        "word": "leftover",
+        "pos": "adj",
+        "meaning_vi": "còn thừa lại"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "liveable",
+    "pos": "adj",
+    "ipa": "/ˈlɪvəbl/",
+    "meaning_vi": "đáng sống",
+    "example_en": "Da Nang is widely known as one of the most liveable cities in Viet Nam.",
+    "example_vi": "Đà Nẵng được biết đến rộng rãi là một trong những thành phố đáng sống nhất Việt Nam.",
+    "word_forms": [
+      {
+        "word": "live",
+        "pos": "verb",
+        "meaning_vi": "sống"
+      },
+      {
+        "word": "liveability",
+        "pos": "noun",
+        "meaning_vi": "mức độ đáng sống"
+      },
+      {
+        "word": "lively",
+        "pos": "adj",
+        "meaning_vi": "sống động, sôi nổi"
+      },
+      {
+        "word": "liveliness",
+        "pos": "noun",
+        "meaning_vi": "sự sinh động, sự sôi nổi"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "metro",
+    "pos": "noun",
+    "ipa": "/ˈmetrəʊ/",
+    "meaning_vi": "hệ thống tàu điện ngầm / tàu đô thị",
+    "example_en": "Taking the metro helps commuters avoid long traffic jams every morning.",
+    "example_vi": "Đi tàu điện đô thị giúp người đi làm tránh được tình trạng tắc đường kéo dài mỗi sáng.",
+    "word_forms": [
+      {
+        "word": "metropolitan",
+        "pos": "adj",
+        "meaning_vi": "thuộc đô thị lớn"
+      },
+      {
+        "word": "metropolis",
+        "pos": "noun",
+        "meaning_vi": "đô thị lớn"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "packed",
+    "pos": "adj",
+    "ipa": "/pækt/",
+    "meaning_vi": "chật ních, chật cứng người",
+    "example_en": "The morning bus was completely packed with schoolchildren and office workers.",
+    "example_vi": "Chuyến xe buýt buổi sáng chật ních học sinh và nhân viên văn phòng.",
+    "word_forms": [
+      {
+        "word": "pack",
+        "pos": "verb",
+        "meaning_vi": "đóng gói, nhét đầy"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "packed with",
+    "pos": "phrase",
+    "ipa": "/pækt wɪð/",
+    "meaning_vi": "chật cứng, đông nghịt",
+    "example_en": "The pedestrian street is always packed with visitors on Saturday evenings.",
+    "example_vi": "Phố đi bộ lúc nào cũng đông nghịt du khách vào các tối thứ Bảy.",
+    "word_forms": [
+      {
+        "word": "pack",
+        "pos": "verb",
+        "meaning_vi": "đóng gói, chen chúc"
+      },
+      {
+        "word": "packed",
+        "pos": "adj",
+        "meaning_vi": "chật kín"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "pedestrian",
+    "pos": "noun",
+    "ipa": "/pəˈdestriən/",
+    "meaning_vi": "người đi bộ",
+    "example_en": "Traffic lights and zebra crossings ensure safety for pedestrians on busy streets.",
+    "example_vi": "Đèn giao thông và vạch qua đường đảm bảo an toàn cho người đi bộ trên các con phố đông đúc.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "pickpocket",
+    "pos": "noun",
+    "ipa": "/ˈpɪkpɒkɪt/",
+    "meaning_vi": "kẻ móc túi",
+    "example_en": "Watch your wallet carefully at crowded bus stations to avoid pickpockets.",
+    "example_vi": "Hãy coi chừng ví cẩn thận ở các bến xe buýt đông người để tránh kẻ móc túi.",
+    "word_forms": [
+      {
+        "word": "pickpocketing",
+        "pos": "noun",
+        "meaning_vi": "nạn móc túi"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "pricey",
+    "pos": "adj",
+    "ipa": "/ˈpraɪsi/",
+    "meaning_vi": "đắt đỏ",
+    "example_en": "Renting an apartment near the city centre can be quite pricey for students.",
+    "example_vi": "Thuê một căn hộ gần trung tâm thành phố có thể khá đắt đỏ đối với sinh viên.",
+    "word_forms": [
+      {
+        "word": "price",
+        "pos": "noun",
+        "meaning_vi": "giá cả"
+      },
+      {
+        "word": "priceless",
+        "pos": "adj",
+        "meaning_vi": "vô giá"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "public amenities",
+    "pos": "noun",
+    "ipa": "/ˌpʌblɪk əˈmiːnətiz/",
+    "meaning_vi": "tiện ích công cộng, tiện nghi công cộng",
+    "example_en": "The city offers excellent public amenities such as parks, libraries, and sports centers.",
+    "example_vi": "Thành phố mang lại những tiện ích công cộng tuyệt vời như công viên, thư viện và trung tâm thể thao.",
+    "word_forms": [
+      {
+        "word": "amenity",
+        "pos": "noun",
+        "meaning_vi": "tiện nghi, cơ sở tiện ích"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "public amenity",
+    "pos": "noun",
+    "ipa": "/ˈpʌblɪk əˈmiːnəti/",
+    "meaning_vi": "tiện ích công cộng",
+    "example_en": "Parks, libraries, and playgrounds are essential public amenities in a modern city.",
+    "example_vi": "Công viên, thư viện và sân chơi là những tiện ích công cộng thiết yếu ở một thành phố hiện đại.",
+    "word_forms": [
+      {
+        "word": "amenity",
+        "pos": "noun",
+        "meaning_vi": "tiện nghi, tiện ích"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "pull down",
+    "pos": "phrase",
+    "ipa": "/pʊl daʊn/",
+    "meaning_vi": "phá dỡ, đánh sập (tòa nhà cũ)",
+    "example_en": "The local authority decided to pull down the unsafe apartment block.",
+    "example_vi": "Chính quyền địa phương đã quyết định phá dỡ khu tập thể không an toàn đó.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "quality of life",
+    "pos": "noun",
+    "ipa": "/ˈkwɒləti əv laɪf/",
+    "meaning_vi": "chất lượng cuộc sống",
+    "example_en": "Investing in green parks and efficient healthcare directly enhances the quality of life.",
+    "example_vi": "Đầu tư vào công viên cây xanh và dịch vụ y tế hiệu quả giúp nâng cao trực tiếp chất lượng cuộc sống.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "reliable",
+    "pos": "adj",
+    "ipa": "/rɪˈlaɪəbl/",
+    "meaning_vi": "đáng tin cậy",
+    "example_en": "A reliable bus network encourages more residents to leave their cars at home.",
+    "example_vi": "Một mạng lưới xe buýt đáng tin cậy khuyến khích nhiều cư dân để ô tô ở nhà hơn.",
+    "word_forms": [
+      {
+        "word": "rely",
+        "pos": "verb",
+        "meaning_vi": "tin cậy, dựa vào"
+      },
+      {
+        "word": "reliability",
+        "pos": "noun",
+        "meaning_vi": "độ tin cậy"
+      },
+      {
+        "word": "reliably",
+        "pos": "adv",
+        "meaning_vi": "một cách đáng tin cậy"
+      },
+      {
+        "word": "unreliable",
+        "pos": "adj",
+        "meaning_vi": "không đáng tin cậy"
+      },
+      {
+        "word": "reliance",
+        "pos": "noun",
+        "meaning_vi": "sự tin tưởng, sự phụ thuộc"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "rush hour",
+    "pos": "noun",
+    "ipa": "/ˈrʌʃ aʊə(r)/",
+    "meaning_vi": "giờ cao điểm",
+    "example_en": "We left home twenty minutes early to beat the morning rush hour.",
+    "example_vi": "Chúng tôi rời nhà sớm hai mươi phút để tránh giờ cao điểm buổi sáng.",
+    "word_forms": [
+      {
+        "word": "rush",
+        "pos": "verb",
+        "meaning_vi": "vội vã, lao nhanh"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "sky train",
+    "pos": "noun",
+    "ipa": "/skaɪ treɪn/",
+    "meaning_vi": "tàu điện trên cao",
+    "example_en": "The new sky train line connects the western suburbs with downtown Ha Noi.",
+    "example_vi": "Tuyến tàu điện trên cao mới kết nối các vùng ngoại ô phía tây với trung tâm Hà Nội.",
+    "word_forms": [
+      {
+        "word": "train",
+        "pos": "noun",
+        "meaning_vi": "tàu hỏa"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "suburb",
+    "pos": "noun",
+    "ipa": "/ˈsʌbɜːb/",
+    "meaning_vi": "vùng ngoại ô, khu ngoại thành",
+    "example_en": "Living in the suburbs allows people to enjoy quieter nights away from downtown noise.",
+    "example_vi": "Sống ở vùng ngoại ô giúp mọi người tận hưởng những đêm yên tĩnh, tránh xa tiếng ồn khu trung tâm.",
+    "word_forms": [
+      {
+        "word": "suburban",
+        "pos": "adj",
+        "meaning_vi": "thuộc về ngoại ô"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "traffic congestion",
+    "pos": "noun",
+    "ipa": "/ˈtræfɪk kənˈdʒestʃən/",
+    "meaning_vi": "sự ùn tắc giao thông",
+    "example_en": "Traffic congestion is a serious problem during rush hour in big cities.",
+    "example_vi": "Ùn tắc giao thông là một vấn đề nghiêm trọng vào giờ cao điểm ở các thành phố lớn.",
+    "word_forms": [
+      {
+        "word": "congest",
+        "pos": "verb",
+        "meaning_vi": "gây tắc nghẽn"
+      },
+      {
+        "word": "congested",
+        "pos": "adj",
+        "meaning_vi": "đông đúc, tắc nghẽn"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "traffic jam",
+    "pos": "noun",
+    "ipa": "/ˈtræfɪk dʒæm/",
+    "meaning_vi": "tắc đường, kẹt xe",
+    "example_en": "Heavy rain caused a terrible traffic jam along the ring road.",
+    "example_vi": "Cơn mưa lớn đã gây ra vụ tắc đường kinh khủng dọc theo đường vành đai.",
+    "word_forms": [
+      {
+        "word": "jammed",
+        "pos": "adj",
+        "meaning_vi": "bị kẹt cứng"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "traffic light",
+    "pos": "noun",
+    "ipa": "/ˈtræfɪk laɪt/",
+    "meaning_vi": "đèn giao thông, đèn tín hiệu",
+    "example_en": "Pedestrians must wait for the traffic light to turn green before crossing the avenue.",
+    "example_vi": "Người đi bộ phải đợi đèn giao thông chuyển sang màu xanh trước khi băng qua đại lộ.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "tram",
+    "pos": "noun",
+    "ipa": "/træm/",
+    "meaning_vi": "xe điện, tàu điện mặt đất",
+    "example_en": "Melbourne is famous for having the world's largest operating tram network.",
+    "example_vi": "Melbourne nổi tiếng vì sở hữu mạng lưới xe điện mặt đất đang hoạt động lớn nhất thế giới.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "turn into",
+    "pos": "phrase",
+    "ipa": "/tɜːn ˈɪntuː/",
+    "meaning_vi": "biến thành, chuyển thành",
+    "example_en": "They planned to turn the abandoned industrial site into a green public park.",
+    "example_vi": "Họ lên kế hoạch biến khu công nghiệp bỏ hoang thành một công viên công cộng xanh mát.",
+    "word_forms": []
+  },
+  {
+    "unit": 2,
+    "unit_title": "City Life",
+    "word": "underground",
+    "pos": "noun",
+    "ipa": "/ˌʌndəˈɡraʊnd/",
+    "meaning_vi": "tàu điện ngầm",
+    "example_en": "Millions of commuters travel by the London Underground every day.",
+    "example_vi": "Hàng triệu người đi làm di chuyển bằng tàu điện ngầm London mỗi ngày.",
+    "word_forms": [
+      {
+        "word": "underground",
+        "pos": "adj",
+        "meaning_vi": "dưới lòng đất, ngầm"
+      },
+      {
+        "word": "underground",
+        "pos": "adv",
+        "meaning_vi": "ở dưới lòng đất"
+      }
+    ]
+  }
+]

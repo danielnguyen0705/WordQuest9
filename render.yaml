@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: wordquest9-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GATEWAY_MODE
+        value: embedded
+      - key: DATABASE_URL
+        sync: false # Paste Neon or Supabase PostgreSQL URL (postgresql+psycopg://...)
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: DATA_DIR
+        value: /app/data
+      - key: MISTAKE_MASTERY_THRESHOLD
+        value: "2"
+      - key: CORS_ORIGINS
+        value: https://wordquest9.vercel.app,http://localhost:3000
+
+  - type: web
+    name: wordquest9-mcp
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: .
+    dockerCommand: python /app/backend/mcp_server/server.py
+    plan: free
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: DATA_DIR
+        value: /app/data
+      - key: MCP_TRANSPORT
+        value: streamable-http
+      - key: MCP_SERVER_PORT
+        value: "8005"

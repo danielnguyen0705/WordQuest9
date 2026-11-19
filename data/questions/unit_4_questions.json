@@ -1,0 +1,470 @@
+[
+  {
+    "unit": 4,
+    "target_word": "preserve",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'preserve' trong bảo tồn lịch sử và văn hóa có nghĩa tiếng Việt là gì?",
+    "correct_answer": "bảo tồn, gìn giữ",
+    "distractors": [
+      "phá hủy, xóa bỏ",
+      "hiện đại hóa hoàn toàn",
+      "sao chép nguyên bản"
+    ],
+    "explanation_vi": "'preserve' có nghĩa là giữ gìn, bảo vệ di sản văn hóa hoặc các công trình lịch sử khỏi sự xuống cấp, mai một."
+  },
+  {
+    "unit": 4,
+    "target_word": "historic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'historic' thường được dùng để chỉ một sự kiện hoặc địa danh có đặc điểm gì?",
+    "correct_answer": "có ý nghĩa quan trọng trong lịch sử",
+    "distractors": [
+      "thuộc về ghi chép lịch sử",
+      "xảy ra trong thời hiện đại",
+      "hoàn toàn có tính hư cấu"
+    ],
+    "explanation_vi": "'historic' mang nghĩa là có ý nghĩa to lớn, quan trọng hoặc mang tính bước ngoặt trong lịch sử."
+  },
+  {
+    "unit": 4,
+    "target_word": "monument",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'monument' chỉ công trình kiến trúc nào sau đây?",
+    "correct_answer": "đài tưởng niệm, tượng đài kỷ niệm",
+    "distractors": [
+      "tòa nhà chọc trời hiện đại",
+      "khu tập thể thời bao cấp",
+      "cầu treo dân sinh"
+    ],
+    "explanation_vi": "'monument' là đài tưởng niệm, công trình được xây dựng để tôn vinh một nhân vật hoặc sự kiện lịch sử."
+  },
+  {
+    "unit": 4,
+    "target_word": "pass down",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'pass down' trong gìn giữ truyền thống mang ý nghĩa gì?",
+    "correct_answer": "truyền lại, lưu truyền cho đời sau",
+    "distractors": [
+      "bỏ qua không quan tâm",
+      "ghi chép lại trong sách",
+      "lãng quên theo thời gian"
+    ],
+    "explanation_vi": "'pass down' có nghĩa là truyền lại phong tục, tri thức, kỹ năng qua các thế hệ nối tiếp nhau."
+  },
+  {
+    "unit": 4,
+    "target_word": "generation gap",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'generation gap' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "khoảng cách thế hệ",
+    "distractors": [
+      "gia đình nhiều thế hệ",
+      "sự gắn kết gia đình",
+      "nguồn gốc tổ tiên"
+    ],
+    "explanation_vi": "'generation gap' là sự khác biệt về quan điểm, lối sống giữa các thế hệ (như giữa ông bà, cha mẹ và con cái)."
+  },
+  {
+    "unit": 4,
+    "target_word": "communal house",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'communal house' chỉ nơi chốn truyền thống nào ở làng quê Việt Nam?",
+    "correct_answer": "đình làng, nhà rông",
+    "distractors": [
+      "nhà thờ họ",
+      "chợ quê truyền thống",
+      "trường làng xưa"
+    ],
+    "explanation_vi": "'communal house' là đình làng ở đồng bằng hoặc nhà rông ở Tây Nguyên, nơi sinh hoạt cộng đồng và thờ phụng thần hoàng."
+  },
+  {
+    "unit": 4,
+    "target_word": "street vendor",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'street vendor' có nghĩa là gì?",
+    "correct_answer": "người bán hàng rong trên phố",
+    "distractors": [
+      "người lái xe kéo",
+      "nghệ nhân thủ công",
+      "chủ cửa hiệu tạp hóa"
+    ],
+    "explanation_vi": "'street vendor' là người bán hàng rong, bán thức ăn hoặc quà vặt trên vỉa hè, đường phố."
+  },
+  {
+    "unit": 4,
+    "target_word": "appreciate",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'appreciate' đối với các giá trị truyền thống có nghĩa là gì?",
+    "correct_answer": "trân trọng, đánh giá cao",
+    "distractors": [
+      "thay đổi theo xu hướng",
+      "lãng quên dần",
+      "thương mại hóa"
+    ],
+    "explanation_vi": "'appreciate' nghĩa là thấu hiểu, trân trọng và coi trọng giá trị của điều gì đó."
+  },
+  {
+    "unit": 4,
+    "target_word": "rickshaw",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'rickshaw' chỉ phương tiện giao thông truyền thống nào?",
+    "correct_answer": "xe xích lô, xe kéo",
+    "distractors": [
+      "tàu điện bánh sắt",
+      "xe buýt hai tầng",
+      "thuyền buồm gỗ"
+    ],
+    "explanation_vi": "'rickshaw' là xe kéo hoặc xe xích lô chở khách phổ biến vào thời xưa."
+  },
+  {
+    "unit": 4,
+    "target_word": "heritage",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Danh từ tiếng Anh nào mang nghĩa 'di sản' (văn hóa, lịch sử)?",
+    "correct_answer": "heritage",
+    "distractors": [
+      "custom",
+      "monument",
+      "structure"
+    ],
+    "explanation_vi": "'heritage' là di sản (lịch sử, văn hóa, kiến trúc) được truyền lại từ các thế hệ trước."
+  },
+  {
+    "unit": 4,
+    "target_word": "memorable",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào có nghĩa là 'đáng nhớ, không thể nào quên'?",
+    "correct_answer": "memorable",
+    "distractors": [
+      "historic",
+      "traditional",
+      "respectful"
+    ],
+    "explanation_vi": "'memorable' miêu tả một sự kiện hoặc trải nghiệm đáng nhớ, khó quên."
+  },
+  {
+    "unit": 4,
+    "target_word": "thatched house",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào mang nghĩa 'nhà tranh, nhà mái tranh'?",
+    "correct_answer": "thatched house",
+    "distractors": [
+      "communal house",
+      "tiled house",
+      "brick apartment"
+    ],
+    "explanation_vi": "'thatched house' là ngôi nhà có mái lợp bằng rơm, rạ hoặc cỏ tranh phổ biến ở nông thôn xưa."
+  },
+  {
+    "unit": 4,
+    "target_word": "ancestor",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'tổ tiên, ông bà tổ phụ'?",
+    "correct_answer": "ancestor",
+    "distractors": [
+      "historian",
+      "descendant",
+      "vendor"
+    ],
+    "explanation_vi": "'ancestor' là tổ tiên, những người thuộc các thế hệ đi trước trong dòng họ."
+  },
+  {
+    "unit": 4,
+    "target_word": "look back on",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'nhìn lại, hồi tưởng về (quá khứ, kỷ niệm)'?",
+    "correct_answer": "look back on",
+    "distractors": [
+      "pass down",
+      "keep alive",
+      "turn up"
+    ],
+    "explanation_vi": "'look back on' có nghĩa là hồi tưởng hoặc suy ngẫm về những điều đã xảy ra trong quá khứ."
+  },
+  {
+    "unit": 4,
+    "target_word": "keep alive",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào mang nghĩa 'giữ gìn cho sống mãi, duy trì (truyền thống, ký ức)'?",
+    "correct_answer": "keep alive",
+    "distractors": [
+      "put down",
+      "run out of",
+      "look down on"
+    ],
+    "explanation_vi": "'keep alive a tradition/memory' nghĩa là duy trì, bảo tồn điều gì để nó tiếp tục tồn tại."
+  },
+  {
+    "unit": 4,
+    "target_word": "custom",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào có nghĩa là 'phong tục, tập quán'?",
+    "correct_answer": "custom",
+    "distractors": [
+      "memory",
+      "costume",
+      "structure"
+    ],
+    "explanation_vi": "'custom' là phong tục, lề thói quen thuộc của một cộng đồng hoặc xã hội."
+  },
+  {
+    "unit": 4,
+    "target_word": "lifestyle",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'lối sống, phong cách sinh hoạt'?",
+    "correct_answer": "lifestyle",
+    "distractors": [
+      "practice",
+      "heritage",
+      "pastime"
+    ],
+    "explanation_vi": "'lifestyle' là lối sống, cách sống và sinh hoạt hàng ngày của một cá nhân hay cộng đồng."
+  },
+  {
+    "unit": 4,
+    "target_word": "anniversary",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'lễ kỷ niệm ngày thành lập / ngày xảy ra một sự kiện hàng năm'?",
+    "correct_answer": "anniversary",
+    "distractors": [
+      "ceremony",
+      "monument",
+      "occasion"
+    ],
+    "explanation_vi": "'anniversary' là ngày kỷ niệm hàng năm một sự kiện lịch sử hoặc dấu mốc trọng đại."
+  },
+  {
+    "unit": 4,
+    "target_word": "historic",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The signing of the peace treaty was a truly ______ moment that completely transformed the country.",
+    "correct_answer": "historic",
+    "distractors": [
+      "historical",
+      "portable",
+      "subpolar"
+    ],
+    "explanation_vi": "'historic' dùng để chỉ khoảnh khắc hoặc sự kiện có tính chất trọng đại, mang ý nghĩa bước ngoặt lịch sử."
+  },
+  {
+    "unit": 4,
+    "target_word": "heritage",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Hoi An Ancient Town has been recognized by UNESCO as a World Cultural ______.",
+    "correct_answer": "Heritage",
+    "distractors": [
+      "Schedule",
+      "Lifestyle",
+      "Structure"
+    ],
+    "explanation_vi": "Cụm từ cố định 'World Cultural Heritage' có nghĩa là Di sản Văn hóa Thế giới."
+  },
+  {
+    "unit": 4,
+    "target_word": "pass down",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Traditional craft skills like pottery making and silk weaving are usually ______ from parents to children.",
+    "correct_answer": "passed down",
+    "distractors": [
+      "turned down",
+      "looked up",
+      "sucked up"
+    ],
+    "explanation_vi": "'pass down' có nghĩa là truyền lại kỹ năng, phong tục qua các thế hệ trong gia đình."
+  },
+  {
+    "unit": 4,
+    "target_word": "monument",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The municipal government erected a stone ______ in the town square to honour fallen soldiers.",
+    "correct_answer": "monument",
+    "distractors": [
+      "tablet",
+      "leaflet",
+      "dropping"
+    ],
+    "explanation_vi": "Xây dựng đài tưởng niệm bằng đá ('stone monument') ở quảng trường để tưởng nhớ các chiến sĩ hy sinh."
+  },
+  {
+    "unit": 4,
+    "target_word": "preserve",
+    "question_type": "contextual_mcq",
+    "prompt_text": "We need effective solutions to ______ ancient wooden houses before they are damaged by termites.",
+    "correct_answer": "preserve",
+    "distractors": [
+      "distract",
+      "disrupt",
+      "conduct"
+    ],
+    "explanation_vi": "'preserve ancient houses' nghĩa là bảo tồn, giữ gìn các ngôi nhà cổ trước sự hủy hoại của mối mọt."
+  },
+  {
+    "unit": 4,
+    "target_word": "generation gap",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Differences in musical tastes and dress styles between teenagers and parents often lead to a ______.",
+    "correct_answer": "generation gap",
+    "distractors": [
+      "nature reserve",
+      "career path",
+      "virtual keyboard"
+    ],
+    "explanation_vi": "Sự khác biệt về sở thích âm nhạc và thời trang dẫn đến khoảng cách thế hệ ('generation gap')."
+  },
+  {
+    "unit": 4,
+    "target_word": "communal house",
+    "question_type": "contextual_mcq",
+    "prompt_text": "In ancient Vietnamese villages, important festivals and community meetings always took place at the ______.",
+    "correct_answer": "communal house",
+    "distractors": [
+      "department store",
+      "vocational school",
+      "window shade"
+    ],
+    "explanation_vi": "Đình làng ('communal house') là nơi diễn ra các lễ hội làng và cuộc họp cộng đồng thời xưa."
+  },
+  {
+    "unit": 4,
+    "target_word": "rickshaws",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Decades ago, people relied mainly on foot or hired manual ______ to travel around the old quarter.",
+    "correct_answer": "rickshaws",
+    "distractors": [
+      "camcorders",
+      "smartwatches",
+      "desktops"
+    ],
+    "explanation_vi": "Nhiều thập kỷ trước, người dân đi bộ hoặc thuê xe xích lô / xe kéo ('rickshaws') để di chuyển."
+  },
+  {
+    "unit": 4,
+    "target_word": "look back on",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Old people often ______ their humble childhood with great nostalgia and deep emotion.",
+    "correct_answer": "look back on",
+    "distractors": [
+      "collaborate with",
+      "apply for",
+      "feed on"
+    ],
+    "explanation_vi": "'look back on' có nghĩa là nhìn lại, hồi tưởng lại tuổi thơ nhiều cảm xúc."
+  },
+  {
+    "unit": 4,
+    "target_word": "preservation",
+    "question_type": "word_form",
+    "prompt_text": "The local authority allocated a substantial budget for the ______ of historical temples. (PRESERVE)",
+    "correct_answer": "preservation",
+    "distractors": [
+      "preservative",
+      "preserved",
+      "preservable"
+    ],
+    "explanation_vi": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ chỉ hành động bảo vệ: 'preservation' (sự bảo tồn)."
+  },
+  {
+    "unit": 4,
+    "target_word": "historical",
+    "question_type": "word_form",
+    "prompt_text": "Students were asked to write a detailed report about ______ sites located in Hanoi. (HISTORY)",
+    "correct_answer": "historical",
+    "distractors": [
+      "historian",
+      "historically",
+      "historicize"
+    ],
+    "explanation_vi": "Đứng trước danh từ 'sites' (địa điểm, di tích) cần tính từ miêu tả những nơi liên quan đến lịch sử: 'historical sites'."
+  },
+  {
+    "unit": 4,
+    "target_word": "memorable",
+    "question_type": "word_form",
+    "prompt_text": "Our class visit to the Temple of Literature was a truly ______ experience. (MEMORY)",
+    "correct_answer": "memorable",
+    "distractors": [
+      "memorial",
+      "memorably",
+      "memorize"
+    ],
+    "explanation_vi": "Sau trạng từ 'truly' và đứng trước danh từ 'experience' cần tính từ: 'memorable' (đáng nhớ)."
+  },
+  {
+    "unit": 4,
+    "target_word": "traditional",
+    "question_type": "word_form",
+    "prompt_text": "During the Tet festival, Vietnamese women take immense pride in wearing the ______ ao dai. (TRADITION)",
+    "correct_answer": "traditional",
+    "distractors": [
+      "traditionally",
+      "traditionalist",
+      "traditionalism"
+    ],
+    "explanation_vi": "Trước danh từ 'ao dai' cần một tính từ bổ nghĩa: 'traditional ao dai' (áo dài truyền thống)."
+  },
+  {
+    "unit": 4,
+    "target_word": "appreciation",
+    "question_type": "word_form",
+    "prompt_text": "Visiting the history museum helped teenagers gain a deeper ______ of past sacrifices. (APPRECIATE)",
+    "correct_answer": "appreciation",
+    "distractors": [
+      "appreciative",
+      "appreciably",
+      "appreciator"
+    ],
+    "explanation_vi": "Sau mạo từ 'a' và tính từ so sánh hơn 'deeper' cần danh từ: 'appreciation' (sự thấu hiểu, trân trọng)."
+  },
+  {
+    "unit": 4,
+    "target_word": "valuable",
+    "question_type": "word_form",
+    "prompt_text": "Grandma's old lacquerware box is extremely ______ because it has been passed down for centuries. (VALUE)",
+    "correct_answer": "valuable",
+    "distractors": [
+      "valueless",
+      "valuably",
+      "valuation"
+    ],
+    "explanation_vi": "Sau 'is extremely' cần một tính từ mang nghĩa quý giá, có giá trị cao: 'valuable'."
+  },
+  {
+    "unit": 4,
+    "target_word": "respectful",
+    "question_type": "word_form",
+    "prompt_text": "Young people are taught to be polite and ______ towards the elderly in the community. (RESPECT)",
+    "correct_answer": "respectful",
+    "distractors": [
+      "respectable",
+      "respective",
+      "respectfully"
+    ],
+    "explanation_vi": "Đi theo sau 'be polite and' và đi với giới từ 'towards' cần tính từ biểu thị sự tôn trọng, lễ phép: 'respectful'."
+  },
+  {
+    "unit": 4,
+    "target_word": "ancestral",
+    "question_type": "word_form",
+    "prompt_text": "Every spring, family members gather at the ______ house to pay homage to their forebears. (ANCESTOR)",
+    "correct_answer": "ancestral",
+    "distractors": [
+      "ancestry",
+      "ancestress",
+      "ancestor"
+    ],
+    "explanation_vi": "Trước danh từ 'house' cần tính từ mang nghĩa thuộc về tổ tiên: 'ancestral house' (nhà thờ họ, từ đường)."
+  },
+  {
+    "unit": 4,
+    "target_word": "promotion",
+    "question_type": "word_form",
+    "prompt_text": "Cultural tourism plays a vital role in the ______ of our national heritage. (PROMOTE)",
+    "correct_answer": "promotion",
+    "distractors": [
+      "promotional",
+      "promoter",
+      "promoted"
+    ],
+    "explanation_vi": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ chỉ sự thúc đẩy, quảng bá: 'promotion'."
+  }
+]

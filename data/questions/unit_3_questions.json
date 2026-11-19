@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 3,
+    "target_word": "counsellor",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'counsellor' trong ngữ cảnh học đường có nghĩa tiếng Việt chính xác nhất là gì?",
+    "correct_answer": "người tư vấn, chuyên viên tư vấn tâm lý",
+    "distractors": [
+      "giáo viên chủ nhiệm",
+      "nhân viên bảo vệ",
+      "cán bộ thư viện"
+    ],
+    "explanation_vi": "'counsellor' là người có chuyên môn lắng nghe và đưa ra lời khuyên giúp học sinh giải tỏa căng thẳng và định hướng tâm lý."
+  },
+  {
+    "unit": 3,
+    "target_word": "deadline",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'deadline' có nghĩa là gì trong học tập và công việc?",
+    "correct_answer": "hạn chót, thời hạn hoàn thành",
+    "distractors": [
+      "lịch trình nghỉ hè",
+      "thời gian bắt đầu",
+      "khoảng thời gian giải lao"
+    ],
+    "explanation_vi": "'deadline' chỉ thời điểm cuối cùng phải hoàn thành một nhiệm vụ hoặc nộp bài tập."
+  },
+  {
+    "unit": 3,
+    "target_word": "priority",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'priority' trong câu 'Health should be your top priority' mang nghĩa là gì?",
+    "correct_answer": "sự ưu tiên, việc được đặt lên hàng đầu",
+    "distractors": [
+      "sự cản trở lớn",
+      "nhiệm vụ bắt buộc",
+      "sở thích cá nhân"
+    ],
+    "explanation_vi": "'priority' là danh từ chỉ điều hoặc việc quan trọng nhất cần phải tập trung xử lý trước."
+  },
+  {
+    "unit": 3,
+    "target_word": "fatigue",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'fatigue' biểu thị tình trạng sức khỏe nào?",
+    "correct_answer": "sự mệt mỏi, tình trạng kiệt sức",
+    "distractors": [
+      "cơn đau đầu nhẹ",
+      "bệnh béo phì",
+      "sự phấn khích tột độ"
+    ],
+    "explanation_vi": "'fatigue' là danh từ chỉ trạng thái mệt mỏi rã rời cả về thể chất lẫn tinh thần sau thời gian dài quá tải."
+  },
+  {
+    "unit": 3,
+    "target_word": "distraction",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'distraction' trong việc học tập có nghĩa tiếng Việt là gì?",
+    "correct_answer": "sự xao nhãng, yếu tố gây mất tập trung",
+    "distractors": [
+      "sự tập trung cao độ",
+      "nguồn cảm hứng sáng tạo",
+      "kế hoạch học tập"
+    ],
+    "explanation_vi": "'distraction' là điều gì đó làm phân tán sự chú ý, khiến người học không thể tập trung vào bài vở."
+  },
+  {
+    "unit": 3,
+    "target_word": "optimistic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'optimistic' mang ý nghĩa gì?",
+    "correct_answer": "lạc quan, tin tưởng vào điều tốt đẹp",
+    "distractors": [
+      "bi quan, nản lòng",
+      "lo lắng, bồn chồn",
+      "nghi ngờ, dè dặt"
+    ],
+    "explanation_vi": "'optimistic' miêu tả thái độ luôn nhìn vào khía cạnh tươi sáng, tích cực của cuộc sống."
+  },
+  {
+    "unit": 3,
+    "target_word": "pessimistic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'pessimistic' có nghĩa là gì?",
+    "correct_answer": "bi quan, luôn nghĩ đến điều xấu",
+    "distractors": [
+      "lạc quan, tự tin",
+      "nhiệt tình, hăng hái",
+      "kiên nhẫn, điềm tĩnh"
+    ],
+    "explanation_vi": "'pessimistic' chỉ thái độ tiêu cực, luôn kỳ vọng hoặc lo sợ kết quả tồi tệ nhất sẽ xảy ra."
+  },
+  {
+    "unit": 3,
+    "target_word": "cope with",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'cope with' trong cụm 'cope with stress' có nghĩa là gì?",
+    "correct_answer": "đối phó, ứng phó, đương đầu với",
+    "distractors": [
+      "trốn tránh, bỏ cuộc",
+      "gia tăng mức độ",
+      "phớt lờ hoàn toàn"
+    ],
+    "explanation_vi": "'cope with' có nghĩa là xử lý thành công hoặc giải quyết một tình huống khó khăn, căng thẳng."
+  },
+  {
+    "unit": 3,
+    "target_word": "calm down",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'calm down' mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "bình tĩnh lại, làm dịu cảm xúc",
+    "distractors": [
+      "trở nên giận dữ hơn",
+      "thức suốt đêm",
+      "từ bỏ hoàn toàn"
+    ],
+    "explanation_vi": "'calm down' chỉ hành động dừng cảm giác bồn chồn, tức giận để lấy lại sự điềm tĩnh."
+  },
+  {
+    "unit": 3,
+    "target_word": "stay up late",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm từ 'stay up late' có nghĩa là gì?",
+    "correct_answer": "thức khuya, không đi ngủ sớm",
+    "distractors": [
+      "dậy rất sớm",
+      "ngủ quên giờ học",
+      "nghỉ ngơi buổi trưa"
+    ],
+    "explanation_vi": "'stay up late' chỉ thói quen thức đến tận đêm muộn mới đi ngủ."
+  },
+  {
+    "unit": 3,
+    "target_word": "time management",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào mang nghĩa 'kỹ năng quản lý thời gian'?",
+    "correct_answer": "time management",
+    "distractors": [
+      "leisure time",
+      "due date",
+      "study schedule"
+    ],
+    "explanation_vi": "'time management' là kỹ năng lập kế hoạch và phân bổ thời gian hiệu quả giữa các hoạt động."
+  },
+  {
+    "unit": 3,
+    "target_word": "well-balanced",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào có nghĩa là 'cân bằng, hài hòa (lối sống, chế độ ăn)'?",
+    "correct_answer": "well-balanced",
+    "distractors": [
+      "inappropriate",
+      "stressed out",
+      "short-term"
+    ],
+    "explanation_vi": "'well-balanced' diễn đạt trạng thái cân đối, hợp lý về mọi mặt (chế độ ăn uống, lối sống)."
+  },
+  {
+    "unit": 3,
+    "target_word": "stressed out",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ ghép nào mang nghĩa 'căng thẳng quá mức, bị stress nặng'?",
+    "correct_answer": "stressed out",
+    "distractors": [
+      "cheered up",
+      "worn out",
+      "slowed down"
+    ],
+    "explanation_vi": "'stressed out' là tính từ miêu tả cảm giác vô cùng căng thẳng, áp lực và lo âu."
+  },
+  {
+    "unit": 3,
+    "target_word": "physical health",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào chỉ 'sức khỏe thể chất'?",
+    "correct_answer": "physical health",
+    "distractors": [
+      "mental health",
+      "emotional state",
+      "school performance"
+    ],
+    "explanation_vi": "'physical health' là tình trạng khỏe mạnh về mặt cơ thể, phân biệt với sức khỏe tinh thần ('mental health')."
+  },
+  {
+    "unit": 3,
+    "target_word": "peer pressure",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Chọn cụm danh từ tiếng Anh có nghĩa là 'áp lực đồng trang lứa':",
+    "correct_answer": "peer pressure",
+    "distractors": [
+      "family conflict",
+      "exam anxiety",
+      "study burden"
+    ],
+    "explanation_vi": "'peer pressure' là sức ép tâm lý từ bạn bè cùng lứa, khiến bản thân phải cố gắng hành xử giống như họ."
+  },
+  {
+    "unit": 3,
+    "target_word": "junk food",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'đồ ăn vặt không tốt cho sức khỏe, thức ăn nhanh nghèo dưỡng chất'?",
+    "correct_answer": "junk food",
+    "distractors": [
+      "speciality",
+      "fresh fruit",
+      "leftovers"
+    ],
+    "explanation_vi": "'junk food' là các món ăn vặt chứa nhiều dầu mỡ, muối, đường nhưng nghèo giá trị dinh dưỡng."
+  },
+  {
+    "unit": 3,
+    "target_word": "sympathise",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào mang nghĩa 'thông cảm, đồng cảm với người khác'?",
+    "correct_answer": "sympathise",
+    "distractors": [
+      "criticise",
+      "disappoint",
+      "discourage"
+    ],
+    "explanation_vi": "'sympathise' (với giới từ 'with') có nghĩa là hiểu và chia sẻ nỗi niềm, sự buồn bã với ai."
+  },
+  {
+    "unit": 3,
+    "target_word": "accomplish",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào mang nghĩa 'hoàn thành, đạt được (mục tiêu, nhiệm vụ)'?",
+    "correct_answer": "accomplish",
+    "distractors": [
+      "postpone",
+      "abandon",
+      "distract"
+    ],
+    "explanation_vi": "'accomplish' là thực hiện thành công một mục tiêu hoặc công việc đã đề ra."
+  },
+  {
+    "unit": 3,
+    "target_word": "inappropriate",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào có nghĩa là 'không thích hợp, không phù hợp'?",
+    "correct_answer": "inappropriate",
+    "distractors": [
+      "inconvenient",
+      "invaluable",
+      "ineffective"
+    ],
+    "explanation_vi": "'inappropriate' diễn tả hành vi, trang phục hoặc nội dung không thích hợp với hoàn cảnh."
+  },
+  {
+    "unit": 3,
+    "target_word": "take a break",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm thành ngữ nào mang nghĩa 'nghỉ giải lao, tạm dừng công việc để nghỉ ngơi'?",
+    "correct_answer": "take a break",
+    "distractors": [
+      "make an effort",
+      "keep a secret",
+      "lose control"
+    ],
+    "explanation_vi": "'take a break' là ngừng học hoặc làm việc trong khoảng thời gian ngắn để thư giãn."
+  },
+  {
+    "unit": 3,
+    "target_word": "counsellor",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Whenever you feel overwhelmed with schoolwork, you should talk to our school ______ for helpful guidance.",
+    "correct_answer": "counsellor",
+    "distractors": [
+      "electrician",
+      "artisan",
+      "firefighter"
+    ],
+    "explanation_vi": "Khi cảm thấy quá tải bài vở, học sinh nên tìm đến chuyên viên tư vấn tâm lý học đường ('counsellor')."
+  },
+  {
+    "unit": 3,
+    "target_word": "deadline",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Lan had to stay up late last night because the ______ for her history assignment was 8 a.m. today.",
+    "correct_answer": "deadline",
+    "distractors": [
+      "priority",
+      "break",
+      "facility"
+    ],
+    "explanation_vi": "Lan phải thức khuya vì hạn chót nộp bài ('deadline') là vào 8 giờ sáng nay."
+  },
+  {
+    "unit": 3,
+    "target_word": "distraction",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Turning off social media notifications helps eliminate a major ______ while reviewing for exams.",
+    "correct_answer": "distraction",
+    "distractors": [
+      "attraction",
+      "perfection",
+      "production"
+    ],
+    "explanation_vi": "Tắt thông báo mạng xã hội giúp loại bỏ một yếu tố gây xao nhãng ('distraction') lớn trong khi ôn thi."
+  },
+  {
+    "unit": 3,
+    "target_word": "anxious",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Minh felt extremely ______ before his final speaking exam, but he managed to smile and speak fluently.",
+    "correct_answer": "anxious",
+    "distractors": [
+      "optimistic",
+      "delighted",
+      "relaxed"
+    ],
+    "explanation_vi": "Minh cảm thấy cực kỳ bồn chồn, lo lắng ('anxious') trước kỳ thi nói cuối kỳ."
+  },
+  {
+    "unit": 3,
+    "target_word": "cope with",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Learning deep breathing techniques is a practical way for students to ______ exam stress.",
+    "correct_answer": "cope with",
+    "distractors": [
+      "cut down on",
+      "run out of",
+      "hang out with"
+    ],
+    "explanation_vi": "Hít thở sâu là biện pháp thiết thực giúp học sinh đối phó, ứng phó ('cope with') với căng thẳng thi cử."
+  },
+  {
+    "unit": 3,
+    "target_word": "balanced diet",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Doctors advise teenagers to eat a ______ rich in vitamins and protein rather than consuming fast food daily.",
+    "correct_answer": "balanced diet",
+    "distractors": [
+      "junk food",
+      "heavy meal",
+      "rush hour"
+    ],
+    "explanation_vi": "Bác sĩ khuyên thiếu niên nên có chế độ ăn uống cân bằng ('balanced diet') giàu vitamin và chất đạm."
+  },
+  {
+    "unit": 3,
+    "target_word": "give up",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Even when mathematics exercises seem very difficult, you should keep trying and never ______.",
+    "correct_answer": "give up",
+    "distractors": [
+      "calm down",
+      "pass down",
+      "get on"
+    ],
+    "explanation_vi": "'never give up' là lời khuyên không bao giờ được bỏ cuộc dù bài toán có khó khăn."
+  },
+  {
+    "unit": 3,
+    "target_word": "cooperate",
+    "question_type": "contextual_mcq",
+    "prompt_text": "To win the group presentation contest, all team members need to ______ effectively and share the workload.",
+    "correct_answer": "cooperate",
+    "distractors": [
+      "argue",
+      "hesitate",
+      "compete"
+    ],
+    "explanation_vi": "Để chiến thắng phần thi thuyết trình nhóm, các thành viên cần hợp tác ('cooperate') hiệu quả với nhau."
+  },
+  {
+    "unit": 3,
+    "target_word": "fatigue",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Suffering from constant ______ makes it almost impossible for teenagers to stay alert in morning classes.",
+    "correct_answer": "fatigue",
+    "distractors": [
+      "counselling",
+      "enjoyment",
+      "laughter"
+    ],
+    "explanation_vi": "Tình trạng mệt mỏi rã rời ('fatigue') liên tục khiến học sinh khó tỉnh táo trong các tiết học buổi sáng."
+  },
+  {
+    "unit": 3,
+    "target_word": "delay",
+    "question_type": "contextual_mcq",
+    "prompt_text": "You shouldn't ______ completing your biology project; start working on it right after school.",
+    "correct_answer": "delay",
+    "distractors": [
+      "hurry",
+      "prefer",
+      "maintain"
+    ],
+    "explanation_vi": "'delay doing something' nghĩa là trì hoãn làm việc gì, khuyên không nên chần chừ mà hãy làm ngay."
+  },
+  {
+    "unit": 3,
+    "target_word": "counselling",
+    "question_type": "word_form",
+    "prompt_text": "Students who suffer from chronic stress should consider attending professional ______ sessions. (COUNSEL)",
+    "correct_answer": "counselling",
+    "distractors": [
+      "counsellor",
+      "counselled",
+      "counsels"
+    ],
+    "explanation_vi": "Trước danh từ 'sessions' cần một danh từ đóng vai trò bổ ngữ: 'counselling sessions' (các buổi tham vấn tâm lý)."
+  },
+  {
+    "unit": 3,
+    "target_word": "priority",
+    "question_type": "word_form",
+    "prompt_text": "You ought to give top ______ to completing essential homework before browsing the internet. (PRIORITIZE)",
+    "correct_answer": "priority",
+    "distractors": [
+      "prioritization",
+      "prioritized",
+      "prior"
+    ],
+    "explanation_vi": "Cụm thành ngữ 'give top priority to sth' đòi hỏi danh từ 'priority' (sự ưu tiên hàng đầu)."
+  },
+  {
+    "unit": 3,
+    "target_word": "stressed",
+    "question_type": "word_form",
+    "prompt_text": "Whenever examinations approach, many teenagers feel thoroughly ______ out. (STRESS)",
+    "correct_answer": "stressed",
+    "distractors": [
+      "stressful",
+      "stressing",
+      "stressfully"
+    ],
+    "explanation_vi": "Cụm tính từ 'feel stressed out' diễn tả cảm giác của con người khi bị áp lực, căng thẳng nặng nề."
+  },
+  {
+    "unit": 3,
+    "target_word": "anxiety",
+    "question_type": "word_form",
+    "prompt_text": "Regular breathing exercises can effectively reduce test ______ among secondary school students. (ANXIOUS)",
+    "correct_answer": "anxiety",
+    "distractors": [
+      "anxiously",
+      "anxiousness",
+      "anxieties"
+    ],
+    "explanation_vi": "Sau từ bổ nghĩa 'test' cần danh từ không đếm được chỉ trạng thái: 'test anxiety' (sự lo âu thi cử)."
+  },
+  {
+    "unit": 3,
+    "target_word": "optimistic",
+    "question_type": "word_form",
+    "prompt_text": "Despite facing tough academic challenges, she always tries to stay cheerful and ______. (OPTIMISM)",
+    "correct_answer": "optimistic",
+    "distractors": [
+      "optimist",
+      "optimistically",
+      "optimise"
+    ],
+    "explanation_vi": "Sau động từ nối 'stay' và liên từ đẳng lập 'and' đi cùng 'cheerful' cần một tính từ: 'optimistic' (lạc quan)."
+  },
+  {
+    "unit": 3,
+    "target_word": "encouragement",
+    "question_type": "word_form",
+    "prompt_text": "Words of sincere ______ from parents can motivate teens to overcome failure. (ENCOURAGE)",
+    "correct_answer": "encouragement",
+    "distractors": [
+      "encouraging",
+      "encouragingly",
+      "encourager"
+    ],
+    "explanation_vi": "Sau giới từ 'of' và tính từ 'sincere' cần một danh từ: 'encouragement' (sự động viên, lời khích lệ)."
+  },
+  {
+    "unit": 3,
+    "target_word": "cooperation",
+    "question_type": "word_form",
+    "prompt_text": "Effective teamwork requires close ______ among all members of the group. (COOPERATE)",
+    "correct_answer": "cooperation",
+    "distractors": [
+      "cooperative",
+      "cooperatively",
+      "cooperator"
+    ],
+    "explanation_vi": "Sau tính từ 'close' cần một danh từ chỉ sự việc: 'cooperation' (sự hợp tác chặt chẽ)."
+  },
+  {
+    "unit": 3,
+    "target_word": "accomplishment",
+    "question_type": "word_form",
+    "prompt_text": "Finishing a challenging revision schedule brings a wonderful sense of ______. (ACCOMPLISH)",
+    "correct_answer": "accomplishment",
+    "distractors": [
+      "accomplished",
+      "accomplishing",
+      "accomplisher"
+    ],
+    "explanation_vi": "Cụm từ quen thuộc 'a sense of accomplishment' mang nghĩa cảm giác thỏa mãn vì đã hoàn thành việc gì."
+  },
+  {
+    "unit": 3,
+    "target_word": "relaxation",
+    "question_type": "word_form",
+    "prompt_text": "Listening to soft instrumental melodies allows your brain to achieve deep ______. (RELAX)",
+    "correct_answer": "relaxation",
+    "distractors": [
+      "relaxing",
+      "relaxed",
+      "relaxingly"
+    ],
+    "explanation_vi": "Sau tính từ 'deep' cần một danh từ: 'relaxation' (sự thư giãn, trạng thái thả lỏng)."
+  },
+  {
+    "unit": 3,
+    "target_word": "concentration",
+    "question_type": "word_form",
+    "prompt_text": "Loud background noise in the library can badly affect a student's ______. (CONCENTRATE)",
+    "correct_answer": "concentration",
+    "distractors": [
+      "concentrated",
+      "concentrating",
+      "concentrative"
+    ],
+    "explanation_vi": "Sau sở hữu cách 'a student's' cần một danh từ: 'concentration' (sự tập trung chú ý)."
+  }
+]

@@ -1,0 +1,739 @@
+[
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "accomplish",
+    "pos": "verb",
+    "ipa": "/əˈkʌmplɪʃ/",
+    "meaning_vi": "hoàn thành, đạt được mục tiêu",
+    "example_en": "Setting small daily goals helps you accomplish big tasks effortlessly.",
+    "example_vi": "Đặt ra các mục tiêu nhỏ mỗi ngày giúp bạn hoàn thành những nhiệm vụ lớn một cách nhẹ nhàng.",
+    "word_forms": [
+      {
+        "word": "accomplishment",
+        "pos": "noun",
+        "meaning_vi": "thành tựu, sự hoàn thành"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "anxious",
+    "pos": "adj",
+    "ipa": "/ˈæŋkʃəs/",
+    "meaning_vi": "lo lắng, bồn chồn, sốt ruột",
+    "example_en": "Tom felt extremely anxious about giving a presentation in front of the whole class.",
+    "example_vi": "Tom cảm thấy vô cùng lo lắng về việc phải thuyết trình trước toàn thể lớp học.",
+    "word_forms": [
+      {
+        "word": "anxiety",
+        "pos": "noun",
+        "meaning_vi": "sự lo âu, mối băn khoăn"
+      },
+      {
+        "word": "anxiously",
+        "pos": "adv",
+        "meaning_vi": "một cách lo âu"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "ask for advice",
+    "pos": "phrase",
+    "ipa": "/ɑːsk fɔː(r) ədˈvaɪs/",
+    "meaning_vi": "xin lời khuyên, tìm kiếm sự tư vấn",
+    "example_en": "Do not hesitate to ask for advice from your parents or teachers when you feel overwhelmed.",
+    "example_vi": "Đừng ngần ngại xin lời khuyên từ cha mẹ hoặc thầy cô khi bạn cảm thấy quá tải.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "balanced diet",
+    "pos": "noun",
+    "ipa": "/ˌbælənst ˈdaɪət/",
+    "meaning_vi": "chế độ ăn uống cân bằng dinh dưỡng",
+    "example_en": "Eating a balanced diet with lots of vegetables keeps your immune system strong.",
+    "example_vi": "Ăn một chế độ ăn uống cân bằng giàu rau xanh giúp hệ miễn dịch của bạn luôn khỏe mạnh.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "calm down",
+    "pos": "phrase",
+    "ipa": "/kɑːm daʊn/",
+    "meaning_vi": "bình tĩnh lại, làm dịu đi",
+    "example_en": "Take five deep breaths to calm down whenever you feel angry or nervous.",
+    "example_vi": "Hãy hít thở sâu năm lần để bình tĩnh lại mỗi khi bạn cảm thấy tức giận hoặc bồn chồn.",
+    "word_forms": [
+      {
+        "word": "calm",
+        "pos": "adj",
+        "meaning_vi": "bình tĩnh, điềm tĩnh"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "concentration",
+    "pos": "noun",
+    "ipa": "/ˌkɒnsnˈtreɪʃn/",
+    "meaning_vi": "sự tập trung, khả năng chú ý",
+    "example_en": "A quiet study room improves your concentration when revising lessons.",
+    "example_vi": "Một phòng học yên tĩnh sẽ nâng cao sự tập trung của bạn khi ôn bài.",
+    "word_forms": [
+      {
+        "word": "concentrate",
+        "pos": "verb",
+        "meaning_vi": "tập trung"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "cooperate",
+    "pos": "verb",
+    "ipa": "/kəʊˈɒpəreɪt/",
+    "meaning_vi": "hợp tác, phối hợp cùng làm việc",
+    "example_en": "Members in a study group must cooperate well to complete the task.",
+    "example_vi": "Các thành viên trong nhóm học tập phải hợp tác tốt để hoàn thành nhiệm vụ.",
+    "word_forms": [
+      {
+        "word": "cooperation",
+        "pos": "noun",
+        "meaning_vi": "sự hợp tác"
+      },
+      {
+        "word": "cooperative",
+        "pos": "adj",
+        "meaning_vi": "có tính hợp tác"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "cope with",
+    "pos": "phrase",
+    "ipa": "/kəʊp wɪð/",
+    "meaning_vi": "đối phó, ứng phó, đương đầu với",
+    "example_en": "Teens need to learn how to cope with stress and negative emotions effectively.",
+    "example_vi": "Thanh thiếu niên cần học cách ứng phó hiệu quả với căng thẳng và cảm xúc tiêu cực.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "counselling",
+    "pos": "noun",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "meaning_vi": "dịch vụ tham vấn, sự tư vấn tâm lý",
+    "example_en": "Students who experience emotional distress should seek professional counselling.",
+    "example_vi": "Những học sinh gặp khủng hoảng cảm xúc nên tìm đến dịch vụ tư vấn tâm lý chuyên nghiệp.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "counsellor",
+    "pos": "noun",
+    "ipa": "/ˈkaʊnsələ(r)/",
+    "meaning_vi": "người tư vấn, chuyên viên tư vấn tâm lý",
+    "example_en": "Ms Hoa is our school counsellor who gives us advice on dealing with stress.",
+    "example_vi": "Cô Hoa là chuyên viên tư vấn học đường của chúng tôi, người đưa ra lời khuyên giúp chúng tôi ứng phó với căng thẳng.",
+    "word_forms": [
+      {
+        "word": "counsel",
+        "pos": "verb",
+        "meaning_vi": "tư vấn, khuyên bảo"
+      },
+      {
+        "word": "counselling",
+        "pos": "noun",
+        "meaning_vi": "sự tư vấn, hoạt động tham vấn tâm lý"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "deadline",
+    "pos": "noun",
+    "ipa": "/ˈdedlaɪn/",
+    "meaning_vi": "hạn chót, thời hạn hoàn thành",
+    "example_en": "I am working very hard because the deadline for my English project is tomorrow.",
+    "example_vi": "Tôi đang học tập rất chăm chỉ vì hạn chót nộp dự án Tiếng Anh là vào ngày mai.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "delay",
+    "pos": "verb",
+    "ipa": "/dɪˈleɪ/",
+    "meaning_vi": "trì hoãn, chậm trễ",
+    "example_en": "You should not delay doing your assignments until the last minute.",
+    "example_vi": "Bạn không nên trì hoãn việc làm bài tập về nhà cho đến phút cuối cùng.",
+    "word_forms": [
+      {
+        "word": "delay",
+        "pos": "noun",
+        "meaning_vi": "sự trì hoãn, sự chậm trễ"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "distraction",
+    "pos": "noun",
+    "ipa": "/dɪˈstrækʃn/",
+    "meaning_vi": "sự xao nhãng, yếu tố gây mất tập trung",
+    "example_en": "Switching off smartphones removes a major distraction while studying.",
+    "example_vi": "Tắt điện thoại thông minh giúp loại bỏ một yếu tố gây xao nhãng lớn trong lúc học.",
+    "word_forms": [
+      {
+        "word": "distract",
+        "pos": "verb",
+        "meaning_vi": "làm xao nhãng, làm mất tập trung"
+      },
+      {
+        "word": "distracted",
+        "pos": "adj",
+        "meaning_vi": "bị mất tập trung"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "due date",
+    "pos": "noun",
+    "ipa": "/ˈdjuː deɪt/",
+    "meaning_vi": "ngày đến hạn, hạn nộp",
+    "example_en": "Remember to submit your science report before the due date.",
+    "example_vi": "Hãy nhớ nộp bản báo cáo khoa học trước ngày đến hạn.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "emotion",
+    "pos": "noun",
+    "ipa": "/ɪˈməʊʃn/",
+    "meaning_vi": "cảm xúc",
+    "example_en": "Learning to recognize and manage your emotions is an important life skill.",
+    "example_vi": "Học cách nhận biết và quản lý cảm xúc là một kỹ năng sống quan trọng.",
+    "word_forms": [
+      {
+        "word": "emotional",
+        "pos": "adj",
+        "meaning_vi": "thuộc về cảm xúc, dễ xúc động"
+      },
+      {
+        "word": "emotionally",
+        "pos": "adv",
+        "meaning_vi": "về mặt cảm xúc"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "encourage",
+    "pos": "verb",
+    "ipa": "/ɪnˈkʌrɪdʒ/",
+    "meaning_vi": "khuyến khích, động viên",
+    "example_en": "Teachers always encourage students to express their feelings openly.",
+    "example_vi": "Thầy cô luôn động viên học sinh cởi mở bày tỏ cảm xúc của mình.",
+    "word_forms": [
+      {
+        "word": "encouragement",
+        "pos": "noun",
+        "meaning_vi": "sự động viên, nguồn khích lệ"
+      },
+      {
+        "word": "encouraging",
+        "pos": "adj",
+        "meaning_vi": "mang tính khích lệ"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "fast food",
+    "pos": "noun",
+    "ipa": "/ˌfɑːst ˈfuːd/",
+    "meaning_vi": "thức ăn nhanh",
+    "example_en": "Eating fast food too often can lead to weight gain and poor concentration.",
+    "example_vi": "Ăn thức ăn nhanh quá thường xuyên có thể dẫn đến tăng cân và giảm tập trung.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "fatigue",
+    "pos": "noun",
+    "ipa": "/fəˈtiːɡ/",
+    "meaning_vi": "sự mệt mỏi, tình trạng kiệt sức",
+    "example_en": "Staying up late every night causes serious physical fatigue and lack of energy.",
+    "example_vi": "Thức khuya mỗi đêm dẫn tới tình trạng mệt mỏi thể chất nghiêm trọng và thiếu năng lượng.",
+    "word_forms": [
+      {
+        "word": "fatigued",
+        "pos": "adj",
+        "meaning_vi": "mệt rã rời, kiệt sức"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "give up",
+    "pos": "phrase",
+    "ipa": "/ɡɪv ʌp/",
+    "meaning_vi": "từ bỏ, buông xuôi",
+    "example_en": "Never give up trying even when academic challenges seem overwhelming.",
+    "example_vi": "Đừng bao giờ từ bỏ nỗ lực ngay cả khi những thách thức học tập dường như quá sức.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "habit",
+    "pos": "noun",
+    "ipa": "/ˈhæbɪt/",
+    "meaning_vi": "thói quen, tập quán",
+    "example_en": "Drinking enough water every morning is a very healthy habit.",
+    "example_vi": "Uống đủ nước vào mỗi buổi sáng là một thói quen rất lành mạnh.",
+    "word_forms": [
+      {
+        "word": "habitual",
+        "pos": "adj",
+        "meaning_vi": "thuộc về thói quen, thường lệ"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "hang out with",
+    "pos": "phrase",
+    "ipa": "/hæŋ aʊt wɪð/",
+    "meaning_vi": "đi chơi, giao lưu cùng bạn bè",
+    "example_en": "Hanging out with close friends on weekends is a great way to relieve exam stress.",
+    "example_vi": "Đi chơi cùng bạn bè thân thiết vào cuối tuần là cách tuyệt vời để giải tỏa căng thẳng thi cử.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "healthy lifestyle",
+    "pos": "noun",
+    "ipa": "/ˌhelθi ˈlaɪfstaɪl/",
+    "meaning_vi": "lối sống lành mạnh",
+    "example_en": "Adopting a healthy lifestyle is essential for teenagers' long-term development.",
+    "example_vi": "Xây dựng lối sống lành mạnh là điều thiết yếu cho sự phát triển lâu dài của thiếu niên.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "inappropriate",
+    "pos": "adj",
+    "ipa": "/ˌɪnəˈprəʊpriət/",
+    "meaning_vi": "không thích hợp, không phù hợp",
+    "example_en": "Watching inappropriate online videos before bedtime can disrupt your sleep.",
+    "example_vi": "Xem các video trực tuyến không phù hợp trước giờ ngủ có thể làm gián đoạn giấc ngủ của bạn.",
+    "word_forms": [
+      {
+        "word": "appropriate",
+        "pos": "adj",
+        "meaning_vi": "thích hợp, thích đáng"
+      },
+      {
+        "word": "appropriately",
+        "pos": "adv",
+        "meaning_vi": "một cách phù hợp"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "junk food",
+    "pos": "noun",
+    "ipa": "/ˈdʒʌŋk fuːd/",
+    "meaning_vi": "đồ ăn vặt không có lợi cho sức khỏe, thức ăn nhanh nghèo dinh dưỡng",
+    "example_en": "Teens should cut down on junk food because it contains too much sugar and fat.",
+    "example_vi": "Thiếu niên nên giảm bớt đồ ăn vặt vì chúng chứa quá nhiều đường và chất béo.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "maintain",
+    "pos": "verb",
+    "ipa": "/meɪnˈteɪn/",
+    "meaning_vi": "duy trì, giữ gìn",
+    "example_en": "It is crucial to maintain good study habits and a steady sleep schedule.",
+    "example_vi": "Điều quan trọng là phải duy trì thói quen học tập tốt và lịch trình ngủ ổn định.",
+    "word_forms": [
+      {
+        "word": "maintenance",
+        "pos": "noun",
+        "meaning_vi": "sự duy trì, sự bảo dưỡng"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "manage time",
+    "pos": "phrase",
+    "ipa": "/ˈmænɪdʒ taɪm/",
+    "meaning_vi": "sắp xếp thời gian, quản lý thời gian",
+    "example_en": "Students who know how to manage time properly have more leisure hours.",
+    "example_vi": "Những học sinh biết cách sắp xếp thời gian hợp lý sẽ có nhiều giờ nghỉ ngơi giải trí hơn.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "mental health",
+    "pos": "noun",
+    "ipa": "/ˌmentl ˈhelθ/",
+    "meaning_vi": "sức khỏe tinh thần",
+    "example_en": "Teens should balance study and relaxation to take care of their mental health.",
+    "example_vi": "Thanh thiếu niên nên cân bằng giữa học tập và thư giãn để chăm sóc sức khỏe tinh thần của mình.",
+    "word_forms": [
+      {
+        "word": "mentally",
+        "pos": "adv",
+        "meaning_vi": "về mặt tâm trí, về mặt tinh thần"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "mood",
+    "pos": "noun",
+    "ipa": "/muːd/",
+    "meaning_vi": "tâm trạng, tâm tính",
+    "example_en": "Regular exercise releases hormones that quickly improve your daily mood.",
+    "example_vi": "Tập thể dục đều đặn giải phóng các nội tiết tố giúp cải thiện nhanh chóng tâm trạng hằng ngày của bạn.",
+    "word_forms": [
+      {
+        "word": "moody",
+        "pos": "adj",
+        "meaning_vi": "tính khí thất thường, ủ rũ"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "optimistic",
+    "pos": "adj",
+    "ipa": "/ˌɒptɪˈmɪstɪk/",
+    "meaning_vi": "lạc quan",
+    "example_en": "Maintaining an optimistic attitude helps you overcome difficult situations in life.",
+    "example_vi": "Duy trì thái độ lạc quan giúp bạn vượt qua những tình huống khó khăn trong cuộc sống.",
+    "word_forms": [
+      {
+        "word": "optimism",
+        "pos": "noun",
+        "meaning_vi": "sự lạc quan"
+      },
+      {
+        "word": "optimist",
+        "pos": "noun",
+        "meaning_vi": "người lạc quan"
+      },
+      {
+        "word": "optimistically",
+        "pos": "adv",
+        "meaning_vi": "một cách lạc quan"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "overcome",
+    "pos": "verb",
+    "ipa": "/ˌəʊvəˈkʌm/",
+    "meaning_vi": "vượt qua, khắc phục",
+    "example_en": "With guidance from parents and teachers, teenagers can overcome exam anxiety.",
+    "example_vi": "Với sự định hướng từ phụ huynh và thầy cô, thiếu niên có thể vượt qua sự lo âu thi cử.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "peer pressure",
+    "pos": "noun",
+    "ipa": "/ˈpɪə preʃə(r)/",
+    "meaning_vi": "áp lực đồng trang lứa",
+    "example_en": "Many teens struggle with peer pressure when trying to fit in with their classmates.",
+    "example_vi": "Nhiều bạn trẻ phải chật vật với áp lực đồng trang lứa khi cố gắng hòa nhập với bạn học.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "pessimistic",
+    "pos": "adj",
+    "ipa": "/ˌpesɪˈmɪstɪk/",
+    "meaning_vi": "bi quan",
+    "example_en": "Do not be so pessimistic about your test scores; you can always do better next time.",
+    "example_vi": "Đừng quá bi quan về điểm kiểm tra của bạn; bạn luôn có thể làm tốt hơn vào lần sau.",
+    "word_forms": [
+      {
+        "word": "pessimism",
+        "pos": "noun",
+        "meaning_vi": "sự bi quan"
+      },
+      {
+        "word": "pessimist",
+        "pos": "noun",
+        "meaning_vi": "người bi quan"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "physical health",
+    "pos": "noun",
+    "ipa": "/ˌfɪzɪkl ˈhelθ/",
+    "meaning_vi": "sức khỏe thể chất",
+    "example_en": "Doing regular exercise and eating a balanced diet improve your physical health.",
+    "example_vi": "Tập thể dục đều đặn và ăn uống cân bằng giúp cải thiện sức khỏe thể chất của bạn.",
+    "word_forms": [
+      {
+        "word": "physically",
+        "pos": "adv",
+        "meaning_vi": "về mặt thể chất"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "priority",
+    "pos": "noun",
+    "ipa": "/praɪˈɒrəti/",
+    "meaning_vi": "sự ưu tiên, việc ưu tiên",
+    "example_en": "Getting enough sleep should be your top priority during exam weeks.",
+    "example_vi": "Ngủ đủ giấc nên là ưu tiên hàng đầu của bạn trong những tuần thi cử.",
+    "word_forms": [
+      {
+        "word": "prioritize",
+        "pos": "verb",
+        "meaning_vi": "dành ưu tiên cho, ưu tiên"
+      },
+      {
+        "word": "prioritization",
+        "pos": "noun",
+        "meaning_vi": "sự xác định ưu tiên"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "relaxation",
+    "pos": "noun",
+    "ipa": "/ˌriːlækˈseɪʃn/",
+    "meaning_vi": "sự thư giãn, sự nghỉ ngơi giải trí",
+    "example_en": "Listening to instrumental music provides deep relaxation after long study hours.",
+    "example_vi": "Nghe nhạc không lời mang lại sự thư giãn sâu sau nhiều giờ học dài.",
+    "word_forms": [
+      {
+        "word": "relax",
+        "pos": "verb",
+        "meaning_vi": "thư giãn, thả lỏng"
+      },
+      {
+        "word": "relaxing",
+        "pos": "adj",
+        "meaning_vi": "làm thư thái, thoải mái"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "resolve",
+    "pos": "verb",
+    "ipa": "/rɪˈzɒlv/",
+    "meaning_vi": "giải quyết, xử lý (xung đột, vấn đề)",
+    "example_en": "Talking calmly is the best way to resolve conflicts between teenagers.",
+    "example_vi": "Nói chuyện một cách bình tĩnh là cách tốt nhất để giải quyết xung đột giữa lứa tuổi thiếu niên.",
+    "word_forms": [
+      {
+        "word": "resolution",
+        "pos": "noun",
+        "meaning_vi": "nghị quyết, sự giải quyết"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "schoolwork",
+    "pos": "noun",
+    "ipa": "/ˈskuːlwɜːk/",
+    "meaning_vi": "bài vở ở trường, công việc học tập",
+    "example_en": "Heavy schoolwork often leaves students with very little time for outdoor sports.",
+    "example_vi": "Khối lượng bài vở ở trường nặng nề thường khiến học sinh còn rất ít thời gian cho thể thao ngoài trời.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "self-care",
+    "pos": "noun",
+    "ipa": "/ˌself ˈkeə(r)/",
+    "meaning_vi": "sự tự chăm sóc bản thân",
+    "example_en": "Practicing self-care includes getting sufficient rest and doing things that make you happy.",
+    "example_vi": "Thực hành tự chăm sóc bản thân bao gồm việc nghỉ ngơi đầy đủ và làm những điều khiến bạn vui vẻ.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "sleep duration",
+    "pos": "noun",
+    "ipa": "/ˈsliːp djuˌreɪʃn/",
+    "meaning_vi": "thời lượng giấc ngủ",
+    "example_en": "An ideal sleep duration for teenagers is between eight and ten hours every night.",
+    "example_vi": "Thời lượng giấc ngủ lý tưởng dành cho thanh thiếu niên là từ tám đến mười tiếng mỗi đêm.",
+    "word_forms": [
+      {
+        "word": "duration",
+        "pos": "noun",
+        "meaning_vi": "khoảng thời gian, thời lượng kéo dài"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "stay up late",
+    "pos": "phrase",
+    "ipa": "/steɪ ʌp leɪt/",
+    "meaning_vi": "thức khuya",
+    "example_en": "You should not stay up late playing video games on weekdays.",
+    "example_vi": "Bạn không nên thức khuya để chơi trò chơi điện tử vào các ngày trong tuần.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "stressed out",
+    "pos": "adj",
+    "ipa": "/ˌstrest ˈaʊt/",
+    "meaning_vi": "căng thẳng quá mức, bị stress nặng",
+    "example_en": "She felt completely stressed out because of upcoming school examinations.",
+    "example_vi": "Cô ấy cảm thấy hoàn toàn kiệt sức vì căng thẳng do các kỳ thi sắp tới ở trường.",
+    "word_forms": [
+      {
+        "word": "stress",
+        "pos": "noun",
+        "meaning_vi": "sự căng thẳng"
+      },
+      {
+        "word": "stressful",
+        "pos": "adj",
+        "meaning_vi": "gây căng thẳng"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "sympathise",
+    "pos": "verb",
+    "ipa": "/ˈsɪmpəθaɪz/",
+    "meaning_vi": "thông cảm, đồng cảm",
+    "example_en": "A true friend will always listen and sympathise with your personal problems.",
+    "example_vi": "Một người bạn chân chính sẽ luôn lắng nghe và đồng cảm với những vấn đề riêng tư của bạn.",
+    "word_forms": [
+      {
+        "word": "sympathy",
+        "pos": "noun",
+        "meaning_vi": "sự thông cảm, lòng trắc ẩn"
+      },
+      {
+        "word": "sympathetic",
+        "pos": "adj",
+        "meaning_vi": "thông cảm, đầy đồng cảm"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "take a break",
+    "pos": "phrase",
+    "ipa": "/teɪk ə breɪk/",
+    "meaning_vi": "nghỉ giải lao, nghỉ ngơi tạm thời",
+    "example_en": "After forty-five minutes of study, stand up and take a break for five minutes.",
+    "example_vi": "Sau bốn mươi lăm phút học tập, hãy đứng dậy và nghỉ giải lao trong năm phút.",
+    "word_forms": []
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "time management",
+    "pos": "noun",
+    "ipa": "/ˈtaɪm ˌmænɪdʒmənt/",
+    "meaning_vi": "kỹ năng quản lý thời gian",
+    "example_en": "Good time management skills help students meet deadlines without feeling stressed.",
+    "example_vi": "Kỹ năng quản lý thời gian tốt giúp học sinh kịp thời hạn mà không cảm thấy căng thẳng.",
+    "word_forms": [
+      {
+        "word": "manage",
+        "pos": "verb",
+        "meaning_vi": "quản lý, xoay xở"
+      },
+      {
+        "word": "manageable",
+        "pos": "adj",
+        "meaning_vi": "có thể quản lý hoặc xử lý được"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "unit_title": "Healthy Living for Teens",
+    "word": "well-balanced",
+    "pos": "adj",
+    "ipa": "/ˌwel ˈbælənst/",
+    "meaning_vi": "cân bằng, hài hòa",
+    "example_en": "A well-balanced life helps teenagers stay healthy and optimistic.",
+    "example_vi": "Một cuộc sống cân bằng giúp các bạn thiếu niên luôn khỏe mạnh và lạc quan.",
+    "word_forms": [
+      {
+        "word": "balance",
+        "pos": "noun",
+        "meaning_vi": "sự cân bằng"
+      },
+      {
+        "word": "balance",
+        "pos": "verb",
+        "meaning_vi": "làm cân bằng, cân đối"
+      }
+    ]
+  }
+]

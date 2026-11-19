@@ -1,0 +1,722 @@
+[
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "academic",
+    "pos": "adj",
+    "ipa": "/ˌækəˈdemɪk/",
+    "meaning_vi": "thuộc về học thuật, lý thuyết trường lớp",
+    "example_en": "Besides practical training, university students also need to complete academic research projects.",
+    "example_vi": "Bên cạnh việc rèn luyện thực tế, sinh viên đại học cũng cần hoàn thành các dự án nghiên cứu học thuật.",
+    "word_forms": [
+      {
+        "word": "academy",
+        "pos": "noun",
+        "meaning_vi": "học viện"
+      },
+      {
+        "word": "academically",
+        "pos": "adv",
+        "meaning_vi": "về mặt học thuật"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "apply for",
+    "pos": "phrase",
+    "ipa": "/əˈplaɪ fɔː(r)/",
+    "meaning_vi": "nộp đơn ứng tuyển (công việc, khóa học)",
+    "example_en": "Graduates should prepare a neat CV before they apply for entry-level positions.",
+    "example_vi": "Sinh viên tốt nghiệp nên chuẩn bị một bản sơ yếu lý lịch chỉnh chu trước khi nộp đơn ứng tuyển các vị trí mới vào nghề.",
+    "word_forms": [
+      {
+        "word": "application",
+        "pos": "noun",
+        "meaning_vi": "đơn xin việc, sự ứng tuyển"
+      },
+      {
+        "word": "applicant",
+        "pos": "noun",
+        "meaning_vi": "người nộp đơn, ứng viên"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "apprenticeship",
+    "pos": "noun",
+    "ipa": "/əˈprentɪsʃɪp/",
+    "meaning_vi": "thời gian học việc, chương trình học nghề thực tập",
+    "example_en": "He served an apprenticeship with a master mechanic before opening his own garage.",
+    "example_vi": "Anh ấy đã trải qua một thời gian học việc với một thợ cơ khí lành nghề trước khi mở xưởng riêng.",
+    "word_forms": [
+      {
+        "word": "apprentice",
+        "pos": "noun",
+        "meaning_vi": "người học việc, học việc sinh"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "broaden your horizons",
+    "pos": "phrase",
+    "ipa": "/ˈbrɔːdn jɔː həˈraɪznz/",
+    "meaning_vi": "mở rộng tầm nhìn, mở rộng hiểu biết",
+    "example_en": "Interning at an international company helps students broaden their horizons considerably.",
+    "example_vi": "Thực tập tại một công ty quốc tế giúp sinh viên mở rộng tầm nhìn hiểu biết của mình đáng kể.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "burn the midnight oil",
+    "pos": "phrase",
+    "ipa": "/bɜːn ðə ˌmɪdnaɪt ˈɔɪl/",
+    "meaning_vi": "thức khuya làm việc, thức khuya học bài",
+    "example_en": "She had to burn the midnight oil for several weeks to finish the design project on time.",
+    "example_vi": "Cô ấy đã phải thức khuya làm việc suốt vài tuần để hoàn thành dự án thiết kế đúng hạn.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "career",
+    "pos": "noun",
+    "ipa": "/kəˈrɪə(r)/",
+    "meaning_vi": "sự nghiệp, nghề nghiệp lâu dài",
+    "example_en": "Choosing the right career path requires careful consideration of your skills and passions.",
+    "example_vi": "Việc lựa chọn con đường sự nghiệp đúng đắn đòi hỏi sự cân nhắc kỹ lưỡng về kỹ năng và đam mê của bạn.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "career choice",
+    "pos": "noun",
+    "ipa": "/kəˈrɪə tʃɔɪs/",
+    "meaning_vi": "sự lựa chọn nghề nghiệp",
+    "example_en": "Students in grade 9 often need advice from teachers before making an important career choice.",
+    "example_vi": "Học sinh lớp 9 thường cần lời khuyên từ thầy cô trước khi đưa ra lựa chọn nghề nghiệp quan trọng.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "career path",
+    "pos": "noun",
+    "ipa": "/kəˈrɪə pɑːθ/",
+    "meaning_vi": "con đường sự nghiệp, lộ trình phát triển nghề nghiệp",
+    "example_en": "She decided to follow a medical career path to become a surgeon.",
+    "example_vi": "Cô ấy quyết định theo đuổi con đường sự nghiệp y khoa để trở thành một bác sĩ phẫu thuật.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "carpenter",
+    "pos": "noun",
+    "ipa": "/ˈkɑːpəntə(r)/",
+    "meaning_vi": "thợ mộc",
+    "example_en": "A skillful carpenter hand-crafted this beautiful wooden dining table.",
+    "example_vi": "Một người thợ mộc khéo tay đã tự tay làm nên chiếc bàn ăn bằng gỗ tuyệt đẹp này.",
+    "word_forms": [
+      {
+        "word": "carpentry",
+        "pos": "noun",
+        "meaning_vi": "nghề mộc"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "counsellor",
+    "pos": "noun",
+    "ipa": "/ˈkaʊnsələ(r)/",
+    "meaning_vi": "người cố vấn, chuyên viên tư vấn (hướng nghiệp, tâm lý)",
+    "example_en": "The school career counsellor gave us helpful advice on choosing university majors.",
+    "example_vi": "Người cố vấn hướng nghiệp của trường đã cho chúng tôi những lời khuyên hữu ích về việc chọn ngành đại học.",
+    "word_forms": [
+      {
+        "word": "counsel",
+        "pos": "verb",
+        "meaning_vi": "khuyên bảo, tư vấn"
+      },
+      {
+        "word": "counselling",
+        "pos": "noun",
+        "meaning_vi": "sự tư vấn"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "deadline",
+    "pos": "noun",
+    "ipa": "/ˈdedlaɪn/",
+    "meaning_vi": "hạn chót, thời hạn hoàn thành công việc",
+    "example_en": "Working under strict deadlines requires excellent time-management skills.",
+    "example_vi": "Làm việc dưới các hạn chót nghiêm ngặt đòi hỏi kỹ năng quản lý thời gian tuyệt vời.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "demanding",
+    "pos": "adj",
+    "ipa": "/dɪˈmɑːndɪŋ/",
+    "meaning_vi": "đòi hỏi khắt khe, nhiều áp lực",
+    "example_en": "Being a surgeon is a demanding job that requires intense concentration and steady nerves.",
+    "example_vi": "Làm bác sĩ phẫu thuật là một công việc đòi hỏi khắt khe, cần sự tập trung cao độ và thần kinh vững vàng.",
+    "word_forms": [
+      {
+        "word": "demand",
+        "pos": "noun",
+        "meaning_vi": "nhu cầu, đòi hỏi"
+      },
+      {
+        "word": "demand",
+        "pos": "verb",
+        "meaning_vi": "yêu cầu, đòi hỏi"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "earn a living",
+    "pos": "phrase",
+    "ipa": "/ɜːn ə ˈlɪvɪŋ/",
+    "meaning_vi": "kiếm sống, mưu sinh",
+    "example_en": "He works two different jobs every day to earn a decent living for his family.",
+    "example_vi": "Anh ấy làm hai công việc khác nhau mỗi ngày để kiếm sống đàng hoàng cho gia đình.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "electrician",
+    "pos": "noun",
+    "ipa": "/ɪˌlekˈtrɪʃn/",
+    "meaning_vi": "thợ điện",
+    "example_en": "We had to call a licensed electrician to repair the faulty wiring in our house.",
+    "example_vi": "Chúng tôi đã phải gọi một thợ điện có chứng chỉ đến để sửa hệ thống dây điện bị hỏng trong nhà.",
+    "word_forms": [
+      {
+        "word": "electricity",
+        "pos": "noun",
+        "meaning_vi": "điện lực"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "employ",
+    "pos": "verb",
+    "ipa": "/ɪmˈplɔɪ/",
+    "meaning_vi": "thuê, tuyển dụng (nhân viên)",
+    "example_en": "The technology corporation plans to employ two hundred new engineers this quarter.",
+    "example_vi": "Tập đoàn công nghệ dự định tuyển dụng hai trăm kỹ sư mới trong quý này.",
+    "word_forms": [
+      {
+        "word": "employer",
+        "pos": "noun",
+        "meaning_vi": "người sử dụng lao động, chủ thuê"
+      },
+      {
+        "word": "employee",
+        "pos": "noun",
+        "meaning_vi": "nhân viên, người lao động"
+      },
+      {
+        "word": "employment",
+        "pos": "noun",
+        "meaning_vi": "việc làm, sự tuyển dụng"
+      },
+      {
+        "word": "unemployment",
+        "pos": "noun",
+        "meaning_vi": "sự thất nghiệp"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "flight attendant",
+    "pos": "noun",
+    "ipa": "/ˈflaɪt əˌtendənt/",
+    "meaning_vi": "tiếp viên hàng không",
+    "example_en": "Flight attendants are trained to ensure passenger safety and comfort during flights.",
+    "example_vi": "Các tiếp viên hàng không được đào tạo để đảm bảo sự an toàn và thoải mái cho hành khách trong suốt chuyến bay.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "full-time",
+    "pos": "adj",
+    "ipa": "/ˌfʊl ˈtaɪm/",
+    "meaning_vi": "toàn thời gian",
+    "example_en": "After graduating from college, Mark secured a full-time position as a software developer.",
+    "example_vi": "Sau khi tốt nghiệp đại học, Mark đã có được một vị trí làm việc toàn thời gian với tư cách là lập trình viên phần mềm.",
+    "word_forms": [
+      {
+        "word": "full-time",
+        "pos": "adv",
+        "meaning_vi": "làm toàn thời gian"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "hands-on",
+    "pos": "adj",
+    "ipa": "/ˌhændz ˈɒn/",
+    "meaning_vi": "thực hành, thực tế",
+    "example_en": "Vocational colleges provide hands-on experience so students can perform jobs immediately.",
+    "example_vi": "Các trường cao đẳng nghề cung cấp kinh nghiệm thực hành để sinh viên có thể làm việc được ngay.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "job market",
+    "pos": "noun",
+    "ipa": "/ˈdʒɒb mɑːkɪt/",
+    "meaning_vi": "thị trường việc làm, thị trường lao động",
+    "example_en": "Acquiring strong IT and foreign language skills gives you an edge in today's competitive job market.",
+    "example_vi": "Việc tích lũy kỹ năng CNTT và ngoại ngữ tốt mang lại cho bạn lợi thế trên thị trường việc làm cạnh tranh ngày nay.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "job satisfaction",
+    "pos": "noun",
+    "ipa": "/ˈdʒɒb sætɪsfækʃn/",
+    "meaning_vi": "sự hài lòng trong công việc",
+    "example_en": "Good working relationships and supportive bosses contribute significantly to job satisfaction.",
+    "example_vi": "Mối quan hệ tốt trong công việc và các sếp thấu hiểu hỗ trợ đóng góp đáng kể vào sự hài lòng trong công việc.",
+    "word_forms": [
+      {
+        "word": "satisfy",
+        "pos": "verb",
+        "meaning_vi": "làm thỏa mãn, đáp ứng"
+      },
+      {
+        "word": "satisfactory",
+        "pos": "adj",
+        "meaning_vi": "thỏa đáng, hài lòng"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "learn the ropes",
+    "pos": "phrase",
+    "ipa": "/lɜːn ðə rəʊps/",
+    "meaning_vi": "học cách làm quen với công việc, nắm vững quy trình",
+    "example_en": "It usually takes a new recruit a couple of months to learn the ropes in a large firm.",
+    "example_vi": "Thường phải mất một vài tháng để một nhân viên mới học cách làm quen và thạo việc trong một công ty lớn.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "make a living",
+    "pos": "phrase",
+    "ipa": "/meɪk ə ˈlɪvɪŋ/",
+    "meaning_vi": "kiếm sống",
+    "example_en": "It is not easy to make a living as a freelance graphic designer without a loyal client base.",
+    "example_vi": "Không dễ để kiếm sống bằng nghề thiết kế đồ họa tự do nếu không có lượng khách hàng trung thành.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "mechanic",
+    "pos": "noun",
+    "ipa": "/məˈkænɪk/",
+    "meaning_vi": "thợ cơ khí, thợ sửa chữa máy móc",
+    "example_en": "The mechanic inspected the car engine and replaced the faulty spark plugs.",
+    "example_vi": "Người thợ cơ khí đã kiểm tra động cơ xe hơi và thay thế các bu-gi bị hỏng.",
+    "word_forms": [
+      {
+        "word": "mechanical",
+        "pos": "adj",
+        "meaning_vi": "thuộc về cơ khí, máy móc"
+      },
+      {
+        "word": "mechanics",
+        "pos": "noun",
+        "meaning_vi": "ngành cơ học"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "nine-to-five",
+    "pos": "adj",
+    "ipa": "/ˌnaɪn tə ˈfaɪv/",
+    "meaning_vi": "giờ hành chính (từ 9 giờ sáng đến 5 giờ chiều)",
+    "example_en": "Freelancers often prefer flexible schedules over a traditional nine-to-five office job.",
+    "example_vi": "Những người làm việc tự do thường thích lịch trình linh hoạt hơn là công việc văn phòng giờ hành chính truyền thống.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "occupation",
+    "pos": "noun",
+    "ipa": "/ˌɒkjuˈpeɪʃn/",
+    "meaning_vi": "nghề nghiệp, công việc",
+    "example_en": "Please state your name, age, and present occupation on the application form.",
+    "example_vi": "Vui lòng ghi rõ họ tên, tuổi và nghề nghiệp hiện tại vào đơn xin việc.",
+    "word_forms": [
+      {
+        "word": "occupational",
+        "pos": "adj",
+        "meaning_vi": "thuộc về nghề nghiệp"
+      },
+      {
+        "word": "occupy",
+        "pos": "verb",
+        "meaning_vi": "chiếm giữ, làm việc"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "overtime",
+    "pos": "noun",
+    "ipa": "/ˈəʊvətaɪm/",
+    "meaning_vi": "giờ làm thêm, việc làm thêm giờ",
+    "example_en": "Employees receive double wages whenever they work overtime during peak seasons.",
+    "example_vi": "Nhân viên nhận được lương gấp đôi mỗi khi họ làm thêm giờ trong các mùa cao điểm.",
+    "word_forms": [
+      {
+        "word": "overtime",
+        "pos": "adv",
+        "meaning_vi": "quá giờ quy định"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "paramedic",
+    "pos": "noun",
+    "ipa": "/ˌpærəˈmedɪk/",
+    "meaning_vi": "nhân viên cứu thương, nhân viên y tế khẩn cấp",
+    "example_en": "Paramedics provided immediate first aid to the injured driver before rushing him to hospital.",
+    "example_vi": "Các nhân viên cứu thương đã sơ cứu ngay lập tức cho người tài xế bị thương trước khi đưa anh vào bệnh viện.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "part-time",
+    "pos": "adj",
+    "ipa": "/ˌpɑːt ˈtaɪm/",
+    "meaning_vi": "bán thời gian",
+    "example_en": "Working a part-time job helps students earn pocket money and gain early work experience.",
+    "example_vi": "Làm công việc bán thời gian giúp sinh viên kiếm tiền tiêu vặt và tích lũy kinh nghiệm làm việc sớm.",
+    "word_forms": [
+      {
+        "word": "part-time",
+        "pos": "adv",
+        "meaning_vi": "làm bán thời gian"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "permanent",
+    "pos": "adj",
+    "ipa": "/ˈpɜːmənənt/",
+    "meaning_vi": "lâu dài, vĩnh viễn, biên chế",
+    "example_en": "Following six months of probation, she was offered a permanent employment contract.",
+    "example_vi": "Sau sáu tháng thử việc, cô ấy đã được ký hợp đồng lao động chính thức lâu dài.",
+    "word_forms": [
+      {
+        "word": "permanently",
+        "pos": "adv",
+        "meaning_vi": "vĩnh viễn, lâu dài"
+      },
+      {
+        "word": "permanence",
+        "pos": "noun",
+        "meaning_vi": "tính lâu dài, sự lâu bền"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "pharmacist",
+    "pos": "noun",
+    "ipa": "/ˈfɑːməsɪst/",
+    "meaning_vi": "dược sĩ",
+    "example_en": "The pharmacist checked the doctor's prescription before dispensing the medicine.",
+    "example_vi": "Dược sĩ đã kiểm tra kỹ đơn thuốc của bác sĩ trước khi phát thuốc.",
+    "word_forms": [
+      {
+        "word": "pharmacy",
+        "pos": "noun",
+        "meaning_vi": "hiệu thuốc, ngành dược"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "profession",
+    "pos": "noun",
+    "ipa": "/prəˈfeʃn/",
+    "meaning_vi": "nghề, nghề nghiệp chuyên môn (đòi hỏi đào tạo chuyên sâu)",
+    "example_en": "Teaching is considered a noble profession that shapes the future generation.",
+    "example_vi": "Giảng dạy được coi là một nghề nghiệp cao quý giúp định hình thế hệ tương lai.",
+    "word_forms": [
+      {
+        "word": "professional",
+        "pos": "adj",
+        "meaning_vi": "chuyên nghiệp"
+      },
+      {
+        "word": "professionally",
+        "pos": "adv",
+        "meaning_vi": "một cách chuyên nghiệp"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "promote",
+    "pos": "verb",
+    "ipa": "/prəˈməʊt/",
+    "meaning_vi": "thăng chức, đề bạt",
+    "example_en": "Thanks to his dedication and hard work, he was promoted to department manager.",
+    "example_vi": "Nhờ vào sự tận tụy và làm việc chăm chỉ, anh ấy đã được thăng chức lên làm trưởng phòng.",
+    "word_forms": [
+      {
+        "word": "promotion",
+        "pos": "noun",
+        "meaning_vi": "sự thăng chức, đề bạt"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "qualification",
+    "pos": "noun",
+    "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "meaning_vi": "văn bằng, chứng chỉ, trình độ chuyên môn",
+    "example_en": "You need relevant educational qualifications to apply for high-level management positions.",
+    "example_vi": "Bạn cần có các chứng chỉ chuyên môn phù hợp để ứng tuyển vào các vị trí quản lý cấp cao.",
+    "word_forms": [
+      {
+        "word": "qualify",
+        "pos": "verb",
+        "meaning_vi": "đủ điều kiện, đạt tiêu chuẩn"
+      },
+      {
+        "word": "qualified",
+        "pos": "adj",
+        "meaning_vi": "có đủ trình độ, đủ năng lực"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "rewarding",
+    "pos": "adj",
+    "ipa": "/rɪˈwɔːdɪŋ/",
+    "meaning_vi": "bổ ích, đem lại cảm giác thỏa mãn / giá trị",
+    "example_en": "Being a social worker is demanding, but seeing lives improve makes it extremely rewarding.",
+    "example_vi": "Làm nhân viên xã hội rất vất vả, nhưng việc chứng kiến cuộc sống của mọi người tốt lên khiến công việc này vô cùng bổ ích và ý nghĩa.",
+    "word_forms": [
+      {
+        "word": "reward",
+        "pos": "noun",
+        "meaning_vi": "phần thưởng"
+      },
+      {
+        "word": "reward",
+        "pos": "verb",
+        "meaning_vi": "thưởng, đền đáp"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "salary",
+    "pos": "noun",
+    "ipa": "/ˈsæləri/",
+    "meaning_vi": "tiền lương (cố định hàng tháng)",
+    "example_en": "She was offered a competitive monthly salary along with annual bonuses.",
+    "example_vi": "Cô ấy được đề nghị mức lương tháng cạnh tranh cùng với tiền thưởng hằng năm.",
+    "word_forms": [
+      {
+        "word": "salaried",
+        "pos": "adj",
+        "meaning_vi": "hưởng lương tháng"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "shift work",
+    "pos": "noun",
+    "ipa": "/ˈʃɪft wɜːk/",
+    "meaning_vi": "công việc làm theo ca",
+    "example_en": "Nurses and factory operators frequently have to do shift work, including night duties.",
+    "example_vi": "Y tá và công nhân nhà máy thường xuyên phải làm việc theo ca, bao gồm cả ca đêm.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "stressful",
+    "pos": "adj",
+    "ipa": "/ˈstresfl/",
+    "meaning_vi": "căng thẳng, gây áp lực",
+    "example_en": "Dealing with angry customers all day can be exhausting and stressful.",
+    "example_vi": "Xử lý các khách hàng giận dữ cả ngày có thể rất mệt mỏi và căng thẳng.",
+    "word_forms": [
+      {
+        "word": "stress",
+        "pos": "noun",
+        "meaning_vi": "sự căng thẳng, áp lực"
+      },
+      {
+        "word": "stressed",
+        "pos": "adj",
+        "meaning_vi": "bị căng thẳng"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "tailor",
+    "pos": "noun",
+    "ipa": "/ˈteɪlə(r)/",
+    "meaning_vi": "thợ may (đồ âu phục)",
+    "example_en": "My father went to a reputable tailor to have a suit custom-made for the wedding.",
+    "example_vi": "Bố tôi đã đến một thợ may uy tín để đặt may đo một bộ vest cho đám cưới.",
+    "word_forms": [
+      {
+        "word": "tailor",
+        "pos": "verb",
+        "meaning_vi": "may đo, thiết kế riêng theo yêu cầu"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "take into account",
+    "pos": "phrase",
+    "ipa": "/teɪk ˈɪntu əˈkaʊnt/",
+    "meaning_vi": "tính đến, cân nhắc đến (yếu tố gì)",
+    "example_en": "When choosing a future career, you must take your personal interests into account.",
+    "example_vi": "Khi chọn nghề nghiệp tương lai, bạn phải tính đến sở thích cá nhân của mình.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "temporary",
+    "pos": "adj",
+    "ipa": "/ˈtemprəri/",
+    "meaning_vi": "tạm thời, ngắn hạn",
+    "example_en": "He took a temporary summer job at a seaside resort while waiting for his exam results.",
+    "example_vi": "Anh ấy nhận một công việc tạm thời vào mùa hè tại khu nghỉ dưỡng ven biển trong khi chờ kết quả thi.",
+    "word_forms": [
+      {
+        "word": "temporarily",
+        "pos": "adv",
+        "meaning_vi": "tạm thời"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "think outside the box",
+    "pos": "phrase",
+    "ipa": "/θɪŋk ˌaʊtsaɪd ðə ˈbɒks/",
+    "meaning_vi": "suy nghĩ sáng tạo, suy nghĩ vượt ra ngoài khuôn khổ",
+    "example_en": "Creative industries need young employees who dare to think outside the box.",
+    "example_vi": "Các ngành công nghiệp sáng tạo cần những nhân viên trẻ dám suy nghĩ vượt ra ngoài khuôn khổ thông thường.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "tour guide",
+    "pos": "noun",
+    "ipa": "/ˈtʊə ɡaɪd/",
+    "meaning_vi": "hướng dẫn viên du lịch",
+    "example_en": "The energetic tour guide introduced historical facts clearly to foreign visitors.",
+    "example_vi": "Người hướng dẫn viên du lịch năng động đã giới thiệu các sự kiện lịch sử một cách rõ ràng cho du khách nước ngoài.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "vocational",
+    "pos": "adj",
+    "ipa": "/vəʊˈkeɪʃənl/",
+    "meaning_vi": "thuộc về dạy nghề, hướng nghiệp",
+    "example_en": "Many school leavers enroll in vocational schools to learn practical trades like carpentry or cooking.",
+    "example_vi": "Nhiều học sinh tốt nghiệp đăng ký vào các trường nghề để học các nghề thực tế như thợ mộc hoặc nấu ăn.",
+    "word_forms": [
+      {
+        "word": "vocation",
+        "pos": "noun",
+        "meaning_vi": "thiên hướng nghề nghiệp, nghề nghiệp"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "wage",
+    "pos": "noun",
+    "ipa": "/weɪdʒ/",
+    "meaning_vi": "tiền công (trả theo giờ, ngày hoặc tuần)",
+    "example_en": "Part-time workers at the coffee shop earn an hourly wage of thirty thousand dong.",
+    "example_vi": "Nhân viên bán thời gian tại quán cà phê nhận tiền công theo giờ là ba mươi nghìn đồng.",
+    "word_forms": []
+  },
+  {
+    "unit": 12,
+    "unit_title": "Career Choices",
+    "word": "well-paid",
+    "pos": "adj",
+    "ipa": "/ˌwel ˈpeɪd/",
+    "meaning_vi": "được trả lương cao, thù lao tốt",
+    "example_en": "Careers in artificial intelligence and data science are typically very well-paid.",
+    "example_vi": "Các ngành nghề trong lĩnh vực trí tuệ nhân tạo và khoa học dữ liệu thường được trả lương rất cao.",
+    "word_forms": []
+  }
+]

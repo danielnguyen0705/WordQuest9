@@ -1,0 +1,687 @@
+[
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "accent",
+    "pos": "noun",
+    "ipa": "/ˈæksent/",
+    "meaning_vi": "giọng, ngữ điệu địa phương",
+    "example_en": "Even though she lives in London, she still speaks English with a Scottish accent.",
+    "example_vi": "Dù cô ấy sống ở Luân Đôn, cô ấy vẫn nói tiếng Anh bằng giọng xứ Scotland.",
+    "word_forms": [
+      {
+        "word": "accentuate",
+        "pos": "verb",
+        "meaning_vi": "nhấn mạnh, làm nổi bật"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "bilingual",
+    "pos": "adj",
+    "ipa": "/ˌbaɪˈlɪŋɡwəl/",
+    "meaning_vi": "nói được hai thứ tiếng, song ngữ",
+    "example_en": "Children growing up in bilingual families can switch easily between English and Vietnamese.",
+    "example_vi": "Trẻ em lớn lên trong các gia đình song ngữ có thể chuyển đổi dễ dàng giữa tiếng Anh và tiếng Việt.",
+    "word_forms": [
+      {
+        "word": "bilingualism",
+        "pos": "noun",
+        "meaning_vi": "khả năng nói hai thứ tiếng, hiện tượng song ngữ"
+      },
+      {
+        "word": "bilingually",
+        "pos": "adv",
+        "meaning_vi": "bằng hai thứ tiếng"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "borrow",
+    "pos": "verb",
+    "ipa": "/ˈbɒrəʊ/",
+    "meaning_vi": "vay mượn (từ vựng từ ngôn ngữ khác)",
+    "example_en": "English has borrowed thousands of words from French, Latin, and German.",
+    "example_vi": "Tiếng Anh đã vay mượn hàng ngàn từ từ tiếng Pháp, tiếng La-tinh và tiếng Đức.",
+    "word_forms": [
+      {
+        "word": "borrowing",
+        "pos": "noun",
+        "meaning_vi": "từ vay mượn, sự vay mượn"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "communicate",
+    "pos": "verb",
+    "ipa": "/kəˈmjuːnɪkeɪt/",
+    "meaning_vi": "giao tiếp, truyền đạt",
+    "example_en": "International conferences use English so that delegates can easily communicate with each other.",
+    "example_vi": "Các hội nghị quốc tế sử dụng tiếng Anh để các đại biểu có thể dễ dàng giao tiếp với nhau.",
+    "word_forms": [
+      {
+        "word": "communication",
+        "pos": "noun",
+        "meaning_vi": "sự giao tiếp, truyền thông"
+      },
+      {
+        "word": "communicative",
+        "pos": "adj",
+        "meaning_vi": "cởi mở, có tính giao tiếp"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "confuse",
+    "pos": "verb",
+    "ipa": "/kənˈfjuːz/",
+    "meaning_vi": "làm bối rối, nhầm lẫn",
+    "example_en": "Words with identical pronunciations but distinct spellings often confuse foreign learners.",
+    "example_vi": "Những từ có phát âm giống hệt nhau nhưng cách viết khác nhau thường làm người học nước ngoài bối rối.",
+    "word_forms": [
+      {
+        "word": "confusion",
+        "pos": "noun",
+        "meaning_vi": "sự bối rối, sự nhầm lẫn"
+      },
+      {
+        "word": "confusing",
+        "pos": "adj",
+        "meaning_vi": "gây nhầm lẫn, khó hiểu"
+      },
+      {
+        "word": "confused",
+        "pos": "adj",
+        "meaning_vi": "bị bối rối, hoang mang"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "context",
+    "pos": "noun",
+    "ipa": "/ˈkɒntekst/",
+    "meaning_vi": "ngữ cảnh, bối cảnh",
+    "example_en": "Looking at the context will help learners guess what new vocabulary items mean.",
+    "example_vi": "Xem xét ngữ cảnh sẽ giúp người học đoán được các từ vựng mới có nghĩa là gì.",
+    "word_forms": [
+      {
+        "word": "contextual",
+        "pos": "adj",
+        "meaning_vi": "thuộc về ngữ cảnh"
+      },
+      {
+        "word": "contextualize",
+        "pos": "verb",
+        "meaning_vi": "đặt vào ngữ cảnh"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "dialect",
+    "pos": "noun",
+    "ipa": "/ˈdaɪəlekt/",
+    "meaning_vi": "tiếng địa phương, thổ ngữ",
+    "example_en": "People living in the north and the south of the country speak different dialects.",
+    "example_vi": "Người dân sống ở miền bắc và miền nam của đất nước nói các tiếng địa phương khác nhau.",
+    "word_forms": [
+      {
+        "word": "dialectal",
+        "pos": "adj",
+        "meaning_vi": "thuộc về phương ngữ"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "first language",
+    "pos": "noun",
+    "ipa": "/ˌfɜːst ˈlæŋɡwɪdʒ/",
+    "meaning_vi": "tiếng mẹ đẻ, ngôn ngữ thứ nhất",
+    "example_en": "Vietnamese is the first language of the vast majority of people living in Viet Nam.",
+    "example_vi": "Tiếng Việt là tiếng mẹ đẻ của đại đa số người dân sinh sống tại Việt Nam.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "fluent",
+    "pos": "adj",
+    "ipa": "/ˈfluːənt/",
+    "meaning_vi": "lưu loát, trôi chảy",
+    "example_en": "With consistent daily practice, you will become fluent in spoken English.",
+    "example_vi": "Với việc luyện tập kiên trì hằng ngày, bạn sẽ nói tiếng Anh một cách lưu loát.",
+    "word_forms": [
+      {
+        "word": "fluency",
+        "pos": "noun",
+        "meaning_vi": "sự lưu loát, trôi chảy"
+      },
+      {
+        "word": "fluently",
+        "pos": "adv",
+        "meaning_vi": "một cách lưu loát"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "get by in",
+    "pos": "phrase",
+    "ipa": "/ɡet baɪ ɪn/",
+    "meaning_vi": "giao tiếp vừa đủ dùng trong một ngôn ngữ",
+    "example_en": "I know just enough German to get by in everyday conversations when shopping.",
+    "example_vi": "Tôi biết vừa đủ tiếng Đức để có thể xoay xở giao tiếp trong các cuộc trò chuyện thường nhật khi đi mua sắm.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "global",
+    "pos": "adj",
+    "ipa": "/ˈɡləʊbl/",
+    "meaning_vi": "toàn cầu",
+    "example_en": "English has established its firm position as a global language in the 21st century.",
+    "example_vi": "Tiếng Anh đã xác lập vững chắc vị thế của mình như một ngôn ngữ toàn cầu trong thế kỷ 21.",
+    "word_forms": [
+      {
+        "word": "globe",
+        "pos": "noun",
+        "meaning_vi": "quả địa cầu"
+      },
+      {
+        "word": "globally",
+        "pos": "adv",
+        "meaning_vi": "trên phạm vi toàn cầu"
+      },
+      {
+        "word": "globalization",
+        "pos": "noun",
+        "meaning_vi": "sự toàn cầu hóa"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "grammar",
+    "pos": "noun",
+    "ipa": "/ˈɡræmə(r)/",
+    "meaning_vi": "ngữ pháp",
+    "example_en": "Mastering English grammar helps you construct clear and accurate sentences.",
+    "example_vi": "Nắm vững ngữ pháp tiếng Anh giúp bạn xây dựng các câu văn rõ ràng và chính xác.",
+    "word_forms": [
+      {
+        "word": "grammatical",
+        "pos": "adj",
+        "meaning_vi": "thuộc về ngữ pháp, đúng ngữ pháp"
+      },
+      {
+        "word": "grammatically",
+        "pos": "adv",
+        "meaning_vi": "về mặt ngữ pháp"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "guess",
+    "pos": "verb",
+    "ipa": "/ɡes/",
+    "meaning_vi": "đoán, suy đoán",
+    "example_en": "Try to guess the meaning of unfamiliar words from the context before opening a dictionary.",
+    "example_vi": "Hãy cố gắng đoán nghĩa của các từ lạ dựa vào ngữ cảnh trước khi mở từ điển.",
+    "word_forms": [
+      {
+        "word": "guess",
+        "pos": "noun",
+        "meaning_vi": "sự phỏng đoán"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "have a conversation with",
+    "pos": "phrase",
+    "ipa": "/hæv ə ˌkɒnvəˈseɪʃn wɪð/",
+    "meaning_vi": "trò chuyện, đàm đạo với ai",
+    "example_en": "Students took the chance to have an interesting conversation with foreign backpackers.",
+    "example_vi": "Các bạn học sinh đã nhân cơ hội trò chuyện thú vị với những vị khách du lịch bụi nước ngoài.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "idiom",
+    "pos": "noun",
+    "ipa": "/ˈɪdiəm/",
+    "meaning_vi": "thành ngữ",
+    "example_en": "Using an English idiom naturally makes your daily speech sound more expressive.",
+    "example_vi": "Sử dụng thành ngữ tiếng Anh một cách tự nhiên giúp lời nói hằng ngày của bạn giàu sức biểu cảm hơn.",
+    "word_forms": [
+      {
+        "word": "idiomatic",
+        "pos": "adj",
+        "meaning_vi": "có tính thành ngữ, tự nhiên như bản ngữ"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "imitate",
+    "pos": "verb",
+    "ipa": "/ˈɪmɪteɪt/",
+    "meaning_vi": "bắt chước, mô phỏng (giọng điệu, cách phát âm)",
+    "example_en": "Learners can improve their speaking by imitating native speakers' intonation.",
+    "example_vi": "Người học có thể cải thiện khả năng nói bằng cách bắt chước ngữ điệu của người bản ngữ.",
+    "word_forms": [
+      {
+        "word": "imitation",
+        "pos": "noun",
+        "meaning_vi": "sự bắt chước, mô phỏng"
+      },
+      {
+        "word": "imitative",
+        "pos": "adj",
+        "meaning_vi": "mang tính bắt chước"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "intonation",
+    "pos": "noun",
+    "ipa": "/ˌɪntəˈneɪʃn/",
+    "meaning_vi": "ngữ điệu (lên giọng, xuống giọng)",
+    "example_en": "Falling intonation is normally used at the end of statements and Wh-questions.",
+    "example_vi": "Ngữ điệu đi xuống thường được sử dụng ở cuối các câu trần thuật và câu hỏi Wh-.",
+    "word_forms": [
+      {
+        "word": "intone",
+        "pos": "verb",
+        "meaning_vi": "ngâm nga, phát âm theo giọng điệu"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "lingua franca",
+    "pos": "noun",
+    "ipa": "/ˌlɪŋɡwə ˈfræŋkə/",
+    "meaning_vi": "ngôn ngữ chung (dùng giao tiếp giữa các cộng đồng khác tiếng mẹ đẻ)",
+    "example_en": "English has become the global lingua franca in international trade and aviation.",
+    "example_vi": "Tiếng Anh đã trở thành ngôn ngữ chung toàn cầu trong thương mại quốc tế và hàng không.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "look up",
+    "pos": "phrase",
+    "ipa": "/lʊk ʌp/",
+    "meaning_vi": "tra cứu (từ ngữ trong từ điển)",
+    "example_en": "Whenever you encounter an unfamiliar term, look it up in an online dictionary.",
+    "example_vi": "Bất cứ khi nào bạn bắt gặp một thuật ngữ lạ, hãy tra cứu nó trong từ điển trực tuyến.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "master",
+    "pos": "verb",
+    "ipa": "/ˈmɑːstə(r)/",
+    "meaning_vi": "làm chủ, tinh thông, thành thạo (ngôn ngữ)",
+    "example_en": "It takes several years of dedicated practice to master a foreign language.",
+    "example_vi": "Phải mất vài năm rèn luyện chăm chỉ mới có thể tinh thông một ngoại ngữ.",
+    "word_forms": [
+      {
+        "word": "mastery",
+        "pos": "noun",
+        "meaning_vi": "sự tinh thông, sự làm chủ"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "meaning",
+    "pos": "noun",
+    "ipa": "/ˈmiːnɪŋ/",
+    "meaning_vi": "ý nghĩa (của từ hoặc câu)",
+    "example_en": "You can infer the meaning of an unfamiliar word from the surrounding context.",
+    "example_vi": "Bạn có thể suy đoán ý nghĩa của một từ chưa biết dựa vào ngữ cảnh xung quanh.",
+    "word_forms": [
+      {
+        "word": "mean",
+        "pos": "verb",
+        "meaning_vi": "có nghĩa là"
+      },
+      {
+        "word": "meaningful",
+        "pos": "adj",
+        "meaning_vi": "có ý nghĩa"
+      },
+      {
+        "word": "meaningless",
+        "pos": "adj",
+        "meaning_vi": "vô nghĩa"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "monolingual",
+    "pos": "adj",
+    "ipa": "/ˌmɒnəˈlɪŋɡwəl/",
+    "meaning_vi": "đơn ngữ, chỉ nói một thứ tiếng",
+    "example_en": "A monolingual dictionary explains English words entirely in English.",
+    "example_vi": "Một cuốn từ điển đơn ngữ giải thích các từ tiếng Anh hoàn toàn bằng tiếng Anh.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "mother tongue",
+    "pos": "noun",
+    "ipa": "/ˌmʌðə ˈtʌŋ/",
+    "meaning_vi": "tiếng mẹ đẻ",
+    "example_en": "Learning foreign languages is easier when you have a solid grasp of your mother tongue.",
+    "example_vi": "Học ngoại ngữ sẽ dễ dàng hơn khi bạn nắm vững tiếng mẹ đẻ của mình.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "multilingual",
+    "pos": "adj",
+    "ipa": "/ˌmʌltiˈlɪŋɡwəl/",
+    "meaning_vi": "đa ngữ, sử dụng nhiều thứ tiếng",
+    "example_en": "Living in a multilingual society allows citizens to communicate in several languages.",
+    "example_vi": "Sống trong một xã hội đa ngữ cho phép công dân giao tiếp bằng nhiều thứ tiếng.",
+    "word_forms": [
+      {
+        "word": "multilingualism",
+        "pos": "noun",
+        "meaning_vi": "sự đa ngữ"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "native speaker",
+    "pos": "noun",
+    "ipa": "/ˌneɪtɪv ˈspiːkə(r)/",
+    "meaning_vi": "người bản ngữ",
+    "example_en": "Practising pronunciation with a native speaker helps learners improve their intonation.",
+    "example_vi": "Luyện phát âm với một người bản ngữ giúp người học cải thiện ngữ điệu của mình.",
+    "word_forms": [
+      {
+        "word": "native",
+        "pos": "adj",
+        "meaning_vi": "bản xứ, bẩm sinh"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "non-native speaker",
+    "pos": "noun",
+    "ipa": "/ˌnɒn ˈneɪtɪv ˈspiːkə(r)/",
+    "meaning_vi": "người không phải bản ngữ",
+    "example_en": "Nowadays, the number of non-native speakers of English far exceeds that of native speakers.",
+    "example_vi": "Ngày nay, số lượng người nói tiếng Anh không phải bản ngữ vượt xa số lượng người bản ngữ.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "official",
+    "pos": "adj",
+    "ipa": "/əˈfɪʃl/",
+    "meaning_vi": "chính thức (ngôn ngữ được nhà nước công nhận)",
+    "example_en": "English is recognized as an official language in India and Singapore.",
+    "example_vi": "Tiếng Anh được công nhận là một ngôn ngữ chính thức tại Ấn Độ và Singapore.",
+    "word_forms": [
+      {
+        "word": "officially",
+        "pos": "adv",
+        "meaning_vi": "một cách chính thức"
+      },
+      {
+        "word": "office",
+        "pos": "noun",
+        "meaning_vi": "văn phòng"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "pick up",
+    "pos": "phrase",
+    "ipa": "/pɪk ʌp/",
+    "meaning_vi": "học lỏm được, tiếp thu tự nhiên (ngôn ngữ/kỹ năng)",
+    "example_en": "He picked up some basic Spanish phrases while travelling around South America.",
+    "example_vi": "Anh ấy đã học lỏm được vài câu tiếng Tây Ban Nha cơ bản trong lúc đi du lịch vòng quanh Nam Mỹ.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "pronunciation",
+    "pos": "noun",
+    "ipa": "/prəˌnʌnsiˈeɪʃn/",
+    "meaning_vi": "cách phát âm",
+    "example_en": "Good pronunciation is essential for making yourself understood when communicating.",
+    "example_vi": "Phát âm tốt là điều cốt yếu để giúp người khác hiểu được bạn khi giao tiếp.",
+    "word_forms": [
+      {
+        "word": "pronounce",
+        "pos": "verb",
+        "meaning_vi": "phát âm"
+      },
+      {
+        "word": "pronounceable",
+        "pos": "adj",
+        "meaning_vi": "có thể phát âm được"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "rusty",
+    "pos": "adj",
+    "ipa": "/ˈrʌsti/",
+    "meaning_vi": "mai một, giảm sút (do lâu không dùng)",
+    "example_en": "My French has become quite rusty because I have not practiced speaking it for years.",
+    "example_vi": "Tiếng Pháp của tôi đã bị mai một khá nhiều vì tôi đã nhiều năm không luyện nói.",
+    "word_forms": [
+      {
+        "word": "rust",
+        "pos": "noun",
+        "meaning_vi": "gỉ sét"
+      },
+      {
+        "word": "rust",
+        "pos": "verb",
+        "meaning_vi": "bị gỉ, bị mai một"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "second language",
+    "pos": "noun",
+    "ipa": "/ˌsekənd ˈlæŋɡwɪdʒ/",
+    "meaning_vi": "ngôn ngữ thứ hai",
+    "example_en": "In many African nations, English functions as a second language for government administration.",
+    "example_vi": "Tại nhiều quốc gia châu Phi, tiếng Anh đóng vai trò là ngôn ngữ thứ hai cho các thủ tục hành chính.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "simplify",
+    "pos": "verb",
+    "ipa": "/ˈsɪmplɪfaɪ/",
+    "meaning_vi": "đơn giản hóa",
+    "example_en": "Teachers often simplify complex sentences to make reading passages accessible to beginners.",
+    "example_vi": "Giáo viên thường đơn giản hóa các câu phức tạp để các bài đọc trở nên dễ hiểu đối với người mới bắt đầu.",
+    "word_forms": [
+      {
+        "word": "simple",
+        "pos": "adj",
+        "meaning_vi": "đơn giản"
+      },
+      {
+        "word": "simplicity",
+        "pos": "noun",
+        "meaning_vi": "sự đơn giản"
+      },
+      {
+        "word": "simplification",
+        "pos": "noun",
+        "meaning_vi": "sự đơn giản hóa"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "slang",
+    "pos": "noun",
+    "ipa": "/slæŋ/",
+    "meaning_vi": "từ lóng",
+    "example_en": "Teenagers frequently invent modern slang that older generations struggle to understand.",
+    "example_vi": "Thanh thiếu niên thường xuyên sáng tạo ra các từ lóng hiện đại mà các thế hệ lớn tuổi khó hiểu được.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "spelling",
+    "pos": "noun",
+    "ipa": "/ˈspelɪŋ/",
+    "meaning_vi": "chính tả, cách viết từ",
+    "example_en": "There are noticeable spelling differences between British and American English words.",
+    "example_vi": "Có những điểm khác biệt chính tả đáng chú ý giữa các từ tiếng Anh-Anh và tiếng Anh-Mỹ.",
+    "word_forms": [
+      {
+        "word": "spell",
+        "pos": "verb",
+        "meaning_vi": "đánh vần, viết chính tả"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "subtitle",
+    "pos": "noun",
+    "ipa": "/ˈsʌbtaɪtl/",
+    "meaning_vi": "phụ đề (phim, chương trình)",
+    "example_en": "Watching English movies with English subtitles is a wonderful way to improve listening skills.",
+    "example_vi": "Xem phim tiếng Anh có phụ đề tiếng Anh là một cách tuyệt vời để cải thiện kỹ năng nghe.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "translate",
+    "pos": "verb",
+    "ipa": "/trænzˈleɪt/",
+    "meaning_vi": "dịch, chuyển ngữ",
+    "example_en": "Do not try to translate every sentence word for word into your mother tongue.",
+    "example_vi": "Đừng cố dịch từng câu theo kiểu từng từ một sang tiếng mẹ đẻ của bạn.",
+    "word_forms": [
+      {
+        "word": "translation",
+        "pos": "noun",
+        "meaning_vi": "bản dịch, việc dịch thuật"
+      },
+      {
+        "word": "translator",
+        "pos": "noun",
+        "meaning_vi": "người dịch, biên dịch viên"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "turn down",
+    "pos": "phrase",
+    "ipa": "/tɜːn daʊn/",
+    "meaning_vi": "vặn nhỏ lại (âm lượng); từ chối",
+    "example_en": "Please turn down the volume of the audio track; it is distracting the students.",
+    "example_vi": "Xin vui lòng vặn nhỏ âm lượng của đoạn ghi âm lại; nó đang làm các học sinh mất tập trung.",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "turn up",
+    "pos": "phrase",
+    "ipa": "/tɜːn ʌp/",
+    "meaning_vi": "vặn to lên (âm lượng); xuất hiện",
+    "example_en": "Can you please turn up the radio so that everyone can hear the English news broadcast clearly?",
+    "example_vi": "Bạn có thể vặn to đài phát thanh lên để mọi người đều nghe rõ bản tin tiếng Anh được không?",
+    "word_forms": []
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "variety",
+    "pos": "noun",
+    "ipa": "/vəˈraɪəti/",
+    "meaning_vi": "biến thể ngôn ngữ, dạng ngôn ngữ",
+    "example_en": "American English and Australian English are two major varieties of the English language.",
+    "example_vi": "Tiếng Anh-Mỹ và tiếng Anh-Úc là hai biến thể lớn của ngôn ngữ tiếng Anh.",
+    "word_forms": [
+      {
+        "word": "vary",
+        "pos": "verb",
+        "meaning_vi": "thay đổi, khác biệt"
+      },
+      {
+        "word": "various",
+        "pos": "adj",
+        "meaning_vi": "khác nhau, đa dạng"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "unit_title": "World Englishes",
+    "word": "vocabulary",
+    "pos": "noun",
+    "ipa": "/vəˈkæbjələri/",
+    "meaning_vi": "từ vựng, vốn từ",
+    "example_en": "Reading books every day is an effective habit to expand your English vocabulary.",
+    "example_vi": "Đọc sách mỗi ngày là một thói quen hiệu quả để mở rộng vốn từ vựng tiếng Anh của bạn.",
+    "word_forms": []
+  }
+]

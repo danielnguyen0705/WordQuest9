@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 6,
+    "target_word": "democratic",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'democratic' trong mối quan hệ gia đình hoặc tập thể có nghĩa tiếng Việt là gì?",
+    "correct_answer": "dân chủ, bình đẳng về quyền lợi và tiếng nói",
+    "distractors": [
+      "độc đoán, gia trưởng",
+      "nghiêm khắc, khắt khe",
+      "truyền thống, cổ hủ"
+    ],
+    "explanation_vi": "'democratic' miêu tả mối quan hệ mà trong đó mọi thành viên đều có tiếng nói, quyền lợi và sự bình đẳng như nhau."
+  },
+  {
+    "unit": 6,
+    "target_word": "family-oriented",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'family-oriented' dùng để chỉ một người mang nét tính cách nào?",
+    "correct_answer": "hướng về gia đình, luôn coi trọng gia đình",
+    "distractors": [
+      "thích sống độc lập một mình",
+      "chỉ chú trọng đến sự nghiệp",
+      "hướng ngoại và thích tiệc tùng"
+    ],
+    "explanation_vi": "'family-oriented' chỉ người luôn đặt gia đình làm trọng tâm và dành nhiều thời gian, tâm sức chăm lo cho gia đình."
+  },
+  {
+    "unit": 6,
+    "target_word": "privacy",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'privacy' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "sự riêng tư, đời sống riêng",
+    "distractors": [
+      "sự cô đơn, buồn tẻ",
+      "tính bảo mật kỹ thuật số",
+      "sự ích kỷ cá nhân"
+    ],
+    "explanation_vi": "'privacy' là quyền hoặc trạng thái không bị người khác làm phiền hay can thiệp vào đời sống cá nhân của mình."
+  },
+  {
+    "unit": 6,
+    "target_word": "freedom",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'freedom' trong cụm 'freedom of choice' mang nghĩa là gì?",
+    "correct_answer": "sự tự do",
+    "distractors": [
+      "sự ràng buộc",
+      "sự phụ thuộc",
+      "nghĩa vụ bắt buộc"
+    ],
+    "explanation_vi": "'freedom' là quyền tự do hành động, lựa chọn mà không bị ngăn cấm hay áp đặt."
+  },
+  {
+    "unit": 6,
+    "target_word": "pursue",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'pursue' trong ngữ cảnh học tập và sự nghiệp có nghĩa là gì?",
+    "correct_answer": "theo đuổi (ước mơ, sở thích, sự nghiệp)",
+    "distractors": [
+      "từ bỏ hoàn toàn",
+      "trì hoãn thực hiện",
+      "thay đổi định hướng"
+    ],
+    "explanation_vi": "'pursue' mang nghĩa nỗ lực theo đuổi mục tiêu, nghề nghiệp hoặc sở thích cá nhân trong thời gian dài."
+  },
+  {
+    "unit": 6,
+    "target_word": "memorise",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'memorise' trong phương pháp học tập xưa có nghĩa là gì?",
+    "correct_answer": "học thuộc lòng, ghi nhớ trong đầu",
+    "distractors": [
+      "phân tích chi tiết",
+      "tìm kiếm tư liệu",
+      "thuyết trình trước lớp"
+    ],
+    "explanation_vi": "'memorise' có nghĩa là ghi nhớ kỹ thông tin hoặc học thuộc lòng từng câu chữ."
+  },
+  {
+    "unit": 6,
+    "target_word": "replace",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'replace' trong câu 'Modern machines replace traditional tools' có nghĩa là gì?",
+    "correct_answer": "thay thế",
+    "distractors": [
+      "bảo dưỡng định kỳ",
+      "chế tạo thủ công",
+      "sửa chữa hư hỏng"
+    ],
+    "explanation_vi": "'replace' có nghĩa là chiếm chỗ hoặc được sử dụng thay thế cho cái cũ."
+  },
+  {
+    "unit": 6,
+    "target_word": "agrarian",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'agrarian' trong cụm 'agrarian society' mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "thuộc về nông nghiệp, thuần nông",
+    "distractors": [
+      "thuộc về công nghiệp nặng",
+      "thuộc khu vực thành thị",
+      "thuộc về thương mại quốc tế"
+    ],
+    "explanation_vi": "'agrarian' chỉ xã hội hoặc nền kinh tế dựa chủ yếu vào nghề nông và sản xuất nông nghiệp."
+  },
+  {
+    "unit": 6,
+    "target_word": "resilience",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'resilience' chỉ phẩm chất đáng quý nào của con người?",
+    "correct_answer": "sự kiên cường, khả năng nhanh chóng phục hồi",
+    "distractors": [
+      "sự thông minh nhạy bén",
+      "lòng bao dung độ lượng",
+      "tính cẩn thận chu đáo"
+    ],
+    "explanation_vi": "'resilience' là phẩm chất kiên cường, sức chịu đựng bền bỉ và khả năng vượt qua nghịch cảnh để vươn lên."
+  },
+  {
+    "unit": 6,
+    "target_word": "change for the better",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thành ngữ 'change for the better' có nghĩa tiếng Việt là gì?",
+    "correct_answer": "thay đổi theo chiều hướng tốt hơn, khởi sắc",
+    "distractors": [
+      "thay đổi đột ngột và bất ngờ",
+      "trở nên phức tạp khó khăn hơn",
+      "giữ nguyên trạng thái cũ"
+    ],
+    "explanation_vi": "'change for the better' diễn tả sự chuyển biến tích cực, cải thiện so với tình trạng trước đó."
+  },
+  {
+    "unit": 6,
+    "target_word": "nuclear family",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào chỉ kiểu 'gia đình hạt nhân' (chỉ gồm cha mẹ và con cái)?",
+    "correct_answer": "nuclear family",
+    "distractors": [
+      "extended family",
+      "single-parent family",
+      "blended family"
+    ],
+    "explanation_vi": "'nuclear family' là mô hình gia đình cơ bản chỉ có cha mẹ và con cái chung sống."
+  },
+  {
+    "unit": 6,
+    "target_word": "extended family",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ nào dùng để chỉ 'đại gia đình nhiều thế hệ' cùng sống dưới một mái nhà?",
+    "correct_answer": "extended family",
+    "distractors": [
+      "nuclear family",
+      "adoptive family",
+      "foster family"
+    ],
+    "explanation_vi": "'extended family' là gia đình lớn có từ ba thế hệ trở lên (ông bà, cha mẹ, con cháu...) sống chung."
+  },
+  {
+    "unit": 6,
+    "target_word": "generation gap",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào diễn tả 'khoảng cách thế hệ' giữa người già và người trẻ?",
+    "correct_answer": "generation gap",
+    "distractors": [
+      "living condition",
+      "family value",
+      "peer pressure"
+    ],
+    "explanation_vi": "'generation gap' là sự khác biệt lớn về suy nghĩ, quan điểm và lối sống giữa các thế hệ."
+  },
+  {
+    "unit": 6,
+    "target_word": "take notes",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'ghi chép bài học, ghi chú lại thông tin'?",
+    "correct_answer": "take notes",
+    "distractors": [
+      "make friends",
+      "do homework",
+      "give advice"
+    ],
+    "explanation_vi": "'take notes' là hành động ghi lại những ý quan trọng khi nghe giảng hoặc đọc tài liệu."
+  },
+  {
+    "unit": 6,
+    "target_word": "depend on",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'phụ thuộc vào, trông cậy vào'?",
+    "correct_answer": "depend on",
+    "distractors": [
+      "look after",
+      "carry out",
+      "put off"
+    ],
+    "explanation_vi": "'depend on' mang nghĩa dựa dẫm hoặc phụ thuộc vào ai/cái gì."
+  },
+  {
+    "unit": 6,
+    "target_word": "electronic device",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào chỉ 'thiết bị điện tử' (như điện thoại, máy tính bảng)?",
+    "correct_answer": "electronic device",
+    "distractors": [
+      "natural material",
+      "learning facility",
+      "household appliance"
+    ],
+    "explanation_vi": "'electronic device' chỉ các thiết bị vi điện tử phục vụ liên lạc, giải trí hoặc công việc."
+  },
+  {
+    "unit": 6,
+    "target_word": "living condition",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào mang nghĩa 'điều kiện sống' của người dân?",
+    "correct_answer": "living condition",
+    "distractors": [
+      "learning facility",
+      "leisure activity",
+      "working hour"
+    ],
+    "explanation_vi": "'living condition' chỉ môi trường và điều kiện vật chất phục vụ sinh hoạt hằng ngày."
+  },
+  {
+    "unit": 6,
+    "target_word": "natural materials",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ nào có nghĩa là 'các vật liệu tự nhiên' (như tre, gỗ, đất sét)?",
+    "correct_answer": "natural materials",
+    "distractors": [
+      "artificial products",
+      "chemical substances",
+      "recycled goods"
+    ],
+    "explanation_vi": "'natural materials' là những nguyên vật liệu có nguồn gốc trực tiếp từ thiên nhiên."
+  },
+  {
+    "unit": 6,
+    "target_word": "study abroad",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ tiếng Anh nào mang nghĩa 'đi du học nước ngoài'?",
+    "correct_answer": "study abroad",
+    "distractors": [
+      "travel around",
+      "settle down",
+      "work overtime"
+    ],
+    "explanation_vi": "'study abroad' là hành động ra nước ngoài để học tập."
+  },
+  {
+    "unit": 6,
+    "target_word": "leave school early",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm từ nào mang nghĩa 'nghỉ học sớm, bỏ dở con đường học tập'?",
+    "correct_answer": "leave school early",
+    "distractors": [
+      "go to school late",
+      "finish school on time",
+      "skip morning classes"
+    ],
+    "explanation_vi": "'leave school early' chỉ việc phải thôi học từ sớm (thường do hoàn cảnh gia đình khó khăn)."
+  },
+  {
+    "unit": 6,
+    "target_word": "democratic",
+    "question_type": "contextual_mcq",
+    "prompt_text": "In a modern family, relationships are more ______ because parents listen to their children's opinions before deciding.",
+    "correct_answer": "democratic",
+    "distractors": [
+      "pessimistic",
+      "exhausting",
+      "inappropriate"
+    ],
+    "explanation_vi": "Trong gia đình hiện đại, mối quan hệ mang tính dân chủ ('democratic') hơn vì cha mẹ luôn lắng nghe ý kiến của con cái."
+  },
+  {
+    "unit": 6,
+    "target_word": "privacy",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Teenagers often complain that their parents do not respect their personal ______ when checking their rooms.",
+    "correct_answer": "privacy",
+    "distractors": [
+      "facility",
+      "priority",
+      "deadline"
+    ],
+    "explanation_vi": "Các bạn thiếu niên thường phàn nàn rằng cha mẹ không tôn trọng sự riêng tư cá nhân ('personal privacy') của họ."
+  },
+  {
+    "unit": 6,
+    "target_word": "freedom",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Compared to youth in the past, teenagers nowadays enjoy greater ______ in choosing their future careers.",
+    "correct_answer": "freedom",
+    "distractors": [
+      "fatigue",
+      "anxiety",
+      "distraction"
+    ],
+    "explanation_vi": "So với giới trẻ thời xưa, thanh thiếu niên ngày nay có sự tự do ('freedom') lớn hơn nhiều trong việc chọn nghề nghiệp."
+  },
+  {
+    "unit": 6,
+    "target_word": "pursue",
+    "question_type": "contextual_mcq",
+    "prompt_text": "More girls in rural areas now have the chance to ______ higher education instead of getting married early.",
+    "correct_answer": "pursue",
+    "distractors": [
+      "delay",
+      "memorise",
+      "dye"
+    ],
+    "explanation_vi": "'pursue higher education' là cụm từ chuẩn diễn đạt ý theo đuổi con đường học tập bậc đại học/cao đẳng."
+  },
+  {
+    "unit": 6,
+    "target_word": "depend on",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Students nowadays shouldn't ______ entirely on search engines to do all their thinking and homework.",
+    "correct_answer": "depend on",
+    "distractors": [
+      "pass down",
+      "cope with",
+      "hang out"
+    ],
+    "explanation_vi": "Học sinh không nên phụ thuộc hoàn toàn ('depend on') vào công cụ tìm kiếm trên mạng."
+  },
+  {
+    "unit": 6,
+    "target_word": "convenience",
+    "question_type": "contextual_mcq",
+    "prompt_text": "With the rapid rise of modern online supermarkets, people appreciate the immense ______ of door-to-door delivery.",
+    "correct_answer": "convenience",
+    "distractors": [
+      "conflict",
+      "resilience",
+      "forefather"
+    ],
+    "explanation_vi": "Người dân đánh giá rất cao sự tiện lợi to lớn ('immense convenience') của dịch vụ giao hàng tận nhà."
+  },
+  {
+    "unit": 6,
+    "target_word": "play an important role",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Traditional family meals still ______ in strengthening affection and understanding among family members.",
+    "correct_answer": "play an important role",
+    "distractors": [
+      "run out of steam",
+      "look back on history",
+      "take a short break"
+    ],
+    "explanation_vi": "Bữa cơm gia đình truyền thống vẫn đóng một vai trò quan trọng ('play an important role') trong việc gắn kết tình cảm."
+  },
+  {
+    "unit": 6,
+    "target_word": "learning facilities",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Thanks to national investment, rural schools have been equipped with well-furnished classrooms and modern ______.",
+    "correct_answer": "learning facilities",
+    "distractors": [
+      "natural materials",
+      "nuclear families",
+      "generation gaps"
+    ],
+    "explanation_vi": "Các trường học vùng nông thôn đã được trang bị cơ sở vật chất học tập ('learning facilities') hiện đại."
+  },
+  {
+    "unit": 6,
+    "target_word": "forefathers",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Young generations always show profound gratitude towards their ______ who bravely defended the nation.",
+    "correct_answer": "forefathers",
+    "distractors": [
+      "suburbs",
+      "occupants",
+      "counsellors"
+    ],
+    "explanation_vi": "Thế hệ trẻ luôn bày tỏ lòng biết ơn sâu sắc đối với cha ông thời trước ('forefathers') đã anh dũng bảo vệ đất nước."
+  },
+  {
+    "unit": 6,
+    "target_word": "suburban",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Many families now relocate to tranquil ______ districts to avoid traffic congestion and air pollution.",
+    "correct_answer": "suburban",
+    "distractors": [
+      "agrarian",
+      "offline",
+      "personal"
+    ],
+    "explanation_vi": "Nhiều gia đình chuyển đến các quận ngoại ô ('suburban districts') yên bình để tránh kẹt xe và ô nhiễm."
+  },
+  {
+    "unit": 6,
+    "target_word": "independent",
+    "question_type": "word_form",
+    "prompt_text": "Studying away from home teaches university students how to become financially and personally ______. (DEPEND)",
+    "correct_answer": "independent",
+    "distractors": [
+      "dependent",
+      "independence",
+      "dependence"
+    ],
+    "explanation_vi": "Sau động từ nối 'become' và trạng từ 'personally' cần một tính từ mang nghĩa tự lập: 'independent' (độc lập, tự chủ)."
+  },
+  {
+    "unit": 6,
+    "target_word": "dramatically",
+    "question_type": "word_form",
+    "prompt_text": "The standard of living in mountainous villages has improved ______ over the past decade. (DRAMATIC)",
+    "correct_answer": "dramatically",
+    "distractors": [
+      "dramatic",
+      "dramatize",
+      "drama"
+    ],
+    "explanation_vi": "Đứng sau động từ hoàn thành 'has improved' cần một trạng từ chỉ mức độ thay đổi to lớn: 'dramatically'."
+  },
+  {
+    "unit": 6,
+    "target_word": "conveniently",
+    "question_type": "word_form",
+    "prompt_text": "Our new apartment is ______ located near the bus station and a major supermarket. (CONVENIENCE)",
+    "correct_answer": "conveniently",
+    "distractors": [
+      "convenient",
+      "inconvenient",
+      "inconveniently"
+    ],
+    "explanation_vi": "Đứng trước phân từ hai 'located' cần trạng từ bổ nghĩa vị trí: 'conveniently located' (nằm ở vị trí thuận tiện)."
+  },
+  {
+    "unit": 6,
+    "target_word": "collectively",
+    "question_type": "word_form",
+    "prompt_text": "In former times, villagers worked ______ to construct houses and dykes for the entire commune. (COLLECT)",
+    "correct_answer": "collectively",
+    "distractors": [
+      "collective",
+      "collection",
+      "collector"
+    ],
+    "explanation_vi": "Bổ nghĩa cho động từ 'worked' cần trạng từ chỉ phương thức hoạt động cùng nhau: 'collectively' (theo phương thức tập thể, hợp lực)."
+  },
+  {
+    "unit": 6,
+    "target_word": "resilient",
+    "question_type": "word_form",
+    "prompt_text": "Vietnamese farmers have proved extremely ______ in the face of continuous natural disasters. (RESILIENCE)",
+    "correct_answer": "resilient",
+    "distractors": [
+      "resilience",
+      "resiliently",
+      "resile"
+    ],
+    "explanation_vi": "Sau 'proved' và 'extremely' cần một tính từ chỉ phẩm chất: 'resilient' (kiên cường, bất khuất)."
+  },
+  {
+    "unit": 6,
+    "target_word": "democratic",
+    "question_type": "word_form",
+    "prompt_text": "Creating a ______ atmosphere in the classroom encourages students to express their true feelings. (DEMOCRACY)",
+    "correct_answer": "democratic",
+    "distractors": [
+      "democrat",
+      "democratically",
+      "democratize"
+    ],
+    "explanation_vi": "Trước danh từ 'atmosphere' cần tính từ bổ nghĩa: 'democratic atmosphere' (bầu không khí dân chủ)."
+  },
+  {
+    "unit": 6,
+    "target_word": "memorable",
+    "question_type": "word_form",
+    "prompt_text": "Playing folk games with childhood friends in the countryside was truly a ______ experience. (MEMORISE)",
+    "correct_answer": "memorable",
+    "distractors": [
+      "memory",
+      "memorial",
+      "memorably"
+    ],
+    "explanation_vi": "Trước danh từ 'experience' cần tính từ miêu tả trải nghiệm đáng nhớ: 'memorable'."
+  },
+  {
+    "unit": 6,
+    "target_word": "replacement",
+    "question_type": "word_form",
+    "prompt_text": "The rapid ______ of manual labor by robotic automation has completely altered manufacturing. (REPLACE)",
+    "correct_answer": "replacement",
+    "distractors": [
+      "replaceable",
+      "replaced",
+      "replacing"
+    ],
+    "explanation_vi": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ chỉ sự việc: 'replacement' (sự thay thế)."
+  },
+  {
+    "unit": 6,
+    "target_word": "privacy",
+    "question_type": "word_form",
+    "prompt_text": "Many people are increasingly concerned about the lack of online ______ on social networks. (PRIVATE)",
+    "correct_answer": "privacy",
+    "distractors": [
+      "privately",
+      "privation",
+      "privatize"
+    ],
+    "explanation_vi": "Sau cụm 'the lack of online' cần một danh từ: 'privacy' (sự riêng tư)."
+  },
+  {
+    "unit": 6,
+    "target_word": "reflection",
+    "question_type": "word_form",
+    "prompt_text": "The stories written by elderly authors offer a vivid ______ of past rural Vietnamese lifestyles. (REFLECT)",
+    "correct_answer": "reflection",
+    "distractors": [
+      "reflective",
+      "reflectively",
+      "reflector"
+    ],
+    "explanation_vi": "Sau mạo từ 'a' và tính từ 'vivid' cần một danh từ: 'reflection' (sự phản ánh sống động)."
+  }
+]

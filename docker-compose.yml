@@ -1,0 +1,172 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: wordquest9-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-wordquest}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-wordquest_secret}
+      POSTGRES_DB: ${POSTGRES_DB:-wordquest9}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-wordquest} -d ${POSTGRES_DB:-wordquest9}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  identity-service:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-identity
+    command: uvicorn main:app --app-dir /app/backend/services/identity_service --host 0.0.0.0 --port 8001
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-wordquest}:${POSTGRES_PASSWORD:-wordquest_secret}@postgres:5432/${POSTGRES_DB:-wordquest9}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-wordquest9-super-secret-jwt-key-change-in-prod-64chars}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+    ports:
+      - "8001:8001"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  vocabulary-service:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-vocabulary
+    command: uvicorn main:app --app-dir /app/backend/services/vocabulary_service --host 0.0.0.0 --port 8002
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-wordquest}:${POSTGRES_PASSWORD:-wordquest_secret}@postgres:5432/${POSTGRES_DB:-wordquest9}
+      DATA_DIR: /app/data
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8002:8002"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8002/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  quiz-engine-service:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-quiz-engine
+    command: uvicorn main:app --app-dir /app/backend/services/quiz_engine_service --host 0.0.0.0 --port 8003
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-wordquest}:${POSTGRES_PASSWORD:-wordquest_secret}@postgres:5432/${POSTGRES_DB:-wordquest9}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-wordquest9-super-secret-jwt-key-change-in-prod-64chars}
+      MISTAKE_MASTERY_THRESHOLD: ${MISTAKE_MASTERY_THRESHOLD:-2}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+    ports:
+      - "8003:8003"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      vocabulary-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8003/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  progress-service:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-progress
+    command: uvicorn main:app --app-dir /app/backend/services/progress_service --host 0.0.0.0 --port 8004
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-wordquest}:${POSTGRES_PASSWORD:-wordquest_secret}@postgres:5432/${POSTGRES_DB:-wordquest9}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-wordquest9-super-secret-jwt-key-change-in-prod-64chars}
+      MISTAKE_MASTERY_THRESHOLD: ${MISTAKE_MASTERY_THRESHOLD:-2}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+    ports:
+      - "8004:8004"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      vocabulary-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8004/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api-gateway:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-gateway
+    command: uvicorn main:app --app-dir /app/backend/services/api_gateway --host 0.0.0.0 --port 8000
+    environment:
+      GATEWAY_MODE: proxy
+      IDENTITY_SERVICE_URL: http://identity-service:8001
+      VOCABULARY_SERVICE_URL: http://vocabulary-service:8002
+      QUIZ_ENGINE_SERVICE_URL: http://quiz-engine-service:8003
+      PROGRESS_SERVICE_URL: http://progress-service:8004
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+    ports:
+      - "8000:8000"
+    depends_on:
+      identity-service:
+        condition: service_healthy
+      vocabulary-service:
+        condition: service_healthy
+      quiz-engine-service:
+        condition: service_healthy
+      progress-service:
+        condition: service_healthy
+
+  mcp-server:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: wordquest9-mcp
+    command: python /app/backend/mcp_server/server.py
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-wordquest}:${POSTGRES_PASSWORD:-wordquest_secret}@postgres:5432/${POSTGRES_DB:-wordquest9}
+      DATA_DIR: /app/data
+      MCP_TRANSPORT: streamable-http
+      MCP_SERVER_PORT: 8005
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8005:8005"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      vocabulary-service:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
+    container_name: wordquest9-frontend
+    environment:
+      NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api-gateway
+
+volumes:
+  pgdata:

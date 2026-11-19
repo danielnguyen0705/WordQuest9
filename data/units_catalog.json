@@ -1,0 +1,122 @@
+[
+  {
+    "unit_number": 1,
+    "title": "Local Community",
+    "title_vi": "Cộng đồng địa phương",
+    "realm_name": "Thung Lũng Làng Nghề",
+    "description": "Khám phá các làng nghề truyền thống, người hỗ trợ cộng đồng và những đặc sản địa phương quanh ta.",
+    "theme_color": "#10b981",
+    "icon": "village",
+    "required_xp": 0
+  },
+  {
+    "unit_number": 2,
+    "title": "City Life",
+    "title_vi": "Cuộc sống đô thị",
+    "realm_name": "Thành Phố Ánh Sáng",
+    "description": "Chinh phục từ vựng về giao thông đô thị, tiện ích công cộng và nhịp sống hiện đại nơi thành thị.",
+    "theme_color": "#3b82f6",
+    "icon": "city",
+    "required_xp": 200
+  },
+  {
+    "unit_number": 3,
+    "title": "Healthy Living for Teens",
+    "title_vi": "Sống khỏe cho tuổi teen",
+    "realm_name": "Đền Thờ Thể Lực",
+    "description": "Rèn luyện vốn từ về sức khỏe tinh thần, thể chất, quản lý thời gian và cân bằng cuộc sống học đường.",
+    "theme_color": "#22c55e",
+    "icon": "heart",
+    "required_xp": 400
+  },
+  {
+    "unit_number": 4,
+    "title": "Remembering the Past",
+    "title_vi": "Nhớ về quá khứ",
+    "realm_name": "Di Tích Cổ Xưa",
+    "description": "Du hành ngược thời gian qua các di sản, kiến trúc cổ và phong tục truyền thống của cha ông.",
+    "theme_color": "#d97706",
+    "icon": "monument",
+    "required_xp": 600
+  },
+  {
+    "unit_number": 5,
+    "title": "Our Experiences",
+    "title_vi": "Những trải nghiệm của chúng ta",
+    "realm_name": "Đỉnh Núi Phiêu Lưu",
+    "description": "Ghi lại những chuyến đi đáng nhớ, trải nghiệm thú vị và cảm xúc chân thực của tuổi trẻ.",
+    "theme_color": "#ec4899",
+    "icon": "compass",
+    "required_xp": 800
+  },
+  {
+    "unit_number": 6,
+    "title": "Vietnamese Lifestyle: Then and Now",
+    "title_vi": "Lối sống Việt Nam: Xưa và Nay",
+    "realm_name": "Cổng Thời Gian Việt",
+    "description": "So sánh sự đổi thay giữa lối sống truyền thống và hiện đại qua từng thế hệ người Việt.",
+    "theme_color": "#ef4444",
+    "icon": "lantern",
+    "required_xp": 1000
+  },
+  {
+    "unit_number": 7,
+    "title": "Natural Wonders of the World",
+    "title_vi": "Kỳ quan thiên nhiên thế giới",
+    "realm_name": "Quần Đảo Kỳ Quan",
+    "description": "Chiêm ngưỡng các kỳ quan thiên nhiên hùng vĩ, hệ sinh thái đa dạng và ý thức bảo tồn thiên nhiên.",
+    "theme_color": "#06b6d4",
+    "icon": "mountain",
+    "required_xp": 1200
+  },
+  {
+    "unit_number": 8,
+    "title": "Tourism",
+    "title_vi": "Du lịch",
+    "realm_name": "Hải Cảng Lữ Hành",
+    "description": "Làm chủ từ vựng về các loại hình du lịch, đặt phòng, hành trình khám phá và văn hóa địa phương.",
+    "theme_color": "#0ea5e9",
+    "icon": "plane",
+    "required_xp": 1400
+  },
+  {
+    "unit_number": 9,
+    "title": "World Englishes",
+    "title_vi": "Tiếng Anh trên toàn thế giới",
+    "realm_name": "Tháp Ngôn Ngữ",
+    "description": "Khám phá sự đa dạng của tiếng Anh toàn cầu, từ mượn và bí quyết học ngôn ngữ hiệu quả.",
+    "theme_color": "#8b5cf6",
+    "icon": "globe",
+    "required_xp": 1600
+  },
+  {
+    "unit_number": 10,
+    "title": "Planet Earth",
+    "title_vi": "Hành tinh Trái Đất",
+    "realm_name": "Rừng Xanh Địa Cầu",
+    "description": "Tìm hiểu hệ sinh thái, chuỗi thức ăn, tài nguyên thiên nhiên và sứ mệnh bảo vệ hành tinh xanh.",
+    "theme_color": "#14b8a6",
+    "icon": "earth",
+    "required_xp": 1800
+  },
+  {
+    "unit_number": 11,
+    "title": "Electronic Devices",
+    "title_vi": "Thiết bị điện tử",
+    "realm_name": "Pháo Đài Công Nghệ",
+    "description": "Khám phá thế giới thiết bị số, chất liệu công nghệ và ứng dụng thông minh trong đời sống.",
+    "theme_color": "#6366f1",
+    "icon": "cpu",
+    "required_xp": 2000
+  },
+  {
+    "unit_number": 12,
+    "title": "Career Choices",
+    "title_vi": "Lựa chọn nghề nghiệp",
+    "realm_name": "Đỉnh Cao Tương Lai",
+    "description": "Định hướng nghề nghiệp tương lai, kỹ năng chuyên môn và con đường học tập sau THCS.",
+    "theme_color": "#f59e0b",
+    "icon": "crown",
+    "required_xp": 2200
+  }
+]

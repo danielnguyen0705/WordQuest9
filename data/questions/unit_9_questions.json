@@ -1,0 +1,522 @@
+[
+  {
+    "unit": 9,
+    "target_word": "bilingual",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'bilingual' dùng để chỉ một người hoặc tài liệu có đặc điểm gì?",
+    "correct_answer": "nói được hai thứ tiếng, song ngữ",
+    "distractors": [
+      "nói được nhiều thứ tiếng",
+      "chỉ nói được một thứ tiếng",
+      "mất khả năng nói lưu loát"
+    ],
+    "explanation_vi": "'bilingual' có nghĩa là có khả năng sử dụng thành thạo hai thứ tiếng hoặc được viết bằng hai ngôn ngữ."
+  },
+  {
+    "unit": 9,
+    "target_word": "rusty",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Tính từ 'rusty' khi nói về một ngôn ngữ hoặc kỹ năng có nghĩa là gì?",
+    "correct_answer": "mai một, giảm sút do lâu không dùng",
+    "distractors": [
+      "thông thạo, lưu loát",
+      "khó phát âm chính xác",
+      "cổ xưa và lỗi thời"
+    ],
+    "explanation_vi": "'rusty' khi dùng cho ngôn ngữ mang nghĩa bị mai một hoặc sa sút do thời gian dài không luyện tập."
+  },
+  {
+    "unit": 9,
+    "target_word": "official",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'official' trong cụm 'official language' mang ý nghĩa tiếng Việt là gì?",
+    "correct_answer": "chính thức (được nhà nước công nhận)",
+    "distractors": [
+      "phổ biến rộng rãi",
+      "bản địa truyền thống",
+      "quốc tế thông dụng"
+    ],
+    "explanation_vi": "'official language' là ngôn ngữ chính thức được chính phủ công nhận và sử dụng trong hành chính, giáo dục."
+  },
+  {
+    "unit": 9,
+    "target_word": "dialect",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'dialect' trong ngôn ngữ học có nghĩa là gì?",
+    "correct_answer": "tiếng địa phương, thổ ngữ",
+    "distractors": [
+      "tiếng lóng hiện đại",
+      "ngữ pháp chuẩn mực",
+      "thành ngữ dân gian"
+    ],
+    "explanation_vi": "'dialect' là phương ngữ, biến thể ngôn ngữ đặc trưng theo từng vùng miền địa lý."
+  },
+  {
+    "unit": 9,
+    "target_word": "lingua franca",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Thuật ngữ 'lingua franca' mang nghĩa tiếng Việt là gì?",
+    "correct_answer": "ngôn ngữ chung (để giao tiếp giữa các cộng đồng khác tiếng mẹ đẻ)",
+    "distractors": [
+      "ngôn ngữ cổ đã biến mất",
+      "ngôn ngữ ký hiệu cử chỉ",
+      "ngôn ngữ văn học kinh điển"
+    ],
+    "explanation_vi": "'lingua franca' là ngôn ngữ được lựa chọn làm công cụ giao tiếp chung giữa những người có tiếng mẹ đẻ khác nhau."
+  },
+  {
+    "unit": 9,
+    "target_word": "mother tongue",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm danh từ 'mother tongue' có nghĩa tiếng Việt chuẩn là gì?",
+    "correct_answer": "tiếng mẹ đẻ (ngôn ngữ thứ nhất tiếp thu từ nhỏ)",
+    "distractors": [
+      "ngôn ngữ thứ hai học ở trường",
+      "ngoại ngữ bắt buộc",
+      "ngôn ngữ giao tiếp quốc tế"
+    ],
+    "explanation_vi": "'mother tongue' là tiếng mẹ đẻ, ngôn ngữ đầu tiên mà một người học được từ lúc thơ ấu."
+  },
+  {
+    "unit": 9,
+    "target_word": "monolingual",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Từ 'monolingual' miêu tả một người hoặc một cuốn từ điển như thế nào?",
+    "correct_answer": "đơn ngữ, chỉ sử dụng một thứ tiếng",
+    "distractors": [
+      "song ngữ hai thứ tiếng",
+      "đa ngữ nhiều thứ tiếng",
+      "chuyên về từ ngữ cổ"
+    ],
+    "explanation_vi": "'monolingual' là chỉ biết hoặc chỉ được viết bằng duy nhất một ngôn ngữ."
+  },
+  {
+    "unit": 9,
+    "target_word": "pick up",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'pick up' trong ngữ cảnh tiếp thu ngôn ngữ có nghĩa là gì?",
+    "correct_answer": "học lỏm được, tiếp thu tự nhiên mà không cần học bài bản",
+    "distractors": [
+      "tra cứu trong từ điển",
+      "ghi nhớ từng quy tắc ngữ pháp",
+      "dịch từng từ sang tiếng mẹ đẻ"
+    ],
+    "explanation_vi": "'pick up a language' là học lỏm hoặc tiếp thu một ngôn ngữ tự nhiên thông qua môi trường sống, giao tiếp."
+  },
+  {
+    "unit": 9,
+    "target_word": "get by in",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Cụm động từ 'get by in' (a language) có nghĩa tiếng Việt là gì?",
+    "correct_answer": "giao tiếp vừa đủ dùng trong một ngôn ngữ",
+    "distractors": [
+      "nói trôi chảy như người bản xứ",
+      "quên gần hết vốn từ vựng",
+      "thất bại trong việc giao tiếp"
+    ],
+    "explanation_vi": "'get by in a language' có nghĩa là biết vừa đủ một ngôn ngữ để tự xoay xở và đối phó trong các tình huống cơ bản."
+  },
+  {
+    "unit": 9,
+    "target_word": "imitate",
+    "question_type": "translation_en_vi",
+    "prompt_text": "Động từ 'imitate' trong luyện nói và phát âm có nghĩa là gì?",
+    "correct_answer": "bắt chước, mô phỏng lại cách phát âm",
+    "distractors": [
+      "phê bình ngữ điệu người khác",
+      "sáng tạo cách đọc hoàn toàn mới",
+      "dịch nghĩa từng câu chữ"
+    ],
+    "explanation_vi": "'imitate' là lặp lại hoặc mô phỏng lại ngữ điệu, cách nói của người khác để học theo."
+  },
+  {
+    "unit": 9,
+    "target_word": "fluent",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào mang nghĩa 'lưu loát, trôi chảy' khi nói một ngoại ngữ?",
+    "correct_answer": "fluent",
+    "distractors": [
+      "rusty",
+      "official",
+      "bilingual"
+    ],
+    "explanation_vi": "'fluent' diễn đạt khả năng nói hoặc viết một ngôn ngữ dễ dàng, nhanh chóng và chính xác."
+  },
+  {
+    "unit": 9,
+    "target_word": "accent",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào dùng để chỉ 'giọng, ngữ điệu địa phương' của một người khi nói?",
+    "correct_answer": "accent",
+    "distractors": [
+      "dialect",
+      "grammar",
+      "slang"
+    ],
+    "explanation_vi": "'accent' là cách phát âm mang nét đặc trưng của một vùng miền hoặc một quốc gia cụ thể."
+  },
+  {
+    "unit": 9,
+    "target_word": "native speaker",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm danh từ tiếng Anh nào dùng để chỉ 'người nói tiếng bản ngữ'?",
+    "correct_answer": "native speaker",
+    "distractors": [
+      "foreign learner",
+      "tour guide",
+      "official translator"
+    ],
+    "explanation_vi": "'native speaker' là người nói một ngôn ngữ với tư cách là tiếng mẹ đẻ từ nhỏ."
+  },
+  {
+    "unit": 9,
+    "target_word": "slang",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'từ lóng' (thường dùng trong văn nói không trang trọng)?",
+    "correct_answer": "slang",
+    "distractors": [
+      "idiom",
+      "proverb",
+      "subtitle"
+    ],
+    "explanation_vi": "'slang' là các từ ngữ không trang trọng, thường được sử dụng bởi một nhóm người hoặc lứa tuổi cụ thể."
+  },
+  {
+    "unit": 9,
+    "target_word": "intonation",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào mang nghĩa 'ngữ điệu' (sự lên giọng hay xuống giọng trong câu)?",
+    "correct_answer": "intonation",
+    "distractors": [
+      "pronunciation",
+      "vocabulary",
+      "punctuation"
+    ],
+    "explanation_vi": "'intonation' là sự biến đổi cao độ của giọng nói khi phát âm một cụm từ hoặc câu."
+  },
+  {
+    "unit": 9,
+    "target_word": "subtitle",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Từ tiếng Anh nào chỉ 'phụ đề' xuất hiện dưới màn hình phim hoặc chương trình truyền hình?",
+    "correct_answer": "subtitle",
+    "distractors": [
+      "headline",
+      "title",
+      "caption"
+    ],
+    "explanation_vi": "'subtitle' là các dòng chữ in ở cuối màn hình để dịch hoặc phiên âm lời thoại của video."
+  },
+  {
+    "unit": 9,
+    "target_word": "multilingual",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Tính từ tiếng Anh nào có nghĩa là 'đa ngữ, sử dụng nhiều thứ tiếng'?",
+    "correct_answer": "multilingual",
+    "distractors": [
+      "monolingual",
+      "bilingual",
+      "universal"
+    ],
+    "explanation_vi": "'multilingual' chỉ người có khả năng nói hoặc môi trường sử dụng từ ba ngôn ngữ trở lên."
+  },
+  {
+    "unit": 9,
+    "target_word": "look up",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'tra cứu (từ mới) trong từ điển'?",
+    "correct_answer": "look up",
+    "distractors": [
+      "pick up",
+      "turn up",
+      "give up"
+    ],
+    "explanation_vi": "'look up' có nghĩa là tìm kiếm thông tin hoặc tra cứu từ ngữ trong sách, từ điển."
+  },
+  {
+    "unit": 9,
+    "target_word": "turn down",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Cụm động từ nào mang nghĩa 'vặn nhỏ lại âm lượng' của loa hoặc đài?",
+    "correct_answer": "turn down",
+    "distractors": [
+      "turn up",
+      "turn off",
+      "turn on"
+    ],
+    "explanation_vi": "'turn down' có nghĩa là giảm bớt âm lượng, nhiệt độ hoặc cường độ của thiết bị."
+  },
+  {
+    "unit": 9,
+    "target_word": "master",
+    "question_type": "translation_vi_en",
+    "prompt_text": "Động từ tiếng Anh nào mang nghĩa 'nắm vững, làm chủ, tinh thông một ngôn ngữ'?",
+    "correct_answer": "master",
+    "distractors": [
+      "confuse",
+      "borrow",
+      "simplify"
+    ],
+    "explanation_vi": "'master' là học tập và rèn luyện để đạt đến mức độ thành thạo, làm chủ hoàn toàn một kỹ năng hay ngôn ngữ."
+  },
+  {
+    "unit": 9,
+    "target_word": "bilingual",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Having an American father and a Vietnamese mother, Lan grew up in a completely ______ environment.",
+    "correct_answer": "bilingual",
+    "distractors": [
+      "monolingual",
+      "hopeless",
+      "suburban"
+    ],
+    "explanation_vi": "Vì có cha là người Mỹ và mẹ là người Việt nên Lan lớn lên trong môi trường song ngữ ('bilingual')."
+  },
+  {
+    "unit": 9,
+    "target_word": "rusty",
+    "question_type": "contextual_mcq",
+    "prompt_text": "I haven't had a chance to speak Japanese since graduation, so my conversation skills are quite ______.",
+    "correct_answer": "rusty",
+    "distractors": [
+      "fluent",
+      "smooth",
+      "majestic"
+    ],
+    "explanation_vi": "Lâu ngày không thực hành nói tiếng Nhật nên kỹ năng giao tiếp đã bị mai một ('rusty')."
+  },
+  {
+    "unit": 9,
+    "target_word": "official",
+    "question_type": "contextual_mcq",
+    "prompt_text": "In Singapore, English is widely spoken and recognized as an ______ language for administration and commerce.",
+    "correct_answer": "official",
+    "distractors": [
+      "offline",
+      "agrarian",
+      "annual"
+    ],
+    "explanation_vi": "'official language' là ngôn ngữ chính thức được nhà nước công nhận để điều hành công việc."
+  },
+  {
+    "unit": 9,
+    "target_word": "lingua franca",
+    "question_type": "contextual_mcq",
+    "prompt_text": "English serves as a convenient ______ that enables researchers from different nations to share scientific findings.",
+    "correct_answer": "lingua franca",
+    "distractors": [
+      "generation gap",
+      "travel agency",
+      "natural wonder"
+    ],
+    "explanation_vi": "Tiếng Anh đóng vai trò là một ngôn ngữ giao tiếp chung ('lingua franca') kết nối các nhà khoa học trên thế giới."
+  },
+  {
+    "unit": 9,
+    "target_word": "mother tongue",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Although Jack has resided in Paris for over twenty years, English remains his native ______.",
+    "correct_answer": "mother tongue",
+    "distractors": [
+      "entrance ticket",
+      "package holiday",
+      "fixed itinerary"
+    ],
+    "explanation_vi": "Dù sống ở Paris lâu năm, tiếng Anh vẫn là tiếng mẹ đẻ ('mother tongue') của Jack."
+  },
+  {
+    "unit": 9,
+    "target_word": "pick up",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Children often ______ foreign accents very fast simply by interacting with native speakers on the playground.",
+    "correct_answer": "pick up",
+    "distractors": [
+      "give up",
+      "turn down",
+      "hunt for"
+    ],
+    "explanation_vi": "'pick up an accent' là tiếp thu, bắt chước được ngữ điệu rất nhanh mà không qua trường lớp chính quy."
+  },
+  {
+    "unit": 9,
+    "target_word": "look up",
+    "question_type": "contextual_mcq",
+    "prompt_text": "If you do not know the exact meaning of an unfamiliar idiom, you can ______ it in this comprehensive dictionary.",
+    "correct_answer": "look up",
+    "distractors": [
+      "depend on",
+      "work out",
+      "ask for"
+    ],
+    "explanation_vi": "'look up a word/idiom' là tra cứu từ ngữ trong sách hoặc từ điển."
+  },
+  {
+    "unit": 9,
+    "target_word": "turn up",
+    "question_type": "contextual_mcq",
+    "prompt_text": "The listening audio is too faint; could you please ______ the volume so that everyone can hear clearly?",
+    "correct_answer": "turn up",
+    "distractors": [
+      "turn down",
+      "give up",
+      "work out"
+    ],
+    "explanation_vi": "'turn up the volume' có nghĩa là vặn to âm lượng lên khi âm thanh quá nhỏ."
+  },
+  {
+    "unit": 9,
+    "target_word": "get by in",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Before relocating to Madrid, she studied basic vocabulary so that she could easily ______ Spanish.",
+    "correct_answer": "get by in",
+    "distractors": [
+      "be crazy about",
+      "be at risk of",
+      "change for the better"
+    ],
+    "explanation_vi": "'get by in Spanish' là có thể đối thoại vừa đủ dùng bằng tiếng Tây Ban Nha."
+  },
+  {
+    "unit": 9,
+    "target_word": "subtitles",
+    "question_type": "contextual_mcq",
+    "prompt_text": "Language teachers advise students to watch foreign movies with English ______ to practice listening comprehension.",
+    "correct_answer": "subtitles",
+    "distractors": [
+      "brochures",
+      "sand dunes",
+      "graveyards"
+    ],
+    "explanation_vi": "Xem phim có phụ đề tiếng Anh ('English subtitles') là phương pháp học nghe và đọc hiệu quả."
+  },
+  {
+    "unit": 9,
+    "target_word": "fluency",
+    "question_type": "word_form",
+    "prompt_text": "To achieve high ______ in public speaking, students need to practice everyday. (FLUENT)",
+    "correct_answer": "fluency",
+    "distractors": [
+      "fluent",
+      "fluently",
+      "fluid"
+    ],
+    "explanation_vi": "Sau tính từ 'high' cần một danh từ chỉ mức độ trôi chảy: 'fluency' (sự lưu loát)."
+  },
+  {
+    "unit": 9,
+    "target_word": "officially",
+    "question_type": "word_form",
+    "prompt_text": "English was ______ recognized as the second working language of the regional summit. (OFFICIAL)",
+    "correct_answer": "officially",
+    "distractors": [
+      "official",
+      "officer",
+      "officiate"
+    ],
+    "explanation_vi": "Đứng giữa trợ động từ 'was' và phân từ hai 'recognized' cần một trạng từ: 'officially' (một cách chính thức)."
+  },
+  {
+    "unit": 9,
+    "target_word": "pronunciation",
+    "question_type": "word_form",
+    "prompt_text": "Listening to BBC podcasts frequently can help you correct your English ______. (PRONOUNCE)",
+    "correct_answer": "pronunciation",
+    "distractors": [
+      "pronounceable",
+      "pronounced",
+      "pronouncing"
+    ],
+    "explanation_vi": "Sau tính từ 'English' và làm tân ngữ cho 'correct' cần danh từ: 'pronunciation' (cách phát âm)."
+  },
+  {
+    "unit": 9,
+    "target_word": "grammatical",
+    "question_type": "word_form",
+    "prompt_text": "You should check your final essay carefully to eliminate any ______ errors. (GRAMMAR)",
+    "correct_answer": "grammatical",
+    "distractors": [
+      "grammar",
+      "grammatically",
+      "grammarian"
+    ],
+    "explanation_vi": "Trước danh từ 'errors' cần một tính từ bổ nghĩa: 'grammatical errors' (lỗi ngữ pháp)."
+  },
+  {
+    "unit": 9,
+    "target_word": "translation",
+    "question_type": "word_form",
+    "prompt_text": "Direct word-for-word ______ often produces sentences that sound completely unnatural. (TRANSLATE)",
+    "correct_answer": "translation",
+    "distractors": [
+      "translator",
+      "translatable",
+      "translating"
+    ],
+    "explanation_vi": "Đứng làm chủ ngữ sau tính từ 'word-for-word' cần một danh từ chỉ hành động dịch: 'translation' (bản dịch, sự dịch thuật)."
+  },
+  {
+    "unit": 9,
+    "target_word": "communicative",
+    "question_type": "word_form",
+    "prompt_text": "Classroom language activities are specifically designed to build up learners' ______ competence. (COMMUNICATE)",
+    "correct_answer": "communicative",
+    "distractors": [
+      "communication",
+      "communicator",
+      "communicably"
+    ],
+    "explanation_vi": "Trước danh từ 'competence' cần một tính từ: 'communicative competence' (năng lực giao tiếp)."
+  },
+  {
+    "unit": 9,
+    "target_word": "globally",
+    "question_type": "word_form",
+    "prompt_text": "English has expanded ______ and connected millions of people across continents. (GLOBAL)",
+    "correct_answer": "globally",
+    "distractors": [
+      "global",
+      "globe",
+      "globalize"
+    ],
+    "explanation_vi": "Bổ nghĩa cho động từ 'has expanded' cần một trạng từ: 'globally' (trên phạm vi toàn cầu)."
+  },
+  {
+    "unit": 9,
+    "target_word": "simplify",
+    "question_type": "word_form",
+    "prompt_text": "The textbook author tried to ______ lengthy complex explanations for ninth graders. (SIMPLE)",
+    "correct_answer": "simplify",
+    "distractors": [
+      "simplicity",
+      "simplification",
+      "simply"
+    ],
+    "explanation_vi": "Sau cụm 'tried to' cần một động từ nguyên thể: 'simplify' (đơn giản hóa)."
+  },
+  {
+    "unit": 9,
+    "target_word": "confusing",
+    "question_type": "word_form",
+    "prompt_text": "English idioms can be quite ______ for beginners because words have figurative meanings. (CONFUSE)",
+    "correct_answer": "confusing",
+    "distractors": [
+      "confused",
+      "confusion",
+      "confusedly"
+    ],
+    "explanation_vi": "Sau 'can be quite' miêu tả đặc tính gây bối rối, khó hiểu của thành ngữ tiếng Anh đối với người học, dùng tính từ đuôi -ing: 'confusing'."
+  },
+  {
+    "unit": 9,
+    "target_word": "meaningful",
+    "question_type": "word_form",
+    "prompt_text": "Volunteering as a tour guide for foreign visitors was a truly ______ experience for him. (MEAN)",
+    "correct_answer": "meaningful",
+    "distractors": [
+      "meaningless",
+      "meaning",
+      "meaningly"
+    ],
+    "explanation_vi": "Trước danh từ 'experience' và sau trạng từ 'truly' cần tính từ mang nghĩa tích cực: 'meaningful' (đầy ý nghĩa)."
+  }
+]

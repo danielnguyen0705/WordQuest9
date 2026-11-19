@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --bg-dungeon: #090d1e;
+  --bg-card: #121933;
+  --bg-elevated: #1a2447;
+  --accent-emerald: #10b981;
+  --accent-gold: #f59e0b;
+  --accent-crimson: #ef4444;
+  --accent-indigo: #6366f1;
+}
+
+body {
+  background: radial-gradient(circle at 15% 10%, #172145 0%, #090d1e 55%, #060914 100%);
+  color: #f8fafc;
+  min-height: 100vh;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* 3D Flashcard perspective utilities */
+.perspective-1000 {
+  perspective: 1200px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Tactile RPG game button */
+.rpg-btn {
+  transition: transform 0.1s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.rpg-btn:active:not(:disabled) {
+  transform: translateY(2px);
+}
