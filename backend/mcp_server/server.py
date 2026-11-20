@@ -49,7 +49,7 @@ from generator import (
 mcp = FastMCP(
     name="WordQuest9-MCP",
     host="0.0.0.0",
-    port=int(os.getenv("MCP_SERVER_PORT", str(settings.mcp_server_port))),
+    port=int(os.getenv("PORT") or os.getenv("MCP_SERVER_PORT", str(settings.mcp_server_port))),
 )
 
 

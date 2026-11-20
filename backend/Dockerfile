@@ -20,4 +20,4 @@ COPY data /app/data
 
 EXPOSE 8000 8001 8002 8003 8004 8005
 
-CMD ["uvicorn", "main:app", "--app-dir", "/app/backend/services/api_gateway", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn main:app --app-dir /app/backend/services/api_gateway --host 0.0.0.0 --port ${PORT:-8000}"]
