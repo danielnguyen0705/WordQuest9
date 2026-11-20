@@ -1,5 +1,12 @@
+import os
 from pathlib import Path
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+def _default_db_url() -> str:
+    if os.getenv("VERCEL"):
+        return "sqlite:////tmp/wordquest9.db"
+    return "sqlite:///./wordquest9.db"
 
 
 class Settings(BaseSettings):
@@ -10,7 +17,7 @@ class Settings(BaseSettings):
     )
 
     # Database
-    database_url: str = "sqlite:///./wordquest9.db"
+    database_url: str = _default_db_url()
 
     # Security / JWT
     jwt_secret_key: str = "wordquest9-dev-secret-key-change-in-production-64chars-minimum!!"
